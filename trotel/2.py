@@ -1,11 +1,12 @@
+import os
 import requests
 import json
 import random
 
-BOT_TOKEN = '6513307188:AAEtmiD45P2gyshKYGWlGQXZc7wml7x0YNc'
+BOT_TOKEN = os.environ['BOT_TOKEN']
 BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
-CHAT_ID_1 = '-1001989771209'
+CHAT_ID_1 = os.environ['CHAT_ID_1']
 # CHAT_ID_2 = '-1001552170054'
 
 with open('trotel/tel.txt', 'r') as file:

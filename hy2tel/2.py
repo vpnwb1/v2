@@ -1,11 +1,12 @@
+import os
 import requests
 import json
 import random
 
-BOT_TOKEN = '6513307188:AAEtmiD45P2gyshKYGWlGQXZc7wml7x0YNc'
+BOT_TOKEN = os.environ['BOT_TOKEN']
 BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
-CHAT_ID_1 = '-1001989771209'
+CHAT_ID_1 = os.environ['CHAT_ID_1']
 # CHAT_ID_2 = '-1001552170054'
 
 with open('hy2tel/tel.txt', 'r') as file:
@@ -22,7 +23,7 @@ random_urls = random.sample(urls, num_urls_to_send)
 # Format each URL in monospaced type
 formatted_urls = [f'`{url}`' for url in random_urls]
 
-message_text = 'ShadowSocks | شادوساکس \n\n{}\n@VpnWb 🔑'.format('\n'.join(formatted_urls))
+message_text = 'Hysteria2 | هیستریا 😵‍💫 \n\n{}\n@VpnWb 🔑'.format('\n'.join(formatted_urls))
 
 message_payload = {
     'text': message_text,
