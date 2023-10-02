@@ -17,7 +17,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python send.py
+        python sstel/1.py
+        python sstel/2.py
         
 
       
