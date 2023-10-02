@@ -1,9 +1,9 @@
-name: sstel
+name: vmetel
 
 on:
   workflow_dispatch:
   #schedule:
-  #- cron: "10 3-20 * * *"
+  #- cron: "40 3-20 * * *"
   
 jobs:
   job1:
@@ -17,8 +17,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python sstel/1.py
-        python sstel/2.py
+        python vmetel/1.py
+        python vmetel/2.py
         
 
       
