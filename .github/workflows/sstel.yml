@@ -1,4 +1,4 @@
-name: send
+name: sstel
 
 on:
   workflow_dispatch:
