@@ -1,0 +1,138 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>JSON Data from GitHub</title>
+    <style>
+      body {
+        background-color: #f1f1f1;
+        color: #333;
+        font-family: Arial, sans-serif;
+      }
+
+      h1,
+      h2,
+      h3,
+      h4,
+      h5,
+      h6 {
+        font-family: 'Open Sans', sans-serif;
+      }
+
+      table {
+        #border-collapse: collapse;
+        margin: 20px auto;
+        #box-shadow: 0px 0px 20px rgba(0, 0, 0, 0.3);
+        transform: translateZ(0);
+        /* Enable 3D effect */
+        #background-color: #fff;
+      }
+
+      th,
+      td {
+        border: 1px solid #ccc;
+        border-radius: 15px;
+        padding: 10px;
+      }
+
+      th {
+        background-color: #333;
+        color: #fff;
+        text-align: left;
+        padding-top: 20px;
+        padding-bottom: 20px;
+      }
+
+      tr:nth-child(odd) {
+        background-color: #f3f3f3;
+      }
+
+      tr:hover {
+        background-color: #e8e8e8;
+      }
+
+      .toolbar {
+        background-color: #333;
+        height: 80px;
+        display: flex;
+        align-items: center;
+        justify-content: space-between;
+        padding: 0 40px;
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 1;
+        box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+      }
+
+      .toolbar a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+        margin: 0 10px;
+      }
+
+      .toolbar img {
+        height: 50px;
+        margin-right: 20px;
+      }
+
+      .footbar {
+        display: flex;
+        justify-content: center;
+        background-color: var(--primary-color);
+        padding: 8px;
+        box-shadow: var(--box-shadow);
+        background-color: #333;
+        height: 30px;
+      }
+
+      .footbar a {
+        color: #fff;
+        text-decoration: none;
+        font-size: 20px;
+        font-weight: bold;
+        margin: 0 10px;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>@VpnWb 🔑</h1>
+    <h1>UserName & Pass: vpn</h1>
+    <table>
+      <thead>
+        <tr>
+          <th>Server | سرور</th>
+          <th>Port | پورت</th>
+        </tr>
+      </thead>
+      <tbody id="tableBody"></tbody>
+    </table>
+    <script>
+      fetch("https://raw.githubusercontent.com/ametz1313/v2/main/sstp.json").then(response => response.json()).then(jsonData => {
+        const tableBody = document.getElementById("tableBody");
+        jsonData.forEach(server => {
+          const cell1 = server[2]; // store first column data
+          const row = document.createElement("tr");
+          server.forEach((data, index) => {
+            if (index == 1) {
+              const cell = document.createElement("td");
+              cell.textContent = server[1]; // add second column data
+              row.appendChild(cell);
+            } else if (index == 0) {
+              const cell = document.createElement("td");
+              cell.textContent = cell1; // add first column data  
+              row.appendChild(cell);
+            } else {
+              // rest of the code
+            }
+          });
+          tableBody.appendChild(row);
+        });
+      }).catch(error => {
+        console.error("Error fetching JSON:", error);
+      });
+    </script>
+  </body>
+</html>

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Show 100 Random Lines from a Text File</title>
+</head>
+<body>
+<script>
+function get_random_lines(url, num_lines) {
+  """Gets a random sample of `num_lines` lines from the file at the URL `url`."""
+  var xhr = new XMLHttpRequest();
+  xhr.open("GET", url);
+  xhr.onload = function() {
+    var lines = [];
+    var text = xhr.responseText;
+    for (var line of text.split("\n")) {
+      lines.push(line);
+    }
+    var random_lines = random.sample(lines, num_lines);
+    var html = "";
+    for (var line of random_lines) {
+      html += "<p>" + line + "</p>";
+    }
+    document.getElementById("content").innerHTML = html;
+  };
+  xhr.send();
+}
+
+function main() {
+  var url = "https://raw.githubusercontent.com/ametz1313/v2/main/sstp.json";
+  var num_lines = 100;
+  get_random_lines(url, num_lines);
+}
+
+window.onload = main;
+</script>
+<div id="content"></div>
+</body>
+</html>
