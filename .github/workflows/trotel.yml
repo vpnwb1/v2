@@ -2,8 +2,8 @@ name: trotel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "25 3-20 * * *"
+#  schedule:
+ # - cron: "25 3-20 * * *"
   
 jobs:
   job1:
