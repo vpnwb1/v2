@@ -133,7 +133,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "tuic.txt"
+input_file_path = "Tuic.txt"
 output_file_path = "TuicL.txt"
 
 completed_lines_hash = set()
