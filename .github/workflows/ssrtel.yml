@@ -9,7 +9,7 @@ jobs:
   job1:
     runs-on: ubuntu-latest
     permissions: write-all
-        env:
+    env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
       CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}  
     steps:
