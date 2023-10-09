@@ -4299,6 +4299,8 @@ trojan://telegram-id-directvpn@3.66.68.135:22222?alpn=http%2F1.1&headerType=none
 trojan://telegram-id-privatevpns@51.20.13.160:22222?alpn=http%2F1.1&security=tls&sni=trj.rollingnext.co.uk&type=tcp
 trojan://telegram-id-privatevpns@18.197.235.129:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp
 trojan://telegram-id-privatevpns@13.43.192.171:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
+trojan://cc491f13e9@51.158.63.14:443?headerType=none&security=tls&sni=fra1.connecton.surf&type=tcp
+trojan://de5a47b3e2@198.244.252.93:443?headerType=none&security=tls&sni=uk1.connecton.surf&type=tcp
 trojan://458150f1-ab5b-4aac-8301-4836b5508198@1j8p01.abzoones.xyz:36116?allowInsecure=0&peer=jp01.abpilot.xyz&sni=jp01.abpilot.xyz
 trojan://458150f1-ab5b-4aac-8301-4836b5508198@1j8p02.abzoones.xyz:36106?allowInsecure=0&peer=jp02.abpilot.xyz&sni=jp02.abpilot.xyz
 trojan://458150f1-ab5b-4aac-8301-4836b5508198@1j8p03.abzoones.xyz:36111?allowInsecure=0&peer=jp03.abpilot.xyz&sni=jp03.abpilot.xyz
