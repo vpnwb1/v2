@@ -11,6 +11,7 @@ os.system('python name/ssrn1.py && python name/ssrn2.py && python name/ssrn3.py 
 os.system('python name/tron.py')
 os.system('python name/vln.py')
 os.system('python name/tuname.py')
+os.system('python name/hy2name.py')
 os.system('python name/vmen1.py && python name/vmen2.py && python name/vmen3.py && python name/vmen4.py && python name/vmen5.py && python name/vmen6.py && python name/vmen7.py')
 os.system('python name/rem.py')
 
