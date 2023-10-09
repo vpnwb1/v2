@@ -108,7 +108,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "hy2.txt"
-output_file_path = "Hy2L.txt"
+output_file_path = "Hy2.txt"
 
 completed_lines_hash = set()
 
