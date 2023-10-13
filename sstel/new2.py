@@ -1,6 +1,7 @@
 import asyncio
 import qrcode
 from telegram import Bot, InputMediaPhoto
+import os
 
 async def generate_qr_code(text, output_path='qrcode.png'):
     qr = qrcode.QRCode(
@@ -20,12 +21,17 @@ async def generate_qr_code(text, output_path='qrcode.png'):
     return output_path
 
 async def edit_message_with_qr_code():
-    bot = Bot(token=os.getenv('BOT_TOKEN'))
+    bot_token = os.environ.get('BOT_TOKEN')  # Access the bot token secret from environment variables
+    chat_id_secret = os.environ.get('CHAT_ID_1')  # Access the chat_id secret from environment variables
+    message_id_secret = os.environ.get('MESSAGE_ID')  # Access the message_id secret from environment variables
 
-    chat_id = os.getenv('CHAT_ID_1')
-    message_id = int(os.getenv('MESSAGE_ID'))
+    bot = Bot(token=bot_token)
 
-    with open('tel.txt', 'r') as file:
+    # Convert chat_id and message_id to integers
+    chat_id = int(chat_id_secret)
+    message_id = int(message_id_secret)
+
+    with open('1.txt', 'r') as file:
         text_to_encode = file.read()
 
     qr_code_path = await generate_qr_code(text_to_encode)
