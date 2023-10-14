@@ -3,7 +3,7 @@ import qrcode
 from telegram import Bot, InputMediaPhoto
 import os
 
-async def generate_qr_code(text, output_path='ss.png'):
+async def generate_qr_code(text, output_path='vless.png'):
     qr = qrcode.QRCode(
         version=1,
         error_correction=qrcode.constants.ERROR_CORRECT_L,
@@ -23,7 +23,7 @@ async def generate_qr_code(text, output_path='ss.png'):
 async def edit_message_with_qr_code():
     bot_token = os.environ.get('BOT_TOKEN')  
     chat_id_secret = os.environ.get('CHAT_ID_1')
-    message_id_secret = os.environ.get('MESSAGE_SS')  
+    message_id_secret = os.environ.get('MESSAGE_VLESS')  
 
     bot = Bot(token=bot_token)
 
