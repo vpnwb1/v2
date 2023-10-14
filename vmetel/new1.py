@@ -5,7 +5,7 @@ def move_lines_randomly(source_file, destination_file, num_lines):
     selected_lines = []
 
     with open(source_file, 'r') as source:
-        lines = source.readlines()
+        lines = [line.strip() for line in source if line.strip()]
 
     random.shuffle(lines)
     selected_lines = lines[:num_lines]
@@ -14,7 +14,7 @@ def move_lines_randomly(source_file, destination_file, num_lines):
         destination.write('\n'.join(selected_lines))
 
     with open(source_file, 'w') as source:
-        source.write('\n'.join(lines[num_lines:]))
+        source.write('\n'.join(line for line in lines if line not in selected_lines))
 
 def remove_empty_lines(file_path):
     with open(file_path, 'r') as file:

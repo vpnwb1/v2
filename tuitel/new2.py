@@ -2,6 +2,8 @@ import asyncio
 import qrcode
 from telegram import Bot, InputMediaPhoto
 import os
+from datetime import datetime
+import pytz
 
 async def generate_qr_code(text, output_path='tuic.png'):
     qr = qrcode.QRCode(
@@ -31,8 +33,16 @@ async def edit_message_with_qr_code():
     chat_id = int(chat_id_secret)
     message_id = int(message_id_secret)
 
-    with open('tuitel.txt', 'r') as file:
+    with open('tuitel/tel.txt', 'r') as file:
         text_to_encode = file.read()
+
+    # Enclose the caption in backticks and append @vpnwb
+    caption = f'`{text_to_encode}` \n\n @vpnwb 🔑'
+
+    # Add time to the caption
+    tehran_timezone = pytz.timezone('Asia/Tehran')
+    current_time = datetime.now(tehran_timezone).strftime("%H:%M:%S")
+    caption_with_time = f'{caption}\n\nآخرین آپدیت: {current_time}'
 
     qr_code_path = await generate_qr_code(text_to_encode)
 
@@ -42,7 +52,8 @@ async def edit_message_with_qr_code():
             message_id=message_id,
             media=InputMediaPhoto(
                 media=qr_file,
-                caption=text_to_encode,
+                caption=caption_with_time,
+                parse_mode='Markdown',
             )
         )
 
