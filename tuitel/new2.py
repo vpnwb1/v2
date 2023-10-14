@@ -31,7 +31,7 @@ async def edit_message_with_qr_code():
     chat_id = int(chat_id_secret)
     message_id = int(message_id_secret)
 
-    with open('tel.txt', 'r') as file:
+    with open('tuitel.txt', 'r') as file:
         text_to_encode = file.read()
 
     qr_code_path = await generate_qr_code(text_to_encode)
