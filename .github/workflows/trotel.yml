@@ -11,7 +11,8 @@ jobs:
     permissions: write-all
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
-      CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}  
+      CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
+      MESSAGE_TRO: ${{ secrets.MESSAGE_TRO }}      
     steps:
     - uses: actions/checkout@v3.5.2
     
@@ -20,8 +21,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python trotel/1.py
-        python trotel/2.py
+        python trotel/new1.py
+        python trotel/new2.py
         
 
       

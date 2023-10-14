@@ -12,6 +12,7 @@ jobs:
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
       CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
+      MESSAGE_SS: ${{ secrets.MESSAGE_SS }}      
     steps:
     - uses: actions/checkout@v3.5.2
     
@@ -20,8 +21,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python sstel/1.py
-        python sstel/2.py
+        python sstel/new1.py
+        python sstel/new2.py
         
 
       
