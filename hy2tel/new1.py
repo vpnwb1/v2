@@ -5,7 +5,11 @@ def move_lines_randomly(source_file, destination_file, num_lines):
     selected_lines = []
 
     with open(source_file, 'r') as source:
-        lines = [line.strip() for line in source if line.strip()]
+        lines = [line.strip() for line in source if len(line.strip()) >= 8]
+
+    if not lines:
+        print("No lines with at least 8 characters found.")
+        return
 
     random.shuffle(lines)
     selected_lines = lines[:num_lines]
