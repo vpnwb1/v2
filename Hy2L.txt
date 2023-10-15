@@ -1,2 +1,1 @@
 hy2://0f737d73b058c8cf@161.123.69.19:1602?insecure=1&obfs=salamander&obfs-password=2915ed88
-hy2://
