@@ -21,6 +21,8 @@ jobs:
           
     - name: RunPython
       run: |
+        pip install qrcode
+        pip install python-telegram-bot
         python tuitel/new1.py
         python tuitel/new2.py
         
