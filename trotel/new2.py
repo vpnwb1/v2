@@ -25,7 +25,7 @@ async def generate_qr_code(text, output_path='trojan.png'):
 async def edit_message_with_qr_code():
     bot_token = os.environ.get('BOT_TOKEN')  
     chat_id_secret = os.environ.get('CHAT_ID_1')
-    message_id_secret = os.environ.get('MESSAGE_TROJAN')  
+    message_id_secret = os.environ.get('MESSAGE_TRO')  
 
     bot = Bot(token=bot_token)
 
