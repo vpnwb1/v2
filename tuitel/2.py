@@ -7,7 +7,7 @@ BOT_TOKEN = os.environ['BOT_TOKEN']
 BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 CHAT_ID_1 = os.environ['CHAT_ID_1']
-# CHAT_ID_2 = '-1001552170054'
+CHAT_ID_2 = os.environ['CHAT_ID_2']
 
 with open('tuitel/tel.txt', 'r') as file:
     urls = [line.strip() for line in file]
@@ -33,14 +33,14 @@ message_payload = {
 message_payload['chat_id'] = CHAT_ID_1
 response1 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
 
-# message_payload['chat_id'] = CHAT_ID_2
-# response2 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
+message_payload['chat_id'] = CHAT_ID_2
+response2 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
 
 if response1.status_code == 200:  # and response2.status_code == 200:
     print('Messages sent successfully to both channels!')
 else:
     print('Failed to send messages to one or both channels.')
     print(f'Channel 1 response: {response1.status_code}')
-    # print(f'Channel 2 response: {response2.status_code}')
+    print(f'Channel 2 response: {response2.status_code}')
     print(response1.text)
-    # print(response2.text)
+    print(response2.text)
