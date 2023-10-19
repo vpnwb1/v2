@@ -12,6 +12,7 @@ jobs:
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
       CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
+      CHAT_ID_2: ${{ secrets.CHAT_ID_2 }}      
       MESSAGE_TUIC: ${{ secrets.MESSAGE_TUIC }}      
     steps:
     - uses: actions/checkout@v3.5.2
