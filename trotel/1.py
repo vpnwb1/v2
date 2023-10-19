@@ -1,5 +1,18 @@
 import random
 
+###
+
+with open('TrojanL.txt', 'r') as file1:
+    lines = file1.readlines()
+
+non_empty_lines = [line.strip() for line in lines if line.strip()]
+
+with open('TrojanL.txt', 'w') as file2:
+    file2.write('\n'.join(non_empty_lines))
+
+###
+
+
 def move_lines_randomly(source_file, destination_file, num_lines):
     lines = []
     selected_lines = []

@@ -44,3 +44,4 @@ else:
     print(f'Channel 2 response: {response2.status_code}')
     print(response1.text)
     print(response2.text)
+
