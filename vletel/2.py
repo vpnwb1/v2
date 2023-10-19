@@ -21,7 +21,7 @@ random_urls = random.sample(urls, num_urls_to_send)
 
 formatted_urls = [f'`{url}`' for url in random_urls]
 
-message_text = 'Vless 😉 \n\n{}\n@VpnWb 🔑'.format('\n'.join(formatted_urls))
+message_text = 'Vless  \n\n{}\n@UncensorX '.format('\n'.join(formatted_urls))
 
 message_payload = {
     'text': message_text,
