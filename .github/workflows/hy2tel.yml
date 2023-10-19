@@ -24,8 +24,8 @@ jobs:
       run: |
         pip install qrcode
         pip install python-telegram-bot
-        python hy2tel/new1.py
-        python hy2tel/new2.py
+        python hy2tel/1.py
+        python hy2tel/2.py
         
 
       
