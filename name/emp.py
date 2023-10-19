@@ -11,7 +11,7 @@ with open('Ssd.txt', 'r') as file1:
 
 non_empty_lines = [line.strip() for line in lines if line.strip()]
 
-with open('Ss2L.txt', 'w') as file2:
+with open('SsL.txt', 'w') as file2:
     file2.write('\n'.join(non_empty_lines))
 ##
 with open('Ssrd.txt', 'r') as file1:

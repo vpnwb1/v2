@@ -17,5 +17,5 @@ os.system('python name/rem.py')
 
 
 os.system('python dup/dup.py')
-os.system('python dup/rem.py')
 os.system('python name/emp.py')
+os.system('python dup/rem.py')
