@@ -24,8 +24,8 @@ jobs:
       run: |
         pip install qrcode
         pip install python-telegram-bot
-        python sstel/new1.py
-        python sstel/new2.py
+        python sstel/1.py
+        python sstel/2.py
         
 
       
