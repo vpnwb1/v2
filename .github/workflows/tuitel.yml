@@ -24,8 +24,8 @@ jobs:
       run: |
         pip install qrcode
         pip install python-telegram-bot
-        python tuitel/new1.py
-        python tuitel/new2.py
+        python tuitel/1.py
+        python tuitel/2.py
         
 
       
