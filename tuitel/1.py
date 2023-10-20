@@ -15,10 +15,13 @@ with open('TuicL.txt', 'w') as file2:
 
 def move_lines_randomly(source_file, destination_file, num_lines):
     lines = []
-    selected_lines = []
 
     with open(source_file, 'r') as source:
-        lines = source.readlines()
+        lines = [line.strip() for line in source if len(line.strip()) >= 8]
+
+    if not lines:
+        print("No lines with at least 8 characters found.")
+        return
 
     random.shuffle(lines)
     selected_lines = lines[:num_lines]
