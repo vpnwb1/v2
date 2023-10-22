@@ -1,5 +1,0 @@
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls&type=tcp&headerType=none
-trojan://47258c2d-6b4c-444c-9085-5131bf0aff64@74.217.179.35:443?sni=20-24-33-134.nhost.00cdn.com&type=tcp&headerType=none
-trojan://d0dab49e1e@91.121.53.246:443?security=tls&sni=france.oneusernm.xyz&type=tcp&allowInsecure=1
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.126.151.229:65011?security=tls&sni=jp01a.roc-taiwan.net.ua
-trojan://661bee68-a6ce-45c2-b4c7-55231424e807@167.99.66.74:443?security=tls&sni=vpn.nodehunter.tech&type=ws&host=vpn.nodehunter.tech&path=%2Ftrojan
