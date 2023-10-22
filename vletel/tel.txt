@@ -1,5 +1,5 @@
-vless://ed16c5c2-54e8-4623-f33a-e1e56e54465a@104.24.255.191:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Alfred_Config&amp;sni=vip.Lockey-vip.site
-vless://7b40a26b-29a1-4fc5-9ddd-53e42baed6cc@172.67.242.90:80?security=none&type=ws&host=LINgUIstICS.PRemimSHop.ir&path=%2F
-vless://7d19968f-426c-4fcf-be2e-c96549f3b13e@5.75.254.127:443?security=tls&sni=b2.talamala.co&type=grpc&serviceName=p8LekYSdjVk1LYld&host=b2.talamala.co&path=p8LekYSdjVk1LYld&fp=chrome&alpn=http/1.1
-vless://a0514d9b-d109-47fd-b173-1e7f83268f21@108.162.192.48:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
-vless://5aa81b67-8119-454b-8e46-30178b4a89a0@[::ffff:681a:108]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
+vless://d3e64b47-3627-420a-8830-02e6dc6f9d5e@172.67.179.160:2087?security=tls&sni=gr.vpnmoon.tk&type=ws&path=%2F&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3&allowInsecure=1
+vless://0ac3cddc-d9cf-4ee9-d6cc-6ae784ecddbc@All.Tlgram-Polproxy.space:2087?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1,h3&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&amp;sni=Sni2.BlueMoien.space
+vless://78c60c6f-b495-40a6-90a6-7a557d80f3e0@49.13.85.177:17607?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&fp=chrome&pbk=tXtvnIrQnitlqjW9Aa3DrX95qho8rmt2PWSzISq4QWQ&sid=4d09fa0e
+vless://4038c539-a634-4666-82ed-280b4aa30d41@104.26.12.8:8880?security=none&type=ws&host=gaosu.myhmyhhuang1980.workers.dev&path=%2F%3Fed%3D2048
+vless://55b499cc-7b4f-484c-d574-56d2a8e339be@104.17.231.69:2083?security=tls&sni=lightning6.LiV2ray.top&type=grpc&serviceName=@LIGHTNING6
