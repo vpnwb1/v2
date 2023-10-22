@@ -1,5 +1,5 @@
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.24.197.50:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
-vless://6024b070-8406-470b-9cd2-2d85fbd8448e@[::ffff:6812:965]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
-vless://e595b11b-7e61-4d46-a264-57d3d2a46811@[::ffff:6812:287a]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.69.149:443?encryption=none&security=tls&type=ws&sni=edge.020770.xyz&host=edge.020770.xyz&path=%2fvless%2fb0138d55-a493-4dc3-9932-c6f0391707c1%3fed%3d2048
-vless://42406fb4-686d-49fa-f276-c52deb8db26a@95.217.232.109:2053/?type=grpc&amp;encryption=none&amp;sni=addons.mozilla.org&amp;alpn=h2&amp;fp=firefox&amp;security=reality&amp;pbk=g1f1wLjim5gOVGnI5LGUV0dL4iFXPoiepOPZfSxJe14&amp;sid=b91500c5
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2083?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao1.curly-train.pages.dev&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev
+vless://4e5f02bc-ddf2-468a-ecad-6512295fd7ae@185.231.181.170:48255?security=none&type=tcp&host=uplod.ir&headerType=http
+vless://ddb133fc-d277-4c27-d518-0966796c35dc@104.31.16.37:80?security=none&type=ws&sni=cEnTer.kaSHTI.woRld&path=nameless-wave-c0e0-work-new.helloworldperianscript.workers.dev&encryption=none&headerType=none
+vless://c5acc86d-2b17-4834-df45-6c3ef26d749a@198.41.216.223:2096?security=tls&sni=J0in-Te1egram.eiiim.online&type=ws&host=eiiim.eiiim.online&path=Join-EiiiM---------Telegram-EiiiM---------Telegram-EiiiM---------Telegram-EiiiM.
+vless://b8262aa9-1f5b-4f02-a5ab-8ee2f5fb1e9e@52.85.90.191:443?security=tls&sni=d2tjbohll1wy3l.cloudfront.net&type=ws&path=%2Fcurrent_time
