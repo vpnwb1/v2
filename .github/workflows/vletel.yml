@@ -2,8 +2,8 @@ name: vletel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "35 3-20 * * *"
+#  schedule:
+#  - cron: "35 3-20 * * *"
   
 jobs:
   job1:
