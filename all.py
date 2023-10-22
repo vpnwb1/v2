@@ -2,7 +2,7 @@ import os
 
 os.system('python from64/start.py')
 os.system('python fromsite/start.py')
-#os.system('go run -mod=mod ./fromtele/main.go')
+os.system('go run -mod=mod ./fromtele/main.go')
 os.system('python merge/start.py')
 os.system('python seprate/start.py')
 
