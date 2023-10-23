@@ -6,7 +6,7 @@ on:
   - cron: "35 4-7 * * *"
   - cron: "35 9-12 * * *"
   - cron: "35 14-17 * * *"
-  - cron: "35 19-20 * * *"3 
+  - cron: "35 19-20 * * *"
 jobs:
   job1:
     runs-on: ubuntu-latest
