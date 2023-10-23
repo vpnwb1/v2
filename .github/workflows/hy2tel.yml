@@ -3,8 +3,11 @@ name: hy2tel
 on:
   workflow_dispatch:
   schedule:
-  - cron: "15 3-20 * * *"
-  
+  - cron: "15 4-7 * * *"
+  - cron: "15 9-12 * * *"
+  - cron: "15 14-17 * * *"
+  - cron: "15 19-20 * * *"
+
 jobs:
   job1:
     runs-on: ubuntu-latest
