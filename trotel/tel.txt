@@ -1,5 +1,5 @@
-trojan://e4bfb6fe1e@de1.connecton.surf:443?security=tls
-trojan://517d4a88-2bb0-4656-abdd-85b066039c3f@liasg2absvaur.559xp5.cn:443?allowInsecure=0
-trojan://b291d129-ee55-4801-a9b8-b5316e5c37b7@138.2.113.84:443?security=tls
-trojan://ede46525-7b85-4cdc-883e-d4eb63cdc15a@6w7j3p01.mcfront.xyz:31831
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@116.192.172.230:8443?security=tls&sni=official.taipeicitygovernment.cn.ua&type=tcp&headerType=none
+trojan://telegram-id-directvpn@52.47.48.116:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.82.253.234:28443?security=tls
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@hinet.mjt001.com:443?security=tls&type=tcp&headerType=none
+trojan://cb6024ff-69c0-4ffb-ae21-4b14357858cb@1j8p01.abzoones.xyz:36611
+trojan://e024cd34-0437-4578-d6d7-6352e12c6f17@172.67.158.207:443?security=tls&sni=hklite1.wusiba.xyz&type=ws&path=%2FtC2%21meg3dCTYT2PViR
