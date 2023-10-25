@@ -1,7 +1,7 @@
 import hashlib
 
 input_file_path = "Ss.txt"
-output_file_path = "Ssd.txt"
+output_file_path = "SsL.txt"
 
 completed_lines_hash = set()
 
@@ -21,7 +21,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Ssr.txt"
-output_file_path = "Ssrd.txt"
+output_file_path = "SsrL.txt"
 
 completed_lines_hash = set()
 
@@ -41,7 +41,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Trojan.txt"
-output_file_path = "Trojand.txt"
+output_file_path = "TrojanL.txt"
 
 completed_lines_hash = set()
 
@@ -61,7 +61,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Vmess.txt"
-output_file_path = "Vmessd.txt"
+output_file_path = "VmessL.txt"
 
 completed_lines_hash = set()
 
@@ -81,7 +81,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Vless.txt"
-output_file_path = "Vlessd.txt"
+output_file_path = "VlessL.txt"
 
 completed_lines_hash = set()
 
@@ -108,7 +108,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Hy2.txt"
-output_file_path = "Hy2d.txt"
+output_file_path = "Hy2L.txt"
 
 completed_lines_hash = set()
 
@@ -134,7 +134,7 @@ input_file.close()
 import hashlib
 
 input_file_path = "Tuic.txt"
-output_file_path = "Tuicd.txt"
+output_file_path = "TuicL.txt"
 
 completed_lines_hash = set()
 
