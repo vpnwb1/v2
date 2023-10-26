@@ -1,5 +1,5 @@
-trojan://78af6d6d-6de7-3a1f-a969-c39077fb47bf@azgy001.xibai6.top:20785?type=tcp&sni=ssl.ssl12.xyz&allowInsecure=1
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@13.215.252.181:443?security=tls
-trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls
-trojan://telegram-id-privatevpns@3.75.31.251:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://d55e3bf7-c523-488b-b04b-6012cfe70f84@9t1d5e01.mcfront.xyz:31841
+trojan://76ce1fe0-8d4e-423f-96ec-0eee4b1a3f5c@6w7j3p01.mcfront.xyz:31811
+trojan://06d29997-d004-4338-a4e6-d1fb61b73c0b@6w7j3p01.mcfront.xyz:31841
+trojan://00308f1b-c80f-4615-a6db-6f36adef9620@1j8p01.abzoones.xyz:36306
+trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls&type=tcp&headerType=none
+trojan://4452b6961b@pol1.connecton.surf:443?security=tls
