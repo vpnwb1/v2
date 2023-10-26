@@ -1,5 +1,5 @@
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?type=ws&sni=c1mc.cdncisco3.co&allowInsecure=1&path=/ywQ9KSLI4ZBm9wOAXUaN
-trojan://1a654941-cc92-4e6d-9962-6f6fa97fc162@5m4h0k01.mcfront.xyz:31611?security=tls
-trojan://ef4e8429-0552-49bc-ac68-05569940de93@2d1t5w01.mcfront.xyz:31301
-trojan://9432d2e2-103e-4357-8034-7753dd4880f7@fsckr.1234567890spcloud.com:443?security=tls&sni=fsckr.1234567890spcloud.com&type=tcp&headerType=none
-trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@kaizen-hk-2.cn0.me:443/?type=tcp&security=tls&allowInsecure=1
+trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&allowInsecure=1&type=tcp
+trojan://b2407f3b-555b-4fcc-9921-5851b95a94a6@6w7j3p01.mcfront.xyz:31841
+trojan://xxoo@us.blazeppn.info:443?security=tls
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.24.20.111:443?sni=c2mt.ciscocdn1.live&allowInsecure=1
+trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@itjs.stablize.top:443?type=tcp&allowInsecure=1
