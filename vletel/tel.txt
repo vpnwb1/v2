@@ -1,5 +1,5 @@
-vless://f5d697ca-e657-46ef-9e26-9071c1a1ff82@78.47.159.202:22699?security=reality&sni=Google.com&fp=chrome&pbk=15jqqiYnuPB4fmhRQotopazRDzQC1_AYk59e7lLPDQA&sid=80a05dda&type=tcp&encryption=none
-vless://9f093780-67d4-4d5a-a5b7-ce15944d9fda@151.115.76.84:443?security=tls&sni=perkish.nextgentechnews.com&type=ws&path=%2fports%2f58754
-vless://d0f531da-72f5-4948-846b-d7200002678f@178.62.76.106:38756?encryption=none&fp=firefox&pbk=hAGpphaNnh8YF53lVisXio4S7M007DCFIhx3gI_MTSQ&security=reality&serviceName=%40proxyforopeta&sid=5018851f&sni=discord.com&type=grpc
-vless://72ca32c3-7cb0-43e7-97de-aa16eec7a8a8@104.31.16.65:80?security=none&type=ws&sni=describe.dlonlinedoctor.online&path=/backup&encryption=none&headerType=none
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.202.2:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql
+vless://87873596-3323-426e-8d6c-fe74b333713f@104.25.255.254:443?encryption=none&security=tls&type=ws&sni=russ.cypherpunks.asia&host=russ.cypherpunks.asia&path=%2frussel%3fed%3d2048
+vless://4bee1a3f-661e-4e69-bceb-a7a3d9f3b280@173.245.58.15:2096?security=tls&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster&type=grpc&serviceName=@VPNCUSTOMIZE&alpn=h2
+vless://fac43246-41dc-4ebb-8086-32342c825672@52.222.214.28:80?security=none&type=ws&host=d3qg62v2944nr5.cloudfront.net&path=%2Fws
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.67.32.83:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql
+vless://052d1973-890f-4a07-8291-b83381bcedb5@108.156.208.95:443?security=tls&sni=d2sywku5bsbr5l.cloudfront.net&type=ws&path=/current_time
