@@ -1,5 +1,5 @@
-trojan://39116b0d-e810-402b-b194-8084bebb6da7@217.79.184.22:443/?type=tcp&security=tls&sni=mashreghnews.ir&allowInsecure=1
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.21.25.85:443?sni=c2mt.ciscocdn1.live&allowInsecure=1
-trojan://4bacb8f1a089763b@60.248.114.182:3306?security=tls
-trojan://bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7@6w7j3p01.mcfront.xyz:31801
-trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@2u3k01.abzoones.xyz:36811
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?type=ws&sni=c1mc.cdncisco3.co&allowInsecure=1&path=/ywQ9KSLI4ZBm9wOAXUaN
+trojan://1a654941-cc92-4e6d-9962-6f6fa97fc162@5m4h0k01.mcfront.xyz:31611?security=tls
+trojan://ef4e8429-0552-49bc-ac68-05569940de93@2d1t5w01.mcfront.xyz:31301
+trojan://9432d2e2-103e-4357-8034-7753dd4880f7@fsckr.1234567890spcloud.com:443?security=tls&sni=fsckr.1234567890spcloud.com&type=tcp&headerType=none
+trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@kaizen-hk-2.cn0.me:443/?type=tcp&security=tls&allowInsecure=1
