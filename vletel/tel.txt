@@ -1,5 +1,5 @@
-vless://28daa2b9-b179-47ec-b9aa-c2fa2565db51@77.91.84.45:2052?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=Im8oWXBSEWUp_GdwTNkfjunXsTt_TBH2V_nJHjuqCCA&security=reality&sid=2e7c26e622783312&sni=atrsun.com&type=tcp
-vless://f7a07c1e-0a39-41f0-e039-feaa941f6eb8@104.18.202.212:2096?security=tls&sni=Antiv2ray-MCI-Mokhaderat-Irancell-Shatel.ChV2ray.cfd&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@147.78.140.115:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
-vless://d20db87a-f858-4d1e-a8ff-847f420fc1aa@[::ffff:6810:ed29]:2053?security=tls&sni=iraniazad10.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
-vless://1e884649-7a2c-4fc3-b2a2-ba98a2b3148f@198.41.219.16:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=nhtfjyytf.mic-mokhaderat-irancell-shatel-irancel.shop
+vless://f5d697ca-e657-46ef-9e26-9071c1a1ff82@78.47.159.202:22699?security=reality&sni=Google.com&fp=chrome&pbk=15jqqiYnuPB4fmhRQotopazRDzQC1_AYk59e7lLPDQA&sid=80a05dda&type=tcp&encryption=none
+vless://9f093780-67d4-4d5a-a5b7-ce15944d9fda@151.115.76.84:443?security=tls&sni=perkish.nextgentechnews.com&type=ws&path=%2fports%2f58754
+vless://d0f531da-72f5-4948-846b-d7200002678f@178.62.76.106:38756?encryption=none&fp=firefox&pbk=hAGpphaNnh8YF53lVisXio4S7M007DCFIhx3gI_MTSQ&security=reality&serviceName=%40proxyforopeta&sid=5018851f&sni=discord.com&type=grpc
+vless://72ca32c3-7cb0-43e7-97de-aa16eec7a8a8@104.31.16.65:80?security=none&type=ws&sni=describe.dlonlinedoctor.online&path=/backup&encryption=none&headerType=none
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@172.64.202.2:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql
