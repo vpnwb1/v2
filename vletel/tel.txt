@@ -1,5 +1,5 @@
-vless://b99064c5-3abe-4c13-8497-798ff8eadf59@173.245.58.41:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=ch.donaldvpn.sbs&amp;fp=chrome&amp;alpn=h2,http/1.1
-vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:ac40:c616]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
-vless://19b3bc7a-b3e4-4e79-95f2-0113b0167631@Chan4u.IpCloud.Shop:8456?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=www.discord.com
-vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?security=none&type=ws&sni=dhdjd8idb.维基表维17.tech&path=/&encryption=none&headerType=none
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@203.28.8.246:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
+vless://f0c61d12-0368-4bd5-be0b-731123c09072@cloud.configforvpn.online:51733?security=none&type=tcp&sni=medium.com&encryption=none&headerType=none
+vless://8de3b680-ba6c-4661-999d-01507cb131ec@hw1.kaghazacharrangi.sbs:443?path=%2F&amp;security=none&amp;encryption=none&amp;host=internet.life.com.by&amp;type=ws
+vless://aefd6288-ce31-4aa1-963f-f0b01a95db37@65.109.195.142:443?security=reality&sni=gsmarena.com&fp=chrome&pbk=dTGmUPDOGQhE1VI97cGpw-DOnsW_rzm7a-YMDcDkx2c&sid=a786cf49&type=grpc&serviceName=@Everyday_VPN&encryption=none
+vless://9e152a45-3a6b-4cb9-9700-84c012a841a2@5.42.86.225:2053?security=reality&flow=xtls-rprx-vision&sni=ballinstadt.de&type=tcp&fp=chrome&pbk=Pwwu65TeqjAyG4X244KND3R66LtKb_Blv-3YEV9DAEE&sid=a88b9fe982d622c8
+vless://e9cfd006-cc7c-4edb-a26c-32d93b055d53@[::ffff:ac43:a7ba]:2053?security=tls&sni=iraniazad4.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
