@@ -1,5 +1,5 @@
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:18581?security=tls&sni=$$vutnkr01.xiaohouzi.club
-trojan://76c37acb-6637-4d7e-826e-0a2e15370d2f@7p3h01.abzoones.xyz:36801
-trojan://9a9ee810-4c23-4be6-8811-34fd1e128b0a@2u3k01.abzoones.xyz:36811
-trojan://your_password@18.100.115.245:443?security=tls&sni=aws-es-madrid-1.f1rocketnode.com&type=tcp
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.13:443?allowInsecure=0&sni=pjp1.pqjc.buzz
+trojan://4bacb8f1a089763b@5.44.249.50:3389/?type=tcp&security=tls&allowInsecure=1
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?type=ws&sni=c2mt.ciscocdn1.live&allowInsecure=1&path=/rDCYQta83d0oPABKBhcIX&host=c2mt.ciscocdn1.live
+trojan://telegram-id-privatevpns@3.66.186.194:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp
+trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls
+trojan://d0589cee-da10-4f30-aa29-5e44e0520f8e@1j8p01.abzoones.xyz:36841
