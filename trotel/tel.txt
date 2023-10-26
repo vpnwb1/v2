@@ -1,5 +1,5 @@
-trojan://4bacb8f1a089763b@5.44.249.50:3389/?type=tcp&security=tls&allowInsecure=1
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?type=ws&sni=c2mt.ciscocdn1.live&allowInsecure=1&path=/rDCYQta83d0oPABKBhcIX&host=c2mt.ciscocdn1.live
-trojan://telegram-id-privatevpns@3.66.186.194:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp
-trojan://e2afc128-ca51-39b6-897c-eb2649825df9@yn-zf.jiashumao.net:40375?security=tls
-trojan://d0589cee-da10-4f30-aa29-5e44e0520f8e@1j8p01.abzoones.xyz:36841
+trojan://telegram-id-privatevpns@13.39.146.67:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://c4f1bc86-c6ef-48da-bb81-4eddea653b97@1j8p01.abzoones.xyz:36306
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:25238?security=tls&sni=z267.hongkongnode.top&type=tcp&headerType=none
+trojan://b88edfd4-23eb-4544-9bbc-a68914952905@usajs.stablize.top:443?security=tls
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20296?security=tls&sni=z296.hongkongnode.top&type=tcp&headerType=none
