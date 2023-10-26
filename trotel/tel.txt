@@ -1,5 +1,5 @@
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10819?security=tls&sni=alibaba-node.cn
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.21.19.56:443?security=tls&sni=c1mt.cdncisco2.co&type=ws&host=c1mt.cdncisco2.co&path=/rDCYQta83d0oPABKBhcIX
-trojan://0c5120b3-56a7-48da-9fd9-92fe58709a31@1j8p01.abzoones.xyz:36301
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.82.253.237:28443?security=tls
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.13:443?security=tls&sni=pjp1.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://39116b0d-e810-402b-b194-8084bebb6da7@217.79.184.22:443/?type=tcp&security=tls&sni=mashreghnews.ir&allowInsecure=1
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.21.25.85:443?sni=c2mt.ciscocdn1.live&allowInsecure=1
+trojan://4bacb8f1a089763b@60.248.114.182:3306?security=tls
+trojan://bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7@6w7j3p01.mcfront.xyz:31801
+trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@2u3k01.abzoones.xyz:36811
