@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@15.237.233.125:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@cljs.stablize.top:443/?type=tcp&security=tls&allowInsecure=1
-trojan://f79b9954-c349-4b26-9e59-38a5e539a5d9@6w7j3p01.mcfront.xyz:31301
-trojan://telegram-id-privatevpns@52.208.169.223:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://telegram-id-privatevpns@13.43.242.238:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://47258c2d-6b4c-444c-9085-5131bf0aff64@gsawshk2.aiopen.cfd:443?sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
+trojan://97fdf760-7bbf-11eb-8e14-1239d0255272@103.253.24.216:443?security=tls&sni=sg3-trojan.bonds.id
+trojan://telegram-id-privatevpns@13.37.163.17:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp
+trojan://Telegram-id-DarkVPNpro-rM7ZLaTzj3@104.21.198.255:8443?security=tls&sni=missi0nlmpossibl3-deadreckoningpart1.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr1.sanfen001.pics:443?security=tls
