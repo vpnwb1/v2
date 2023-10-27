@@ -1,5 +1,5 @@
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@stream.varzeshtv.live:1935/?type=tcp&security=tls&allowInsecure=1
-trojan://b3d93ef5-9de7-49d4-93e4-8852cc109580@5a4u01.abzoones.xyz:36821
-trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@hk.kunlun-ppg.com:10804?security=tls&sni=alibaba-node.cn
-trojan://0e84ec99-7f8e-48a0-9c5b-f546f505e550@jp1.lianpi.xyz:45127?security=tls
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443/?type=tcp&security=tls&sni=upload.soft98.download&allowInsecure=1
+trojan://3576fa41-a482-4094-a42e-9a53a4047aef@62.210.136.177:636?security=tls&sni=www.stream.shoppingitalia.live&type=tcp&headerType=none
+trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@other.kunlun-ppg.com:10849?security=tls&sni=alibaba-node.cn
+trojan://dacecad9-a15e-4518-85aa-8d7360d1d916@nsaghhfhitw.559xp5.cn:443?allowInsecure=0
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:36305?security=tls&sni=$$hnm.xiaohouzi.club
