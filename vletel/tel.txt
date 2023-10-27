@@ -1,5 +1,5 @@
-vless://b30a8598-2620-48a0-8b49-d29d149a1d3a@35.176.70.255:8080?security=reality&flow=xtls-rprx-vision&sni=server-53651.prod.hosts.ooklaserver.net&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-vless://ee510859-9508-4299-be3a-9505264ccada@109.74.200.67:28949?security=none&type=tcp&host=snapp.ir&headerType=http
-vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=cdn.discordapp.com&amp;sid=a7cf4983
-vless://d70cf017-858f-4e11-9aa2-6ee7544744a6@104.16.123.175:2082?security=none&type=ws&host=nl15.vlessx.us&path=%2F%3Fed%3D2048
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.18.250.244:2083?security=tls&sni=freeat.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.27.62.243:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=%2F%3Fed
+vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@95.216.161.81:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=oUtjmsKTWupaisCxmHCXau-DN5n0rGr_Vf-vyIVFoUs&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=ftp.debian.org&amp;sid=0e596c3b
+vless://637c8201-88fd-4155-cf06-9abe6bc92abc@88.99.85.225:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YP58dZc_Wm0XPeSdD087hvRa4SZH4rdcsEzD4-3jgDg&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=help.mega.io&amp;sid=638ca3d3
+vless://Parsashonam-45@Mci0.Tel-Parsashonam.Website:2053?type=grpc&amp;serviceName=%40Parsashonam&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=Usa1.Parsashonam.Tech
+vless://14dd8a95-b5bc-4b10-808e-64bca17367d2@185.24.255.181:399?security=none&type=tcp&host=exo.ir&headerType=http
