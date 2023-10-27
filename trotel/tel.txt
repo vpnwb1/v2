@@ -1,5 +1,5 @@
-trojan://your_password@35.183.238.42:443?sni=aws-ca-central-1.f1rocketnode.com
-trojan://3576fa41-a482-4094-a42e-9a53a4047aef@62.210.136.177:636?security=tls&sni=www.stream.shoppingitalia.live&type=tcp
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:17629?security=tls&sni=z258.hongkongnode.top
-trojan://09fd9b18-ca9c-468d-8e5b-6d057cc9370b@hk.kunlun-ppg.com:10808?type=tcp&sni=alibaba-node.cn&allowInsecure=1
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@108.181.23.71:443?security=tls&sni=4-193-163-88.nhost.00cdn.com&type=tcp
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10840?allowInsecure=1&sni=alibaba-node.cn
+trojan://181367b4-8254-4723-b665-92f317910536@3a4u0k01.mcfront.xyz:31811
+trojan://203cf9da-6a8b-4b61-86d7-1de003b3b1a4@1j8p01.abzoones.xyz:36811
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@sk01.trojanyyds.xyz:443?security=tls
+trojan://789deb40-7e9a-11ed-8512-1239d0255272@51.222.86.136:443?security=tls&sni=google.com&type=tcp&headerType=none
