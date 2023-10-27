@@ -1,5 +1,5 @@
-trojan://76ce1fe0-8d4e-423f-96ec-0eee4b1a3f5c@6w7j3p01.mcfront.xyz:31811
-trojan://06d29997-d004-4338-a4e6-d1fb61b73c0b@6w7j3p01.mcfront.xyz:31841
-trojan://00308f1b-c80f-4615-a6db-6f36adef9620@1j8p01.abzoones.xyz:36306
-trojan://7b06d22a8a7c764f@211.72.35.154:3389?security=tls&type=tcp&headerType=none
-trojan://4452b6961b@pol1.connecton.surf:443?security=tls
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@stream.varzeshtv.live:1935/?type=tcp&security=tls&allowInsecure=1
+trojan://b3d93ef5-9de7-49d4-93e4-8852cc109580@5a4u01.abzoones.xyz:36821
+trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com
+trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@hk.kunlun-ppg.com:10804?security=tls&sni=alibaba-node.cn
+trojan://0e84ec99-7f8e-48a0-9c5b-f546f505e550@jp1.lianpi.xyz:45127?security=tls
