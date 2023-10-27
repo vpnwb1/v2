@@ -1,5 +1,5 @@
-vless://0dbceda0-9d7d-47ae-b4ff-40356e746540@104.24.189.34:2087?security=tls&sni=sa.tm-foxnt-joinbede.fun&type=grpc&serviceName=@FOXNT-------------------------------------------@FOXNT-------‐------------------------------------@FOXNT
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.16.100.128:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
-vless://e30efc62-56fc-43d1-8019-5bd924447cc8@104.21.93.238:443?security=tls&sni=s5.gem1.cfd&type=grpc
-vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@104.16.27.34:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link&path=%2F%3Fed%3D2048
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@6654.outline-vpn.cloud:443?encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws
+vless://b30a8598-2620-48a0-8b49-d29d149a1d3a@35.176.70.255:8080?security=reality&flow=xtls-rprx-vision&sni=server-53651.prod.hosts.ooklaserver.net&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+vless://ee510859-9508-4299-be3a-9505264ccada@109.74.200.67:28949?security=none&type=tcp&host=snapp.ir&headerType=http
+vless://9c513d26-a5df-4c4e-a0b2-a0f81ca8dcf9@Filter5050.nabxcsjghjs2004.shop:22113?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=NY4vf2xmEysVkOcgDnGASs9E_kJS1QxqRo7uFSzwh3g&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=cdn.discordapp.com&amp;sid=a7cf4983
+vless://d70cf017-858f-4e11-9aa2-6ee7544744a6@104.16.123.175:2082?security=none&type=ws&host=nl15.vlessx.us&path=%2F%3Fed%3D2048
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.18.250.244:2083?security=tls&sni=freeat.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
