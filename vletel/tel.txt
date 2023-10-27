@@ -1,5 +1,5 @@
-vless://79f68ec5-8aa7-42ec-a23f-3b42bff061ac@Tm.VpnFreeSec.Shop:443?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=FreeSec.AgV2ray.Cfd
-vless://054a8c92-59df-47aa-feac-4bbb4d8ca1e0@45.94.169.231:2096?security=tls&sni=new.in-case-jadid-mane-follow-nemikone-vali-fane.site&type=grpc
-vless://52aad0aa-f363-4bca-b5f7-14b1c05f5026@all-vpncustomize.aparat.lol:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=ConfigForV2rayng.Snapp.monster
-vless://bd640a66-4a43-49ba-93c7-b89002a53024@159.69.33.120:2087?security=reality&sni=www.speedtest.net&type=grpc&serviceName=Telegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAMgonTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM%2CTelegram%3A%40V2_TEAM&fp=chrome&pbk=qYhKc-RiWZmRbJl-17sDyDpv7YqSnnJ0bi01aUp_qwE&sid=78a26182
-vless://c649a2ea-da47-4269-bb54-2824c14b3f39@199.212.90.0:2053?security=tls&sni=free.boredhot.cloud&type=grpc&serviceName=@bored_vpn@bored_vpn@bored_vpn@bored_vpn
+vless://6024b070-8406-470b-9cd2-2d85fbd8448e@[::ffff:6815:5f9c]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
+vless://b3c67462-87f5-442e-8cdc-fc298e397815@104.24.145.43:2083?security=tls&type=ws&sni=vip1.futurevpn.fun&path=/&encryption=none&headerType=none
+vless://b6d2e3d0-9257-4741-a3f3-540ad43a9a65@52.84.160.91:443?security=tls&sni=d2dzi2tmmpxmkj.cloudfront.net&type=ws&path=%2Fcurrent_time
+vless://28fbe754-e821-42e1-897e-f98a85f795be@[::ffff:6ca2:c10a]:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@foxnim&amp;sni=v.foxnim.cam
+vless://f3d0a6bc-d323-4ee1-ae21-745df8f3e977@170.114.46.66:2096?security=tls&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster&type=grpc&serviceName=@VPNCUSTOMIZE&alpn=h2
