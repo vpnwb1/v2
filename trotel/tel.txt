@@ -1,5 +1,5 @@
-trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.135:10822?security=tls&sni=alibaba-node.cn
-trojan://4f9ca636-5195-406a-b48c-0388689dd9a7@212.24.103.3:443?security=tls&type=tcp&headerType=none
-trojan://9f690c01-08ed-4f1b-b246-d1384afe1590@li1cahsfvu2bisd-sc.559xp5.cn:443?allowInsecure=0
-trojan://telegram-id-directvpn@13.43.69.5:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
-trojan://xxoo@146.19.230.241:443?type=tcp&sni=loader.tapsell.ir&allowInsecure=1
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443?security=tls&sni=jp4.pqjc.buzz
+trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com&type=tcp&headerType=none
+trojan://043c7441-f354-42b7-91ce-39043c7441-f354-42b7-91ce-398c4b0b29ea@6w7j3p01.mcfront.xyz:31811
+trojan://telegram-id-privatevpns@15.236.184.85:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://telegram-id-directvpn@3.120.55.168:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
