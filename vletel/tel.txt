@@ -1,5 +1,5 @@
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.27.62.243:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=%2F%3Fed
-vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@95.216.161.81:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=oUtjmsKTWupaisCxmHCXau-DN5n0rGr_Vf-vyIVFoUs&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=ftp.debian.org&amp;sid=0e596c3b
-vless://637c8201-88fd-4155-cf06-9abe6bc92abc@88.99.85.225:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=YP58dZc_Wm0XPeSdD087hvRa4SZH4rdcsEzD4-3jgDg&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=help.mega.io&amp;sid=638ca3d3
-vless://Parsashonam-45@Mci0.Tel-Parsashonam.Website:2053?type=grpc&amp;serviceName=%40Parsashonam&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=Usa1.Parsashonam.Tech
-vless://14dd8a95-b5bc-4b10-808e-64bca17367d2@185.24.255.181:399?security=none&type=tcp&host=exo.ir&headerType=http
+vless://00e1f063-5668-444f-b81a-f21eb4421930@45.131.208.122:443?security=tls&sni=arab.melov2ray.store&type=grpc&fp=chrome
+vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http
+vless://dbab58ca-eb35-402f-9204-53cf55bd8bbc@64.176.186.18:42105?encryption=none&security=none&type=tcp&headerType=http&host=internet.life.com.by
+vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dbdjd7gskclvgdj.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&amp;type=ws
+vless://8966b5c0-8211-4dfa-8fa5-078d69657564@104.16.122.175:2082?security=none&type=ws&host=us2.vlessx.xyz&path=%2F%3Fed%3D2048
