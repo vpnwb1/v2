@@ -1,5 +1,5 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls
-trojan://f504fd96-a098-3861-bafe-13ba6080f9a5@gg.58n.net:43337?type=tcp&sni=z102.hongkongnode.top&allowInsecure=1
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@108.181.24.47:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men
-trojan://tune7jerky7HAYRICK@72.14.185.43:443?sni=ap-northeast-1.openssl3.com
+trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443/?type=tcp&security=tls&allowInsecure=1
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.169.142.18:443?sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10825?security=tls&sni=alibaba-node.cn
+trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@swejs.stablize.top:443/?type=tcp&security=tls&allowInsecure=1
+trojan://e95194b4-bc7e-497f-876a-686e127e0b65@kcdtw1-tg-data.amazonwebservicess.com:443?security=tls&sni=data.amazonwebservicess.com
