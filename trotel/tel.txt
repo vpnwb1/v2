@@ -1,5 +1,5 @@
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443?security=tls&sni=jp4.pqjc.buzz
-trojan://61c6ceee-ee4f-475f-867d-dcfda15490fb@v01.gutingting.com:30017?security=tls&sni=v2hgc01.fuqiangren.com&type=tcp&headerType=none
-trojan://043c7441-f354-42b7-91ce-39043c7441-f354-42b7-91ce-398c4b0b29ea@6w7j3p01.mcfront.xyz:31811
-trojan://telegram-id-privatevpns@15.236.184.85:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://telegram-id-directvpn@3.120.55.168:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls
+trojan://f504fd96-a098-3861-bafe-13ba6080f9a5@gg.58n.net:43337?type=tcp&sni=z102.hongkongnode.top&allowInsecure=1
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@108.181.24.47:443?security=tls&sni=20-24-33-134.nhost.00cdn.com&type=tcp
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men
+trojan://tune7jerky7HAYRICK@72.14.185.43:443?sni=ap-northeast-1.openssl3.com
