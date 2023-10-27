@@ -1,5 +1,5 @@
-trojan://bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7@6w7j3p01.mcfront.xyz:31301
-trojan://ba9431e2-5192-46ec-abb6-4e8614b64d85@hk.kunlun-ppg.com:10809?type=tcp&sni=alibaba-node.cn&allowInsecure=1
-trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?security=tls&sni=telewebion.com
-trojan://saMgiangGt@160.153.0.175:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2
-trojan://Cl150MQWlG@104.20.159.200:443?security=tls&sni=irancell-ir-7.mmdruby13.store&type=grpc
+trojan://27b5a4b4-a010-4577-94c4-77d630a319cf@6w7j3p01.mcfront.xyz:31611
+trojan://8d2d5953-d649-4034-94f2-72f2df2623da@168.138.44.176:443?security=tls
+trojan://fc2e30d6-474a-42a4-8de2-32720698c97f@v02.gutingting.com:30038?security=tls&sni=v2hgc02.fuqiangren.com
+trojan://a00330bc-7f67-4bad-a59b-481cd2d67456@141.11.127.26:443?type=tcp&sni=16-163-218-240.nhost.00cdn.com&allowInsecure=1
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443
