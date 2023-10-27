@@ -1,5 +1,5 @@
-vless://00e1f063-5668-444f-b81a-f21eb4421930@45.131.208.122:443?security=tls&sni=arab.melov2ray.store&type=grpc&fp=chrome
-vless://3ae2d20d-2354-47da-9ce9-b921f8793164@65.109.241.5:443?security=none&type=tcp&host=speedtest.net&headerType=http
-vless://dbab58ca-eb35-402f-9204-53cf55bd8bbc@64.176.186.18:42105?encryption=none&security=none&type=tcp&headerType=http&host=internet.life.com.by
-vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dbdjd7gskclvgdj.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&amp;type=ws
-vless://8966b5c0-8211-4dfa-8fa5-078d69657564@104.16.122.175:2082?security=none&type=ws&host=us2.vlessx.xyz&path=%2F%3Fed%3D2048
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@join-----telegram-----channel.outline-vpn.cloud:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=current.iraniancp.click&amp;type=ws&amp;sni=current.iraniancp.click
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@45.67.215.70:2087?encryption=none&security=tls&type=ws&sni=baipiao1.curly-train.pages.dev&host=baipiao1.curly-train.pages.dev&path=%2f%3fed%3d2048
+vless://19b3bc7a-b3e4-4e79-95f2-0113b0167631@49.12.69.241:8456?security=reality&sni=www.discord.com&fp=chrome&pbk=xhUiZLkRCdO3b06Sfl4CMAkzwufpHbZcTYhLAA036R8&type=grpc&encryption=none
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.221.160.186:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
+vless://e35026da-e985-49ca-b43b-276062a535a6@notdirect.howhealthyistoomajreally.homes:443?security=tls&type=ws&sni=notdirect.howhealthyistoomajreally.homes&path=/rntgpLL1GErGCkIH66kMFPa&encryption=none&headerType=none
