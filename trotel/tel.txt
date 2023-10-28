@@ -1,5 +1,5 @@
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir
-trojan://idc117okt@103.176.78.153:443?security=tls&type=tcp&headerType=none
-trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20762?security=tls&sni=ssl.ssl12.xyz&type=tcp&headerType=none
-trojan://telegram-id-privatevpns@52.208.192.25:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://ba9431e2-5192-46ec-abb6-4e8614b64d85@hk.kunlun-ppg.com:10805?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@210.0.158.220:28443?security=tls
+trojan://telegram-id-directvpn@34.210.47.105:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://TJCfE7Mx2YcA8kX8zg@149.50.77.99:4003?sni=telewebion.com&type=tcp&allowInsecure=1
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10808?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://a3f6a1ba-2b87-4f08-b56d-4a1faf29e8a5@104.25.254.131:443?security=tls&sni=cdn.biglog.sbs&type=ws&host=cdn.biglog.sbs&path=%2Fn8aZubNv8joYoQNpjaEh6Hc&fp=chrome&alpn=h2
