@@ -1,5 +1,5 @@
-trojan://0c5120b3-56a7-48da-9fd9-92fe58709a31@1j8p01.abzoones.xyz:36841?security=tls
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10825?security=tls&sni=alibaba-node.cn
-trojan://7c6e8222-26fb-43a9-9925-38529966d44f@bauhinia01.allbluedns.xyz:36306?security=tls
-trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@7p3h01.abzoones.xyz:36801?type=tcp&headerType=none
-trojan://1e85da50-c97a-4431-986e-6296b889c28b@6w7j3p01.mcfront.xyz:31801
+trojan://06d29997-d004-4338-a4e6-d1fb61b73c0b@6w7j3p01.mcfront.xyz:31611
+trojan://opentunnel.net-newdday@cat-1.opensvr.net:443?security=tls
+trojan://9f0ae767-0156-460c-acd6-67cb3000faf1@bgroup.node4.t.nodelist-gfwairport1.download:50001?security=tls
+trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@64.68.192.1:443?security=tls&sni=sftp.pardazesh.tech&type=ws&path=%2F1C1eEyrBbGr0r2HZ1tSkA
+trojan://ffec9f6ea19e1dd1@5.44.249.43:3389?security=tls
