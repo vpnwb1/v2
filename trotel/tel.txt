@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@116.192.165.13:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&type=tcp&headerType=none
-trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@147.78.240.92:443?security=tls&sni=tj2.dalazhi.eu.org&type=tcp
-trojan://Telegram-id-DarkVPNpro@104.26.7.3:8443?security=tls&sni=miaanddrag0nprincessjigendaisuke.arshaproplus.cf&type=ws&host=theeightmo0untainsb3nandjody.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=chrome&alpn=http%2F1.1
-trojan://bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7@6w7j3p01.mcfront.xyz:31821
+trojan://4effe03b-f2d6-4f1f-b371-eba1054bb249@2d1t5w01.mcfront.xyz:31301
+trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443
+trojan://idc117okt@103.176.78.153:443/?type=tcp&security=tls&allowInsecure=1
+trojan://iyinglong@18.140.67.76:443?security=tls
+trojan://4bacb8f1a089763b@5.44.249.50:3389?security=tls
