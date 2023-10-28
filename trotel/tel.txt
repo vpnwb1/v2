@@ -1,5 +1,5 @@
-trojan://shenmegui@37.123.196.166:28893?security=tls
-trojan://Sp3eDVp@185.212.200.76:443?type=tcp&allowInsecure=1
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443/?type=tcp&security=tls&sni=ch.mjt001.com&allowInsecure=1
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?type=tcp&sni=$fr1.trojanvh.xyz&allowInsecure=1
-trojan://Sp3eDVp@185.212.200.76:443?security=tls
+trojan://2c39443b-2343-4151-acd6-9e1c5743d271@1j8p01.abzoones.xyz:36301
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10827?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@tr.mjt001.com:443?security=tls
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10829?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemc.cdncisco.org:443?security=tls&sni=c5mc.cdncisco.org
