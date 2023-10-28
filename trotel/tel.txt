@@ -1,5 +1,5 @@
-trojan://d8adcdba-3e84-4f48-87f6-e9af3dd74a5b@8t6w01.abzoones.xyz:36301
-trojan://bd23a31e-7a2c-4065-8ca4-cd2d5d2bf5ba@pqawsjp3.aiopen.cfd:443?security=tls&headerType=none&type=tcp&sni=18-140-66-207.nhost.00cdn.com&host=
-trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19237tj.matrixxx888.com:19237?type=tcp&sni=eplcgame.com&allowInsecure=1
-trojan://7b6991cf-2d91-4e2d-a59a-148b52edec75@3a4u0k01.mcfront.xyz:31811
-trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@23.106.33.156:443?security=tls&sni=scottie.golfland.club
+trojan://7b6991cf-2d91-4e2d-a59a-148b52edec75@6w7j3p01.mcfront.xyz:31301
+trojan://telegram-id-privatevpns@35.158.24.130:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@swejs.stablize.top:443?type=tcp&allowInsecure=1
+trojan://a0bd41cb-2e15-459a-a5b2-d00013c77c51@zzjp01.gutingting.com:20220?security=tls&sni=zzjp01.gutingting.com
+trojan://telegram-id-directvpn@51.20.219.121:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
