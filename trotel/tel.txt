@@ -1,5 +1,5 @@
-trojan://06d29997-d004-4338-a4e6-d1fb61b73c0b@6w7j3p01.mcfront.xyz:31611
-trojan://opentunnel.net-newdday@cat-1.opensvr.net:443?security=tls
-trojan://9f0ae767-0156-460c-acd6-67cb3000faf1@bgroup.node4.t.nodelist-gfwairport1.download:50001?security=tls
-trojan://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@64.68.192.1:443?security=tls&sni=sftp.pardazesh.tech&type=ws&path=%2F1C1eEyrBbGr0r2HZ1tSkA
-trojan://ffec9f6ea19e1dd1@5.44.249.43:3389?security=tls
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443
+trojan://33e7b9c8-db39-4cc3-81bb-57db9d53648a@2u3k01.abzoones.xyz:36811
+trojan://e60c4551-6f52-45fa-8926e60c4551-6f52-45fa-8926-90eb9b1008be@6w7j3p01.mcfront.xyz:31831
+trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls
+trojan://9iiN39jgvc@104.25.186.70:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2,http/1.1
