@@ -1,5 +1,5 @@
-vless://1d2150ba-62fe-46bc-808e-6ff046d1b05f@104.21.66.66:2083?security=tls&sni=Za.ZmV2ray.Site&type=grpc&serviceName=@LOCKEY_VPN@LOCKEY_VPN@LOCKEY_VPN&fp=chrome&alpn=h2,http/1.1
-vless://47e9a0db-50c6-4522-8819-502c55b06dde@159.112.235.174:2082?security=none&type=ws&host=workerr.schodog1.workers.dev&path=%2F%3Fed%3D2048
-vless://22061927-0e77-4b13-8228-3f63ab3ea10a@all.vpncustomize.cam:2096?encryption=none&mode=gun&security=tls&serviceName=%40VPNCUSTOMIZE&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CDN.site&type=grpc
-vless://b109809d-445c-4868-81ad-d22f17715c1f@mtn.vpnprosec.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=V2ray.svnreallity.online
-vless://9ef4a2f2-a67b-4f2e-822c-c9bc12162528@[::ffff:ac42:2afa]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
+vless://29a20e69-7641-4ae9-ccc6-8a3ff6c02fbc@138.68.144.102:56655?security=&type=ws&path=/&host=internet.life.com.by&encryption=none
+vless://3d4456df-e83b-4a8f-bb76-2bb913881604@104.16.212.132:2053?security=tls&sni=kevins.speedent.click&type=grpc&serviceName=@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net+%2C+@Speedent_Net&fp=safari&allowInsecure=1
+vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:6812:10b0]:2053?security=tls&sni=iraniazad9.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
+vless://c1f1b0f6-99b4-422c-8809-d55f4faf3ea7@141.95.67.248:80?type=ws&path=/vless/
+vless://312b0699-a47a-496e-97b6-cb3af1654d35@104.21.90.210:8880?security=none&type=ws&path=%2F%3Fed
