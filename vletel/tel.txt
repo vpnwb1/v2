@@ -1,5 +1,5 @@
-vless://a27b8a02-955e-4cb7-b2d4-adb504af68a1@104.18.203.232:443?security=tls&sni=musical.svbcdx-geywkc.workers.dev&type=ws&host=musical.svbcdx-geywkc.workers.dev&path=gunkfa
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.176.26.25:443?security=tls&sni=freeat.marksmancdn14.com&type=ws&host=freeat.marksmancdn14.com&path=%2Fat&fp=chrome&alpn=http%2F1.1
-vless://8d7405ca-200e-4d0b-8d87-5a30011376bb@104.31.16.61:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@P_tech2024&amp;sni=free.forcedparadise.store
-vless://28afabb7-ca48-4531-bdbe-29c5b5542b2a@104.21.48.84:443?security=tls&sni=vhjmhjfjhcvjhcj.mic-mokhaderat-irancell-shatel-irancel.shop&type=grpc
-vless://20b21ea0-59e1-40f1-b78a-2ba9cff6bce9@172.67.163.123:2096?security=tls&sni=V2ray.SvnBuy.online&type=grpc
+vless://9c766db2-5ae1-45e8-8379-1839d71dc325@70.34.245.54:4433?encryption=none&fp=chrome&pbk=X09nWk8Ks2OGaPJyyxotareU23OgoxKTTfGsMgcTWWI&security=reality&sid=327734f6&sni=sni.zarvpn.online&type=tcp
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.176.24.208:443?security=tls&sni=freeat.marksmancdn14.com&type=ws&host=freeat.marksmancdn14.com&path=%2Fat&fp=chrome&alpn=http%2F1.1
+vless://7711beb9-37a1-4ee9-9b29-39767e1bedf2@104.24.189.34:2096?security=tls&sni=sa.tm-foxnt-joinbede.fun&type=grpc&serviceName=-------Telegram-----@FOXNT------@mtproxymo-----
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.203.232:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&path=%2F%3Fed
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@5.161.153.48:443?security=tls&sni=mt1.nabsk.com&type=ws&path=users%3Fed%3D2048&alpn=http/1.1&allowInsecure=1
