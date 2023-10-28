@@ -1,5 +1,5 @@
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@172.67.117.77:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql
-vless://ea5b463f-7056-4861-8ceb-0f31e8cbe26e@99.86.227.142:443?security=tls&sni=d2sywku5bsbr5l.cloudfront.net&type=ws&path=/current_time
-vless://cc1e4ad6-4b23-4b7f-8eda-514aa1c20002@88.198.118.235:8443?security=reality&sni=iranserver.com&fp=firefox&pbk=d_PryPoPxwX_0FUh7Eulm7Fzf73MeoTHRHvxK-pWaBI&sid=9825&type=grpc&serviceName=TelegramID%3A%40iranbaxvpn&encryption=none
-vless://9f9c3eb8-de25-4e31-8765-81641533eb50@vgnhnhnjnj.nolite-te-bastardes-carborun-dorum.sbs:2095?security=none&amp;encryption=none&amp;host=www.arnebrachhold.de&amp;headerType=http&amp;type=tcp
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.36.147:443?encryption=none&security=tls&type=ws&sni=edge.020770.xyz&host=edge.020770.xyz&path=%2fvless%2fb0138d55-a493-4dc3-9932-c6f0391707c1%3fed%3d2048
+vless://f8661ba0-3f33-452d-ba4b-985f8a46ea0f@5.42.77.255:8880?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=xhqNLLd6dqNS5oV4gCrqo1oQFMP_OcZ3wGplQK79oVU&security=reality&sid=80cb4c29cf58f8d2&sni=speed.cloudflare.com&type=tcp
+vless://087da9ca-3a4d-4048-a04d-cd49b2a4fd73@192.200.160.17:2083?security=tls&sni=free.boredhot.cloud&type=grpc&serviceName=@mehrosaboran@mehrosaboran
+vless://00201ffb-844f-495d-9ce5-0369a2060f0a@193.227.99.234:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?security=tls&sni=edtunnel-b6t.pages.dev&type=ws&path=%2F
+vless://c752a05e-5d39-43ea-ac12-9d10890ac1d2@104.21.55.141:2086?security=none&type=ws&host=de7.vlessx.us&path=%2F%3Fed%3D2048
