@@ -1,5 +1,5 @@
-trojan://nevis@104.21.70.177:443?security=tls&sni=www.anyhoweliseo.info&type=ws&path=%2Ftailors
-trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@51.89.22.228:443?security=tls&sni=t1.samsung.bforward2.uk
-trojan://81432434-ac6a-4992-9abe-c4f140bcb379@6w7j3p01.mcfront.xyz:31811
-trojan://22dxmxezsm@172.67.142.39:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&type=tcp
-trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link
+trojan://telegram-id-directvpn@34.220.74.123:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@116.192.165.13:8443?security=tls&sni=official.taipeicitygovernment.chernovtsy.ua&type=tcp&headerType=none
+trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@147.78.240.92:443?security=tls&sni=tj2.dalazhi.eu.org&type=tcp
+trojan://Telegram-id-DarkVPNpro@104.26.7.3:8443?security=tls&sni=miaanddrag0nprincessjigendaisuke.arshaproplus.cf&type=ws&host=theeightmo0untainsb3nandjody.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=chrome&alpn=http%2F1.1
+trojan://bdebf62a-ac8a-42b0-9188-b4d8e00ea4c7@6w7j3p01.mcfront.xyz:31821
