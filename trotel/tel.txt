@@ -1,5 +1,5 @@
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443
-trojan://33e7b9c8-db39-4cc3-81bb-57db9d53648a@2u3k01.abzoones.xyz:36811
-trojan://e60c4551-6f52-45fa-8926e60c4551-6f52-45fa-8926-90eb9b1008be@6w7j3p01.mcfront.xyz:31831
-trojan://6f6ae34d-fe7f-4ca1-a912-ecc01386bdc4@103.173.155.72:28443?security=tls
-trojan://9iiN39jgvc@104.25.186.70:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2,http/1.1
+trojan://your_password@15.236.64.14:443?security=tls&sni=aws-fr-paris-1.f1rocketnode.com&type=tcp
+trojan://0b65bb06-6b28-487a-8e3c-820dda51e977@104.21.12.87:443?security=tls&sni=series-v1.samanehha.co&type=ws&host=series-v1.samanehha.co&path=%2F43xf5zgeApzDAfhOHq&fp=chrome&alpn=h2
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:17629?security=tls&sni=z258.hongkongnode.top
+trojan://d256e73b-8259-490a-aeb5-23f6a3636a1a@107.173.15.52:443?security=tls&sni=tj1.dalazhi.eu.org&type=tcp&allowInsecure=1
+trojan://4fa717bb-6536-4935-8853-13e20ebec592@8k2r01.abzoones.xyz:36401?allowInsecure=0&peer=kr01.abpilot.xyz&sni=kr01.abpilot.xyz
