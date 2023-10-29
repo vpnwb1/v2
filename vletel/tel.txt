@@ -1,5 +1,5 @@
-vless://28fbe754-e821-42e1-897e-f98a85f795be@104.26.15.80:443?encryption=none&mode=gun&security=tls&serviceName=%40foxnim&sni=v.foxnim.cam&type=grpc
-vless://fc03933c-9b0b-4eab-9c5f-626ea67c5bff@108.162.193.195:8443?security=tls&sni=iraniancp.click&type=ws&host=b4.iraniancp.click&path=%2F%3Fed%3D2048
-vless://135d6171-a88a-40ea-abb0-5610c80a59fb@193.227.99.241:8443?security=tls&sni=ch.donaldvpn.sbs&type=grpc&fp=chrome&alpn=h2,http/1.1
-vless://f608a751-4882-4039-9be7-f1c0a3ef8bf5@104.16.123.175:80?security=none&type=ws&host=de3.vlessx.us&path=%2F%3Fed%3D2048
-vless://0b18e225-242e-458a-9fc2-1c8b351c2198@104.17.153.243:8443?security=tls&sni=telegram.irn-vpn-ay.online&type=grpc&serviceName=@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN,@IRN_VPN
+vless://e9d5bad8-387f-4e02-ae4f-afcdca9c7b08@104.18.203.232:8443?security=tls&sni=ca1.vlessx.info&type=ws&host=ca1.vlessx.info&path=%40freeiranweb&fp=randomized
+vless://a0514d9b-d109-47fd-b173-1e7f83268f21@avval.ir:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
+vless://4e59e0c7-0513-4f24-9d5a-f52634311819@162.159.7.219:2083?security=tls&sni=direct-ns3.cl0udflar3.com&type=grpc&serviceName=Telegramid@arguvpn@arguvpn@arguvpn@arguvpn@arguvpn@arguvpn&fp=chrome&alpn=h2,http/1.1,h3
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.66.47.84:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2096?encryption=none&security=tls&type=ws&sni=baipiao1.curly-train.pages.dev&host=baipiao1.curly-train.pages.dev&path=%2f%3fed%3d2048
