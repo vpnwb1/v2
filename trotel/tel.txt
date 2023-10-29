@@ -1,5 +1,5 @@
-trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.7:10840?security=tls&sni=alibaba-node.cn
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls
-trojan://95532c1dcc@fra1.connecton.surf:443?security=tls
-trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe
-trojan://db4fb0e6-0e5b-4b12-95ac-03e60f5685d7@gshinet1.aiopen.cfd:443?security=tls&sni=20-212-60-88.nhost.00cdn.com
+trojan://1a654941-cc92-4e6d-9962-6f6fa97fc162@5m4h0k01.mcfront.xyz:31611?security=tls
+trojan://Telegram-id-DarkVPNpro-rM7ZLaTzj3@104.16.106.177:8443?security=tls&sni=missi0nlmpossibl3-deadreckoningpart1.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
+trojan://opentunnel.net-imohammad93@54.37.18.204:443?security=tls&sni=ukt-2.opensvr.net&type=tcp&headerType=none
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.6:10850
+trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawszf.aiopen.cfd:35000?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
