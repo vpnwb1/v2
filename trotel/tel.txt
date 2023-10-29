@@ -1,5 +1,5 @@
-trojan://9bfd9903-19ac-428d-9165-5d2780285011@51.38.99.96:443?security=tls&sni=xbox.com&type=tcp&fp=chrome&alpn=http/1.1
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17106?type=tcp&sni=hnm.xiaohouzi.club&allowInsecure=1
-trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.135:10822?allowInsecure=1&sni=alibaba-node.cn
-trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp
-trojan://d7fd8aaa-4581-4281-80aa-4b63e5e1f157@132.145.50.184:443?security=tls
+trojan://93ed0514-854b-4e6c-9967-f8dc4b40db8a@45.12.31.25:443?security=tls&sni=hdfycdn1.cpionline.co&type=ws&host=hdfycdn1.cpionline.co&path=/86mNTlgBQQGC7YNALYx5xYr&fp=chrome
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10813
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men
+trojan://017cc98c-79b8-3459-b7c5-359cee8e2093@lmg1.xiaoliebao.club:443?type=tcp&sni=lmg1.xiaoliebao.club&allowInsecure=1
+trojan://HKZmLDgP@hk2.openssl3.com:15006?security=tls&sni=hk2.openssl3.com
