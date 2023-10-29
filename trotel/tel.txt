@@ -1,5 +1,5 @@
-trojan://@6w7j3p01.mcfront.xyz:31841?security=tls
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.chernigov.ua:2053?security=tls
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@hk.kunlun-ppg.com:10807?security=tls&sni=alibaba-node.cn
-trojan://f504fd96-a098-3861-bafe-13ba6080f9a5@gg.58n.net:20294?type=tcp&sni=z294.hongkongnode.top&allowInsecure=1
-trojan://d4e41ff772c7fd45@5.44.249.42:3306?security=tls
+trojan://9bfd9903-19ac-428d-9165-5d2780285011@51.38.99.96:443?security=tls&sni=xbox.com&type=tcp&fp=chrome&alpn=http/1.1
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17106?type=tcp&sni=hnm.xiaohouzi.club&allowInsecure=1
+trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.135:10822?allowInsecure=1&sni=alibaba-node.cn
+trojan://3ed4d5f3-68e9-42fc-978a-22afc2523e5a@5.104.107.143:443?security=tls&sni=de1.xn--mes358a9urctx.com&type=tcp
+trojan://d7fd8aaa-4581-4281-80aa-4b63e5e1f157@132.145.50.184:443?security=tls
