@@ -1,5 +1,5 @@
-trojan://1b491c39f3@209.216.77.26:443?type=tcp&sni=usa3.connecton.surf&allowInsecure=1
-trojan://78af6d6d-6de7-3a1f-a969-c39077fb47bf@azgy001.xibai6.top:20790?type=tcp&sni=ssl.ssl12.xyz&allowInsecure=1
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@sg.kunlun-ppg.com:10827?security=tls&sni=alibaba-node.cn
-trojan://telegram-id-privatevpns@13.43.228.50:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:19390?security=tls&sni=jp01.ckcloud.info
+trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.7:10840?security=tls&sni=alibaba-node.cn
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls
+trojan://95532c1dcc@fra1.connecton.surf:443?security=tls
+trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe
+trojan://db4fb0e6-0e5b-4b12-95ac-03e60f5685d7@gshinet1.aiopen.cfd:443?security=tls&sni=20-212-60-88.nhost.00cdn.com
