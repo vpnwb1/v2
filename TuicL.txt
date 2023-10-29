@@ -1,0 +1,2 @@
+tuic://3bd82ac3-c6ec-43ad-834d-a5ed7c6686f7:1cd5c8c30cf21c8a@kuroit.yebekhe.link:443?congestion_control=bbr&udp_relay_mode=quic
+tuic://ed6a538a-6e66-4f21-a769-4b389bb2f3ab:dongtaiwang@tuic3.dtku47.xyz:12255?congestion_control=bbr&udp_relay_mode=native&alpn=h3
