@@ -1,5 +1,5 @@
-trojan://3df66137-a428-429c-a858-8b150721b354@143.198.144.23:443?security=tls
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@sub.xiaohouzi.club:16011?security=tls&sni=$$azhk095.xiaohouzi.club
-trojan://dc773e17-d94e-4f6e-a3cd-26c972a08b89@v02.gutingting.com:30049?security=tls&sni=v2sg02.fuqiangren.com
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.134.105:443?security=tls&sni=jp4.pqjc.buzz&type=tcp
-trojan://0b86d368-f585-3c89-b8b5-30630f54cf15@120.226.39.25:19217?security=tls
+trojan://49687a13-99f0-4772-a1f8-af100f4687de@macau.hapchung.com:10443?security=tls&type=tcp&headerType=none
+trojan://ccbdc122-db63-4d56-b995-f3e27fcf4de9@bgptwtoora.uds-global.com:48004?type=tcp&allowInsecure=1
+trojan://Telegram-id-DarkVPNpro-rM7ZLaTzj3@104.16.106.177:8443?security=tls&sni=missi0nlmpossibl3-deadreckoningpart1.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19211tj.matrixxx888.com:19211?type=tcp&sni=eplcgame.com&allowInsecure=1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls&type=tcp&headerType=none
