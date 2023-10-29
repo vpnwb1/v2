@@ -1,5 +1,5 @@
-trojan://b8d70046-fff6-458b-b8c4-65ed044b7c85@4p2t01.abzoones.xyz:36881?allowInsecure=0&peer=pt01.abpilot.xyz&sni=pt01.abpilot.xyz
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.220.97:8443?security=tls&sni=official.taipeicitygovernment.net.ua&type=tcp&headerType=none
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1
-trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&sni=telewebion.com
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.139:10844
+trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@usla.mjt001.com:443?security=tls
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443?security=tls&type=tcp&headerType=none
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@108.181.23.71:443?security=tls&sni=4-193-163-88.nhost.00cdn.com&type=tcp
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443/?type=tcp&security=tls&sni=upay.com&allowInsecure=1
