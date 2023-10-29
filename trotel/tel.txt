@@ -1,5 +1,5 @@
-trojan://93ed0514-854b-4e6c-9967-f8dc4b40db8a@45.12.31.25:443?security=tls&sni=hdfycdn1.cpionline.co&type=ws&host=hdfycdn1.cpionline.co&path=/86mNTlgBQQGC7YNALYx5xYr&fp=chrome
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10813
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men
-trojan://017cc98c-79b8-3459-b7c5-359cee8e2093@lmg1.xiaoliebao.club:443?type=tcp&sni=lmg1.xiaoliebao.club&allowInsecure=1
-trojan://HKZmLDgP@hk2.openssl3.com:15006?security=tls&sni=hk2.openssl3.com
+trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@7p3h01.abzoones.xyz:36801?type=tcp&headerType=none
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls
+trojan://784d5c1f-69d8-4967-bc61-426983744ee5@t2.google.bforward2.uk:443?security=tls
+trojan://7cb0d977-799e-4768-9ec6-ccd179a92715@104.24.176.7:443?security=tls&sni=cloud.sobhan.fun&type=grpc&serviceName=W7RfbbiLXkwg7c77nOp2OO8SeT&fp=firefox&alpn=http/1.1
+trojan://saMgiangGt@199.181.197.71:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2
