@@ -1,5 +1,5 @@
-trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@7p3h01.abzoones.xyz:36801?type=tcp&headerType=none
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19248?security=tls
-trojan://784d5c1f-69d8-4967-bc61-426983744ee5@t2.google.bforward2.uk:443?security=tls
-trojan://7cb0d977-799e-4768-9ec6-ccd179a92715@104.24.176.7:443?security=tls&sni=cloud.sobhan.fun&type=grpc&serviceName=W7RfbbiLXkwg7c77nOp2OO8SeT&fp=firefox&alpn=http/1.1
-trojan://saMgiangGt@199.181.197.71:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2
+trojan://b8d70046-fff6-458b-b8c4-65ed044b7c85@4p2t01.abzoones.xyz:36881?allowInsecure=0&peer=pt01.abpilot.xyz&sni=pt01.abpilot.xyz
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@183.240.220.97:8443?security=tls&sni=official.taipeicitygovernment.net.ua&type=tcp&headerType=none
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemk.ciscocdn1.live:443/?type=tcp&security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1
+trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&sni=telewebion.com
