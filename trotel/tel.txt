@@ -1,5 +1,5 @@
-trojan://mainssh-niwrhf87@95.179.246.122:443?type=grpc&sni=getgrpc.mainssh.xyz&allowInsecure=1&serviceName=trojangrpc
-trojan://2a898bd8-c0d1-4f7d-a88e-831d5682a9b9@us02.isddns.tk:65526?allowInsecure=0&peer=us02.isddns.tk&sni=us02.isddns.tk
-trojan://telegram-id-privatevpns@46.51.204.118:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@63.32.206.9:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://46a5bad7-cdeb-4811-804e-b37327d3ef8a@nsaghhfhitw.559xp5.cn:443?allowInsecure=0
+trojan://e23f408a-012e-4030-8b31-02022031cb50@129.146.135.157:443?security=tls&type=tcp&headerType=none
+trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@us3.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:41767?security=tls&sni=x114.flybar.work&type=tcp&headerType=none
+trojan://ce433528-39fa-4711-bc0d-25a5b1579574@us-05.licom.ml:12501
