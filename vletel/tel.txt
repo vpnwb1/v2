@@ -1,5 +1,5 @@
-vless://d4ef34ee-203a-47f5-9012-043cefd3c336@151.115.77.253:443?security=tls&type=grpc&sni=granges.milkywaygalaxy.website&encryption=none&headerType=none
-vless://ee4d667c-26ad-44d0-80d4-3f56bfeda5a6@[::ffff:ac43:a196]:2053?security=tls&sni=iraniazad10.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
-vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@172.67.142.245:80?security=none&type=ws&host=jdodlhsh6djd0.%E7%90%83%E8%BF%90%E5%8A%A8%E5%88%97%E8%BF%9020.tech&path=%2F
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.236.252.132:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
-vless://7d8f1672-e3d8-4ae9-ee2e-4a0bd883a555@95.142.40.124:443?encryption=none&security=reality&sni=eset.com&fp=firefox&pbk=I4GxAZOzh1MAZ5qYraUMmfly3mnKrw7bY_7Yu7Yo1CU&sid=552e548e32bd&type=http&path=%2F
+vless://ac3f3521-3e09-4ae8-a37b-3eb29509b0bf@188.114.96.12:443?security=tls&sni=whdsfhdfjxvodidsjivk.gamefasion.online&type=ws&path=%2F
+vless://7fa0ed5f-4c53-4fa9-af42-46fb2ca1279a@146.70.169.114:443?security=tls&sni=65qPXvw0.youthinkyoucanstopmefyoudpi.site&type=ws&host=65qPXvw0.youthinkyoucanstopmefyoudpi.site&path=%2F&fp=ios
+vless://d7f84592-8cc4-44ac-abdb-75e31b24077e@128.140.116.137:2053?security=reality&flow=xtls-rprx-vision&sni=wordpress.org&type=tcp&fp=firefox&pbk=Lp6X4A3J3_KEXnTKU0InEH9mWh-DF45WvY37eR5YOlc&sid=9b28db76
+vless://55ff4af5-5a42-46c3-a694-14916ca19565@172.67.183.5:8443?security=tls&sni=cdn.lepingshop.top&type=grpc&fp=firefox
+vless://Parsashonam-49@Mci0.Tel-Parsashonam.Website:2087?alpn=&fp=&security=tls&serviceName=%40Parsashonam&sni=De1.Parsashonam.Tech&type=grpc
