@@ -1,5 +1,5 @@
-trojan://789deb40-7e9a-11ed-8512-1239d0255272@51.222.86.136:443?security=tls&sni=google.com&type=tcp&headerType=none
-trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:36872?type=tcp&sni=freeus.xiaohouzi.club&allowInsecure=1
-trojan://telegram-id-directvpn@34.251.172.224:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@chjs.stablize.top:443/?type=tcp&security=tls&allowInsecure=1
-trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443?security=tls&sni=pjp5.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls
+trojan://517ccb0754@5.199.143.230:443?security=tls&sni=de1.connecton.surf&type=tcp
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.6:10807
+trojan://c2e17ff5-743c-474e-baca-19ddec3c1cbe@microsoft-hk.syjd.xyz:443?allowInsecure=1&peer=43-198-153-109.xn--vhqv2wrsai41h.com&sni=43-198-153-109.xn--vhqv2wrsai41h.com
+trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?security=tls&type=tcp&headerType=none
