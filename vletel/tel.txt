@@ -1,5 +1,5 @@
-vless://ac3f3521-3e09-4ae8-a37b-3eb29509b0bf@188.114.96.12:443?security=tls&sni=whdsfhdfjxvodidsjivk.gamefasion.online&type=ws&path=%2F
-vless://7fa0ed5f-4c53-4fa9-af42-46fb2ca1279a@146.70.169.114:443?security=tls&sni=65qPXvw0.youthinkyoucanstopmefyoudpi.site&type=ws&host=65qPXvw0.youthinkyoucanstopmefyoudpi.site&path=%2F&fp=ios
-vless://d7f84592-8cc4-44ac-abdb-75e31b24077e@128.140.116.137:2053?security=reality&flow=xtls-rprx-vision&sni=wordpress.org&type=tcp&fp=firefox&pbk=Lp6X4A3J3_KEXnTKU0InEH9mWh-DF45WvY37eR5YOlc&sid=9b28db76
-vless://55ff4af5-5a42-46c3-a694-14916ca19565@172.67.183.5:8443?security=tls&sni=cdn.lepingshop.top&type=grpc&fp=firefox
-vless://Parsashonam-49@Mci0.Tel-Parsashonam.Website:2087?alpn=&fp=&security=tls&serviceName=%40Parsashonam&sni=De1.Parsashonam.Tech&type=grpc
+vless://f28cd70c-bee3-4b3e-a69a-c43feccc73d4@[::ffff:6810:1512]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
+vless://6ebbc0ad-30a0-4b73-a443-ec5c0e1c2e44@104.24.145.43:2053?security=tls&sni=vip3.futurevpn.fun&type=ws&host=vip3.futurevpn.fun&path=%2F
+vless://dbebf3a2-15b8-4ee3-851e-64e4a445807e@108.138.156.39:443?security=tls&sni=d62bac6henfyu.cloudfront.net&type=ws&path=%2Fcurrent_time
+vless://f02c52fa-dde8-4099-aa2b-1c107e31bc48@[::ffff:6812:996]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
+vless://dc39bc37-bc03-4ba2-80fc-9298b6d3a5c7@104.16.75.25:2083?security=tls&sni=ns1.funlifea.shop&type=grpc&serviceName=@V2RAY_SHOP_2@چنلسازنده_عضوشوید&alpn=http/1.1,h2
