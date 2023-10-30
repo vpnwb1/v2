@@ -1,5 +1,5 @@
-vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@162.159.152.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link&path=%2F%3Fed%3D2048
-vless://e3a588bd-a0e2-48fb-a01c-ac82c3dea161@104.25.134.24:443?security=tls&sni=ls.LxV2ray.top&type=ws&host=ls.LxV2ray.top&path=%2F
-vless://de608bad-6c21-42d8-b217-cb734b175940@all.shhproxy.cfd:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Shh_Proxy,@Shh_Proxy&amp;sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site
-vless://ba1dff9e-1c1a-4673-8ac7-a68785accac9@104.24.176.7:443?encryption=none&security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F
-vless://16908063-6db5-456d-bdd7-22b1e79fcd47@full.safeamnetwork.xyz:44364?security=none&amp;encryption=none&amp;host=internet.life.com.by&amp;headerType=http&amp;type=tcp
+vless://2341ad79-dac0-490b-8ddd-c831ebe6ace9@104.31.16.61:2052?security=none&type=ws&host=gb1.vlessx.info&path=%2F%3Fed%3D2048
+vless://e595b11b-7e61-4d46-a264-57d3d2a46811@[::ffff:6812:12b3]:2053?security=tls&sni=iraniazad9.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
+vless://Id-telegram-CloudCityy@128.140.45.124:8443?security=reality&amp;encryption=none&amp;pbk=ahdH2japc4Xb-EDSg0kfvT4FnRZMB5IJ8MFxSGhWEDo&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=www.discord.com&amp;sid=9d34f7fb
+vless://b41a2f66-fde4-40a9-93eb-160205a8a4f5@104.16.219.230:80?security=none&type=ws&host=gamingwi.libraryriazi.sbs&path=%2F
+vless://701e7275-c11a-4e73-9c86-367f41115da9@172.67.183.108:443?security=tls&sni=a.mehdimoghaddam.fun&type=grpc&serviceName=FqD8KhKvwefBHmTZ&fp=chrome&alpn=h2
