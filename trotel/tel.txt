@@ -1,5 +1,5 @@
-trojan://UDjnMps8j7@38.54.33.93:59774?
-trojan://95532c1dcc@51.158.63.14:443/?type=tcp&security=tls&sni=fra1.connecton.surf
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls&type=tcp&headerType=none
-trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@138.2.85.162:10001/?type=tcp&security=tls&sni=sg1.fighting.win
-trojan://0c6a3341e8d5ab17@60.249.3.231:3306/?type=tcp&security=tls&allowInsecure=1
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp
+trojan://a97524f0-732a-4387-89bb-5905eb3e7e0a@158.247.236.180:80?security=tls&sni=bsjjn0090.ir&type=tcp
+trojan://c68e3c20-da73-4791-b4d8-7011a98ba06b@kbawsjp1.aiopen.cfd:443/?type=tcp&security=tls&allowInsecure=1
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:47552?type=tcp&sni=$douk01.xiaohouzi.club&allowInsecure=1
