@@ -1,5 +1,5 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.net.ua:8443/?type=tcp&security=tls&allowInsecure=1
-trojan://cf1df355-e505-44a5-9c80-3fe732de1c71@dejs.stablize.top:443/?type=tcp&security=tls&allowInsecure=1
-trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemc.cdncisco.org:443?type=ws&sni=c5mc.cdncisco.org&allowInsecure=1&path=/5CSwsJSwLmxCxOCSBhOZubb&host=c5mc.cdncisco.org
-trojan://44c5578a7c@fi1.connecton.surf:443/?type=tcp&security=tls
-trojan://kSZddpnUKy@150.136.57.125:41106?security=tls
+trojan://telegram-id-directvpn@16.16.93.53:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://574203a0-55b2-47b4-b8dd-79670d70217e@gzdx01.jcnode.top:22243?allowInsecure=1&peer=id01.ckcloud.info&sni=id01.ckcloud.info
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443?security=tls&sni=ch.mjt001.com&type=tcp&headerType=none
+trojan://23fd9f2e-7ff8-4d98-8099-8acce9499433@tj2.dalazhi.eu.org:443
+trojan://your_password@43.205.109.9:443/?type=tcp&security=tls&sni=aws-in-mumbai-1.f1rocketnode.com
