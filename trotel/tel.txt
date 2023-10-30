@@ -1,5 +1,5 @@
-trojan://49687a13-99f0-4772-a1f8-af100f4687de@macau.hapchung.com:10443?security=tls&type=tcp&headerType=none
-trojan://ccbdc122-db63-4d56-b995-f3e27fcf4de9@bgptwtoora.uds-global.com:48004?type=tcp&allowInsecure=1
-trojan://Telegram-id-DarkVPNpro-rM7ZLaTzj3@104.16.106.177:8443?security=tls&sni=missi0nlmpossibl3-deadreckoningpart1.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
-trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19211tj.matrixxx888.com:19211?type=tcp&sni=eplcgame.com&allowInsecure=1
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.odesa.ua:2053?security=tls&type=tcp&headerType=none
+trojan://d7336719-df8e-4902-a7e1-8ff2c324eda3@edge02.themars.top:31106?security=tls&type=tcp&headerType=none
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443?security=tls
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.127:443?sni=c2mk.ciscocdn1.live&allowInsecure=1
+trojan://9Mdw86d7Cz@132.145.208.20:443/?type=tcp&security=tls&sni=no.09.ijg.cc
+trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk
