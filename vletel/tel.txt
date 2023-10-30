@@ -1,5 +1,5 @@
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.18.250.47:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
-vless://120393d8-a64a-4586-af6a-6439e2a8b6ed@154.92.9.194:443?encryption=none&security=tls&sni=cfpg-1es.pages.dev&type=ws&path=%2F%3Fed%3D2048
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.18.27.8:443?encryption=none&security=tls&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2f%3fed
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@104.22.32.78:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
-vless://69ce7d4f-5bb3-415d-d1ac-ca21c3a00ea8@65.109.240.7:59849?security=none&type=tcp&host=speedtest.net&headerType=http
+vless://d74d8e62-90c2-4fee-bcf3-d239956ee51a@162.159.152.0:2096?security=tls&sni=jp.vps.wengmail.link&type=ws&host=jp.vps.wengmail.link&path=%2F%3Fed%3D2048
+vless://e3a588bd-a0e2-48fb-a01c-ac82c3dea161@104.25.134.24:443?security=tls&sni=ls.LxV2ray.top&type=ws&host=ls.LxV2ray.top&path=%2F
+vless://de608bad-6c21-42d8-b217-cb734b175940@all.shhproxy.cfd:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Shh_Proxy,@Shh_Proxy&amp;sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site
+vless://ba1dff9e-1c1a-4673-8ac7-a68785accac9@104.24.176.7:443?encryption=none&security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F
+vless://16908063-6db5-456d-bdd7-22b1e79fcd47@full.safeamnetwork.xyz:44364?security=none&amp;encryption=none&amp;host=internet.life.com.by&amp;headerType=http&amp;type=tcp
