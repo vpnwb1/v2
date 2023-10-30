@@ -1,5 +1,5 @@
-vless://462abff6-c0fc-41a0-9b12-42cae4d21b43@185.18.250.119:2096?security=tls&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop&type=tcp
-vless://f9bcd6fe-c888-4497-8900-197ca75ba992@5.75.168.113:443?security=reality&sni=www.iranserver.com&type=grpc&serviceName=@EliV2ray-@EliV2ray&fp=firefox&pbk=9F_UVtaunHWwWoF_RoJuCnpT7tNlZqM7OoRr2App53s&sid=8e46725c
-vless://584b3e9a-54c9-4efe-8cdf-f7bb30bbb9fb@5.42.86.226:10050?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=N_fWaOdQNFoMq3I5pOaXArQ1ljmBEyLvHqdBCZXAu3Y&sid=c026feb232a8c68c
-vless://10dba0cf-a51f-8cd6-eae4-3015724a9873@77.72.81.101:443?security=reality&flow=xtls-rprx-vision&sni=pcmag.com&type=tcp&fp=random&pbk=KHwISRdOGqVtedsbfJ-aEoSLNL0zmRTr8C-RIaL9eSg&sid=7afee0ffe07f9c88&alpn=h2,http/1.1
-vless://9a37341b-5a07-432c-beea-372b0964ffeb@104.17.212.196:443?security=tls&sni=cf-1wy.pages.dev&type=ws&host=cf-1wy.pages.dev&path=%2F
+vless://77239301-8431-4440-9c42-8ac098094cdf@[::ffff:78.46.186.187]:57381?security=reality&sni=ftp.debian.org&fp=chrome&pbk=cy9FTlz7K_ZzNITkar9nze1B4zG6kueoVq6oT_in-Uo&sid=ecc37fb0&type=tcp&encryption=none
+vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:443?security=tls&sni=workerr.mcgrooge12.workers.dev&type=ws&host=workerr.mcgrooge12.workers.dev&path=%2F%3Fed%3D2048&fp=chrome
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@172.66.44.82:443?security=tls&type=ws&sni=edtunnel-b6t.pages.dev&path=/&encryption=none&headerType=none
+vless://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt1.cdncisco2.co:443?security=tls&type=ws&sni=c1mt.cdncisco2.co&path=/1e10slK6ycaRHd0oPABKBhcIX&encryption=none&headerType=none
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.17.57.126:2083?security=tls&sni=freeat.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
