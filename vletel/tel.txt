@@ -1,5 +1,5 @@
-vless://de18c32c-c404-47d6-ba4d-b955a214273d@216.107.136.162:443?security=none&type=tcp&host=fastmail.com&headerType=http
-vless://azadi_az_inja_migzare_mci@azadi-az-inja-migzare-3.dgi000.store:42298?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=W6J_7c7XKaMeCk8Jfqa7CIhXQ3tyuG-uNbu3rizvzEk&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=speed.cloudflare.com&amp;sid=b9717a
-vless://1311303c-e764-474c-a7d7-db46c67b7a9b@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@LIGHTNING6&amp;sni=Z.LiV2ray.top
-vless://f29fc901-c415-4f5a-83b9-1f30c3c8d358@162.159.25.11:2053?security=tls&sni=free.boredhot.cloud&type=grpc&serviceName=@bored_vpn@bored_vpn@bored_vpn@bored_vpn
-vless://c9e4c2e3-fd52-4a2f-a9ae-ec0de14d8cee@5.42.86.226:8443?security=reality&sni=taunusgaerten.com&fp=chrome&pbk=N_fWaOdQNFoMq3I5pOaXArQ1ljmBEyLvHqdBCZXAu3Y&sid=c026feb232a8c68c&type=tcp&flow=xtls-rprx-vision&encryption=none
+vless://63f1f221-443b-4164-8f96-373e26fb6026@104.18.202.232:2083?security=tls&type=ws&sni=dk1.vlessx.info&path=@astrovpn_ir @astrovpn_ir @astrovpn_ir @astrovpn_ir @astrovpn_ir @astrovpn_ir @astrovpn_ir&encryption=none&headerType=none
+vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:6810:2b61]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
+vless://304d89a8-58a7-4d43-a5af-71b5d0cb7072@168.119.64.225:2053?security=reality&sni=cdn.discordapp.com&type=grpc&serviceName=%40vmessorg&fp=chrome&pbk=CabAOOr6qW7yp1rAFAeTZrZ_QFh5rqxYaiW9rYidkEg&sid=1346e687
+vless://f71fa550-fe5d-444e-917e-6bdf9c644a24@8.222.220.108:80?security=none&type=ws&host=yd1.rtacg.com&path=%2F
+vless://00201ffb-844f-495d-9ce5-0369a2060f0a@104.16.30.85:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
