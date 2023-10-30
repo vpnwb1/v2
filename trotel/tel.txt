@@ -1,5 +1,5 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls
-trojan://517ccb0754@5.199.143.230:443?security=tls&sni=de1.connecton.surf&type=tcp
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.6:10807
-trojan://c2e17ff5-743c-474e-baca-19ddec3c1cbe@microsoft-hk.syjd.xyz:443?allowInsecure=1&peer=43-198-153-109.xn--vhqv2wrsai41h.com&sni=43-198-153-109.xn--vhqv2wrsai41h.com
-trojan://1bf16b43-0ad5-4512-a0e8-34bb8966278e@uk.stablize.top:443?security=tls&type=tcp&headerType=none
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.169.142.249:443?sni=c1mc.cdncisco3.co&type=ws&host=c1mc.cdncisco3.co&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://telegram-id-privatevpns@13.36.29.111:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.6:10849
+trojan://Sp3eDVp@185.212.200.75:443?security=tls
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@sg.mjt001.com:443/?type=tcp&security=tls&sni=sg.mjt001.com&allowInsecure=1
