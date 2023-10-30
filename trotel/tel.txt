@@ -1,5 +1,5 @@
-trojan://e95194b4-bc7e-497f-876a-686e127e0b65@kcdtw1-tg-data.amazonwebservicess.com:443?type=tcp&sni=data.amazonwebservicess.com&allowInsecure=1
-trojan://telegram-id-directvpn@18.170.149.165:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk04.trojanyyds.xyz:443
-trojan://TJCfE7Mx2YcA8kX8zg@us1.chuqiangtou.net:4003?security=tls&type=tcp&headerType=none
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com&type=tcp&headerType=none
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?security=tls&type=tcp&headerType=none
+trojan://c8e877d3-2909-416d-aa5a-6d1722a374bd@ssrsub.t19.trojan.tel:80?security=tls&sni=ssrsub.t19.trojan.tel&type=tcp&headerType=none
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics
+trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36611?type=tcp&headerType=none
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20294?security=tls&sni=x294.flybar.work
