@@ -1,5 +1,5 @@
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.234:443?security=tls
-trojan://7d0f1f83-0f2f-4b90-930e-de44ac233fef@sg.stablize.top:443?security=tls
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@other.binguo.link:10846?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://1a654941-cc92-4e6d-9962-6f6fa97fc162@5m4h0k01.mcfront.xyz:31301?security=tls
-trojan://tune7jerky7HAYRICK@ty1-1.openssl3.com:1443?security=tls
+trojan://749eec2c-7dd3-42cc-919a-6016635475f6@104.21.48.84:443?security=tls&sni=0px.pardazesh.tech&type=ws&host=0px.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=http/1.1
+trojan://e35026da-e985-49ca-b43b-276062a535a6@172.67.150.82:443?sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&allowInsecure=1
+trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls
+trojan://e60c4551-6f52-45fa-8926-90eb9b1008be60c4551-6f52-45fa-8926-90eb9b1008be@6w7j3p01.mcfront.xyz:31831?security=tls
