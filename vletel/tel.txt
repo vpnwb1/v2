@@ -1,5 +1,5 @@
-vless://ff953f9d-c9da-4b3d-b98f-f8104bd17b97@91.107.175.45:8443?security=reality&sni=mihanyas.ir&type=grpc&fp=chrome&pbk=Nlm8g79SysxxyaXvIbbFx7MQknguUOMwBdcCHFe5RB8&sid=145ea85a
-vless://052d1973-890f-4a07-8291-b83381bcedb5@108.138.156.89:443?security=tls&sni=d3t72wi8vdrdns.cloudfront.net&type=ws&path=/current_time
-vless://5aa81b67-8119-454b-8e46-30178b4a89a0@[::ffff:6812:9f1]:2053?security=tls&sni=iraniazad4.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
-vless://81eabb8f-4884-4974-aa2b-e14d50a9e346@31.171.241.34:443?security=reality&sni=iranserver.com&type=grpc&fp=firefox&pbk=d9JzqCQb2OGSpf7da0pjvwtOVSHCgvm5qfKM1kfiDn4&sid=f09af448
-vless://cede337b-9ea5-40e5-a8b1-690bf49ff41d@storeships.toptechnonews.com:443?security=tls&type=ws&sni=storeships.toptechnonews.com&path=/nimws&encryption=none&headerType=none
+vless://c0f57506-2e4a-4e9e-a886-9a00459a1d29@104.21.69.44:2095?security=none&type=ws&path=%2FTelegram%3A%40VPNHUB69%2CTelegram%3A%40VPNHUB69%2CTelegram%3A%40VPNHUB69%2CTelegram%3A%40VPNHUB69%2C
+vless://5c096904-d1ce-486c-9e1f-757e27b4244a@5.75.214.174:443?security=reality&sni=www.iranserver.com&type=grpc&fp=chrome&pbk=NUXzekpnYOisWQrl5Hidhxmzto5eF-pzZCqhRRrsuVg&sid=ce356e2c
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@172.83.73.239:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
+vless://6b7376dd-11d8-443c-804a-996072aefd81@13.50.245.93:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;security=reality&amp;pbk=y2BipUHvgbNWnpBQuXNyZzqN_ip3mTLYMeXvP6RIXGw&amp;sid=5e
+vless://cf9062d0-1e05-4b3c-aebd-06d90d8d6b66@5.42.77.255:10050?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=0rAYku30A4yC5po16K0j5uq54E2RGuaSrwCiA-508CI&sid=04a5d5e1d13223a3
