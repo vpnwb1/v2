@@ -1,5 +1,5 @@
-trojan://d256e73b-8259-490a-aeb5-23f6a3636a1a@tj1.dalazhi.eu.org:443?security=tls
-trojan://saMgiangGt@104.21.18.57:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2
-trojan://559038e6-86dc-4b83-a5b4-aa37283b7dec@lin1gbd-fvb2cndjisd.559xp5.cn:443?allowInsecure=0
-trojan://telegram-id-privatevpns@13.50.161.93:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://d7fd8aaa-4581-4281-80aa-4b63e5e1f157@132.145.50.184:443?security=tls
+trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@8h2k03.abzoones.xyz:36611?type=tcp&headerType=none
+trojan://telegram-id-directvpn@18.130.204.79:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19353?security=tls&sni=a89.xiaohouzi.club
+trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@us.kunlun-ppg.com:10820?security=tls&sni=alibaba-node.cn
+trojan://telegram-id-directvpn@52.47.48.116:22222?security=tls&sni=trj.rollingnext.co.uk
