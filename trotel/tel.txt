@@ -1,5 +1,5 @@
-trojan://128a9ff1-98df-4c89-bff6-890f67a97d69@8h2k03.abzoones.xyz:36611?type=tcp&headerType=none
-trojan://telegram-id-directvpn@18.130.204.79:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hnm.xiaohouzi.club:19353?security=tls&sni=a89.xiaohouzi.club
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@us.kunlun-ppg.com:10820?security=tls&sni=alibaba-node.cn
-trojan://telegram-id-directvpn@52.47.48.116:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://fe8977f9-d5e3-4f31-b0b4-8bb86ad0db28@5c1a01.abzoones.xyz:36701?allowInsecure=0&peer=ca01.abpilot.xyz&sni=ca01.abpilot.xyz
+trojan://ccbdc122-db63-4d56-b995-f3e27fcf4de9@bgptwtoora.uds-global.com:48004?type=tcp&allowInsecure=1
+trojan://6ea0337d-ee2e-b495-0c0e-48db8524b39c@awsjp.blowm1k.club:443?type=tcp&allowInsecure=1
+trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@swejs.stablize.top:443/?type=tcp&security=tls&allowInsecure=1
+trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@gsawsjp1.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com
