@@ -1,5 +1,5 @@
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.197.82:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=yqwbsnzdh21493americanexpress.com/en-us/business/blueprint/business-line-of-credit/?refid%3Damex_p2_sem_nb_p2-loc-gdn-inmarket_ad30_inc%7Ceaiaiqobchmimumjsnz_gamvrzhpcb1q9grxeaeyasaaegjhxfd_bwe
-vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:6815:3914]:2053?security=tls&sni=iraniazad9.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
-vless://10c90766-3d47-4f69-a5f6-481611c0c4aa@51.81.210.121:29002?security=none&type=tcp&host=internet.life.com.by&headerType=http
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.238.228.4:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
-vless://d8fd35e7-25f7-452d-852a-6ad1cfb3c9b8@104.16.67.38:443?security=tls&sni=ftp.pardazesh.tech&type=ws&host=ftp.pardazesh.tech&path=%2FIBKhLjYHCvBr0r2HZ1tSkA&fp=chrome&alpn=http/1.1
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@198.41.205.136:443?security=tls&sni=freeat.marksmancdn14.com&type=ws&host=freeat.marksmancdn14.com&path=%2Fat&fp=chrome&alpn=http%2F1.1
+vless://552ce8fd-0b73-45d2-b5c2-691e96469b43@190.93.246.241:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=de27.vlessx.us&amp;fp=randomized&amp;type=ws&amp;sni=de27.vlessx.us
+vless://a1a98aa4-1e38-40eb-b2e3-2c115d610c7f@[::ffff:6810:b44f]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
+vless://e2e87895-20bf-4a71-9e20-8c379a72252c@[::ffff:6ca2:c0ba]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.18.200.220:2053?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048
