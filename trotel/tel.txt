@@ -1,5 +1,5 @@
-trojan://09fd9b18-ca9c-468d-8e5b-6d057cc9370b@hk.kunlun-ppg.com:10808?type=tcp&sni=alibaba-node.cn&allowInsecure=1
-trojan://telegram-id-privatevpns@3.254.128.82:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.176:443?security=tls&sni=sg1.pqjc.buzz
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12348?type=tcp&sni=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou&allowInsecure=1
-trojan://9e425c4b-6cee-4399-b72c-fac2dbb8c95f@t5.583181.xyz:1272/?type=tcp&security=tls&sni=www.baidu.com
+trojan://telegram-id-privatevpns@35.157.14.187:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@jp.kunlun-ppg.com:10817?security=tls&sni=alibaba-node.cn
+trojan://telegram-id-directvpn@18.157.49.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://0c5120b3-56a7-48da-9fd9-92fe58709a31@1j8p01.abzoones.xyz:36301?security=tls
+trojan://0c6a3341e8d5ab17@60.249.3.231:3306/?type=tcp&security=tls&allowInsecure=1
