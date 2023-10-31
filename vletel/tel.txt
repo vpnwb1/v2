@@ -1,5 +1,5 @@
-vless://f28cd70c-bee3-4b3e-a69a-c43feccc73d4@[::ffff:6810:1512]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
-vless://6ebbc0ad-30a0-4b73-a443-ec5c0e1c2e44@104.24.145.43:2053?security=tls&sni=vip3.futurevpn.fun&type=ws&host=vip3.futurevpn.fun&path=%2F
-vless://dbebf3a2-15b8-4ee3-851e-64e4a445807e@108.138.156.39:443?security=tls&sni=d62bac6henfyu.cloudfront.net&type=ws&path=%2Fcurrent_time
-vless://f02c52fa-dde8-4099-aa2b-1c107e31bc48@[::ffff:6812:996]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
-vless://dc39bc37-bc03-4ba2-80fc-9298b6d3a5c7@104.16.75.25:2083?security=tls&sni=ns1.funlifea.shop&type=grpc&serviceName=@V2RAY_SHOP_2@چنلسازنده_عضوشوید&alpn=http/1.1,h2
+vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:6810:e20a]:2053?security=tls&sni=iraniazad9.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
+vless://8ca98c98-fb0b-4007-a6e8-c8294e546763@135.181.29.120:443?encryption=none&fp=chrome&pbk=EwDqXy7Y1vZTco-H12ftBu7xX0k0s0lvuSJ4MiQFnBo&security=reality&serviceName=6eenmFpWJ6RknrPH6qK9&sid=af&sni=www.speedtest.net&type=grpc
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@45.159.219.251:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.158.70.70:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@185.176.26.7:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
