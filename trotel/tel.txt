@@ -1,5 +1,5 @@
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@141.147.149.171:443?security=tls&sni=jp2.twincloud.xyz&type=tcp&headerType=none
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls
-trojan://telegram-id-privatevpns@15.237.50.200:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@other.kunlun-ppg.com:10845?security=tls&sni=alibaba-node.cn
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls
+trojan://fMucnQTndf@no.08.ijg.cc:443?security=tls
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10837
+trojan://22dxmxezsm@104.21.94.249:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&type=grpc&serviceName=Amsterdam&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:33323?security=tls&sni=z261.hongkongnode.top&type=tcp&headerType=none
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.89:443?security=tls&sni=pus3.pqjc.buzz&type=tcp&allowInsecure=1
