@@ -1,5 +1,5 @@
-trojan://749eec2c-7dd3-42cc-919a-6016635475f6@104.21.48.84:443?security=tls&sni=0px.pardazesh.tech&type=ws&host=0px.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=http/1.1
-trojan://e35026da-e985-49ca-b43b-276062a535a6@172.67.150.82:443?sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&allowInsecure=1
-trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com&type=tcp
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls
-trojan://e60c4551-6f52-45fa-8926-90eb9b1008be60c4551-6f52-45fa-8926-90eb9b1008be@6w7j3p01.mcfront.xyz:31831?security=tls
+trojan://09fd9b18-ca9c-468d-8e5b-6d057cc9370b@hk.kunlun-ppg.com:10808?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://telegram-id-privatevpns@3.254.128.82:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@23.227.38.176:443?security=tls&sni=sg1.pqjc.buzz
+trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou:12348?type=tcp&sni=lv3oiwdaxsaowhdnjkzxw.occwaszxjjhwx.cyou&allowInsecure=1
+trojan://9e425c4b-6cee-4399-b72c-fac2dbb8c95f@t5.583181.xyz:1272/?type=tcp&security=tls&sni=www.baidu.com
