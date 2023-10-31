@@ -1,5 +1,5 @@
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10836
-trojan://3lD02gV3qu@188.114.96.179:2096?security=tls&sni=Ue4fDcL-Yi0qW3s5cF-V0opL73fS.eiiim.online&type=ws&host=eiiim.eiiim.online&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.
-trojan://VpRuqFDCJo@138.2.234.225:45555/?type=tcp&security=tls
-trojan://f89390de-248e-4a5f-b50e-35be0cd965a1@v01.gutingting.com:20220?security=tls&sni=v2jp01.fuqiangren.com
-trojan://17b17f4a-bb2f-4156-96e1-030d130671e3@1j8p01.abzoones.xyz:36831?security=tls
+trojan://Telegram-id-DarkVPNpro-rM7ZLaTzj3@104.21.198.255:8443?security=tls&sni=missi0nlmpossibl3-deadreckoningpart1.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@160.16.145.107:2053?security=tls
+trojan://79770a32-9607-4919-9483-0f1794559390@nika3hdfy2.foriran.trade:443?type=grpc&sni=nika3hdfy2.foriran.trade&allowInsecure=1&serviceName=M9hnxw1wCQSfVHaiznU
+trojan://telegram-id-directvpn@18.203.118.190:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://cc55e294-b76f-425a-9301-c18afbecaa22@jp.liangyuandian.top:443?security=tls
