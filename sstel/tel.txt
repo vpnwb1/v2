@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@195.154.185.174:989
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@134.195.196.107:3306
-ss://eyJhZGQiOiJvY3RhdmkuY2ZkIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJvY3RhdmkuY2ZkIiwiaWQiOiIwM2ZjYzYxOC1iOTNkLTY3OTYtNmFlZC04YTM4Yzk3NWQ1ODEiLCJuZXQiOiJ3cyIsInBhdGgiOiJsaW5rdndzIiwicG9ydCI6IjQ0MyIsInBzIjoiQFZNRVNTSVI0TiDYrNmH2Kog2K7YsduM2K8g2qnYp9mG2YHbjNqvINin2K7Yqti12KfYtduMIiwic2N5IjoiYXV0byIsInNuaSI6Im9jdGF2aS5jZmQiLCJ0bHMiOiJ0bHMiLCJ0eXBlIjoiIiwidiI6IjIifQ==<br/><br/>vless://b0138d55-a493-4dc3-9932-c6f0391707c1@162.159.36.66:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=edge.020770.xyz&amp;type=ws&amp;sni=edge.020770.xyz
-ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@184.170.241.194:443
-ss://8de3b680-ba6c-4661-999d-01507cb131ec@v2line.telegram.channel.1326.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443?encryption=none&amp;security=none&amp;type=ws&amp;host=internet.life.com.by&amp;path=%2F
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.21:3306
+ss://YWVzLTI1Ni1jZmI6OWQ2Y2NlYWEzNzNiZjJjOGFjYjIyZTYwYjZhNThiZTY@45.79.111.214:443
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.91.107.16:7307
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpMYW02bWdJMFpuSXFUNDU5Q1RUT0pS@us01.shawbrothersstudio.com:19922
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzc2ZjI3MC0xODA3LTQ1MjItOWY5Mi1iNDk5NjU4YTI2Nzg=@hefei.chiguayun.cc:27140
