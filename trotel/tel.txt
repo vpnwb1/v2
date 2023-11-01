@@ -1,5 +1,5 @@
-trojan://3lD02gV3qu@188.114.96.179:2096?security=tls&sni=Ue4fDcL-Yi0qW3s5cF-V0opL73fS.eiiim.online&type=ws&host=eiiim.eiiim.online&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.
-trojan://c8e877d3-2909-416d-aa5a-6d1722a374bd@ssrsub.t19.trojan.tel:80?security=tls&sni=ssrsub.t19.trojan.tel&type=tcp&headerType=none
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none
-trojan://egrIpdgJHx@telegram-id.outline-ir.xyz:40277?security=none&headerType=http&type=tcp
-trojan://f362520c-6f12-409e-93ef-492c46cdefe6@gzdx01.jcnode.top:10444?allowInsecure=1&peer=jp03.ckcloud.info&sni=jp03.ckcloud.info
+trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@other.kunlun-ppg.com:10850?security=tls&sni=alibaba-node.cn
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10840?security=tls&sni=alibaba-node.cn
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?security=tls
+trojan://2Telegram-id-DarkVPNpro@104.16.58.135:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&alpn=http%2F1.1&fp=firefox&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&mode=multi
+trojan://telegram-id-privatevpns@3.253.145.42:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none
