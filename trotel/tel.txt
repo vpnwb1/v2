@@ -1,5 +1,5 @@
-trojan://10f87a8e-a6f6-319d-a895-8310d326ecce@any3017.bcloud.cyou:10116/?type=tcp&security=tls
-trojan://7c291642-faf9-4dc9-ad83-af65b50f29cc@sg.kunlun-ppg.com:10834?allowInsecure=1&sni=alibaba-node.cn
-trojan://5c5ceb40-902b-11eb-945a-1239d0255272@103.253.24.212:443/?type=tcp&security=tls&sni=sg1-trojan.bonds.id&allowInsecure=1
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12341?type=tcp&sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou&allowInsecure=1
-trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@tr.mjt001.com:443
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@162.159.32.168:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.135:10820?security=tls&sni=alibaba-node.cn
+trojan://telegram-id-privatevpns@3.11.224.38:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&headerType=none
+trojan://0c6a3341e8d5ab17@60.249.3.230:3306?security=tls&type=tcp&headerType=none
+trojan://9iiN39jgvc@104.21.75.6:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2,http/1.1
