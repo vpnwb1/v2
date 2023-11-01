@@ -1,5 +1,5 @@
-vless://5cc8763c-b94e-4848-956f-157dff12225c@104.31.16.6:2053?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@v2shopvip-@v2shopvip-@v2shopvip-@v2shopvip
-vless://9b4bc8a6-de28-4b4b-aec1-13ea83c8e4f4@[::ffff:6815:2b0d]:2053?security=tls&sni=iraniazad6.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
-vless://e595b11b-7e61-4d46-a264-57d3d2a46811@[::ffff:ac43:964]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
-vless://891d999f-7864-45c5-8db9-3c69f35dcb96@104.21.29.75:2083?security=tls&sni=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&type=ws&host=uciranir-uciranir-uciranir-uciranir-uciranir-uiranir-uciranir4.bopidi6268.workers.dev&path=@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR-@UCIRANIR%2F%3Fed%3D2047&fp=firefox
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@jp9.wang66.homes:2096?security=tls&type=ws&sni=jp9.wang66.homes&path=/blue&encryption=none&headerType=none
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.24.197.50:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
+vless://d2176467-4879-4beb-94e9-f1fa8177d8e2@46.105.218.0:16741?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=kp0my80cNyM8TPeU-LbUaU3DSlAnYkbJ9jeWI2WougM&sid=6ae860e1
+vless://74b2ae5f-1e83-4ef1-87b1-2918d83d7e8e@188.68.220.78:8443?security=reality&sni=deb.debian.org&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+vless://f99e30ed-1cb1-4057-89dc-a63827a47399@[::ffff:128.140.120.121]:54819?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=JF4vI--m3VrIt9wbsPRSSI0KrzwmPBpSmhlwN4SH9yw&sid=8b49d5e2
+vless://052d1973-890f-4a07-8291-b83381bcedb5@18.160.227.172:443?security=tls&sni=d62bac6henfyu.cloudfront.net&type=ws&path=/current_time
