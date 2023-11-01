@@ -1,1 +1,0 @@
-tuic://c28f2f1e-265c-4672-ab64-d038254cc362:8264dd9849a38cf8@kuroit.yebekhe.link:443?congestion_control=bbr&udp_relay_mode=quic
