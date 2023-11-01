@@ -1,5 +1,5 @@
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.92:889?sni=cdn.cjhh.lol&type=tcp&host=cdn.cjhh.lol&allowInsecure=1
-trojan://718c4ef4-9f65-496c-9547-f27e4226c4f5@163.123.192.150:443?security=tls&sni=downloadus.xn--mes358acgm99l.com&type=tcp&headerType=none
-trojan://9iiN39jgvc@104.21.75.6:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2,http/1.1
-trojan://telegram-id-directvpn@54.170.136.218:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://telegram-id-directvpn@13.50.133.34:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://@103.239.30.130:9999?security=tls&type=tcp&headerType=none
+trojan://392f8755-75e7-481e-927e-0f3aae34234e@62.210.136.177:1935/?type=tcp&security=tls&sni=%24www.stream.shoppingitalia.live&allowInsecure=1
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?type=ws&sni=c3mc.ciscocdn1.live&allowInsecure=1&path=/ywQ9KSLI4ZBm9wOAXUaN
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@hn.xiaohouzi.club:18460?security=tls&sni=aru05.xiaohouzi.club
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.90:889/?type=tcp&security=tls&sni=cdn.cjhh.lol&allowInsecure=1
