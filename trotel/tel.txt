@@ -1,5 +1,5 @@
-trojan://048b27c0-9185-43d0-9197-afeec9cf92c8@other.kunlun-ppg.com:10850?security=tls&sni=alibaba-node.cn
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.3:10840?security=tls&sni=alibaba-node.cn
-trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?security=tls
-trojan://2Telegram-id-DarkVPNpro@104.16.58.135:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&alpn=http%2F1.1&fp=firefox&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&mode=multi
-trojan://telegram-id-privatevpns@3.253.145.42:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@172.67.229.179:443?sni=c1mc.cdncisco4.co&allowInsecure=1
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir
+trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12323?security=tls&sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17105?security=tls&sni=$tukey.xiaohouzi.club
+trojan://1Telegram-id-DarkVPNpro@172.66.45.47:8443?security=tls&sni=plan6barber-jaanejaannory-th3retirement.arshaproplus.cf&alpn=http%2F1.1&fp=firefox&type=ws&host=mi66ioon-deadreckoningpartone-lmpossibl3.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro
