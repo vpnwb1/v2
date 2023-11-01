@@ -1,5 +1,5 @@
-trojan://1b491c39f3@209.216.77.26:443?security=tls&sni=usa3.connecton.surf
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@t-wn03.xingyunwu.top:50056?sni=xingyunwu.top&type=tcp&headerType=none
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.5:10837
-trojan://a83e7971-2c9b-424c-a03f-75633fb2632a@other.kunlun-ppg.com:10845?allowInsecure=1&sni=alibaba-node.cn
-trojan://origin@176.31.83.90:443?security=tls
+trojan://3lD02gV3qu@188.114.96.179:2096?security=tls&sni=Ue4fDcL-Yi0qW3s5cF-V0opL73fS.eiiim.online&type=ws&host=eiiim.eiiim.online&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.
+trojan://c8e877d3-2909-416d-aa5a-6d1722a374bd@ssrsub.t19.trojan.tel:80?security=tls&sni=ssrsub.t19.trojan.tel&type=tcp&headerType=none
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@de01.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none
+trojan://egrIpdgJHx@telegram-id.outline-ir.xyz:40277?security=none&headerType=http&type=tcp
+trojan://f362520c-6f12-409e-93ef-492c46cdefe6@gzdx01.jcnode.top:10444?allowInsecure=1&peer=jp03.ckcloud.info&sni=jp03.ckcloud.info
