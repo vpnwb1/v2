@@ -1,5 +1,5 @@
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.24.197.50:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
-vless://d2176467-4879-4beb-94e9-f1fa8177d8e2@46.105.218.0:16741?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=kp0my80cNyM8TPeU-LbUaU3DSlAnYkbJ9jeWI2WougM&sid=6ae860e1
-vless://74b2ae5f-1e83-4ef1-87b1-2918d83d7e8e@188.68.220.78:8443?security=reality&sni=deb.debian.org&type=tcp&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
-vless://f99e30ed-1cb1-4057-89dc-a63827a47399@[::ffff:128.140.120.121]:54819?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=JF4vI--m3VrIt9wbsPRSSI0KrzwmPBpSmhlwN4SH9yw&sid=8b49d5e2
-vless://052d1973-890f-4a07-8291-b83381bcedb5@18.160.227.172:443?security=tls&sni=d62bac6henfyu.cloudfront.net&type=ws&path=/current_time
+vless://35a9120d-1437-4452-8702-8e31a2a2dc94@join-bede1.vmessorg.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=chrome&pbk=STFCKIrssyQnu6aJYmO9rIlPWXHB_c_h6waF6yt_ETw&sid=9f5b&spx=%2F&type=tcp&headerType=none
+vless://00849530-01db-4cdc-a7df-fe1bf12ae664@190.93.246.200:2083?security=tls&sni=Z.LiV2ray.top&type=grpc&serviceName=@LIGHTNING6
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.27.20.91:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
+vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2095?host=workerr.d6dkppf4.workers.dev&amp;security=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;encryption=none
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.17.57.209:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
