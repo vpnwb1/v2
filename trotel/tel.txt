@@ -1,5 +1,5 @@
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@172.67.229.179:443?sni=c1mc.cdncisco4.co&allowInsecure=1
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=ws&path=/6vuNVgOFnqUEvj0sNkGkxxW7&Host=amin.karkas1.ir
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12323?security=tls&sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:17105?security=tls&sni=$tukey.xiaohouzi.club
-trojan://1Telegram-id-DarkVPNpro@172.66.45.47:8443?security=tls&sni=plan6barber-jaanejaannory-th3retirement.arshaproplus.cf&alpn=http%2F1.1&fp=firefox&type=ws&host=mi66ioon-deadreckoningpartone-lmpossibl3.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro
+trojan://d4e41ff772c7fd45@45.11.104.94:3389/?type=tcp&security=tls&allowInsecure=1
+trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?security=tls&sni=ap-northeast-1.openssl3.com
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.4:10819
+trojan://5726c070-522b-11ee-a5d3-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=nsjshssv
+trojan://telegram-id-privatevpns@18.133.245.96:22222?allowInsecure=1&sni=trj.rollingnext.co.uk
