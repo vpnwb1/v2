@@ -1,5 +1,5 @@
-vless://79dc5f89-b148-403a-8bc2-863d945cc668@104.21.92.198:443?security=tls&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CND.site&type=grpc&serviceName=%40Shh_Proxy%2C%40Shh_Proxy
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@45.159.219.251:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
-vless://5984e9dd-a70f-4d99-ac05-7494e035288f@65.109.176.10:32860?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=GExSPrju9nYQqtBTEKiujjPjT-Ek6qAnriWJfBV_z3Q&sid=cc6822e0
-vless://af4f05b6-44bd-4818-ab06-7a691649527c@162.159.135.234:443?security=tls&sni=de.vpncustomize.Website&type=ws&host=de.vpncustomize.Website&path=%2F&fp=chrome&alpn=h2%2Chttp%2F1.1
-vless://Parsashonam-49@Cloud.Tel-Parsashonam.Website:443?type=grpc&amp;serviceName=%40Parsashonam&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=Usa1.Parsashonam.Tech
+vless://3caa885c-a87b-4820-950e-cf2cb3dcbe88@mt.coffeeshop-smart.shop:59500?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=5yKhM1BzmYG-bokNCDgOfcPB93xmyAmeUTGCJ6qGXm8&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www3.inbenta.com&amp;sid=001824c4
+vless://266169d9-665f-4fed-b1a8-da29794ee3cd@172.67.202.140:2083?security=tls&sni=berovps.masoodbiranvand-230.workers.dev&type=ws&host=berovps.masoodbiranvand-230.workers.dev&path=vless-ws%2F%3Fed%3D2048&fp=randomized&alpn=h2
+vless://d04b04e3-c746-4c0f-97ff-5d97f29c3cfd@5.42.86.226:2052?security=reality&flow=xtls-rprx-vision&sni=atrsun.com&type=tcp&fp=chrome&pbk=B-XWD-X7POO9iddszPTPeGGF4_4JhEvv8xNMIblQaDk&sid=fe9b38c0b2662b83
+vless://236491d0-904a-4494-8ab3-99cb420d855e@154.83.2.142:2096?security=tls&sni=0x687531hu1.havenabank.de&type=grpc&serviceName=sshocean&alpn=h2,http/1.1
+vless://00201ffb-844f-495d-9ce5-0369a2060f0a@104.31.16.97:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
