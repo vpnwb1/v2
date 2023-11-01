@@ -1,5 +1,5 @@
-vless://35a9120d-1437-4452-8702-8e31a2a2dc94@join-bede1.vmessorg.fun:443?encryption=none&flow=xtls-rprx-vision&security=reality&sni=zula.ir&fp=chrome&pbk=STFCKIrssyQnu6aJYmO9rIlPWXHB_c_h6waF6yt_ETw&sid=9f5b&spx=%2F&type=tcp&headerType=none
-vless://00849530-01db-4cdc-a7df-fe1bf12ae664@190.93.246.200:2083?security=tls&sni=Z.LiV2ray.top&type=grpc&serviceName=@LIGHTNING6
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.27.20.91:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
-vless://186c6afe-7234-4911-839f-77086e9b7278@172.67.216.166:2095?host=workerr.d6dkppf4.workers.dev&amp;security=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;encryption=none
-vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.17.57.209:2083?security=tls&sni=freenl.marksmancdn14.com&type=grpc&serviceName=%40therealaleph&alpn=h2%2Chttp%2F1.1
+vless://62a2236a-17cb-4aad-a6fa-bd1bbebe78ca@104.21.20.142:443?encryption=none&security=tls&sni=sharivar.hub.iranserver.askdhbasikjbas.shop&type=ws&host=sharivar.hub.iranserver.askdhbasikjbas.shop&path=%2F
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@104.16.106.32:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
+vless://052d1973-890f-4a07-8291-b83381bcedb5@18.160.227.179:443?security=tls&sni=d1hzl0xiotenm0.cloudfront.net&type=ws&path=/current_time
+vless://e595b11b-7e61-4d46-a264-57d3d2a46811@[::ffff:ac43:d4b8]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
+vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@8.208.22.82:80?host=workerr.mcgrooge12.workers.dev&amp;security=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;encryption=none
