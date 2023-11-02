@@ -1,5 +1,5 @@
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club
-trojan://9498f3a0-2992-11ee-a4c7-1239d0255272@fr.test3.net:443?security=tls&sni=zula.ir&type=tcp&headerType=none
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:51054?type=tcp&sni=hn.xiaohouzi.club&allowInsecure=1
-trojan://392f8755-75e7-481e-927e-0f3aae34234e@62.210.136.177:1935/?type=tcp&security=tls&sni=%24www.stream.shoppingitalia.live&allowInsecure=1
-trojan://telegram-id-privatevpns@16.170.190.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10825?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://7a10fed2-dab0-4b5a-a111-86c9e8065053@34.213.224.210:20230?security=tls&sni=421421.xyz&type=tcp&allowInsecure=1
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:50355?security=tls&sni=z264.hongkongnode.top
+trojan://4d111af8-5078-37e0-a583-34155f60b32c@152.70.143.228:44302?security=tls
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@ch.mjt001.com:443?security=tls&sni=ch.mjt001.com
