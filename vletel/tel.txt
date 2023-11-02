@@ -1,5 +1,5 @@
-vless://00a59b37-1522-4971-cfb7-a020c60dad9f@185.105.237.184:29260?security=none&encryption=none&host=cbi.ir&headerType=http&type=tcp
-vless://d63570d9-bc27-40c0-895a-ac05ac5ad554@212.64.214.171:34066?security=reality&sni=real.toucan-vpn.site&type=tcp&fp=firefox&pbk=Cc_asg8E5WRt9K-NgurO3JuVPNyarqpsnZZOEEckkDk&sid=5a29ea1c
-vless://77570282-a8df-4054-9a34-69504f134e0a@as.v2raystore.sbs:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=as.v2raystore.sbs
-vless://4b64215f-d015-43f7-bc5e-bc263802b589@194.5.97.54:10720?security=none&type=tcp&host=exo.ir&path=%2F&headerType=http
-vless://2e7facf1-42c0-47a6-d1c5-599fa0b64d10@199.247.5.10:2053?security=tls&type=ws&sni=francemtn.microsofts.download&path=/&encryption=none&headerType=none
+vless://96aad9a4-ab3a-4db1-a70c-f789ed32c0cb@193.227.99.148:443?security=tls&sni=freenl.marksmancdn14.com&type=ws&host=freenl.marksmancdn14.com&path=%2Fnl&fp=chrome&alpn=http%2F1.1
+vless://637c8201-88fd-4155-cf06-9abe6bc92abc@88.99.85.225:443?mode=gun&security=reality&encryption=none&pbk=fcL0rqWW2-rgAzIMtfWZryDXA3GGXV1WlGyZmpGV6jI&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=638ca3d3
+vless://52c46d79-d294-40c7-8f4d-da04afa92923@188.114.97.3:8443?mode=gun&security=tls&alpn=Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69,Telegram:@VPNHUB69&encryption=none&type=grpc&serviceName=%40%53%68%68%5f%50%72%6f%78%79%2c%40%53%68%68%5f%50%72%6f%78%79&sni=uG%73%68%68%70%72%6f%78%79V2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site
+vless://60c98708-7bc3-464b-a77c-9afcb83747d0@join.mdvpnsec.cfd:443?type=grpc&serviceName=%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C&security=reality&fp=chrome&pbk=PGKBRB71hGBjq0aiMVEJXv6tXNUe9GCXO1gMCDpmAjA&sni=www.speedtest.net&sid=f7af0231&spx=%2F
+vless://34b6517c-86a3-46fd-9897-8995ba8a026e@VPN-MIKEYmci011.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Vpn_Mikey،@Vpn_Mikey&sni=V2ray.VPN-MIKEY.cfd
