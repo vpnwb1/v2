@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@18.197.93.42:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10821?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://b9c9d240-cf94-48b5-b38f-dfb36c6394cf@jp.kunlun-ppg.com:10813?allowInsecure=1&sni=alibaba-node.cn
-trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@45.136.5.2:443?security=tls&sni=16-163-218-240.nhost.00cdn.com
-trojan://0598544b-d7da-4ccc-96cb-4bfab1b5cb01@sg.kunlun-ppg.com:10829?allowInsecure=1&sni=alibaba-node.cn
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443?security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1&type=tcp
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@s-g04.xingyunwu.top:50042?sni=xingyunwu.top&type=tcp&headerType=none
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@fra13.yukiss.eu.org:18818?security=tls
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@pqawsjp3.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@vn.mjt001.com:443?security=tls
