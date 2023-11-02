@@ -1,5 +1,5 @@
-vless://fb26db60-6c26-11ee-8330-1239d0255272@103.253.24.44:2096?path=%2Fvlws&security=tls&encryption=none&fp=safari&type=ws&sni=ba24.ir
-vless://f0992070-a41a-4b56-980c-deaff970fe35@49.13.85.177:48773?mode=gun&security=reality&encryption=none&pbk=tXtvnIrQnitlqjW9Aa3DrX95qho8rmt2PWSzISq4QWQ&fp=chrome&spx=%2F&type=grpc&serviceName=,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER,Telegram:@NUFiLTER&sni=cdn.discordapp.com&sid=4d09fa0e
-vless://2b5d9af3-add2-496c-83e8-ab7f018d3950@www.unpkg.com:8080?path=%2F%3Fed%3D2048&security=none&encryption=none&host=de1.vlessx.xyz&type=ws
-vless://274e8ef7-6516-45cf-884a-5065c6ef7d0e@ribvar.xyz:24783?path=%2F&security=none&encryption=none&host=telewebion.com&type=ws
-vless://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2052?host=workerr.mcgrooge12.workers.dev&security=none&type=ws&path=%2F%3Fed%3D2048&encryption=none
+vless://00a59b37-1522-4971-cfb7-a020c60dad9f@185.105.237.184:29260?security=none&encryption=none&host=cbi.ir&headerType=http&type=tcp
+vless://d63570d9-bc27-40c0-895a-ac05ac5ad554@212.64.214.171:34066?security=reality&sni=real.toucan-vpn.site&type=tcp&fp=firefox&pbk=Cc_asg8E5WRt9K-NgurO3JuVPNyarqpsnZZOEEckkDk&sid=5a29ea1c
+vless://77570282-a8df-4054-9a34-69504f134e0a@as.v2raystore.sbs:8443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=as.v2raystore.sbs
+vless://4b64215f-d015-43f7-bc5e-bc263802b589@194.5.97.54:10720?security=none&type=tcp&host=exo.ir&path=%2F&headerType=http
+vless://2e7facf1-42c0-47a6-d1c5-599fa0b64d10@199.247.5.10:2053?security=tls&type=ws&sni=francemtn.microsofts.download&path=/&encryption=none&headerType=none
