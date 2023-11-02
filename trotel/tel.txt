@@ -1,5 +1,5 @@
-trojan://e2139bcf-e7bd-4567-9130-0d3b164bd8fa@2u3k01.abzoones.xyz:36811?type=tcp&headerType=none
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls
-trojan://53fa599a-5cb9-4b1c-8d2b-8e5880feecd6@other.kunlun-ppg.com:10845?allowInsecure=1&sni=alibaba-node.cn
-trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls&allowInsecure=1
-trojan://telegram-id-privatevpns@3.120.242.243:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://bd5ad33d-d267-4393-928a-50f425d1b68c@other.kunlun-ppg.com:10837?allowInsecure=1&sni=alibaba-node.cn
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.11.214.41:443?sni=c1mc.cdncisco3.co&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@45.159.216.9:443?sni=c1mc.cdncisco4.co&type=ws&path=/422Kdfwzf49IxeZJa&allowInsecure=1
+trojan://telegram-id-privatevpns@16.16.58.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@51.20.202.49:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1
