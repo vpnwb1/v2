@@ -1,5 +1,5 @@
-trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:17113?security=tls&sni=$$hnm.xiaohouzi.club
-trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@usa.liangyuandian.top:443/?type=tcp&security=tls&allowInsecure=1
-trojan://86bf7b8a-b8af-478f-99fc-7054813c32aa@other.kunlun-ppg.com:10847?security=tls&sni=alibaba-node.cn
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10810?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://110a1d13-5a5d-4153-96cf-3ee0ef1c780f@other.kunlun-ppg.com:10849?allowInsecure=1&sni=alibaba-node.cn
+trojan://telegram-id-privatevpns@18.197.93.42:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@16.16.151.222:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://7b0fb627-d2cc-48cb-97fd-b1469afe3b61@18.176.134.145:36864?security=tls&sni=hu01.abpilot.xyz&type=tcp
+trojan://ba9431e2-5192-46ec-abb6-4e8614b64d85@other.kunlun-ppg.com:10836?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://26188b3e-c28e-4230-8bee-53d77ff5ff49@agroup.node2.t.nodelist-gfwairport1.download:50001?type=tcp&allowInsecure=1
