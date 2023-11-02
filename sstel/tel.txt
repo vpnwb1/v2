@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.143:4444
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.200.139:443
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9TQDE0OS4yMDIuODIuMTcyOjY2OTc=
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@57.128.32.84:443
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.114.114.104:7306
+ss://a38b2ca1-a35b-45d3-9574-3a92f198b07a@pro.tannel.shop:44405?security=reality&amp;encryption=none&amp;pbk=gDr_3XoDIGvt3etGUXjiPSVEZE_rZzMRpq3hicxyimE&amp;host=khamenei.ir&amp;headerType=http&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=www.speedtest.net&amp;sid=7cd94357
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTowMGZkOTQ1Zi03ZWI5LTRjMDMtOGQ0Ny1kMDA0NGZlM2ZhZTI@tjcu.artehr.org:32003
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxZjBiZDcwZS0xY2VkLTQzMWItOGM5Ni0xYWFiZmVjYjU0NjU=@foshan.chiguayun.cc:27141
+ss://ad34ff1d-c34b-445b-a964-d85dff380ac2@128.140.124.180:30218?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=yNll80XTUpQhk-9ZVmT3wzRKsUFgxV7844CMBWjzfwA&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s-@Funza-@Funza-@ShadowSocks_s&amp;sni=a.gsmarena.com&amp;sid=72dd187c
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@51.77.53.200:8008
