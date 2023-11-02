@@ -1,5 +1,5 @@
-trojan://bd5ad33d-d267-4393-928a-50f425d1b68c@other.kunlun-ppg.com:10837?allowInsecure=1&sni=alibaba-node.cn
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@103.11.214.41:443?sni=c1mc.cdncisco3.co&type=ws&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
-trojan://63779501-4c22-4a03-83d3-9f611b227e7b@45.159.216.9:443?sni=c1mc.cdncisco4.co&type=ws&path=/422Kdfwzf49IxeZJa&allowInsecure=1
-trojan://telegram-id-privatevpns@16.16.58.238:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@51.20.202.49:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.chernovtsy.ua:8443?security=tls
+trojan://faf42aa0a9ad4c1e@5.44.249.50:3306?security=tls
+trojan://343f9a0c-494e-4c23-8adc-afb3f75c1294@kbawsjp1.aiopen.cfd:443/?type=tcp&security=tls&sni=4-193-105-141.nhost.00cdn.com
+trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?security=tls&sni=golang.protocolbuffer.com
+trojan://63779501-4c22-4a03-83d3-9f611b227e7b@162.159.32.35:443?sni=c1mc.cdncisco4.co&allowInsecure=1
