@@ -1,5 +1,5 @@
-trojan://d4e41ff772c7fd45@45.11.104.94:3389/?type=tcp&security=tls&allowInsecure=1
-trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?security=tls&sni=ap-northeast-1.openssl3.com
-trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.4:10819
-trojan://5726c070-522b-11ee-a5d3-1239d0255272@fr1.test3.net:443?security=tls&headerType=none&type=tcp&sni=nsjshssv
-trojan://telegram-id-privatevpns@18.133.245.96:22222?allowInsecure=1&sni=trj.rollingnext.co.uk
+trojan://c33883045c@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=tcp&alpn=http/1.1
+trojan://l4Znfz1mXi@104.31.16.59:443?security=tls&sni=hamrah-e-aval-mci-ir-14.rollaruby8.skin&type=grpc
+trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics
+trojan://2Telegram-id-DarkVPNpro@104.16.58.135:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
+trojan://telegram-id-privatevpns@13.41.15.175:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
