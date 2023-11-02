@@ -1,5 +1,5 @@
-vless://b3c67462-87f5-442e-8cdc-fc298e397815@104.24.145.43:2083?encryption=none&security=tls&type=ws&sni=vip1.futurevpn.fun&host=vip1.futurevpn.fun&path=%2f
-vless://849e736f-1ebf-4e5c-8134-86bc006ea10f@51.75.86.63:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.flightradar24.com&alpn=http%2F1.1&fp=edge&security=reality&pbk=UDABcxpKzAYkuyE4pmST0OSzEUJpQNuSgYIKcgppeh8&sid=d73382b02fa94fc2
-vless://e595b11b-7e61-4d46-a264-57d3d2a46811@[::ffff:6815:ebab]:2053?security=tls&sni=iraniazad3.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2,http/1.1
-vless://1bb0e1fe-a4d8-493e-ae20-30a6d3e10098@all-maznet.ddns.net:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&sni=gram.maznet.cfd
-vless://f0c61d12-0368-4bd5-be0b-731123c09072@cloud.configforvpn.online:51733?security=none&type=tcp&sni=medium.com&encryption=none&headerType=none
+vless://c493e078-2433-49c5-9875-33e8217bc682@maznet-mmtn.ddns.net:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&sni=gram.maznet.cfd
+vless://4ee3678e-92f0-b38e-ab43-94fc765046b1@185.239.107.242:39382?security=none&encryption=none&host=zula.ir&headerType=http&type=tcp
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.36.147:443?path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&security=tls&encryption=none&host=edge.020770.xyz&type=ws&sni=edge.020770.xyz
+vless://37ca20c2-4f52-4863-95d1-7c0364463a2f@31.47.45.19:39621?security=tls&sni=milan.news-liqgroup1278.site&type=tcp&alpn=h2,http/1.1
+vless://693a4c0c-5e50-4035-a5bf-864f78443d01@154.92.9.85:443?security=tls&sni=psrpyg.ikuai66.xyz&type=ws&host=psrpyg.ikuai66.xyz&path=%2Fmp4&fp=chrome
