@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.68.135.19:3389
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.107.16:3306
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@167.88.61.175:9102
-ss://YWVzLTI1Ni1jZmI6THAyN3JxeUpxNzJiWnNxWA@185.246.155.35:9045
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpCVmhIa3drVVFkUGx5S3J1VG1SZGZr@172.232.55.139:80
+ss://e9d5bad8-387f-4e02-ae4f-afcdca9c7b08@104.18.203.232:8443?path=%40freeiranweb&amp;security=tls&amp;encryption=none&amp;host=ca1.vlessx.info&amp;fp=randomized&amp;type=ws&amp;sni=ca1.vlessx.info
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@77.72.5.113:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTozMTMxZmI0Mi01YzgyLTQ2MjQtYWUyYi1hMDFhOWQwNTMyN2Q=@gzdx.jcnode.top:20887
+ss://YWVzLTEyOC1nY206OTI5NzU3YmEtNzM1Ny00NTYyLWJmMTYtMDZjOThlMTJhOWY4@s1-xsus.dnsmax.xyz:20245
+ss://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=baipiao1.curly-train.pages.dev&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev
