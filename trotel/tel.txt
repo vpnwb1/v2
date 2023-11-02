@@ -1,5 +1,5 @@
-trojan://c33883045c@198.244.252.93:443?security=tls&sni=uk1.connecton.surf&type=tcp&alpn=http/1.1
-trojan://l4Znfz1mXi@104.31.16.59:443?security=tls&sni=hamrah-e-aval-mci-ir-14.rollaruby8.skin&type=grpc
-trojan://8800c518-e68a-4441-a45c-cd67855784c8@kr2.sanfen001.pics:443?security=tls&sni=kr1.sanfen001.pics
-trojan://2Telegram-id-DarkVPNpro@104.16.58.135:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
-trojan://telegram-id-privatevpns@13.41.15.175:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
+trojan://tune7jerky7HAYRICK@ap-northeast-1.openssl3.com:443?security=tls&type=tcp&headerType=none
+trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@104.21.60.120:443?sni=c5mc.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&allowInsecure=1
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls&type=tcp&headerType=none
+trojan://4a405ce1-857a-4f05-8756-a3ef1b5642b5@other.kunlun-ppg.com:10840?allowInsecure=1&sni=alibaba-node.cn
+trojan://63ff2f38-836d-479a-a287-64d31722f192@other.kunlun-ppg.com:10837?allowInsecure=1&sni=alibaba-node.cn
