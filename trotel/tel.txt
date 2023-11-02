@@ -1,5 +1,5 @@
-trojan://53fa599a-5cb9-4b1c-8d2b-8e5880feecd6@other.kunlun-ppg.com:10837?security=tls&sni=alibaba-node.cn
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.138:10844
-trojan://b9c9d240-cf94-48b5-b38f-dfb36c6394cf@sg.kunlun-ppg.com:10834?allowInsecure=1&sni=alibaba-node.cn
-trojan://xl87654321@stonebreak.online:443?security=tls&headerType=none&type=tcp
-trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.136:10849?security=tls
+trojan://e2139bcf-e7bd-4567-9130-0d3b164bd8fa@2u3k01.abzoones.xyz:36811?type=tcp&headerType=none
+trojan://ceaea123-1b4b-469b-8358-bcd5f5529305@uk.liangyuandian.top:443?security=tls
+trojan://53fa599a-5cb9-4b1c-8d2b-8e5880feecd6@other.kunlun-ppg.com:10845?allowInsecure=1&sni=alibaba-node.cn
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@103.168.56.77:443/?type=tcp&security=tls&allowInsecure=1
+trojan://telegram-id-privatevpns@3.120.242.243:22222?security=tls&sni=trj.rollingnext.co.uk
