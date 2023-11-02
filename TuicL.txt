@@ -1,1 +1,0 @@
-tuic://cc4a36f7-fee8-4c66-9e9c-1c59ad25bd85:5412d410@46.30.41.138:38551/?congestion_control=bbr&udp_relay_mode=native&alpn=h3&allow_insecure=1&disable_sni=1
