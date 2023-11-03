@@ -1,5 +1,5 @@
-vless://693a4c0c-5e50-4035-a5bf-864f78443d01@103.160.204.4:443?security=tls&sni=psrpxjp2.ikuai66.xyz&type=ws&host=psrpxjp2.ikuai66.xyz&path=%2Fmp4&fp=chrome
-vless://b9b3b8a3-c5d5-4367-8419-828473093f4b@[::ffff:ac43:451a]:2053?security=tls&sni=iraniazad9.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
-vless://d000689e-c589-4414-ff0e-2663cc99980e@hw5.kaghazacharrangi.sbs:443/?type=ws&encryption=none&host=internet.life.com.by&path=%2F
-vless://911ab339-b173-46f1-8f28-30fbd65bbfef@104.27.77.90:2083?security=tls&type=grpc&sni=api1.dibanet.tech&encryption=none&headerType=none
-vless://684b0b5a-e312-449a-83c6-16ac95328efd@all.shhproxy.cfd:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Shh_Proxy,@Shh_Proxy&sni=uGshhproxyV2raykufukfkyKuyk-irancel-Mokhabera-Sshpr-raitel-MIc.Snappfoodd.site
+vless://d92f2c5c-5fe5-4034-b48a-6e50ff820877@104.16.124.175:2086?encryption=none&host=de7.vlessx.us&path=%2F%3Fed%3D2048&security=none&type=ws
+vless://6b7376dd-11d8-443c-804a-996072aefd81@13.49.231.240:8443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=coinmarketcap.com&fp=chrome&security=reality&pbk=GoL0E31Utgbg4iGKv27nM1OdDyJAh5sqvZZSwOfnmws&sid=5e
+vless://5347db5b-a886-42fd-8161-8389ec07a298@vmesskhodammci1.ddns.net:443?path=%2F&security=tls&encryption=none&host=ls.LxV2ray.top&type=ws&sni=ls.LxV2ray.top
+vless://303c4fde-14d4-46b4-8973-96decccefaf8@channel.safenetir.life:51667?mode=gun&security=reality&encryption=none&pbk=BrCOLTTb45NgtZZSIF54QJ2tdeK4IPNCvwmPApSR5W0&fp=firefox&spx=%2F&type=grpc&serviceName=@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR&sni=Cloudflare.com&sid=2ba965f349
+vless://-Channel-XsV2ray-@tel-xsv2ray.xalixv2ray.space:443?mode=gun&security=reality&encryption=none&pbk=jNUJT2tnKrteerSeMMKqoC1qO1M7oECcNh-yRUKsxTM&fp=chrome&spx=%2F&type=grpc&serviceName=@XsV2ray,@XsV2ray&sni=tgju.org&sid=2a718e4a
