@@ -1,5 +1,5 @@
-trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.58:443?security=tls&sni=pjp5.pqjc.buzz&allowInsecure=1&type=tcp
-trojan://bbc1251b-b4a0-4afe-83d4-5dd5684071c5@jp.kunlun-ppg.com:10812?allowInsecure=1&sni=alibaba-node.cn
-trojan://737b063d-725b-4d5c-830c-deda8cd60d73@jp.kunlun-ppg.com:10816?allowInsecure=1&sni=alibaba-node.cn
-trojan://182228812d1e0f23@60.249.3.229:3389
-trojan://SyOxpKxC8u5jgNa3DCZ34y3D9CRenFcaABpYATEeqI2RSaXD76zS8YF0Owl3lZ@219.76.13.181:443?security=tls&sni=arbettp.freetrade.link
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?sni=upload.soft98.download
+trojan://c63071a6-5cb2-4692-8a1c-2b8cfdbaa1d1@jp.kunlun-ppg.com:10813?allowInsecure=1&sni=alibaba-node.cn
+trojan://42736351-be94-4b6a-b8f6-2bc6e907edef@gdct001.jcnode.top:61413?allowInsecure=1&peer=rctw02.ckcloud.info&sni=rctw02.ckcloud.info
+trojan://417ea7d1-fd75-4077-a1ac-9c7326bbc9e0@hk.kunlun-ppg.com:10802?security=tls&sni=alibaba-node.cn
+trojan://74d6525d-6ac7-4ca4-85e3-3adbb9e8fa73@sg.kunlun-ppg.com:10831?allowInsecure=1&sni=alibaba-node.cn
