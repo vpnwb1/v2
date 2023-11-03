@@ -1,5 +1,5 @@
-trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@176.31.71.16:443?sni=upload.soft98.download
-trojan://c63071a6-5cb2-4692-8a1c-2b8cfdbaa1d1@jp.kunlun-ppg.com:10813?allowInsecure=1&sni=alibaba-node.cn
-trojan://42736351-be94-4b6a-b8f6-2bc6e907edef@gdct001.jcnode.top:61413?allowInsecure=1&peer=rctw02.ckcloud.info&sni=rctw02.ckcloud.info
-trojan://417ea7d1-fd75-4077-a1ac-9c7326bbc9e0@hk.kunlun-ppg.com:10802?security=tls&sni=alibaba-node.cn
-trojan://74d6525d-6ac7-4ca4-85e3-3adbb9e8fa73@sg.kunlun-ppg.com:10831?allowInsecure=1&sni=alibaba-node.cn
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18463?type=tcp&sni=hn.xiaohouzi.club&allowInsecure=1
+trojan://M83a100a@183.213.200.208:28157?type=tcp&sni=www.icloud.com&allowInsecure=1
+trojan://19f4e3c1-9239-455f-bd66-672c29efecec@8h2k02.abzoones.xyz:36606?allowInsecure=0&peer=hk02.abpilot.xyz&sni=hk02.abpilot.xyz
+trojan://d10c9330-21fd-41a3-a7d7-55161ed7349a@other.kunlun-ppg.com:10836?allowInsecure=1&sni=alibaba-node.cn
+trojan://9KogHwaY7hVD@eu-east-ruo.openssl3.com:443?security=tls&sni=eu-east-ruo.openssl3.com&type=tcp&headerType=none
