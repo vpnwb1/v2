@@ -1,5 +1,5 @@
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:18463?type=tcp&sni=hn.xiaohouzi.club&allowInsecure=1
-trojan://M83a100a@183.213.200.208:28157?type=tcp&sni=www.icloud.com&allowInsecure=1
-trojan://19f4e3c1-9239-455f-bd66-672c29efecec@8h2k02.abzoones.xyz:36606?allowInsecure=0&peer=hk02.abpilot.xyz&sni=hk02.abpilot.xyz
-trojan://d10c9330-21fd-41a3-a7d7-55161ed7349a@other.kunlun-ppg.com:10836?allowInsecure=1&sni=alibaba-node.cn
-trojan://9KogHwaY7hVD@eu-east-ruo.openssl3.com:443?security=tls&sni=eu-east-ruo.openssl3.com&type=tcp&headerType=none
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a005.zhuan99.men:10005?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.139:10847?allowInsecure=1&sni=alibaba-node.cn
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp
+trojan://3pfvcVO2H7@tokyo.clare88.tk:43986?security=tls&headerType=none&type=tcp&sni=tokyo.clare88.tk
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10839
