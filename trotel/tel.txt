@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@3.126.8.112:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&type=tcp&allowInsecure=1
-trojan://telegram-id-privatevpns@3.72.178.136:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.208:443/?type=tcp&security=tls&sni=us4.pqjc.buzz&allowInsecure=1
-trojan://a13820c547fa34c5c45515c12f0cd576@zz6.91js.pw:10051?security=tls&type=tcp&headerType=none
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:51056?security=tls&sni=$vutnkr02.xiaohouzi.club
+trojan://1Telegram-id-DarkVPNpro@104.18.31.88:8443?security=tls&sni=plan6barber-jaanejaannory-th3retirement.arshaproplus.cf&alpn=http%2F1.1&fp=firefox&type=ws&host=mi66ioon-deadreckoningpartone-lmpossibl3.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro
+trojan://muUBzhyFXZ@185.193.31.53:2096?mode=gun&security=tls&type=grpc&serviceName=@v2rayNG_VPNN&sni=kk.v2rayngvz.online
+trojan://4b1639ec-e0d0-41d2-9563-03dbceae8d15@6w7j3p01.mcfront.xyz:31811?type=tcp&headerType=none
+trojan://4452b6961b@pol1.connecton.surf:443
