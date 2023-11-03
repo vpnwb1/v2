@@ -1,5 +1,5 @@
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a005.zhuan99.men:10005?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.139:10847?allowInsecure=1&sni=alibaba-node.cn
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp
-trojan://3pfvcVO2H7@tokyo.clare88.tk:43986?security=tls&headerType=none&type=tcp&sni=tokyo.clare88.tk
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10839
+trojan://de172ca0-7a01-11ee-afc7-1239d0255272@tr.test3.net:443/?sni=
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@iplc.xiaohouzi.club:20036?security=tls&sni=$$nazhk03.xiaohouzi.club
+trojan://telegram-id-privatevpns@51.20.216.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=tls&sni=$$supaz05.xiaohouzi.club
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.126.151.229:65015?security=tls&sni=jp05a.roc-taiwan.org.ua
