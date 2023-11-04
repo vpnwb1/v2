@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU=@13.214.212.124:443
-ss://340e4af5-63f7-4ab5-9131-2b76d763e4ef@all.vpncustomize.cam:443/?type=grpc&amp;encryption=none&amp;serviceName=%40VPNCUSTOMIZE&amp;security=tls&amp;sni=conflgforV2rayng.vpncustomize.Website&amp;alpn=h2&amp;fp=chrome
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.68.134.48:8888
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:5001
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.213.46.196:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.75.136.135:5001
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.64.138.145:3306
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.134.191:443
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@167.88.62.68:5600
+ss://253578c8-569a-482a-976a-86952d0418ab@amini.flytechco.xyz:4451?security=none&amp;encryption=none&amp;host=fast.com&amp;headerType=http&amp;type=tcp
