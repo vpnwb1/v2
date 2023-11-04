@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@3.120.242.243:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk01.trojanyyds.xyz:443?security=tls
-trojan://telegram-id-privatevpns@13.53.163.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443/?type=tcp&security=tls&sni=speed.cloudflare.com&allowInsecure=1
-trojan://517ccb0754@de1.connecton.surf:443/?type=tcp&security=tls
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@146.56.189.146:443/?type=tcp&security=tls&sni=146.56.189.146&allowInsecure=1
+trojan://96884680-77e6-11eb-8d67-1239d0255272@163.172.211.74:443?
+trojan://44c5578a7c@37.143.129.56:443?type=tcp&sni=fi1.connecton.surf&allowInsecure=1
+trojan://6187a996-aff1-4d49-80ce-c7de3cb270a9@other.kunlun-ppg.com:10845?security=tls&sni=alibaba-node.cn
+trojan://Maradona_vpn@185.59.218.220:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc20337&fp=chrome&alpn=h2
