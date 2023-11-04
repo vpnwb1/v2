@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@15.237.104.194:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://334b58ea-d511-4d45-b8fa-35da1fc4d2dd@120.204.94.83:34001?security=tls&type=tcp&headerType=none
-trojan://telegram-id-directvpn@51.20.178.187:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@138.2.85.162:10001?security=tls&sni=sg1.fighting.win
-trojan://f504fd96-a098-3861-bafe-13ba6080f9a5@gg.58n.net:43337?type=tcp&sni=z102.hongkongnode.top&allowInsecure=1
+trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20762?security=tls&sni=ssl.ssl12.xyz
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@j-p03.xingyunwu.top:50048?sni=xingyunwu.top&type=tcp&headerType=none
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@5.135.235.160:443/?type=tcp&security=tls&sni=upload.soft98.download&allowInsecure=1
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.139:10844
+trojan://3c1f22a0-2aec-46ed-b0ee-9c09b8cafa1d@kbawssg1.aiopen.cfd:443?type=tcp&sni=4-193-105-141.nhost.00cdn.com&allowInsecure=1
