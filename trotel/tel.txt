@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@16.170.127.97:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://49ccfe0e-357c-4d3c-aaf1-36e934b1e15a@104.21.60.104:443?security=tls&sni=s1.afdiran.org&type=ws&host=s1.afdiran.org&path=/SK68O9qqah2L0Yf6GbWorQN&fp=chrome&alpn=http/1.1
-trojan://telegram-id-directvpn@35.181.201.98:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@in01.trojanyyds.xyz:443
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir
+trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@hk02.trojanyyds.xyz:443
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls
+trojan://telegram-id-directvpn@52.16.23.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
+trojan://ed3ccb1e-7057-3d40-b794-630ef18fb7d2@20005.purefast2.com:20005?security=tls&type=tcp&headerType=none
