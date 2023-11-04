@@ -1,5 +1,5 @@
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud43.jafiyun.world:22043?security=tls&sni=scloud43.jafiyun.world
-trojan://78af6d6d-6de7-3a1f-a969-c39077fb47bf@azgy001.xibai6.top:20784?type=tcp&sni=ssl.ssl12.xyz&allowInsecure=1
-trojan://telegram-id-privatevpns@18.135.6.102:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@sg.stablize.top:443?type=tcp&headerType=none
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@u-s01.xingyunwu.top:50028?security=tls&sni=xingyunwu.top&type=tcp&headerType=none
+trojan://telegram-id-privatevpns@16.170.127.97:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
+trojan://49ccfe0e-357c-4d3c-aaf1-36e934b1e15a@104.21.60.104:443?security=tls&sni=s1.afdiran.org&type=ws&host=s1.afdiran.org&path=/SK68O9qqah2L0Yf6GbWorQN&fp=chrome&alpn=http/1.1
+trojan://telegram-id-directvpn@35.181.201.98:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@in01.trojanyyds.xyz:443
+trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir
