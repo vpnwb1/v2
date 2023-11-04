@@ -1,5 +1,5 @@
-trojan://b97c0525-e486-471d-8207-45636ca6b0ae@fscus.fscloud123456789.com:443?type=tcp&allowInsecure=1
-trojan://your_password@34.222.204.128:443?security=tls&sni=aws-us-oregon-1.f1rocketnode.com&type=tcp
-trojan://telegram-id-directvpn@18.157.49.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0227.wlfvip.shop&type=ws&sni=cdir-0227.wlfvip.shop
-trojan://ba9431e2-5192-46ec-abb6-4e8614b64d85@sg.kunlun-ppg.com:10833?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://telegram-id-privatevpns@3.120.242.243:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://9bb27128-e6d2-4cac-bbd3-beb46c4417f8@hk01.trojanyyds.xyz:443?security=tls
+trojan://telegram-id-privatevpns@13.53.163.179:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443/?type=tcp&security=tls&sni=speed.cloudflare.com&allowInsecure=1
+trojan://517ccb0754@de1.connecton.surf:443/?type=tcp&security=tls
