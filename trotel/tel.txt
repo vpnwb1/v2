@@ -1,5 +1,5 @@
-trojan://d8fd60d7-4c50-47c8-9e2d-adf37ad81af4@hk02.trojanyyds.xyz:443
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@62.210.254.72:28443?security=tls
-trojan://telegram-id-directvpn@52.16.23.216:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://mainssh-ddoejfv14@140.82.38.103:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
-trojan://ed3ccb1e-7057-3d40-b794-630ef18fb7d2@20005.purefast2.com:20005?security=tls&type=tcp&headerType=none
+trojan://b97c0525-e486-471d-8207-45636ca6b0ae@fscus.fscloud123456789.com:443?type=tcp&allowInsecure=1
+trojan://your_password@34.222.204.128:443?security=tls&sni=aws-us-oregon-1.f1rocketnode.com&type=tcp
+trojan://telegram-id-directvpn@18.157.49.196:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://d0d07c22-d97e-4877-9702-f164af5990fc@45.85.118.88:443?path=%2Ftrojanws%3Fed%3D2048&security=tls&host=cdir-0227.wlfvip.shop&type=ws&sni=cdir-0227.wlfvip.shop
+trojan://ba9431e2-5192-46ec-abb6-4e8614b64d85@sg.kunlun-ppg.com:10833?type=tcp&sni=alibaba-node.cn&allowInsecure=1
