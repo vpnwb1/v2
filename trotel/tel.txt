@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@18.184.245.154:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://d906afe5-7c3c-4ddc-aaa4-61c154a82e5e@152.70.74.66:443?security=tls
-trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.4:10811
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@my01.trojanyyds.xyz:443
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@cnamemt.ciscocdn1.live:443?type=ws&sni=c2mt.ciscocdn1.live&allowInsecure=1&path=/rDCYQta83d0oPABKBhcIX&host=c2mt.ciscocdn1.live
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud43.jafiyun.world:22043?security=tls&sni=scloud43.jafiyun.world
+trojan://78af6d6d-6de7-3a1f-a969-c39077fb47bf@azgy001.xibai6.top:20784?type=tcp&sni=ssl.ssl12.xyz&allowInsecure=1
+trojan://telegram-id-privatevpns@18.135.6.102:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://a3740de6-74fc-4ab6-bc85-92d19402257c@sg.stablize.top:443?type=tcp&headerType=none
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@u-s01.xingyunwu.top:50028?security=tls&sni=xingyunwu.top&type=tcp&headerType=none
