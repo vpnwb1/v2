@@ -1,5 +1,5 @@
-trojan://de172ca0-7a01-11ee-afc7-1239d0255272@tr.test3.net:443/?sni=
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@iplc.xiaohouzi.club:20036?security=tls&sni=$$nazhk03.xiaohouzi.club
-trojan://telegram-id-privatevpns@51.20.216.6:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:60047?security=tls&sni=$$supaz05.xiaohouzi.club
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.126.151.229:65015?security=tls&sni=jp05a.roc-taiwan.org.ua
+trojan://Go5e2nKM9U@188.42.88.144:2087?path=JoinUs@v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun
+trojan://xZAGqF8MZl@telegram-id.outline-ir.xyz:40277?security=none&amp;headerType=http&amp;type=tcp
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10805?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn01.xiaohouzi.club:16081?security=tls&sni=hn01.xiaohouzi.club
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live
