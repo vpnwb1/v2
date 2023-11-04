@@ -1,5 +1,5 @@
-trojan://Go5e2nKM9U@188.42.88.144:2087?path=JoinUs@v2rayNG_VPNN&security=tls&host=aa.v2jey.fun&type=ws&sni=aa.v2jey.fun
-trojan://xZAGqF8MZl@telegram-id.outline-ir.xyz:40277?security=none&amp;headerType=http&amp;type=tcp
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@hk.binguo.link:10805?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn01.xiaohouzi.club:16081?security=tls&sni=hn01.xiaohouzi.club
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc.ciscocdn1.live:443?security=tls&sni=c3mc.ciscocdn1.live
+trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12323?security=tls&sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou
+trojan://4aeda200-44c9-4168-8f2a-a00a72176d35@awssg18-data.amazon-azure.com:443?security=tls&sni=data.amazon-azure.com
+trojan://3lD02gV3qu@188.114.96.179:2096?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&security=tls&host=eiiim.eiiim.online&type=ws&sni=Ue4fDcL-Yi0qW3s5cF-V0opL73fS.eiiim.online
+trojan://fa9a512a-eab5-4cdf-b559-14922eb3948e@aws-hk03.aikun.online:443?type=tcp&allowInsecure=1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls
