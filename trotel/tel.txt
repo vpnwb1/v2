@@ -1,5 +1,5 @@
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&allowInsecure=1&type=tcp
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud60.jafiyun.world:22060?security=tls&sni=scloud60.jafiyun.world
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg01.trojanyyds.xyz:443?security=tls
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20295?security=tls&sni=z295.hongkongnode.top&type=tcp&headerType=none
-trojan://share.mjj-home.com@tw.softbank.mjj-home.com:443?security=tls
+trojan://d11f1d67-f409-48ef-9767-a0fe081fe81d@dl-am2.efyunpan.com:443?sni=data-cl.efyunpan.com
+trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@scottie.golfland.club:443/?type=tcp&security=tls&allowInsecure=1
+trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://xxoo@138.197.5.103:443?type=tcp&sni=telewebion.com&allowInsecure=1
+trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443?security=tls
