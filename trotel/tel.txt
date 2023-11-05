@@ -1,5 +1,5 @@
-trojan://9iiN39jgvc@104.20.157.167:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2%2Chttp%2F1.1
-trojan://f2d1896d-e3f6-4312-8fb3-f81c0c27da3c@6w7j3p01.mcfront.xyz:31841?type=tcp&headerType=none
-trojan://03a45362-cdf0-470b-9469-97a842e8e47f@other.kunlun-ppg.com:10844
-trojan://32aba2ce-ab7a-4199-b94c-5e717ffc7f98@hk.kunlun-ppg.com:10809?security=tls&sni=alibaba-node.cn
-trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443/?type=tcp&security=tls&sni=ba24.ir&allowInsecure=1
+trojan://97af35eb-480e-405b-ba43-ec858fbb8754@li1sg2ffhbvjjwtu.559xp5.cn:443?security=tls&type=tcp&headerType=none
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:36821?security=tls&sni=z262.hongkongnode.top
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a004.zhuan99.men:10004?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
+trojan://yZOZ8GWc8K@de.vpncustomize.website:443?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=de.vpncustomize.website
+trojan://telegram-id-directvpn@52.86.244.83:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
