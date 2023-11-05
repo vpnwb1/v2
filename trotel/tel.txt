@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@18.135.82.76:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@138.2.85.162:10001?security=tls&sni=sg1.fighting.win
-trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.39.163:443?security=tls&sni=jde1.jsjc.sbs&type=ws&path=%2Fjsjc%2Fde1&Host=jde1.jsjc.sbs
-trojan://telegram-id-privatevpns@16.170.93.252:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.23.106.193:443?sni=c2mt.ciscocdn1.live&allowInsecure=1
+trojan://telegram-id-directvpn@35.181.203.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls&type=tcp&headerType=none
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls&type=tcp&headerType=none
+trojan://awvqcR7tMS@104.31.16.65:2083?security=tls&sni=mnm.piyazJafari.cfd&type=grpc&serviceName=ID-TELEGRAM-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls
