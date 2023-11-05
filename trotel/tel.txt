@@ -1,5 +1,5 @@
-trojan://eba4bc99-c1ac-4b93-96ad-41a7771408f2@gdct001.jcnode.top:35257?allowInsecure=1&peer=hk03.ckcloud.info&sni=hk03.ckcloud.info
-trojan://telegram-id-directvpn@16.16.93.53:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.5:10825?allowInsecure=1&sni=alibaba-node.cn
-trojan://29f2cf65-f0ee-4a08-83f3-df1beb74d55d@57.128.173.6:443/?type=tcp&security=tls&allowInsecure=1
-trojan://a3278882-3614-39cf-a3d6-faefa8c910ab@hnm.xiaohouzi.club:36872?security=tls&sni=freeus.xiaohouzi.club
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.108:443?security=tls&sni=sg1.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?security=tls&sni=c1mc.cdncisco3.co&type=ws&host=c1mc.cdncisco3.co&path=%2FywQ9KSLI4ZBm9wOAXUaN
+trojan://22dxmxezsm@162.159.138.232:443?security=tls&sni=b4uxIs4lrezljeRe.pouriya.cf&type=grpc&serviceName=Amsterdam&fp=chrome&alpn=h2%2Chttp%2F1.1
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.94.169.92:443?sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none
