@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@bia-t-o.outline-vpn.cloud:804
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.80:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOZVZhdmw0M0ZENkRnRm9pbTdTNkhHa3M@194.38.23.137:51348
-ss://YWVzLTEyOC1nY206ZjhjNDQzYWEtZWVhYy00ZmU5LWE4ODUtZGVhZjAyMGI0N2E2@s1-xsus.dnsmax.xyz:20248
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@38.91.107.225:802
+ss://eea7733e-5e96-4fd3-a950-94f3c96c8a7a@193.227.99.66:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=ch.donaldvpn.sbs&amp;fp=chrome&amp;alpn=h2,http/1.1
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@185.180.12.81:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODU0M2E0Yi0xZDNjLTRhNTItOTUwZi1hMzZhZDI0Y2EyOGU@hkp02.network-cdn-gw.cc:49902
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.86.135.27:8118
+ss://YWVzLTEyOC1nY206ZDA4ODlhMzgtNjg3MS00YTdkLThjODMtYzRmYjZjYWQ5ODA5@zjcu.wingsjiasu.link:11191
