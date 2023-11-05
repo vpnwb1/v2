@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@35.181.203.24:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.seoulcitygovernment.com.ua:8443?security=tls&type=tcp&headerType=none
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp02a.roc-taiwan.net.ua:65012?security=tls&type=tcp&headerType=none
-trojan://awvqcR7tMS@104.31.16.65:2083?security=tls&sni=mnm.piyazJafari.cfd&type=grpc&serviceName=ID-TELEGRAM-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98-TEHRON98
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@138.2.115.240:443?security=tls
+trojan://telegram-id-privatevpns@54.217.227.111:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@104.25.254.185:443?security=tls&sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.135:10844
+trojan://a433d9e0-7a02-11ee-93c8-1239d0255272@ca1.test3.net:443/?sni=
+trojan://saMgiangGt@141.101.114.98:443?security=tls&sni=teo.history-paint.art&type=grpc&serviceName=grpc17224&fp=chrome&alpn=h2
