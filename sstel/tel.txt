@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkN2JlZTgzMC0wOWFhLTQzYjItODk0NS0zYjM0MWI4Nzg3ZGI=@p1.bxy-fun3.com:24105
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.114.114.69:3389
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.114.114.19:443
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@46.183.184.60:989
-ss://36ce6c8c-0ff2-44c1-b2b9-5400d6abb305@kal.hibidam.site:34136?security=none&amp;encryption=none&amp;headerType=none&amp;type=tcp
+ss://JOINTEL-WANCLOUDFA@49.13.114.36:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=vQ1eVDwMS13rMJt2xKDDmdmb3sepUiv-5aUQOdy9vmg&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@wancloudfa&amp;sni=www.speedtest.net&amp;sid=c283bad7
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@217.182.198.219:4444
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODU0M2E0Yi0xZDNjLTRhNTItOTUwZi1hMzZhZDI0Y2EyOGU=@hk3.network-cdn-gw.cc:47756
+ss://cmM0LW1kNTpwYXNzZncyeHM0ZSE@ssr5.ssrsub.com:8333
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@38.86.135.36:8008
