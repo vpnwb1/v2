@@ -1,5 +1,5 @@
-trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@625tw.ljydw.top:80?security=tls&sni=625tw.ljydw.top&type=tcp&headerType=none
-trojan://3febb05ea76a940f@103.168.155.69:3306?security=tls&sni=n2.gladns.com&type=ws&path=/gateway/connect
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10812?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:50173?security=tls&sni=us2.ckcloud.info
-trojan://cdyB1Q@183.213.200.225:28113?security=tls&sni=183.213.200.225&type=tcp&headerType=none
+trojan://237e8c10-78ea-11ee-99a6-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp
+trojan://6504a551-673d-44d6-85a9-b05f67fdf971@gsawshk1.aiopen.cfd:443/?type=tcp&security=tls&sni=18-140-66-207.nhost.00cdn.com
+trojan://343f9a0c-494e-4c23-8adc-afb3f75c1294@kbawsjp1.aiopen.cfd:443/?type=tcp&security=tls&sni=4-193-105-141.nhost.00cdn.com
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club
+trojan://telegram-id-privatevpns@3.11.174.176:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
