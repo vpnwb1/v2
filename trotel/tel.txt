@@ -1,5 +1,5 @@
-trojan://d11f1d67-f409-48ef-9767-a0fe081fe81d@dl-am2.efyunpan.com:443?sni=data-cl.efyunpan.com
-trojan://ZVqSTHcLasKIKGnzjnr8aHRPATiaTj5U@scottie.golfland.club:443/?type=tcp&security=tls&allowInsecure=1
-trojan://telegram-id-directvpn@3.96.217.9:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://xxoo@138.197.5.103:443?type=tcp&sni=telewebion.com&allowInsecure=1
-trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443?security=tls
+trojan://9iiN39jgvc@104.20.157.167:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2%2Chttp%2F1.1
+trojan://f2d1896d-e3f6-4312-8fb3-f81c0c27da3c@6w7j3p01.mcfront.xyz:31841?type=tcp&headerType=none
+trojan://03a45362-cdf0-470b-9469-97a842e8e47f@other.kunlun-ppg.com:10844
+trojan://32aba2ce-ab7a-4199-b94c-5e717ffc7f98@hk.kunlun-ppg.com:10809?security=tls&sni=alibaba-node.cn
+trojan://1d4ddd40-3134-11ee-8623-1239d0255272@206.168.190.219:8443/?type=tcp&security=tls&sni=ba24.ir&allowInsecure=1
