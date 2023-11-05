@@ -1,5 +1,5 @@
-trojan://237e8c10-78ea-11ee-99a6-1239d0255272@51.38.65.155:443?security=tls&headerType=none&type=tcp
-trojan://6504a551-673d-44d6-85a9-b05f67fdf971@gsawshk1.aiopen.cfd:443/?type=tcp&security=tls&sni=18-140-66-207.nhost.00cdn.com
-trojan://343f9a0c-494e-4c23-8adc-afb3f75c1294@kbawsjp1.aiopen.cfd:443/?type=tcp&security=tls&sni=4-193-105-141.nhost.00cdn.com
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club
-trojan://telegram-id-privatevpns@3.11.174.176:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@supsig.xiaohouzi.club:10102?security=tls
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@hinet.mjt001.com:443/?type=tcp&security=tls&allowInsecure=1
+trojan://telegram-id-privatevpns@176.34.139.67:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://telegram-id-directvpn@35.182.9.99:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@52.210.195.20:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
