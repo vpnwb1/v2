@@ -1,5 +1,5 @@
-vless://7802a9d7-d0c1-460a-b87f-bc22d45fa6a9@188.114.98.255:443?security=tls&sni=c-d-n.plusultra.fun&type=grpc&serviceName=OMbHgIHAqEwiw4YdrbRlkWPsHD&fp=chrome&alpn=h2%2Chttp%2F1.1
-vless://YXV0bzoyZTdkM2YxMy1iZTFiLTQ3OWMtOTRmZi0wZTk1YzJiZDU2NWRAMTYzLjEyMy4xOTIuMTQ5OjQ0Mw?remarks=https://67889.pro%20%F0%9F%91%88%E8%B4%AD%E4%B9%B0%E5%9C%B0%E5%9D%80&tls=1&peer=vod-ap-aoc.tv.apple.com&xtls=2&pbk=fqdF2k_xP_m2VSf64xFjq-9gS3YxegxSY9MhReyxCCo&sid=aef7e6d101189a3b
-vless://565777e1-2a31-4a4f-8ea9-f1652f93fc1d@a.vip-se.life:49418?mode=gun&security=none&encryption=none&type=grpc&serviceName=@FalconPolV2rayNG
-vless://b8f5ba57-4439-4fe0-b3bd-47f398b3869a@all.vpncustomize.cam:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=configforV2rayng.vpncustomize.Website
-vless://92d711b9-9bdd-498d-b0b4-a48d95faa536@104.31.16.65:2083?security=tls&type=grpc&sni=chanel.lagvpn13.cfd&encryption=none&headerType=none
+vless://3c7dae96-87ff-4802-8883-e4e269902fd2@173.245.49.87:443?security=tls&sni=ArV2ray.AbrArvan.link&type=ws&host=ArV2ray.AbrArvan.link&path=%2F
+vless://62a2236a-17cb-4aad-a6fa-bd1bbebe78ca@104.21.20.142:443?encryption=none&security=tls&type=ws&sni=sharivar.hub.iranserver.askdhbasikjbas.shop&host=sharivar.hub.iranserver.askdhbasikjbas.shop&path=%2f
+vless://44286de3-c0d3-47e1-d534-d882b9d111a3@104.16.106.177:2053?security=tls&sni=Sni.BlueMoien.space&type=grpc&serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&alpn=h2,http/1.1
+vless://74d806f2-1240-479f-9e1b-baf2797fee43@LIGHTNING6-joinbede.mamd.sbs:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=lightning6.LiV2ray.top
+vless://52aad0aa-f363-4bca-b5f7-14b1c05f5026@104.16.31.60:2096?security=tls&sni=ConfigForV2rayng.Snapp.monster&type=grpc&fp=chrome
