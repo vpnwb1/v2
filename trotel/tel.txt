@@ -1,5 +1,5 @@
-trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.38.108:443?security=tls&sni=sg1.pqjc.buzz&type=tcp&allowInsecure=1
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@cnamemc1.cdncisco3.co:443?security=tls&sni=c1mc.cdncisco3.co&type=ws&host=c1mc.cdncisco3.co&path=%2FywQ9KSLI4ZBm9wOAXUaN
-trojan://22dxmxezsm@162.159.138.232:443?security=tls&sni=b4uxIs4lrezljeRe.pouriya.cf&type=grpc&serviceName=Amsterdam&fp=chrome&alpn=h2%2Chttp%2F1.1
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.94.169.92:443?sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none
+trojan://Gl123qwe@los2.playstone.info:23443?security=tls
+trojan://3UVnhqWUzT@telegram-id.outline-ir.xyz:40277?type=tcp&path=%2F&headerType=http&security=none
+trojan://114514@168.138.176.18:443/?type=tcp&security=tls&allowInsecure=1
+trojan://your_password@172.67.188.24:443?security=tls&sni=aws-us-dallas-1.f1cflineb.com&type=ws&host=aws-us-dallas-1.f1cflineb.com&path=%2Ff1rocket&fp=chrome&alpn=http/1.1
+trojan://telegram-id-directvpn@13.43.211.10:22222?security=tls&sni=trj.rollingnext.co.uk
