@@ -1,5 +1,5 @@
-trojan://c39d5e05-3d06-317e-b5ca-e2f71b661570@azhj.xifasd.top:20767?security=tls&sni=ssl.ssl12.xyz&type=tcp&headerType=none
-trojan://telegram-id-privatevpns@13.36.139.99:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://b5a452cb-fce9-4fae-98ef-0132c2d194a9@172.67.201.212:8080?sni=sg1.nmsla.net&allowInsecure=1
-trojan://PavClLIvFd@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13@L_AGVPN13@L_AGVPN13@L_AGVPN13&sni=C.1lagvpn13.cfd
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.208:443?security=tls&sni=us4.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@jp01.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@104.17.141.179:443?sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://telegram-id-directvpn@54.78.144.247:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://bHF7uf9B5G@telegram-id.outline-ir.xyz:40277/?type=tcp&path=%2F&headerType=http&security=none
+trojan://e2139bcf-e7bd-4567-9130-0d3b164bd8fa@3d6e01.abzoones.xyz:36841?type=tcp&headerType=none
