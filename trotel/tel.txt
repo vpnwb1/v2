@@ -1,5 +1,5 @@
-trojan://1ad3d7c8-9a2b-490c-bfb5-fc769410d3bf@us.kunlun-ppg.com:10825?security=tls&sni=alibaba-node.cn
-trojan://telegram-id-privatevpns@16.170.190.113:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://telegram-id-directvpn@3.9.74.15:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://16e8e876-141d-4694-bebe-a809a4f098e3@2u3k01.abzoones.xyz:36811?allowInsecure=0&peer=uk01.abpilot.xyz&sni=uk01.abpilot.xyz
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com
+trojan://PY0UAf8fri@mmdpc.viporg12345.info:11011?security=tls&headerType=none&fp=safari&type=tcp
+trojan://telegram-id-directvpn@52.56.67.143:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163
+trojan://ea48cdda-6db7-4f34-9d42-7bd9d41b4740@1002tw01.tfzhc.top:443
