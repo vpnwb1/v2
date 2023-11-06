@@ -1,5 +1,5 @@
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-4.mielink-dns2.com:443?security=tls&sni=paydiu.com
-trojan://PY0UAf8fri@mmdpc.viporg12345.info:11011?security=tls&headerType=none&fp=safari&type=tcp
-trojan://telegram-id-directvpn@52.56.67.143:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://d1478689-439c-4590-b7ce-36e786a02dc3@107.181.161.163:443?security=tls&sni=107.181.161.163
-trojan://ea48cdda-6db7-4f34-9d42-7bd9d41b4740@1002tw01.tfzhc.top:443
+trojan://telegram-id-privatevpns@35.177.56.141:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://98418cc3-2a5c-4e9a-b43c-d395e4561cd7@appu928304887687.api.steamgamepowered.net:18180?security=tls&sni=appU928304887687.api.steamgamepowered.net&type=tcp&headerType=none
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48462?security=tls&sni=$$hn.xiaohouzi.club
+trojan://65f7378f-edb8-4f5d-913a-641ecd853cea@kr1.api-aws.com:443
+trojan://4a327ef3-adbf-45da-be92-44c6b4792261@8t6w03.abzoones.xyz:36311?allowInsecure=0&peer=tw03.abpilot.xyz&sni=tw03.abpilot.xyz
