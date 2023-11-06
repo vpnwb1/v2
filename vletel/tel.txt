@@ -1,5 +1,5 @@
-vless://052d1973-890f-4a07-8291-b83381bcedb5@18.154.137.186:443?security=tls&sni=d26wx0kd2s0rwu.cloudfront.net&type=ws&path=/current_time
-vless://bb20b122-84c6-4ce8-b5f9-42e92fa0942c@porya-all420.mohamad420.sbs:2086?mode=gun&security=reality&encryption=none&pbk=aE2JdPGXctaWQI5QD7IO_uILbj6KlSLLCi91qUzu9gk&fp=chrome&spx=%2F&type=grpc&serviceName=@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn@Academi_vpn&sni=gsmarena.com&sid=dc357bfe
-vless://Parsashonam-50@Mtn1.Tel-Parsashonam.Website:2096?type=grpc&serviceName=%40Parsashonam&security=tls&fp=&alpn=&sni=Usa1.Parsashonam.Tech
-vless://68019734-b021-477a-8712-a43cf0252461@[::ffff:1758:7419]:29658?security=reality&encryption=none&pbk=e84zYDXKapnHBDfT75WttckPF0YU6ry7nrhm-vrzojM&headerType=none&fp=chrome&spx=%2F&type=tcp&sni=www.speedtest.net&sid=44956030
-vless://bda809af-7c92-45c1-8f89-feff541c86be@188.165.61.68:24140?type=grpc&serviceName=%40daredevill_404____%40daredevill_404____%40daredevill_404____%40daredevill_404&security=reality&fp=firefox&pbk=dF9Z5CTtdrTmJctnd6hDAZky9dp1p_MYVRe3UEE-hU8&sni=www.creativecommons.org&sid=0c45f02a&spx=%2F
+vless://3beab5c3-f585-412b-8158-bbd962e56c39@flyv2ray.ddns.net:443/?type=grpc&encryption=none&serviceName=%40flyv2ray&sni=greenpepper.ir&fp=firefox&security=reality&pbk=xq6RYOPcRTrtWBzj2q6iiecamHAREvsoffEgfgtgKm0&sid=15273896
+vless://6c39add6-18b8-577c-9a9c-be2082507050@49.13.56.167:443?security=reality&encryption=none&pbk=9D4FoKRukUuWRV8jx5ya5HHTmKC4sYH2Tk5RGWjGSmI&headerType=none&fp=ios&type=tcp&flow=xtls-rprx-vision&sni=www.speedtest.net&sid=ce
+vless://02329636-9e2a-4cc6-9b62-53f6b6a83818@190.93.246.200:443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada21.npbjn.com:443?path=users%3Fed%3D2048&security=tls&encryption=none&alpn=http/1.1&type=ws
+vless://d95cb124-2f57-4c2b-a1c5-93e515773565@ribvar.xyz:12209?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
