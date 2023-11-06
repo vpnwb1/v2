@@ -1,5 +1,5 @@
-trojan://a13820c547fa34c5c45515c12f0cd576@123.159.205.114:10051?security=tls&sni=zz6.91js.pw
-trojan://c6374af3-e3a4-43cb-abed-1da39d4a62e3@61.136.232.135:10822?allowInsecure=1&sni=alibaba-node.cn
-trojan://65614142-4bb8-4da6-a272-ee12db5e5949@ovozhaws.ovonice.com:60000?security=tls
-trojan://1ad3d7c8-9a2b-490c-bfb5-fc769410d3bf@other.kunlun-ppg.com:10846?security=tls&sni=alibaba-node.cn
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@tw01.trojanyyds.xyz:443/?type=tcp&security=tls&allowInsecure=1
+trojan://telegram-id-directvpn@35.181.209.3:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://03a45362-cdf0-470b-9469-97a842e8e47f@other.kunlun-ppg.com:10844
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao01.xingyunwu.top:50000?security=tls&sni=xingyunwu.top&type=tcp&headerType=none
+trojan://nevis@172.67.138.12:443?security=tls&sni=www.anyhoweliseo.info&type=ws&path=%2Ftailors
+trojan://telegram-id-directvpn@54.229.30.12:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
