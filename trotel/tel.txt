@@ -1,5 +1,5 @@
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hnm.xiaohouzi.club:19362?security=tls&sni=$$$$$$$$aws-hk03.xiaohouzi.club
-trojan://sharecentre@awssg3.sharecentre.xyz:443/?type=tcp&security=tls&allowInsecure=1
-trojan://afcd1be0-093e-4252-b8e5-b864479be290@other.kunlun-ppg.com:10849
-trojan://telegram-id-privatevpns@54.216.185.9:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@3.120.84.140:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.cn.ua:8443?security=tls
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:56586?security=tls&sni=id01.ckcloud.info
+trojan://09a7c68d-3a50-4fa8-b673-9f45214ec951@104.22.75.105:443?security=tls&sni=hamrah.ir0.ir&type=ws&host=hamrah.ir0.ir&path=%2FKCuP73wj9ek6TobBgETclYD&fp=chrome&alpn=http%2F1.1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@153.126.151.229:65015?security=tls&sni=jp05a.roc-taiwan.org.ua&type=tcp&headerType=none
+trojan://313c9950-7a03-11ee-8b1a-1239d0255272@sg3-trojan.bonds.id:443/?sni=
