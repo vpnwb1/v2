@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.34:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR0JkT0tkY0llcjU@167.99.192.30:3567
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443
-ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@103.172.116.6:9043
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.135:8080
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.58:7307
+ss://c374c0a0-65f9-43c6-aa9a-6e32b3e037f2@104.21.202.55:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=eTdop0ktdk09dYjV0&amp;sni=free.dadnetiran.xyz
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5980
+ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5983
