@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.114.114.69:5500
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@142.202.48.58:7307
-ss://c374c0a0-65f9-43c6-aa9a-6e32b3e037f2@104.21.202.55:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=firefox&amp;type=grpc&amp;serviceName=eTdop0ktdk09dYjV0&amp;sni=free.dadnetiran.xyz
-ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.155:5980
-ss://cmM0LW1kNTpQYW9mdQ==@120.195.181.82:5983
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:800
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.190.61:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ak1788.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:807
+ss://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?sni=workerr.mcgrooge12.workers.dev&amp;fp=chrome&amp;host=workerr.mcgrooge12.workers.dev&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;encryption=none
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008
