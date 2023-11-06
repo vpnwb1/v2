@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.75.136.135:8000
-ss://96d401c3-1813-4fd2-969f-0fc4a3a2890d@hero.petshopino.cfd:2096?security=reality&amp;encryption=none&amp;pbk=oXhcOScAQYiAcKp1fAWiVeZiPGBX5RNG8B9tWf_H_mI&amp;headerType=none&amp;fp=chrome&amp;spx=%2F&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=dog.petshopino.cfd&amp;sid=8c398a24
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTBiYjQ3OC0wMjkyLTQwMDAtYTQyNS1kYjBkOTI2N2NjOGI=@foshan.chiguayun.shop:27146
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@ak1633.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:2376
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.114.114.67:8080
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.34:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR0JkT0tkY0llcjU@167.99.192.30:3567
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.110.171:443
+ss://YWVzLTI1Ni1jZmI6SFNadXlKUWNXZThkeE5kRg@103.172.116.6:9043
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.75.136.135:8080
