@@ -1,5 +1,5 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@81.90.189.18:800
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.190.61:6679
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@ak1788.www.outline.network.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:807
-ss://1d1a7193-61a9-4fc1-9778-dd517cf9f919@172.67.136.208:2096?sni=workerr.mcgrooge12.workers.dev&amp;fp=chrome&amp;host=workerr.mcgrooge12.workers.dev&amp;type=ws&amp;security=tls&amp;path=%2F%3Fed%3D2048&amp;encryption=none
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@38.64.138.145:8008
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1MWViYWY1NC05NDczLTQ4MzYtODY4Ni04MjZhMzQ3OTUzZGQ=@yidong.liulangdiqiu.life:10707
+ss://YWVzLTI1Ni1jZmI6SmRtUks5Z01FcUZnczhuUA==@45.89.52.66:9003
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.139.65:443
+ss://3cff5aa1-5614-4ce5-9dba-ea3fc35de1c7@24.144.84.158:31970?security=none&amp;encryption=none&amp;host=internet.life.com.by&amp;headerType=http&amp;type=tcp
+ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@92.223.109.126:989
