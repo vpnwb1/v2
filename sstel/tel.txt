@@ -1,5 +1,5 @@
-ss://10b199d0-8108-4e77-a4e1-ca1a99d64381@mci.waky-melo.site:443?encryption=none&amp;security=tls&amp;sni=de.waky-melo.site&amp;alpn=http%2F1.1%2Ch2&amp;fp=random&amp;type=grpc&amp;serviceName=@melov2ray&amp;mode=gun
-ss://1fbd7633-8800-4de0-87fb-c656017f4099@530.outline-vpn.cloud:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=aurora.nextgentechnews.com&amp;type=ws&amp;sni=aurora.nextgentechnews.com
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.48:2375
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpOekZTQ3haQVBDZ2dOZWd4a3FLREt5@13.80.135.221:63570
-ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@13.115.245.166:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@38.86.135.169:5500
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.75.136.102:9102
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.135:8091
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.240:443
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@51.158.54.212:443
