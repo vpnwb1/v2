@@ -1,5 +1,5 @@
-trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls
-trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@ssl.tcpbbr.net:443?security=tls
-trojan://telegram-id-directvpn@18.159.29.169:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://0259f763-c4f3-4a7b-a028-589d9102f95d@v02.gutingting.com:20227?allowInsecure=1&peer=v2uk01.fuqiangren.com&sni=v2uk01.fuqiangren.com
-trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36306?type=tcp&headerType=none
+trojan://xxoo@v2line.telegram.channel.1342.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443?security=tls&type=tcp&headerType=none
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@yuumv-1088-tr-0.d-kcd.tuil.xyz:889?security=tls&sni=s3.cjhh.beauty
+trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@esjs.stablize.top:443?type=tcp&allowInsecure=1
+trojan://telegram-id-directvpn@18.169.248.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe
