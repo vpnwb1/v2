@@ -1,5 +1,5 @@
-vless://6d95ad9b-45af-4e95-e10b-50ab1a322599@188.121.125.80:43781?security=none&encryption=none&host=divarcdn.com&headerType=http&type=tcp
-vless://211271eb-467c-4be4-aa4c-9d751dd8e727@all-VPNCUSOMIZE.aparat.lol:2053?path=%2F&security=tls&encryption=none&host=tel.trV2ray.cfd&fp=safari&type=ws&sni=tel.trV2ray.cfd
-vless://f5132fb9-4a53-41de-b453-8c50dab62e47@173.245.58.133:80?path=%2Fbackup&security=none&encryption=none&host=TOdAY.DiVar.pRo&type=ws
-vless://5bcdbc19-2a47-4cf8-f033-ef717866620d@172.67.191.189:2096?path=Join-EiiiM---------Telegram-EiiiM---------Telegram-EiiiM---------Telegram-EiiiM.&security=tls&encryption=none&host=eiiim.eiiim.online&type=ws&sni=M0dem-Telegram.eiiim.oNline
-vless://a4d15003-7d5b-4cfa-c590-987249f4eb13@mkh.vpncustomize.website:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&sni=cloudflare.TrV2ray.cfd
+vless://8af19b50-a1c2-4f6b-bad6-3e06f6cdf865@172.67.15.198:2082?host=workerr.strife-dc2.workers.dev&amp;security=none&amp;type=ws&amp;path=%2F%3Fed%3D2048&amp;encryption=none
+vless://e51d1928-a7f0-45f9-ebaf-1c793b71f4d5@162.159.7.219:2087?security=tls&sni=direct-ns3.cl0udflar3.com&type=grpc&serviceName=@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,@arguvpn,&fp=chrome&alpn=h2,http/1.1,h3
+vless://c24d4fc1-9388-48f4-863c-231047e08a3d@172.67.93.18:443?security=tls&sni=ssv2ray3.mostafago.tk&type=ws&host=ssv2ray3.mostafago.tk&path=%2Fvless
+vless://e2ed9f3f-40ba-4cfe-879d-53c57f70ecb2@159.223.5.229.sslip.io:443?security=tls&amp;encryption=none&amp;alpn=http/1.1&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=159.223.5.229.sslip.io
+vless://2c0f25b0-b856-43a0-9fba-c65abfef21bc@192.169.127.184:443?security=tls&sni=cg25.wang66.homes&type=ws&host=cg25.wang66.homes&path=%2F%3Fed%3D2048
