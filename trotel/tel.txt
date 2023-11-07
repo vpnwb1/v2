@@ -1,5 +1,5 @@
-trojan://36e7d02b-9e7e-360d-9a7d-85b00e43f660@aaaa.aaaa.gay:50063?sni=hktddns.doubledou.icu&type=tcp&headerType=none
-trojan://de27457d-038b-4fb1-a9a0-221eb2d83590@104.21.17.22:443?security=tls&sni=tracking.betarays.ir&type=ws&host=tracking.betarays.ir&path=%2FECJIMZVCZDD0Oyd1AEUEUd&fp=chrome&alpn=http%2F1.1
-trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@bgptw1.cnamazon.sbs:443?security=tls&headerType=none&type=tcp&sni=tlsdata.cnamazon.sbs
-trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?type=tcp&sni=telewebion.com&allowInsecure=1
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10830
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL
+trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&type=tcp
+trojan://telegram-id-privatevpns@3.72.121.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://op2o51YGRO@104.22.3.78:2083?path=%2Fwss45968%3Fed%3D2048&security=tls&host=rayeganvasehame.flchlast.online&type=ws&sni=rayeganvasehame.flchlast.online
+trojan://telegram-id-privatevpns@18.134.237.132:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http%2F1.1
