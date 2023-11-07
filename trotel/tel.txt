@@ -1,5 +1,5 @@
-trojan://6f17a7a0-7a03-11ee-afcd-1239d0255272@91.192.81.167:443?security=tls&sni=sg-4.test3.net&type=tcp&allowInsecure=1
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:16012?security=tls&sni=supsig.xiaohouzi.club
-trojan://a13820c547fa34c5c45515c12f0cd576@123.159.205.114:10051?security=tls&sni=zz6.91js.pw&type=tcp
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls&type=tcp&headerType=none
-trojan://DarkVPNpro-7wNaRzTjAy@173.245.58.41:8443?security=tls&sni=n00tyrpo-ookdjhw-005ashadarkpro.arshaproplus.cf&type=grpc&serviceName=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.4:10839
+trojan://WX7o7xnuUX@telegram-id.outline-ir.xyz:40277/?type=tcp&path=%2F&headerType=http&security=none
+trojan://7b06d22a8a7c764f@5.44.249.53:3389?security=tls&type=tcp&headerType=none
+trojan://de5a47b3e2@198.244.252.93:443?security=tls&headerType=none&type=tcp&sni=uk1.connecton.surf
+trojan://telegram-id-privatevpns@15.236.181.178:22222?security=tls&sni=trj.rollingnext.co.uk
