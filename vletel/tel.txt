@@ -1,5 +1,5 @@
-vless://join-to-chanel-v2rayfree1@188.208.103.100:43595?type=tcp&path=%2F&host=speedtest.net&headerType=http&security=none
-vless://00201ffb-844f-495d-9ce5-0369a2060f0a@104.254.140.238:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
-vless://join-bede-chanel-v2rayfree1@85.204.18.179:19839?type=http&path=%2F&host=join-chanel------v2rayfree1----&security=reality&fp=firefox&pbk=DgSONb_nJS2dQL7FeQIvHquyVZUzHjs8ndFs-CbnzSI&sni=cms.accuweather.com&sid=03871fee&spx=%2F
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@13.50.140.209:22222?path=/telegram-channel-vlessconfig-ws&security=tls&encryption=none&host=telegram-channel-vlessconfig.sohala.uk&type=ws&sni=telegram-channel-vlessconfig.sohala.uk
-vless://d441df0e-6eb7-4891-b463-4941811ebe1a@all.vpncustomize.cam:2096?security=tls&encryption=none&type=grpc&sni=QvssvpfpV2ray-Soyosha-IranCCrl-mcisk-mtn-mciaoaovpn.SNAPP.monster&fp=chrome&serviceName=@VPNCUSTOMIZE&alpn=h2
+vless://ddfc5811-8b22-4079-a837-2f8388263638@128.140.111.224:2053?security=reality&flow=xtls-rprx-vision&sni=jetit.de&type=tcp&fp=chrome&pbk=4gu3qb8bTJEbVYjOg31oLL5hgk-lIEQDJ0HvEOTc_BQ&sid=f106a107
+vless://b960aaa1-252d-4e82-ebb8-9512b13b3b45@104.18.202.212:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=Antiv2ray-MCI-Mokhaderat-Irancell-Shatel.ChV2ray.cfd
+vless://5e0ee65d-e5c4-4643-8936-40d5761b0a00@190.93.246.241:8443?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&sni=antiV2ray-poV2ray-gRPC-WS.AhV2ray.fun
+vless://3bb4de8b-0c52-4f98-8f15-a947f1625c5c@for2.vpnprosec.shop:443?type=grpc&serviceName=&security=reality&pbk=eAK7XCEjEOFsaLhC9OAwHxHTXgaHzvcx6h9HVGnqbV4&fp=chrome&sni=telewebion.com&sid=fa41948d&spx=%2F
+vless://0b0846e2-7960-41bd-b1c0-f189255bf5f1@15.204.244.254:31970?security=none&type=tcp&host=internet.life.com.by&headerType=http
