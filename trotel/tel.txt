@@ -1,5 +1,5 @@
-trojan://fa9a512a-eab5-4cdf-b559-14922eb3948e@aws-hk03.aikun.online:443?security=tls&sni=cdn-65135431546231.78321.xyz&type=tcp&headerType=none
-trojan://hlt9v2Hqdf@104.21.40.222:2087?security=tls&sni=7b20d3l49xojc05spo42kgtf0g4otiw5qfkdv52ww1lv7zq6hh97c3pq3ydr8oo.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou&type=ws&host=v2line-telegram-channel-x782i7vepaeo729g70c09y7875cvm5vlyawhzw8.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou&path=t.me%2Fv2Line&fp=randomized&alpn=http/1.1
-trojan://Hu4CFM0wJ3@38.150.13.140:57063?type=tcp&sni=38.150.13.140&allowInsecure=1
-trojan://8kQaUakMBb@Net.1lagvpn13.cfd:8443?mode=gun&security=tls&alpn=http/1.1,h2&type=grpc&serviceName=@L_AGVPN13@L_AGVPN13@L_AGVPN13@L_AGVPN13&sni=C.1lagvpn13.cfd
-trojan://user@s18.mynameismahsa.info:2053?type=ws&security=tls&path=%2F&sni=s18.mynameismahsa.info
+trojan://telegram-id-directvpn@3.17.74.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://e7d1f4d0-f470-44d3-86b4-6eb4c22f1a79@nl1.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
+trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com&type=tcp&headerType=none
+trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga
+trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?security=tls&type=tcp&headerType=none
