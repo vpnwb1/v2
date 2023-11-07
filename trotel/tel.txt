@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@3.17.74.206:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://e7d1f4d0-f470-44d3-86b4-6eb4c22f1a79@nl1.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
-trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com&type=tcp&headerType=none
-trojan://4f7dc540-d244-4e64-af21-4b5bb300add3@132.226.5.246:443?security=tls&sni=www.tokyo2023.ga
-trojan://5505f6ba-cd37-30ce-8f92-be4120c83d7f@official.taipeicitygovernment.kiev.ua:8443?security=tls&type=tcp&headerType=none
+trojan://36e7d02b-9e7e-360d-9a7d-85b00e43f660@aaaa.aaaa.gay:50063?sni=hktddns.doubledou.icu&type=tcp&headerType=none
+trojan://de27457d-038b-4fb1-a9a0-221eb2d83590@104.21.17.22:443?security=tls&sni=tracking.betarays.ir&type=ws&host=tracking.betarays.ir&path=%2FECJIMZVCZDD0Oyd1AEUEUd&fp=chrome&alpn=http%2F1.1
+trojan://5f9a5d8c-a57b-4da6-baff-490fe4cf8d60@bgptw1.cnamazon.sbs:443?security=tls&headerType=none&type=tcp&sni=tlsdata.cnamazon.sbs
+trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?type=tcp&sni=telewebion.com&allowInsecure=1
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.139:10830
