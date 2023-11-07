@@ -1,5 +1,5 @@
-trojan://4b1639ec-e0d0-41d2-9563-03dbceae8d15@6w7j3p01.mcfront.xyz:31611?type=tcp&headerType=none
-trojan://0oA8mLmVNA@162.159.136.232:2083?security=tls&sni=hit68pHiha.pouriya.cf&type=ws&host=sPuylnOt5a.pouriya.cf&path=%2FAmsterdam&fp=chrome&alpn=h2,http/1.1
-trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443/?type=tcp&security=tls&sni=jp3.pqjc.buzz&allowInsecure=1
-trojan://a3869db4-eaaa-4cef-b131-26b3c0b46686@43.201.46.88:31467?security=tls&headerType=none&type=tcp&sni=sgp.piaole.me
+trojan://64650655-7914-421c-8cf2-685200e98c33@trauk1.bnnodeservice.com:32010?sni=cert.bitbyte.one
+trojan://x80Ssyerbr@telegram-id.outline-ir.xyz:40277?security=none&headerType=http&type=tcp
+trojan://2Telegram-id-DarkVPNpro@104.17.135.145:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10834
