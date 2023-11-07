@@ -1,5 +1,5 @@
-trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top&type=tcp&headerType=none
-trojan://85db6652-a747-3a0a-a170-422736076410@tg_mfbpn_d4.52vpn.eu.org:11017?type=tcp&sni=alibaba-node.cn&allowInsecure=1
-trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net
-trojan://44c5578a7c@fi1.connecton.surf:443?allowInsecure=1
-trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://3gLlCYBipVwr6Y5F@92.118.149.85:443?security=tls
+trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@ssl.tcpbbr.net:443?security=tls
+trojan://telegram-id-directvpn@18.159.29.169:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://0259f763-c4f3-4a7b-a028-589d9102f95d@v02.gutingting.com:20227?allowInsecure=1&peer=v2uk01.fuqiangren.com&sni=v2uk01.fuqiangren.com
+trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36306?type=tcp&headerType=none
