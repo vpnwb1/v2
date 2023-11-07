@@ -1,5 +1,5 @@
-trojan://xxoo@v2line.telegram.channel.1342.fr8678825324247b8176d59f83c30bd94d23d2e3ac5cd4a743bkwqeikvdyufr.cyou:443?security=tls&type=tcp&headerType=none
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@yuumv-1088-tr-0.d-kcd.tuil.xyz:889?security=tls&sni=s3.cjhh.beauty
-trojan://8008b06e-2d1d-421c-9cdc-20af1f59093a@esjs.stablize.top:443?type=tcp&allowInsecure=1
-trojan://telegram-id-directvpn@18.169.248.139:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://c51d3975-a40c-4a5b-929b-c8595ed87850@15.168.28.231:443?security=tls&sni=wel-usgt.optage.moe
+trojan://30030B00-A596-87B4-965A-511CD7E05351@oss-cn-shanghai.westdatacloud.xyz:20048?sni=oss-cn-shanghai.westdatacloud.xyz
+trojan://telegram-id-privatevpns@35.179.67.252:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://496202d8-19c4-4023-ad85-04217a74e790@172.105.203.114:10001
+trojan://xZAGqF8MZl@telegram-id.outline-ir.xyz:40277?security=none&amp;headerType=http&amp;type=tcp
+trojan://GmOUswOWsd@172.67.183.108:2096?security=tls&sni=x5.mehdimoghaddam.fun&type=ws&path=%2FFORWARDV2RAY&fp=chrome&alpn=http/1.1
