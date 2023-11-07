@@ -1,5 +1,5 @@
-trojan://64650655-7914-421c-8cf2-685200e98c33@trauk1.bnnodeservice.com:32010?sni=cert.bitbyte.one
-trojan://x80Ssyerbr@telegram-id.outline-ir.xyz:40277?security=none&headerType=http&type=tcp
-trojan://2Telegram-id-DarkVPNpro@104.17.135.145:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
-trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10834
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top&type=tcp&headerType=none
+trojan://85db6652-a747-3a0a-a170-422736076410@tg_mfbpn_d4.52vpn.eu.org:11017?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://0f5e6d9a-49af-4bc0-b04b-503102382144@51.195.219.173:443?security=tls&sni=ukt1.sshocean.net
+trojan://44c5578a7c@fi1.connecton.surf:443?allowInsecure=1
+trojan://telegram-id-directvpn@13.39.112.204:22222?security=tls&sni=trj.rollingnext.co.uk
