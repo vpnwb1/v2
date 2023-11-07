@@ -1,5 +1,5 @@
-trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL
-trojan://a77ad20a55@91.209.70.106:443?security=tls&sni=ru1.connecton.surf&type=tcp
-trojan://telegram-id-privatevpns@3.72.121.64:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://op2o51YGRO@104.22.3.78:2083?path=%2Fwss45968%3Fed%3D2048&security=tls&host=rayeganvasehame.flchlast.online&type=ws&sni=rayeganvasehame.flchlast.online
-trojan://telegram-id-privatevpns@18.134.237.132:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;alpn=http%2F1.1
+trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@209.46.30.17:443?allowInsecure=0&sni=2jp4.pqjc.buzz
+trojan://a3fa58b581353bb375d2ddad0f327938@72.167.45.6:443/?type=tcp&security=tls&allowInsecure=1
+trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@18.163.249.175:443?security=tls&sni=golang.protocolbuffer.com&type=tcp
+trojan://2875af71-e12b-40ff-b939-351accc3aa0c@gzdx.jcnode.top:48834?security=tls&sni=sk01.ckcloud.info&type=tcp&headerType=none
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.136:10806
