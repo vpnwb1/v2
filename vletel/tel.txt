@@ -1,5 +1,5 @@
-vless://45e7316f-0b70-4a8e-8adf-c1ea3e67c2ac@Tm.VpnFreeSec.Shop:443?type=grpc&serviceName=&security=tls&fp=&alpn=http%2F1.1%2Ch2&sni=FreeApli.AgV2ray.Cfd
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@172.67.174.225:443?path=https%3A%2F%2Fliapp.lockincomp.com%2Fliapp-learn-more%3Futm_term%3D&security=tls&encryption=none&host=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&sni=cf-wkrs-pages-vless-aoy.pages.dev
-vless://41e565e5-10c5-4de0-8c41-9ab55f8d1f47@all.vpncustomize.cam:2096?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@VPNCUSTOMIZE&sni=CaNNectV2ray-OnlyIRAN-mCi-iraracnzsk-rgt-mkh.varzesh3-CDN.site
-vless://e1dd9130-a351-4e06-aa5d-5efdcbaf47fa@web.internetfree2kb.cf:2095?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
-vless://abde9032-9233-48ec-8d15-664d6e8682c6@66.235.200.148:443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F
+vless://b279ea91-e48c-4d11-8d70-3b2462c71d82@wifi.ribvar69.tk:24782?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
+vless://c688395a-b36b-4071-974b-bc91ac2ad2c4@edtunnel-b6t.pages.dev:443?encryption=none&security=tls&type=ws&path=%2F
+vless://b4fd38a4-d93b-4349-e3b4-d00adfe395b9@3.arsalanv2.sbs:80?path=/@v2rayng_vip&security=none&encryption=none&host=3.arsalanv2.sbs&type=ws
+vless://9ff2afc9-cef9-49d9-afe7-2ddf4952933f@kal.hibidam.site:34136?security=none&encryption=none&headerType=none&type=tcp
+vless://2c0f25b0-b856-43a0-9fba-c65abfef21bc@192.169.127.184:443?security=tls&sni=cg25.wang66.homes&type=ws&host=cg25.wang66.homes&path=%2F%3Fed%3D2048
