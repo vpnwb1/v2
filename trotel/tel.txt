@@ -1,5 +1,5 @@
-trojan://331365d8-3ce5-484d-a226-33312bcc3217@hk04.trojanyyds.xyz:443?security=tls&type=tcp&headerType=none
-trojan://a77ad20a55@ru1.connecton.surf:443?security=tls&sni=ru1.connecton.surf&type=tcp&headerType=none
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?type=tcp&sni=namayesh.com&allowInsecure=1
-trojan://ccf1ee40-b4ab-11eb-b421-1239d0255272@us-trojan.bonds.id:443?security=tls&type=tcp&headerType=none
-trojan://bf432b0411@103.106.228.223:443?security=tls&headerType=none&type=tcp&sni=jp1.connecton.surf
+trojan://4b1639ec-e0d0-41d2-9563-03dbceae8d15@6w7j3p01.mcfront.xyz:31611?type=tcp&headerType=none
+trojan://0oA8mLmVNA@162.159.136.232:2083?security=tls&sni=hit68pHiha.pouriya.cf&type=ws&host=sPuylnOt5a.pouriya.cf&path=%2FAmsterdam&fp=chrome&alpn=h2,http/1.1
+trojan://973ed2e0-c4d8-4737-a093-71629148086d@51.77.213.197:443?security=tls&sni=frt2.sshocean.net
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.75:443/?type=tcp&security=tls&sni=jp3.pqjc.buzz&allowInsecure=1
+trojan://a3869db4-eaaa-4cef-b131-26b3c0b46686@43.201.46.88:31467?security=tls&headerType=none&type=tcp&sni=sgp.piaole.me
