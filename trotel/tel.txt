@@ -1,5 +1,5 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls&type=tcp&headerType=none
-trojan://97856218-c1c1-4965-ab1a-f1411d601651@gonggao04.beef1917.com:53006?security=tls&sni=niuniucloud.xyz
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.5:10839
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls
-trojan://0c6a3341e8d5ab17@60.249.3.230:3306?security=tls&type=tcp&headerType=none
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:16614?security=tls&sni=rctw02.ckcloud.info
+trojan://IRnRhGfXmw@162.159.137.232:2087?security=tls&sni=trLtRLju26.pouriya.cf&type=grpc&serviceName=Amsterdam&fp=chrome&alpn=h2%2Chttp%2F1.1
+trojan://98ccbde8-a407-4d43-9463-4b0ee12e238e@ssrsub.o07.trojan.tel:80?security=tls&type=tcp&headerType=none
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@iplc.xiaohouzi.club:20036?security=tls&sni=$$nazhk03.xiaohouzi.club
+trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@jp1.fighting.win:10001?type=tcp&allowInsecure=1
