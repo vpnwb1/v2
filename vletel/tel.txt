@@ -1,5 +1,5 @@
-vless://688999bc-d5f0-4c75-99e1-88e4055fe314@23.88.57.154:36316?security=reality&amp;encryption=none&amp;pbk=8LdoR2K0NThL9acZXOdXrfYg70y3pNMqSNcUIeoPWQg&amp;headerType=none&amp;fp=chrome&amp;spx=%2Fmsr&amp;type=tcp&amp;sni=www.brookings.edu&amp;sid=99029e8e
-vless://Join-bede-tunelvip@212.64.193.67:58722?security=none&encryption=none&host=Tunelvip.com&headerType=http&type=tcp
-vless://7fd4834a-ec99-4e16-894b-9664025ddd34@172.67.213.151:443?security=tls&sni=new1.alpha5.top&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha&alpn=h2,http/1.1
-vless://3656b0ff-5601-43f0-9175-3d686b050f97@mkh.ArV2ray.host:443?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&sni=tag.ArV2ray.fun
-vless://6f875e2a-1273-4dae-d3cd-ac22b82b756d@104.18.220.84:2053?path=%
+vless://291f89d8-584c-476f-8f5f-b3df9ccb7ac6@loatl.The-eNd.tech:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@loatvpn:چنلسازنده&sni=ch.ChanEl-The-eNd.cloud
+vless://c91b21d9-2a01-4e62-8b01-002a2ef5f361@v2parsin.site:19837?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp
+vless://9fed7336-45e1-409c-a669-77bab9c83ee9@104.19.218.163:443?security=tls&sni=bel.melov2ray.store&type=grpc&serviceName=Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray&fp=chrome&alpn=h2%2Chttp%2F1.1
+vless://b0002304-95c0-40c0-9240-eea3c3dce23c@31.22.116.26:8443?security=tls&sni=AntiV2ray-mci-mokhaderat-Irancell-shatel.ChV2ray.cfd&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&alpn=h2,http/1.1
+vless://c57230a4-ad5c-4323-9575-5547adb5f999@104.31.16.85:2053?security=tls&sni=tm.GrV2ray.cfd&type=grpc&serviceName=@AntiFilterService,@AntiFilterService,@AntiFilterService
