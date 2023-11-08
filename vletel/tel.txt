@@ -1,5 +1,5 @@
-vless://291f89d8-584c-476f-8f5f-b3df9ccb7ac6@loatl.The-eNd.tech:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@loatvpn:چنلسازنده&sni=ch.ChanEl-The-eNd.cloud
-vless://c91b21d9-2a01-4e62-8b01-002a2ef5f361@v2parsin.site:19837?security=none&encryption=none&host=soft98.ir&headerType=http&type=tcp
-vless://9fed7336-45e1-409c-a669-77bab9c83ee9@104.19.218.163:443?security=tls&sni=bel.melov2ray.store&type=grpc&serviceName=Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray,Telegram:@melov2ray&fp=chrome&alpn=h2%2Chttp%2F1.1
-vless://b0002304-95c0-40c0-9240-eea3c3dce23c@31.22.116.26:8443?security=tls&sni=AntiV2ray-mci-mokhaderat-Irancell-shatel.ChV2ray.cfd&type=grpc&serviceName=@AntiFilterChV2,@AntiFilterChV2,@AntiFilterChV2&alpn=h2,http/1.1
-vless://c57230a4-ad5c-4323-9575-5547adb5f999@104.31.16.85:2053?security=tls&sni=tm.GrV2ray.cfd&type=grpc&serviceName=@AntiFilterService,@AntiFilterService,@AntiFilterService
+vless://02284c14-903e-412e-a8e8-681a75613935@104.31.16.213:2087?security=tls&sni=cname.globalnetvpn.site&type=ws&host=cname.globalnetvpn.site&path=%2F
+vless://462abff6-c0fc-41a0-9b12-42cae4d21b43@185.18.250.119:2096?security=tls&encryption=none&headerType=none&type=tcp&sni=mjgkkhgvkutfkhg.mic-mokhaderat-irancell-shatel-irancel.shop
+vless://f4790377-463c-4452-ab60-0b689b835110@all.mdvpnsec.cfd:2096?type=grpc&serviceName=%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C&security=tls&fp=&alpn=&sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site
+vless://ca1ecf58-c125-4543-bfe7-a9135a422f83@162.55.174.26:443/?type=tcp&encryption=none&flow=xtls-rprx-vision&sni=www.canva.com&alpn=h2&fp=chrome&security=reality&pbk=aO_UFI-7oMciQwXycPWPbTQbAeZAsPe5EgrEMSARJVo&sid=ee9b3344ed43
+vless://Source-ipV2Ray@159.69.191.180:443/?type=grpc&encryption=none&flow=&serviceName=%40ipV2Ray&sni=gsmarena.com&fp=firefox&security=reality&pbk=eX6hHR9sbAcl93_KIpiOLhlELkI_GXKenG3qeSb3U0M&sid=a90ee22c
