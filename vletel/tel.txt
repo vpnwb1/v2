@@ -1,5 +1,5 @@
-vless://a2cfe2f9-dd19-4e04-a28c-96531f80e213@LIGHTNING6-joinbede.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=liV2ray.z2-lightning6.sbs
-vless://a788514e-8b70-48ba-abb9-89a863c28682@104.31.16.65:2083?type=grpc&serviceName=Telegram@Capital_NET@Capital_NET@Capital_NET@Capital_NET@Capital_NET@Capital_NET@Capital_NET&security=tls&fp=&alpn=&sni=capital-net.nothingseriOus.gq
-vless://75ead7d5-44cc-469a-8483-457cb5d64281@channel.digiv2ray.xyz:2096?host=speedtest.net&security=none&type=tcp&headerType=http&encryption=none
-vless://c57230a4-ad5c-4323-9575-5547adb5f999@190.93.246.241:2053?security=tls&sni=tm.GrV2ray.cfd&type=grpc&serviceName=@AntiFilterService,@AntiFilterService,@AntiFilterService
-vless://e28bb3f8-e64a-4419-9496-33c46220354b@104.21.57.240:443?security=tls&sni=sdgf.bdfstt.sbs&type=ws&host=sdgf.bdfstt.sbs&path=%2F%3Fed%3D2048
+vless://a09373e2-e120-457d-9ec9-ea7fe8bedb52@185.125.171.13:443?security=reality&encryption=none&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc&headerType=none&fp=chrome&type=tcp&flow=xtls-rprx-vision&sni=partner.g2.com
+vless://3126e8d0-0016-4071-8076-0bf23f6356d2@185.162.235.178:27930?security=none&encryption=none&host=www.cloudflare.com&headerType=http&type=tcp
+vless://c3c64c0d-014a-4395-b6b8-823a6bed7e96@www.canva.com:443?security=tls&encryption=none&type=ws&headerType=none&path=%252F%253Fed%253D2048&sni=confignginxV2rayng.vpncustomize.Website&host=confignginxV2rayng.vpncustomize.Website
+vless://telegram-id-ArV2ray@95.217.180.229:443?type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&security=reality&fp=firefox&pbk=Xmi3tdaTwvR0eNoAidoK9DHsMl5uXJqp45y0o0iqLEU&sni=ftp.debian.org&sid=ca65bda6
+vless://2e298e85-0c5f-49db-96a5-aabe1512447c@172.66.43.40:2096?security=tls&sni=sr.tm-foxnt-joinbede.fun&type=grpc&serviceName=@v2ray_fark,@v2ray_fark
