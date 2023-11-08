@@ -1,5 +1,5 @@
-trojan://73658d71-be45-4495-bc3e-e69d36ce73b5@103.234.53.23:50014?type=tcp&allowInsecure=1
-trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30053?security=tls&sni=v2phl01.fuqiangren.com&type=tcp&headerType=none
-trojan://4b1639ec-e0d0-41d2-9563-03dbceae8d15@6w7j3p01.mcfront.xyz:31821?type=tcp&headerType=none
-trojan://telegram-id-privatevpns@15.237.67.136:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://a3869db4-eaaa-4cef-b131-26b3c0b46686@43.201.46.88:31467?security=tls&headerType=none&type=tcp&sni=sgp.piaole.me
+trojan://e7d1f4d0-f470-44d3-86b4-6eb4c22f1a79@jp4.421421.xyz:20230?allowInsecure=0&peer=421421.xyz&sni=421421.xyz
+trojan://fMucnQTndf@no.08.ijg.cc:443?security=tls
+trojan://4f2c305b-9a03-4493-b3e4-2dff2f1af8c9@141.95.61.209:1145?security=tls
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp&headerType=none
