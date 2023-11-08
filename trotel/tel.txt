@@ -1,5 +1,5 @@
-trojan://rYQPeFM3GuIQsqyY@fi-43da1ea7.xeovo.net:444?security=tls&headerType=none&type=tcp&sni=fi-43da1ea7.xeovo.net
-trojan://telegram-id-privatevpns@13.39.104.119:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://your_password@96.0.146.134:443?security=tls&sni=aws-ph-mnl-1.f1rocketnode.com&type=ws&host=aws-ph-mnl-1.f1rocketnode.com&path=%2Ff1rocket&fp=chrome&alpn=http/1.1
-trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@219.76.13.175:443?allowInsecure=1&sni=golang.protocolbuffer.com
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.4:10849?security=tls
+trojan://22dxmxezsm@162.159.135.232:443?security=tls&sni=brec3xLN7Zl2.pouriya.cf&type=grpc&serviceName=Amsterdam&fp=chrome
+trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://your_password@54.93.172.88:443?security=tls&sni=aws-ge-frankfurt-1.f1rocketnode.com
+trojan://your_password@16.171.12.136:443?security=tls&headerType=none&type=tcp&sni=aws-se-stockholm-1.f1rocketnode.com
+trojan://telegram-id-directvpn@54.229.30.12:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp
