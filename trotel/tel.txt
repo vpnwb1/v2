@@ -1,5 +1,5 @@
-trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.4:10844
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.24.20.239:443?sni=c2mt.ciscocdn1.live&allowInsecure=1
-trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@65.75.220.125:889?security=tls&sni=s3.cjhh.beauty
-trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.138:10835?security=tls
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.com.ua:8443?security=tls&type=tcp&headerType=none
+trojan://97856218-c1c1-4965-ab1a-f1411d601651@gonggao04.beef1917.com:53006?security=tls&sni=niuniucloud.xyz
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.5:10839
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kharkov.ua:2053?security=tls
+trojan://0c6a3341e8d5ab17@60.249.3.230:3306?security=tls&type=tcp&headerType=none
