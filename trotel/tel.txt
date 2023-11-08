@@ -1,5 +1,5 @@
-trojan://telegram-id-privatevpns@18.193.113.18:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
-trojan://038e8456-5546-4031-8e77-a5bde7f0bfc4@50.114.206.86:443?security=tls&sni=13-231-155-134.nhost.00cdn.com
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.4:10830?security=tls
-trojan://7036ea90-493f-4044-b706-f677e2b6b27b@spsg.1234567890spcloud.com:443?security=tls&type=tcp&headerType=none
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.135.235:443/?type=tcp&security=tls&sni=sg1.pqjc.buzz&allowInsecure=1
+trojan://5b000ca0-89fd-4f62-bd1a-a10c0b5dc026@45.131.4.102:443?security=tls&sni=ku8.vsaripn.com&type=grpc&serviceName=kTqz28iTRrc3MPmiK
+trojan://telegram-id-directvpn@35.177.224.124:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
+trojan://8a03bc28-2a33-42c4-be59-30464dbb9954@london11.yukiss.eu.org:18818?security=tls
+trojan://Cl150MQWlG@209.250.236.93:443?security=tls&sni=irancell-ir-4.mmdruby13.store&type=grpc
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.173.255.127:443?security=tls&sni=sbank.ir
