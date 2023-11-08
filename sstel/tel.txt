@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.7:6379
-ss://YWVzLTI1Ni1nY206dnE3WDFTNTJDNg==@37.27.22.91:8443
-ss://3b69017a-078b-4e66-809d-c2a9be442c56@104.31.16.103:443?hiddify=1&amp;sni=vp3sp.vpweb.cfd&amp;type=ws&amp;alpn=h2&amp;path=/NwPhOWFppvHAoAExY7GGdD&amp;host=vp3sp.vpweb.cfd&amp;encryption=none&amp;fp=chrome&amp;headerType=None&amp;security=tls
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk=@167.88.62.68:9102
-ss://0aedec24-4f6a-47d5-a0e8-ac22f5feadc2@all.vpncustomize.cam:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=conflgforV2rayng.vpncustomize.Website
+ss://YWVzLTI1Ni1jZmI6dWVMWFZrdmg0aGNraEVyUQ@213.183.59.211:9060
+ss://MjAyMi1ibGFrZTMtYWVzLTI1Ni1nY206MnRFQmZtT2xjS1NBVUhyNVRHQWowaEgvTFNIb3hnVG1VbXorMnFGNjZEYz06eS9uVXU0U1RvWDhTVHY2NEoyMjJjSFdLU0V1MkdacnkrRkJQZU9IekV0bz0=@91.107.252.206:42193
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpwV3FUVFY2bHJuUEFwZEVBRjhRc204@40.114.210.138:40943
+ss://9fe87c29-6d83-4dd9-9389-bdaa44a91ee4@194.116.228.122:15666?security=reality&amp;encryption=none&amp;pbk=wt7m2Z9ATUcXYgSkABXcuUo6BM3TRajXGXfLxvB1WTg&amp;headerType=none&amp;fp=firefox&amp;type=tcp&amp;sni=discord.com&amp;sid=5782e58a
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@51.77.53.200:3389
