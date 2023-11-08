@@ -1,5 +1,5 @@
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.4:10819
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:10340?security=tls&sni=us04.ckcloud.info
-trojan://b88edfd4-23eb-4544-9bbc-a68914952905@usajs.stablize.top:443?security=tls&type=tcp&headerType=none
-trojan://mainssh-ddoejfv14@108.61.170.104:443?security=tls&sni=frtgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
+trojan://22dxmxezsm@discord.com:443/?type=grpc&serviceName=Amsterdam&security=tls&sni=brec3xLN7Zl2.pouriya.cf&fp=chrome
+trojan://bdf0e9b3-d1fa-40ef-ac50-e2b1837af1f4@gdct002.jcnode.top:21760?allowInsecure=1&peer=vn01.ckcloud.info&sni=vn01.ckcloud.info
+trojan://dTjHHw2kDE@23.94.122.66:38505?security=tls&sni=telewebion.com
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.127:443?sni=c2mk.ciscocdn1.live&allowInsecure=1
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@uk01.trojanyyds.xyz:443?security=tls
