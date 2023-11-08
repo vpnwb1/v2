@@ -1,3 +1,0 @@
-hy2://99999@194.5.97.15:443/?insecure=1&sni=www.bing.com&obfs=salamander&obfs-password=99999
-hy2://8c831d06a03b7ade@45.15.157.181:443/?insecure=1&sni=www.google.com
-hy2://32242006cd6d9890@194.116.215.65:443/?obfs=salamander&obfs-password=0eb626ab&insecure=1
