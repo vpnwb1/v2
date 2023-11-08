@@ -1,5 +1,5 @@
-vless://c7c46696-fa3c-4d6a-9ca0-648e900c0bee@104.21.72.229:443?security=tls&sni=v2.tel-aattaash2.xyz&type=grpc
-vless://bd4f0a04-32bf-49d9-aaf1-60dee9683312@104.31.16.65:2053?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@TEHRANARGO@TEHRANARGO@TEHRANARGO@TEHRANARGO@TEHRANARGO&sni=tehranargo.joinbede.sbs
-vless://7e436203-0165-4e04-96e3-a56fc3cdb014@maznet-mmc.ddns.net:2087?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet--@Maznet&sni=channel.maznet.cfd
-vless://f99a3d18-af9f-48b9-b404-6d17e222aeaa@all.v-2rayngvpn.cfd:443?mode=multi&security=tls&encryption=none&type=grpc&serviceName=@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn-@V_2rayngVpn&sni=Loop.v2rayvpn2.sbs
-vless://7b0f3d7d-811c-4896-995e-775454936766@join.shhproxy.cfd:2096?mode=gun&security=reality&encryption=none&pbk=GxGzAVN9xi1aXGv_-EUwj8qLldhHG0oVQ-OOgVkoMlU&fp=chrome&spx=%2F&type=grpc&serviceName=@shh_proxy,@shh_proxy,&sni=www.speedtest.net&sid=25988b1f
+vless://6e34f2c5-6c71-4010-c292-10d05ef4a9a2@104.25.255.254:443/?type=ws&encryption=none&flow=&host=current.iraniancp.click&path=%2F%3Fed%3D2048&security=tls&sni=current.iraniancp.click
+vless://f202f3e0-7379-4c82-88cd-19212f153a44@[::ffff:6815:eb73]:2053?security=tls&sni=iraniazad10.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=http/1.1
+vless://90809773-9292-4196-a299-78a010274af8@new.kinghooman.sbs:2083?mode=gun&security=reality&encryption=none&pbk=49F85NkLJhTdYPw_fZnFe6qIbbRmWfxJdY1-IfbjG3s&fp=chrome&spx=%2F&type=grpc&serviceName=&sni=www.zula.ir&sid=86514152
+vless://35e6a685-070c-485e-bd81-48bc0217c596@57.129.23.17:34375?type=tcp&security=none&headerType=http&host=speedtest.net
+vless://VPNCUSTOMIZE@5.75.240.193:443?mode=gun&security=reality&encryption=none&pbk=qrWdM7lRUSiZgZW-sohUHuZVimTyjdGXejTnMUu_kWs&fp=firefox&spx=%2F&type=grpc&serviceName=&sni=buda.rs&sid=4c226372
