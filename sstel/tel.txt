@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@145.239.1.100:3306
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@167.88.61.175:2375
-ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@142.202.48.34:445
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpIR0JkT0tkY0llcjU=@167.99.192.30:3567
-ss://YWVzLTEyOC1nY206ZzEyc1FpI3NzIyYx@183.232.170.32:30017?plugin=v2ray-plugin%3Bmode%3Dwebsocket%3Bmux%3D8
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.75.136.135:3306
+ss://azadi-az-inja-migzare@165.232.93.25:17420?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=kJeu6F6Npyfy3QDRn3XtV_LdwFdCIHiOUIAVas-Q_g4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=3d542b6f
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@148.66.56.99:807
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkMzEyMDRiZC03ZGNjLTRiMmItOTY3Yi1kYTJlNzY0ZDU0YzY@gdct003.jcnode.top:25997
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.20:6379
