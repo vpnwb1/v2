@@ -1,5 +1,5 @@
-trojan://2228e29d-942a-4ee8-b3c0-f4a846e3f355@212.24.103.3:2053?security=tls
-trojan://KLF0qOU0ZZGw5Tnu@121.78.213.3:443?security=tls&sni=swift.protocolbuffer.com
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?type=tcp&sni=$fr1.trojanvh.xyz&allowInsecure=1
-trojan://telegram-id-privatevpns@18.135.107.32:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://8d1e94cd-23cf-4267-b630-c6894e6e1b4d@sk01.trojanyyds.xyz:443
+trojan://lI5gROLlVN@discord.com:2083?security=tls&sni=yibosiblcLva8lse.pouriya.cf&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=yibosiblcLva8lse.pouriya.cf&path=%2FAmsterdam
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls
+trojan://telegram-id-privatevpns@13.39.251.132:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@3.249.15.72:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk
