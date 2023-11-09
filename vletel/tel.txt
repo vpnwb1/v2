@@ -1,5 +1,5 @@
-vless://66d0eb8b-4217-444a-8de3-0340c674e9a8@172.67.130.48:8443?security=tls&sni=Loop.v2rayvpn2.sbs&type=grpc&serviceName=@antimeli@antimeli@antimeli@antimeli@antimeli
-vless://b0342bf6-5a56-44cc-b550-82c1a2cf00a7@45.65.113.155:17208?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp
-vless://1d0d7f6e-a8f4-4403-b492-65e702f8a481@xn--21-pv2cn3nz8d5o7an4zda455qi36a.tech:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=dbdjd7gskclvgdj.%E4%B8%AD%E8%8F%AF%E6%B0%91%E6%97%8F%E5%93%AD%E4%BA%861.tech&amp;type=ws
-vless://7b931286-cb27-4b56-ace2-7b6f2afa744c@190.93.246.252:8443?path=%2F%3Fed%3D2048+%40hopev2ray&security=tls&encryption=none&host=nl11.vlessx.us&fp=randomized&type=ws&sni=nl11.vlessx.us
-vless://759737e3-91cb-4f06-abce-2af928320330@LIGHTNING6-joinbede.ddns.net:2083?mode=gun&security=tls&encryption=none&type=grpc&serviceName=@LIGHTNING6&sni=Z.LiV2ray.top
+vless://a96480b5-3195-4505-836b-bdade880689f@vip.vp22ray.site:443?mode=gun&security=reality&encryption=none&pbk=xrKewST6gtgz6HNn0tTUEU0qVd4xi7lmdIumHEAX4lk&fp=firefox&spx=%2F&type=grpc&serviceName=@VP22RAY@VP22RAY@VP22RAY&sni=ger.vp22ray.site&sid=34297703
+vless://34e1f583-cda3-4fab-8d2b-55ef40884d87@62.60.179.226:9090?security=none&type=tcp&host=fast.com&path=/&headerType=http
+vless://4cf74912-9ae6-4be7-8068-b0b85acffd1c@172.67.165.82:443?security=tls&sni=ArV2ray.AbrArvan.link&type=ws&host=ArV2ray.AbrArvan.link&path=%2F
+vless://78a01132-3ef7-4551-8293-5e553db2bb28@162.159.129.233:2095?security=none&type=ws&host=de23.vlessx.us&path=%2F%3Fed%3D2048
+vless://04ba3531-57a5-4ef6-aba5-971867e3c9e4@65.108.56.15:443?mode=gun&security=reality&encryption=none&pbk=F52vryMCw6WxLGUw36Fzrl4mbcxBThAtXstgD0QwVjw&fp=firefox&spx=%2F&type=grpc&serviceName=@ipV2Ray&sni=ftp.debian.org&sid=0e596c3b
