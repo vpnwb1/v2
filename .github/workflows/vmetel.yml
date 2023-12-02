@@ -2,11 +2,11 @@ name: vmetel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "40 4-7 * * *"
-  - cron: "40 9-12 * * *"
-  - cron: "40 14-17 * * *"
-  - cron: "40 19-20 * * *"  
+#  schedule:
+#  - cron: "40 4-7 * * *"
+#  - cron: "40 9-12 * * *"
+#  - cron: "40 14-17 * * *"
+#  - cron: "40 19-20 * * *"  
 jobs:
   job1:
     runs-on: ubuntu-latest
