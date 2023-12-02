@@ -1,5 +1,5 @@
-trojan://lI5gROLlVN@discord.com:2083?security=tls&sni=yibosiblcLva8lse.pouriya.cf&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=yibosiblcLva8lse.pouriya.cf&path=%2FAmsterdam
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls
-trojan://telegram-id-privatevpns@13.39.251.132:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@3.249.15.72:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.131.6.28:443?sni=c1mc.cdncisco3.co&type=ws&host=c1mc.cdncisco3.co&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://6a91134d-1e3f-4b63-9a46-99515cb62596@tw01.trojanyyds.xyz:443
+trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@0309tw.ljydw.top:443?security=tls&sni=0309tw.ljydw.top
+trojan://e5c65270-bef7-4d38-b8c1-03274edf545f@us1.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&peer=13-231-155-134.nhost.00cdn.com&sni=13-231-155-134.nhost.00cdn.com
+trojan://telegram-id-privatevpns@35.180.248.175:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trj.rollingnext.co.uk
