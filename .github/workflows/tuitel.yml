@@ -2,11 +2,11 @@ name: tuitel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "30 4-7 * * *"
-  - cron: "30 9-12 * * *"
-  - cron: "30 14-17 * * *"
-  - cron: "30 19-20 * * *"  
+#  schedule:
+#  - cron: "30 4-7 * * *"
+#  - cron: "30 9-12 * * *"
+#  - cron: "30 14-17 * * *"
+#  - cron: "30 19-20 * * *"  
 jobs:
   job1:
     runs-on: ubuntu-latest
