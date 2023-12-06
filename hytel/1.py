@@ -3,8 +3,8 @@ import os
 
 ###
 
-source_file = 'Hy2L.txt'
-destination_file = 'hy2tel/tel.txt'
+source_file = 'HysteriaL.txt'
+destination_file = 'hytel/tel.txt'
 num_lines_to_move = 2
 
 with open(source_file, 'r') as file1:

@@ -5,7 +5,7 @@ import os
 
 source_file = 'SsrL.txt'
 destination_file = 'ssrtel/tel.txt'
-num_lines_to_move = 5
+num_lines_to_move = 2
 
 with open(source_file, 'r') as file1:
     lines = file1.readlines()

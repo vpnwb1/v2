@@ -1,0 +1,39 @@
+name: hy2tel
+
+on:
+  workflow_dispatch:
+  schedule:
+  - cron: "50 3-20 * * *"
+
+jobs:
+  job1:
+    runs-on: ubuntu-latest
+    permissions: write-all
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
+      CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
+      CHAT_ID_2: ${{ secrets.CHAT_ID_2 }}      
+      MESSAGE_HY2: ${{ secrets.MESSAGE_HY2 }}      
+    steps:
+    - uses: actions/checkout@v3.5.2
+    
+    - name: Install Python
+      uses: actions/setup-python@v4.6.0
+          
+    - name: RunPython
+      run: |
+        pip install qrcode
+        pip install python-telegram-bot
+        python hytel/1.py
+        python hytel/2.py
+        
+
+      
+    - name: write
+      run: |                 
+        git config --global user.email "you@example.com"
+        git config --global user.name "Your Name"
+        git pull origin main
+        git add -A
+        git commit -m "Automatic update"
+        git push
