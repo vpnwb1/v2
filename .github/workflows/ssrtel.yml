@@ -2,7 +2,7 @@ name: ssrtel
 
 on:
   workflow_dispatch:
-#  schedule:
+  schedule:
 #  - cron: "20 4-7 * * *"
 #  - cron: "20 9-12 * * *"
 #  - cron: "20 14-17 * * *"

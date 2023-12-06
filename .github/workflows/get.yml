@@ -13,14 +13,12 @@ jobs:
     steps:
     - uses: actions/checkout@v3.5.2
 
-    - name: Install go
-      uses: actions/setup-go@v4.1.0      
-
     - name: Install Python
       uses: actions/setup-python@v4.6.0
           
     - name: RunPython
       run: |
+        pip install bs4 beautifulsoup4 requests
         python all.py
         
 

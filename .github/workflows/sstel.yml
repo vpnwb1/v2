@@ -2,7 +2,7 @@ name: sstel
 
 on:
   workflow_dispatch:
-#  schedule:
+  schedule:
 #  - cron: "10 4-7 * * *"
 #  - cron: "10 9-12 * * *"
 #  - cron: "10 14-17 * * *"

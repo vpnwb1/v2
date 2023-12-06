@@ -2,7 +2,7 @@ name: vletel
 
 on:
   workflow_dispatch:
-#  schedule:
+  schedule:
 #  - cron: "35 4-7 * * *"
 #  - cron: "35 9-12 * * *"
 #  - cron: "35 14-17 * * *"
