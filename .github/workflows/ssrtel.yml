@@ -3,10 +3,8 @@ name: ssrtel
 on:
   workflow_dispatch:
   schedule:
-#  - cron: "20 4-7 * * *"
-#  - cron: "20 9-12 * * *"
-#  - cron: "20 14-17 * * *"
-#  - cron: "20 19-20 * * *"  
+  - cron: "20 3-20 * * *"
+
 jobs:
   job1:
     runs-on: ubuntu-latest
