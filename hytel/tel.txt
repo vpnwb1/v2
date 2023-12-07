@@ -1,2 +1,2 @@
-hysteria://1.162.136.159:11223/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=mqoE9qSoyMFa&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
-hysteria://51.158.54.46:11926/?insecure=1&amp;peer=www.google.com&amp;auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&amp;upmbps=80&amp;downmbps=100&amp;alpn=h3
+hysteria://167.160.90.251:48089/?insecure=1&amp;auth=dongtaiwang.com&amp;upmbps=50&amp;downmbps=80&amp;alpn=h3
+hysteria://167.160.90.251:48089/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
