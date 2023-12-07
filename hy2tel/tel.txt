@@ -1,2 +1,2 @@
-hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@125.227.83.21:3074/?insecure=1
-hy2://f40b1e441addaec3@hys.cpionline.co:443/?insecure=1&amp;sni=google.co&amp;obfs=salamander&amp;obfs-password=2db7b42a
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@18.179.58.237:3074/?insecure=1
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@35.72.184.29:3074/?insecure=1
