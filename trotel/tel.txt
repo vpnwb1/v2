@@ -1,5 +1,2 @@
-trojan://lI5gROLlVN@discord.com:2083?security=tls&sni=yibosiblcLva8lse.pouriya.cf&alpn=h2%2Chttp%2F1.1&fp=chrome&type=ws&host=yibosiblcLva8lse.pouriya.cf&path=%2FAmsterdam
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.kyiv.ua:8443?security=tls
-trojan://telegram-id-privatevpns@13.39.251.132:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@3.249.15.72:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://telegram-id-privatevpns@54.78.157.126:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://IRnRhGfXmw@162.159.128.233:2087?security=tls&sni=trLtRLju26.pouriya.cf&type=grpc&serviceName=Amsterdam
+trojan://17c0c3fe-0e7e-4d75-8011-ebb46fea532b@gsawshk1.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
