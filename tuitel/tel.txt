@@ -1,2 +1,2 @@
-tuic://628e821d-5151-48d6-8af3-e89cd74e6f4d:628e821d-5151-48d6-8af3-e89cd74e6f4d@hdfyhys2.cpionline.co:26288?alpn=h3&congestion_control=cubic&sni=hdfyhys2.cpionline.co&udp_relay_mode=native
-tuic://485ce799-da5f-46e8-a82b-8ef322d8602f:dongtaiwang.com@108.181.22.239:19988/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=telegramEUT-VPN.ddns.net&amp;alpn=h3&amp;allow_insecure=1
+tuic://628e821d-5151-48d6-8af3-e89cd74e6f4d:628e821d-5151-48d6-8af3-e89cd74e6f4d@hdfyhys2.foriran.trade:26289?alpn=h3&congestion_control=cubic&sni=hdfyhys2.foriran.trade&udp_relay_mode=native
+tuic://d6214437-e1b5-4334-9090-8f66b78bea89:dongtaiwang@108.181.22.205:50987/?congestion_control=bbr&amp;udp_relay_mode=native&amp;sni=www.google.com&amp;alpn=h3&amp;allow_insecure=1
