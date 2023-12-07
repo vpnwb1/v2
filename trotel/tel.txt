@@ -1,2 +1,2 @@
-trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz
-trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@k-r01.xingyunwu.top:50020?sni=xingyunwu.top&type=tcp&headerType=none
+trojan://telegram-id-privatevpns@18.135.6.102:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21247?security=tls&sni=x91.flybar.work
