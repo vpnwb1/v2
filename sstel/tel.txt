@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.48:2375
-ss://20e8f3a6-c70b-46b0-bef4-35ff6d57d676@All.ShhProxy.Cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Shh_Proxy,%40Shh_Proxy&amp;sni=ShprxyV2rayy.digitalciity.Tech
+ss://47c567dc-9417-4f22-97dd-a3a0849c14c0@Join.V2RayTz.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=%40LIGHTNING6&amp;sni=Liv2ray.p-lightning6.cfd
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.126.100:443
