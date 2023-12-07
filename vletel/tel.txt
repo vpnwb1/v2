@@ -1,2 +1,2 @@
-vless://8b8f43e4-8a7f-41f4-971b-050396de3c89@190.93.247.155:8443?security=tls&sni=fn.AnV2ray.site&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2
-vless://37e788a0-9440-4bbd-f28d-506851180eea@23.227.38.135:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bia-to-channel1.unlimiteddev.xyz&amp;type=ws
+vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.219.241:443?security=tls&sni=edge.020770.xyz&type=ws&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&fp=chrome
+vless://96e8440e-27c4-430a-927d-bc5aac95a73a@172.67.209.235:443?security=tls&sni=ac2.zxv.biz.id&type=ws&host=ac2.zxv.biz.id&path=%2F%3Fed
