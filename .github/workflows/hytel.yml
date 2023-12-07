@@ -1,4 +1,4 @@
-name: hy2tel
+name: hytel
 
 on:
   workflow_dispatch:
