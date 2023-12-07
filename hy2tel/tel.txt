@@ -1,2 +1,2 @@
-hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&obfs=salamander&obfs-password=2db7b42a&sni=telegramEUT-VPN.ddns.net
-hy2://sharecentrepro@
+hy2://f40b1e441addaec3@45.76.44.57:443?insecure=1&obfs=salamander&obfs-password=2db7b42a&sni=google.co
+hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@125.227.83.25:3074/?insecure=1
