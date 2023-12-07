@@ -1,2 +1,2 @@
-vless://b0138d55-a493-4dc3-9932-c6f0391707c1@172.67.219.241:443?security=tls&sni=edge.020770.xyz&type=ws&path=%2Fvless%2Fb0138d55-a493-4dc3-9932-c6f0391707c1%3Fed%3D2048&fp=chrome
-vless://96e8440e-27c4-430a-927d-bc5aac95a73a@172.67.209.235:443?security=tls&sni=ac2.zxv.biz.id&type=ws&host=ac2.zxv.biz.id&path=%2F%3Fed
+vless://1c3ce4c0-c056-4445-b879-a2b05bdad61e@162.159.135.233:8443?encryption=none&amp;security=tls&amp;sni=ee591e6109013cfd.tahrimgozarchannel.com&amp;type=ws&amp;host=ee591e6109013cfd.tahrimgozarchannel.com&amp;path=%2Fe1466c8d-7eae-4211-87ff-b8479815b157%2Fapi%2Ftahrimgozar
+vless://8b289565-ad03-45e4-ec7e-0a10bb0e657d@iranserver.com:80?path=/@v2rayng_vip&amp;security=none&amp;encryption=none&amp;host=6.arsalanv2.sbs&amp;type=ws
