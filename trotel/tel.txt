@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@18.135.6.102:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:21247?security=tls&sni=x91.flybar.work
+trojan://ed3ccb1e-7057-3d40-b794-630ef18fb7d2@20005.purefast2.com:20005?security=tls
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls&type=tcp&headerType=none
