@@ -1,2 +1,2 @@
-trojan://ddbe4c70-7a02-11ee-aef2-1239d0255272@15.204.240.119:443?security=tls&sni=us1.test3.net&allowInsecure=1&type=tcp
-trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443?security=tls&sni=jp2.pqjc.buzz&type=tcp
+trojan://gJT9RNBLzh@104.17.229.103:2083?security=tls&sni=hungary.hot-coffee.site&type=grpc&serviceName=grpc22369
