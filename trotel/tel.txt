@@ -1,2 +1,2 @@
-trojan://ed3ccb1e-7057-3d40-b794-630ef18fb7d2@20005.purefast2.com:20005?security=tls
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.ivano-frankivsk.ua:8443?security=tls&type=tcp&headerType=none
+trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?type=tcp&sni=anetwork.ir&allowInsecure=1
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.24.20.239:443?security=tls&sni=c2mt.ciscocdn1.live&type=tcp&allowInsecure=1
