@@ -1,2 +1,2 @@
-hy2://NDE0NTc3OjExMTIwMTplODE1ODQ3YmIyZGJjZDM0%3D@54.238.69.229:3074/?insecure=1
-hy2://f40b1e441addaec3@45.76.44.57:443/?insecure=1&amp;sni=google.co&amp;obfs=salamander&amp;obfs-password=2db7b42a
+hy2://sharecentrepro@15.204.49.157:4434/?sni=ushy2.sharecentre.online
+hy2://855b3ef2-a162-417e-931d-f6a49adf21cf@51.15.53.153:45500/?insecure=1&amp;sni=www.bing.com
