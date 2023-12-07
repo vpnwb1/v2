@@ -1,2 +1,2 @@
-trojan://IRnRhGfXmw@162.159.128.233:2087?security=tls&sni=trLtRLju26.pouriya.cf&type=grpc&serviceName=Amsterdam
-trojan://17c0c3fe-0e7e-4d75-8011-ebb46fea532b@gsawshk1.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
+trojan://ddbe4c70-7a02-11ee-aef2-1239d0255272@15.204.240.119:443?security=tls&sni=us1.test3.net&allowInsecure=1&type=tcp
+trojan://telegram-id-privatevpns@3.250.123.154:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
