@@ -1,2 +1,2 @@
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.36:443?security=tls&sni=jp2.pqjc.buzz&type=tcp
-trojan://gJT9RNBLzh@104.17.229.103:2083?security=tls&sni=hungary.hot-coffee.site&type=grpc&serviceName=grpc22369
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@foreign01.lovehjq.xyz:46521?security=tls&sni=lovehjq.xyz
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@k-r01.xingyunwu.top:50020?sni=xingyunwu.top&type=tcp&headerType=none
