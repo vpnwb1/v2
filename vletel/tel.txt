@@ -1,2 +1,2 @@
-vless://a87387cc-7a9f-4e8c-c653-d422425897b0@95.217.243.4:443?encryption=none&flow=&fp=safari&pbk=QcDX3RiYqqDQE7Pfnt_MzB2e7D4RcaVhb8sgGhZ5Oho&security=reality&sid=49a0&sni=kh%C3%B8m%C3%ABi%C3%B1%C3%AD.%C3%A7om&type=tcp
-vless://68c3d9de-c9ce-403b-e6fa-c83a508cc30a@Join.V2RayTz.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=%40LIGHTNING6&amp;sni=Liv2ray.p-lightning6.cfd
+vless://9ce94475-ff33-4d5b-b4ee-ad20af840e64@104.21.36.193:2087?security=tls&sni=join.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome
+vless://2c22ac9f-b883-49b4-a135-d02b38097da9@49.13.78.197:2053?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
