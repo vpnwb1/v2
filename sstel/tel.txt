@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTptS29TVzVIZ1ByZVozRmRZUnhGRk15@40.69.68.162:53232
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@146.59.111.181:443
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.68.134.48:2375
+ss://20e8f3a6-c70b-46b0-bef4-35ff6d57d676@All.ShhProxy.Cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=%40Shh_Proxy,%40Shh_Proxy&amp;sni=ShprxyV2rayy.digitalciity.Tech
