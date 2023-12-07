@@ -1,2 +1,2 @@
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@172.67.139.111:443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&host=baipiao1.curly-train.pages.dev&path=%2F%3Fed%3D2048
-vless://f6465cfa-b351-43ce-97bd-dcb701338382@95.217.154.182:24878?security=reality&sni=www.ghbi.ir&type=grpc&fp=firefox&pbk=qVd-0kw_aez4HaOxPus5GCE_U_e9gPl3yLTKbv4-TD4&sid=24822c41
+vless://05beafa6-babe-4c1a-8926-48e52e352612@discord.gg:2087/?type=ws&amp;encryption=none&amp;host=ShhProxyV2ray.digitalciity.Tech&amp;path=%2F&amp;security=tls&amp;sni=ShhProxyV2ray.digitalciity.Tech
+vless://4fac0e66-13a0-443f-fd7a-8c0b027e4632@mci-MsV2ray.ddns.net:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray,@MsV2ray&amp;sni=fe.MsV2ray.sbs
