@@ -1,2 +1,2 @@
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?type=tcp&sni=anetwork.ir&allowInsecure=1
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.24.20.239:443?security=tls&sni=c2mt.ciscocdn1.live&type=tcp&allowInsecure=1
+trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.131.4.16:443?sni=c1mc.cdncisco3.co&type=ws&path=%2FywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://kSZddpnUKy@150.136.57.125:41106?security=tls
