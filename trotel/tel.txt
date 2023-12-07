@@ -1,2 +1,2 @@
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.131.4.16:443?sni=c1mc.cdncisco3.co&type=ws&path=%2FywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
-trojan://kSZddpnUKy@150.136.57.125:41106?security=tls
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.15:443?security=tls&sni=jp1.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.7:10837
