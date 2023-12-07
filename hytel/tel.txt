@@ -1,2 +1,2 @@
-hysteria://50.114.40.110:62839/?peer=hy.chushenyun.top&amp;auth=K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9&amp;upmbps=1100&amp;downmbps=1100&amp;alpn=h3&amp;protocol=wechat-video
-hysteria://108.181.22.239:61561/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=PBhG3zqMKaMO5ZnemDvLrZ6v0Fd7EqCutDvzLNtvWHJ6IpMWJg&amp;upmbps=80&amp;downmbps=100&amp;alpn=h3
+hysteria://108.181.22.239:61561/?insecure=1&amp;peer=www.bing.com&amp;auth=PBhG3zqMKaMO5ZnemDvLrZ6v0Fd7EqCutDvzLNtvWHJ6IpMWJg&amp;upmbps=80&amp;downmbps=100&amp;alpn=h3
+hysteria://109.104.152.149:48406/?insecure=1&amp;peer=www.amazon.cn&amp;auth=xfNhrunYJ9GvDXCTktY2bIwhc1EyeyyAbiUMx1UtBOWgI4cMVB&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
