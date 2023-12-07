@@ -1,5 +1,2 @@
-vless://6bf210b7-e3c0-4f65-ae2a-74f79a7a68f7@104.31.16.65:2082?path=%2F&security=none&encryption=none&host=djdodhlxd.%E5%8A%A8%E5%91%98%E7%90%83%E8%BF%90%E5%8A%A812.tech&type=ws
-vless://9ef4a2f2-a67b-4f2e-822c-c9bc12162528@[::ffff:681a:192]:2053?security=tls&sni=iraniazad4.net-azad68528.fun&type=grpc&serviceName=tel_sansorchi_bezan_gheychi_bot&alpn=h2
-vless://dd6451ec-050d-4329-b6e4-bed26b6c69f4@channel.safenetir.life:51667?mode=gun&security=reality&encryption=none&pbk=BrCOLTTb45NgtZZSIF54QJ2tdeK4IPNCvwmPApSR5W0&fp=firefox&spx=%2F&type=grpc&serviceName=@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR-@SafeNetIR&sni=Cloudflare.com&sid=2ba965f349
-vless://9386a77e-f40d-4062-aacd-b46582796878@104.31.16.65:2096?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&type=grpc&serviceName=sshocean&sni=0x756131ua1.havenabank.de
-vless://81f276fa-7a50-41d9-a5ff-83c2647bb064@1bia-channel.unlimiteddev.xyz:80?security=none&type=ws&path=/&host=bia-to-channel.unlimiteddev.xyz&encryption=none
+vless://8b8f43e4-8a7f-41f4-971b-050396de3c89@190.93.247.155:8443?security=tls&sni=fn.AnV2ray.site&type=grpc&serviceName=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2
+vless://37e788a0-9440-4bbd-f28d-506851180eea@23.227.38.135:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bia-to-channel1.unlimiteddev.xyz&amp;type=ws
