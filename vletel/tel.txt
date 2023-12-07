@@ -1,2 +1,2 @@
-vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@104.21.4.8:2095?encryption=none&host=nl54.vlessx.us&path=%2F%3Fed%3D2048&security=none&type=ws
-vless://7a39089c-4054-4cd5-b7d4-417d2a534d1e@54.37.6.85:2096?security=none&type=tcp&host=ghbi.ir&headerType=http
+vless://a87387cc-7a9f-4e8c-c653-d422425897b0@95.217.243.4:443?encryption=none&flow=&fp=safari&pbk=QcDX3RiYqqDQE7Pfnt_MzB2e7D4RcaVhb8sgGhZ5Oho&security=reality&sid=49a0&sni=kh%C3%B8m%C3%ABi%C3%B1%C3%AD.%C3%A7om&type=tcp
+vless://68c3d9de-c9ce-403b-e6fa-c83a508cc30a@Join.V2RayTz.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=%40LIGHTNING6&amp;sni=Liv2ray.p-lightning6.cfd
