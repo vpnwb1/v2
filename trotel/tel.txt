@@ -1,2 +1,2 @@
-trojan://2469851f-c238-4c62-870e-7aa6f2d6313d@donlievbd2qwjd.559xp5.cn:443?allowInsecure=0
-trojan://3e9e3dac-b0db-4ef4-83cc-5264825a0d65@1j8p01.abzoones.xyz:36611?type=tcp&headerType=none
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@szf02.xiaohouzi.club:27841?security=tls&sni=aws-s01.xiaohouzi.club
+trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?security=tls&sni=softsaaz.ir
