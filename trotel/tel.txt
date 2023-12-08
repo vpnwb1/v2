@@ -1,2 +1,2 @@
-trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls
-trojan://vpnxw@104.21.47.202:2082?security=none&type=ws&path=/
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.208:443?security=tls&sni=us4.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@116.192.170.177:8443?security=tls&sni=official.taipeicitygovernment.net.ua&type=tcp&headerType=none
