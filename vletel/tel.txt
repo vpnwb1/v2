@@ -1,2 +1,2 @@
-vless://b8f8bf6d-5be3-43ee-81c2-7ee737e8702b@mtn.VPNPROSEC.com:2053/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnReallity.Online
-vless://157415b5-ed31-4bb2-b409-aa85bac23f3e@all-antiV2ray.ddns.net:8443?path=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tm.HiV2ray.cfd&amp;type=ws&amp;sni=tm.HiV2ray.cfd
+vless://5e3f7d53-0208-4318-bc6a-f0684d19d03a@5.42.86.225:4876?security=reality&flow=xtls-rprx-vision&sni=cj.com&type=tcp&fp=chrome&pbk=tuGaUyzXEz8Zvdw_uVOaOQ_ByBuguWka7B3k8s_uJhA&sid=50889662fcd65a95
+vless://5b2c3893-6d5c-430a-94d7-e69d42abcefe@193.227.99.140:443?security=tls&sni=fn.AnV2ray.site&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&alpn=@bored_vpn,@bored_vpn
