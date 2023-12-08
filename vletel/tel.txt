@@ -1,2 +1,2 @@
-vless://43b12962-010c-46d1-86b2-a3424bd2fb62@5.42.86.225:7550?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A&security=reality&sid=8f76ccf5bc66820d&sni=prestashop.com&type=tcp
-vless://fce9e311-b8bd-4fa6-9fe5-f6f6e80b8efc@5.182.36.99:80?security=none&type=tcp&headerType=http
+vless://b8f8bf6d-5be3-43ee-81c2-7ee737e8702b@mtn.VPNPROSEC.com:2053/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnReallity.Online
+vless://157415b5-ed31-4bb2-b409-aa85bac23f3e@all-antiV2ray.ddns.net:8443?path=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=tm.HiV2ray.cfd&amp;type=ws&amp;sni=tm.HiV2ray.cfd
