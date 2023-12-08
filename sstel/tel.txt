@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODU0M2E0Yi0xZDNjLTRhNTItOTUwZi1hMzZhZDI0Y2EyOGU@hkp03.network-cdn-gw.cc:49903
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@185.160.24.217:812
+ss://YWVzLTEyOC1nY206YzE3YTEwMGMtYzgxNi00N2E5LTljYzYtYWIwNmFhY2MxMWI3@sg1.linghun3.xyz:40008
+ss://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&amp;security=tls&amp;sni=fast1.alpha5.top
