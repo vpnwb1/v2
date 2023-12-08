@@ -1,2 +1,2 @@
-vless://741d28ec-7361-4982-b71f-d6fe039ad27c@z1p.isecurity.site:443/?type=ws&encryption=none&path=%2F7IaM5TNiNbD6jagy5GzWC&security=tls&sni=z1p.isecurity.site
-vless://d5530c87-1dfe-406a-8f98-086405580406@104.25.254.88:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=sad.donaldvpn.sbs&amp;fp=chrome&amp;alpn=h2,http/1.1
+vless://a62312b6-92fb-4184-bebf-5b05aac06f9b@5.42.86.225:17591?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A&security=reality&sid=8f76ccf5bc66820d&sni=yoast.com&type=tcp
+vless://02723551-0786-478c-9529-e7c0f6c97373@77.232.143.50:443?security=reality&flow=xtls-rprx-vision&sni=www.discord.com&type=tcp&fp=chrome&pbk=N0w3yP3oGtfg0JdubZ0N_boztt_BklRkycDcWEHrtGA&sid=68af4e3a0d2e&alpn=http%2F1.1
