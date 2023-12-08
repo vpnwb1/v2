@@ -1,2 +1,2 @@
-trojan://a6d2c461-b9bd-4ecf-97bf-45d3681fbb3f@61.136.232.6:10820?allowInsecure=1&sni=alibaba-node.cn
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1
+trojan://750a29bf-0a40-437f-b120-38de74ae7eaf@45.88.148.234:28443?security=tls
+trojan://vpnxw@104.21.47.202:2082?security=none&type=ws&path=/
