@@ -1,2 +1,2 @@
-vless://d9474576-21d5-4e15-8653-90afae2c85c4@155.138.155.236:23012/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http
-vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.18.210.98:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org
+vless://azadi-az-inja-migzare@165.232.93.25:17420?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=kJeu6F6Npyfy3QDRn3XtV_LdwFdCIHiOUIAVas-Q_g4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=3d542b6f
+vless://77de7671-13b9-4101-883d-db7879c238cf@173.245.58.41:8443?encryption=none&amp;security=tls&amp;sni=sad.donaldvpn.sbs&amp;alpn=http%2F1.1%2Ch2&amp;type=grpc
