@@ -1,2 +1,2 @@
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls&type=tcp&headerType=none
-trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.89:443?security=tls&sni=us2.pqjc.buzz&type=tcp
+trojan://9iiN39jgvc@104.20.155.148:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2%2Chttp%2F1.1
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.5:10836
