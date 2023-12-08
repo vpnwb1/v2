@@ -1,2 +1,2 @@
-vless://909ec4b8-ff22-4760-a09c-6dd1f2e4c4af@mtn.VPNPROSEC.com:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnBuy.Online
-vless://a6b1d542-fb59-429b-abeb-07cb5334b12b@185.243.48.111:29197?security=none&type=ws&path=%2F
+vless://10ff8d28-7556-4bfc-97e8-ca1194875801@mci.vpnprosec.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=V2ray.SvnBuy.online
+vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@162.159.136.232:443?alpn=http%2F1.1&encryption=none&flow=&fp=chrome&host=singbox.cypherpunks.asia&packetEncoding=xudp&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&type=ws
