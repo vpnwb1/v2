@@ -1,2 +1,2 @@
-vless://c407f961-ee81-46c0-b5ca-c8ba4eece201@vmessorg.bia.tosh.mokhin.me:80?encryption=none&amp;security=none&amp;type=ws&amp;host=join.bede.vmessorg.mokhin.me&amp;path=%2F
-vless://86591bae-b9e1-4e83-b9e3-65336fc22306@hatunnel-vpn.ddns.net:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Hatunnel_vpn,@Hatunnel_v=mihanyas.ir&amp;sid=15ed3de4
+vless://909ec4b8-ff22-4760-a09c-6dd1f2e4c4af@mtn.VPNPROSEC.com:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnBuy.Online
+vless://a6b1d542-fb59-429b-abeb-07cb5334b12b@185.243.48.111:29197?security=none&type=ws&path=%2F
