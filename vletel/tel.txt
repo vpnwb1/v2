@@ -1,2 +1,2 @@
-vless://10ff8d28-7556-4bfc-97e8-ca1194875801@mci.vpnprosec.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=V2ray.SvnBuy.online
-vless://97d26fd0-e2ac-4b1f-a098-f422fc49bd30@162.159.136.232:443?alpn=http%2F1.1&encryption=none&flow=&fp=chrome&host=singbox.cypherpunks.asia&packetEncoding=xudp&path=%2Fcypherpunks&security=tls&sni=singbox.cypherpunks.asia&type=ws
+vless://66ef3a75-22ef-4e6a-a3dc-9a630134ab24@all.mdvpnsec.cfd:443?type=grpc&amp;serviceName=%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C%40MdVpnSec%2C&amp;security=tls&amp;fp=&amp;alpn=&amp;sni=V2ray-NAPSTERNET-IRANCELL-iran-fair-MKH.Snappfoodd.site
+vless://31159bc7-ee7d-4821-8966-28f072ec61b1@5.42.86.225:2082?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=tuGaUyzXEz8Zvdw_uVOaOQ_ByBuguWka7B3k8s_uJhA&security=reality&sid=50889662fcd65a95&sni=yoast.com&type=tcp
