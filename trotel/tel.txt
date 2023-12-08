@@ -1,2 +1,2 @@
-trojan://telegram-id-directvpn@51.20.207.57:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1tw.windowsupdatea.com:443?security=tls&sni=glc-tw1.windowsupdatea.com
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.org.ua:8443?security=tls&type=tcp&headerType=none
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.136.89:443?security=tls&sni=us2.pqjc.buzz&type=tcp
