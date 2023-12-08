@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206YzE3YTEwMGMtYzgxNi00N2E5LTljYzYtYWIwNmFhY2MxMWI3@sg1.linghun3.xyz:40008
-ss://af3881da-1b90-4709-8725-9d8bc67903b8@172.67.213.151:8443/?type=grpc&amp;encryption=none&amp;flow=&amp;serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha&amp;security=tls&amp;sni=fast1.alpha5.top
+ss://YWVzLTEyOC1nY206ZjhjNDQzYWEtZWVhYy00ZmU5LWE4ODUtZGVhZjAyMGI0N2E2@s1-xsus.dnsmax.xyz:20241
+ss://1ff1db1d-25c3-4fff-8496-440be1639fbd@Mci.dgi000.store:2087?path=%2F%40mahsa_net+%40azadi_az_inja_migzare&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=mah4.HasmailkOrea.storE&amp;fp=chrome&amp;type=ws&amp;sni=mah4.HasmailkOrea.storE
