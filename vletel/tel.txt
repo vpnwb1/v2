@@ -1,2 +1,2 @@
-vless://1ff1db1d-25c3-4fff-8496-440be1639fbd@190.93.244.0:2087?security=tls&sni=mah4.HasmailkOrea.storE&type=ws&host=mah4.HasmailkOrea.storE&path=%2F%40mahsa_net+%40azadi_az_inja_migzare&fp=chrome&alpn=h2
-vless://18831bdb-542d-411a-b26a-96aa0be387d7@162.159.130.234:2096?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=GxGzAVN9xi1aXGv_-EUwj8qLldhHG0oVQ-OOgVkoMlU&sid=25988b1f
+vless://d9474576-21d5-4e15-8653-90afae2c85c4@155.138.155.236:23012/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http
+vless://ffffffff-eeae-4311-b37c-b2a67847fed2@104.18.210.98:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=watashi.free.de.mnhacker.eu.org&amp;fp=chrome&amp;type=ws&amp;sni=watashi.free.de.mnhacker.eu.org
