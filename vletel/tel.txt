@@ -1,2 +1,2 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.63.121:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
-vless://42a9533a-a556-468c-8978-266fee556d02@45.131.4.1:2053?security=tls&sni=atcdn.gtexbridge.site&type=ws&host=atcdn.gtexbridge.site&fp=random
+vless://c407f961-ee81-46c0-b5ca-c8ba4eece201@vmessorg.bia.tosh.mokhin.me:80?encryption=none&amp;security=none&amp;type=ws&amp;host=join.bede.vmessorg.mokhin.me&amp;path=%2F
+vless://86591bae-b9e1-4e83-b9e3-65336fc22306@hatunnel-vpn.ddns.net:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=QloMGl_VaEtq9JJ3XhCS9JvTn5DYuHVEeAg46yGX9GE&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Hatunnel_vpn,@Hatunnel_v=mihanyas.ir&amp;sid=15ed3de4
