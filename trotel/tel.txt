@@ -1,2 +1,2 @@
-trojan://9215d689-a562-43e4-b6ae-7b0d08026794@1j8p01.abzoones.xyz:36841?type=tcp&headerType=none
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:19023?security=tls&sni=hn.xiaohouzi.club
+trojan://telegram-id-directvpn@99.81.33.197:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.153:443?sni=c2mk.ciscocdn1.live&allowInsecure=1
