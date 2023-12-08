@@ -1,2 +1,2 @@
-vless://a62312b6-92fb-4184-bebf-5b05aac06f9b@5.42.86.225:17591?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A&security=reality&sid=8f76ccf5bc66820d&sni=yoast.com&type=tcp
-vless://02723551-0786-478c-9529-e7c0f6c97373@77.232.143.50:443?security=reality&flow=xtls-rprx-vision&sni=www.discord.com&type=tcp&fp=chrome&pbk=N0w3yP3oGtfg0JdubZ0N_boztt_BklRkycDcWEHrtGA&sid=68af4e3a0d2e&alpn=http%2F1.1
+vless://738c5e99-7faa-4893-81a8-4d6655adde65@5.75.215.191:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40Digiv2ray&amp;sni=www.speedtest.net&amp;sid=ab7b40b2
+vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?headerType=http&host=soft98.ir&path=%2F&security=none&type=tcp
