@@ -1,2 +1,2 @@
-trojan://93ed0514-854b-4e6c-9967-f8dc4b40db8a@104.25.254.142:443?security=tls&sni=hdfycdn1.cpionline.co&type=ws&host=hdfycdn1.cpionline.co&path=%2F86mNTlgBQQGC7YNALYx5xYr&fp=chrome&alpn=h2
-trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@163.123.192.36:443?security=tls&sni=16-163-218-240.nhost.00cdn.com
+trojan://MZC3YVwUT2@162.159.48.168:443?security=tls&sni=teo.history-paint.art&type=ws&host=teo.history-paint.art&path=%2Fwss53672%3Fed%3D2048&fp=chrome&alpn=http/1.1
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.138:10834
