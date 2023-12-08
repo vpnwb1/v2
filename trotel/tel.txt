@@ -1,2 +1,2 @@
-trojan://0c188781-2971-4bd9-ad72-73eb860d115f@tw01.trojanyyds.xyz:443?security=tls
-trojan://c1596d35-5f68-4cef-bf5f-ac0d2ab88b2f@v02.gutingting.com:30053?security=tls&sni=v2phl01.fuqiangren.com&type=tcp&headerType=none
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&amp;sni=glc-us3.windowsupdatea.com&amp;type=tcp&amp;headerType=none
+trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@sg8.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
