@@ -1,2 +1,2 @@
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a001.zhuan99.men:10001?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19245?security=tls
+trojan://telegram-id-directvpn@15.222.214.96:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp
+trojan://telegram-id-privatevpns@13.49.46.49:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
