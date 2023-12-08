@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25220
-ss://edf94ccb-e076-472b-b2e3-a11ba669d0fc@172.232.148.220:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=rW_BTQ5EiomL4nMuvj3EbxqjRdLYt9Q0rpCaS9Iy8Eo&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=804894e8
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.75.136.135:8091
+ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ==@103.172.116.6:9011
