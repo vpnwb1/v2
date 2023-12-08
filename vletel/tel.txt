@@ -1,2 +1,2 @@
-vless://44229e7b-850d-417e-adb2-4cf065986289@94.237.25.209:21966?security=reality&sni=discord.com&fp=firefox&pbk=CVrpNf1HIqEXok5HP4X8D14T90DPh2NCoC7hQt8e61Y&sid=5e46c276&type=tcp&flow=xtls-rprx-vision&encryption=none
-vless://889419fd-06d0-4a6a-d512-7c1b62bd8d51@104.18.53.172:2083?security=tls&sni=Liv2ray.p-lightning6.cfd&type=grpc&serviceName=@LIGHTNING6
+vless://77836d21-7bc9-4d77-de71-06aa060dcecf@xvip.v2rayng12023.sbs:26877?type=grpc&amp;serviceName=/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023/@v2rayng12023&amp;security=reality&amp;pbk=kx60sWSmKF9DlV-wa2tZXDUIfhUluJFF1EReclsOsyg&amp;fp=firefox&amp;sni=www.speedtest.net&amp;sid=&amp;spx=%2F
+vless://52e1b9de-64aa-4c0c-b50a-746fef0681a2@superphosphates.footballlovernews.com:443/?type=tcp&encryption=none&security=tls
