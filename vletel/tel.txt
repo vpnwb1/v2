@@ -1,2 +1,2 @@
-vless://azadi-az-inja-migzare@165.232.93.25:17420?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=kJeu6F6Npyfy3QDRn3XtV_LdwFdCIHiOUIAVas-Q_g4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=3d542b6f
-vless://77de7671-13b9-4101-883d-db7879c238cf@173.245.58.41:8443?encryption=none&amp;security=tls&amp;sni=sad.donaldvpn.sbs&amp;alpn=http%2F1.1%2Ch2&amp;type=grpc
+vless://44229e7b-850d-417e-adb2-4cf065986289@94.237.25.209:21966?security=reality&sni=discord.com&fp=firefox&pbk=CVrpNf1HIqEXok5HP4X8D14T90DPh2NCoC7hQt8e61Y&sid=5e46c276&type=tcp&flow=xtls-rprx-vision&encryption=none
+vless://889419fd-06d0-4a6a-d512-7c1b62bd8d51@104.18.53.172:2083?security=tls&sni=Liv2ray.p-lightning6.cfd&type=grpc&serviceName=@LIGHTNING6
