@@ -1,2 +1,2 @@
-vless://9ce94475-ff33-4d5b-b4ee-ad20af840e64@104.21.36.193:2087?security=tls&sni=join.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome
-vless://2c22ac9f-b883-49b4-a135-d02b38097da9@49.13.78.197:2053?security=reality&sni=www.speedtest.net&type=grpc&fp=chrome&pbk=SbVKOEMjK0sIlbwg4akyBg5mL5KZwwB-ed4eEE7YnRc
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@34.249.63.121:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
+vless://42a9533a-a556-468c-8978-266fee556d02@45.131.4.1:2053?security=tls&sni=atcdn.gtexbridge.site&type=ws&host=atcdn.gtexbridge.site&fp=random
