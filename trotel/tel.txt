@@ -1,2 +1,2 @@
-trojan://9iiN39jgvc@104.20.155.148:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2%2Chttp%2F1.1
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.5:10836
+trojan://a6d2c461-b9bd-4ecf-97bf-45d3681fbb3f@61.136.232.6:10820?allowInsecure=1&sni=alibaba-node.cn
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@108.181.22.161:443?security=tls&sni=glc-us2.windowsupdatea.com&type=tcp&allowInsecure=1
