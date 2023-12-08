@@ -1,2 +1,2 @@
-vless://738c5e99-7faa-4893-81a8-4d6655adde65@5.75.215.191:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=%40Digiv2ray&amp;sni=www.speedtest.net&amp;sid=ab7b40b2
-vless://fe069cf6-df14-4aac-822e-8888f4cca510@rw7.v2parsin.site:10835?headerType=http&host=soft98.ir&path=%2F&security=none&type=tcp
+vless://1ff1db1d-25c3-4fff-8496-440be1639fbd@190.93.244.0:2087?security=tls&sni=mah4.HasmailkOrea.storE&type=ws&host=mah4.HasmailkOrea.storE&path=%2F%40mahsa_net+%40azadi_az_inja_migzare&fp=chrome&alpn=h2
+vless://18831bdb-542d-411a-b26a-96aa0be387d7@162.159.130.234:2096?security=reality&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=GxGzAVN9xi1aXGv_-EUwj8qLldhHG0oVQ-OOgVkoMlU&sid=25988b1f
