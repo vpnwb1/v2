@@ -1,2 +1,2 @@
-vless://647c63cf-8063-48a3-898a-3200ff37cf6d@vpncustomize.cam:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=55xH-tqPd6c0VZpbwlxRxhmfvp9lVUtp45CDJLpcw2I&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=
-vless://8472d225-e328-426d-c06b-6323ab816fb6@Join.V2RayTz.sbs:2096?path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.&amp;security=tls&amp;encryption=none&amp;host=eiiim.eiiim.online&amp;type=ws&amp;sni=J0in-Te1egram-Chan7nel.eiiim.online
+vless://741d28ec-7361-4982-b71f-d6fe039ad27c@z1p.isecurity.site:443/?type=ws&encryption=none&path=%2F7IaM5TNiNbD6jagy5GzWC&security=tls&sni=z1p.isecurity.site
+vless://d5530c87-1dfe-406a-8f98-086405580406@104.25.254.88:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=sad.donaldvpn.sbs&amp;fp=chrome&amp;alpn=h2,http/1.1
