@@ -1,2 +1,2 @@
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@uk1.trojanvh.xyz:80?type=tcp&sni=uk1.trojanvh.xyz&allowInsecure=1
-trojan://0e39f273-912d-48cc-9548-ccc185487828@bai-piao-wang-zhe12.98848.xyz:43091?security=tls&sni=bai-piao-wang-zhe12.98848.xyz
+trojan://ae7cc604-d970-4200-9a9b-eb45087b4fc1@43.198.12.229:28443?security=tls&sni=mzy.hruqoaw.cn
+trojan://telegram-id-directvpn@13.43.182.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
