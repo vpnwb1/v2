@@ -1,2 +1,2 @@
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@165.154.226.185:443?allowInsecure=1
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:27897?security=tls&sni=jp01.ckcloud.info
+trojan://u50W5vcOXK@45.159.219.251:2053?security=tls&sni=ge.mmdvc.name&type=ws&host=ge.mmdvc.name&path=%2Ftrojan&fp=chrome&alpn=http%2F1.1%2Ch2
+trojan://telegram-id-directvpn@13.53.253.73:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
