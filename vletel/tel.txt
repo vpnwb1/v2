@@ -1,2 +1,2 @@
-vless://e9fe302e-dbc2-4d6f-a6b2-10d718c5d47b@public.alpanel.top:1403?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=rCdor1DLbQcXbNBD9aiLIoCYHwqTMh8ao9MIPMXo0yA&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam,@vmesskhodam&amp;sni=tuyacn.com&amp;sid=99
-vless://SHHPROXY@support.discord.com:2087?security=tls&amp;encryption=none&amp;type=ws&amp;headerType=none&amp;path=%252F&amp;sni=configngnixV2rayng.shhproxy.cfd&amp;host=configngnixV2rayng.shhproxy.cfd
+vless://3ad21cb9-21ff-4352-d2bd-d883ce359aa1@172.67.149.86:2083?security=tls&sni=dIgIKAlA.oNlINEvIsIonstORe.sITE&type=grpc&serviceName=digikala&fp=chrome&alpn=h2,http/1.1
+vless://c255f68f-18f7-488a-b7fc-06a5676564f0@188.114.96.3:2052?path=tel.mehrosaboran&amp;security=none&amp;encryption=none&amp;host=jp10.Vlessx.xyz&amp;type=ws
