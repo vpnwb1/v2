@@ -1,2 +1,2 @@
-vless://3ad21cb9-21ff-4352-d2bd-d883ce359aa1@172.67.149.86:2083?security=tls&sni=dIgIKAlA.oNlINEvIsIonstORe.sITE&type=grpc&serviceName=digikala&fp=chrome&alpn=h2,http/1.1
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@188.114.96.3:2052?path=tel.mehrosaboran&amp;security=none&amp;encryption=none&amp;host=jp10.Vlessx.xyz&amp;type=ws
+vless://1706c015-7834-4264-ac36-7e8e8da2516a@198.62.62.155:2083?security=tls&sni=cdnmci.mahantu.top&type=grpc&fp=chrome
+vless://f1c1426c-e092-41e3-bcfd-677c318ef648@dns2.nufilter.store:443?path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER&amp;security=tls&amp;encryption=none&amp;host=f.kanal-tel-nufilter.site&amp;fp=chrome&amp;type=ws&amp;sni=f.kanal-tel-nufilter.site
