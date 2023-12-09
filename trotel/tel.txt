@@ -1,2 +1,2 @@
-trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?type=tcp&headerType=none
-trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-us-dallas-1.f1rocketnode.com
+trojan://7x42LetRa0@106.180.225.69:1443?security=tls
