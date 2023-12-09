@@ -1,2 +1,2 @@
-vless://290cba8a-4eb3-4c8e-80e9-25f1e1438992@104.21.12.150:80?security=none&type=ws&host=nl1.vlessx.us&path=%2F%3Fed%3D2048
-vless://ed34bdc8-e3c5-40b3-a7e9-b1f8c9a3f1ba@104.31.16.65:2087?security=tls&type=grpc&sni=tm.wancloudfa.online&encryption=none&headerType=none
+vless://35ef9fb8-ceea-4d65-91f3-d443f614bf43@162.159.130.233:2096?security=tls&amp;type=ws&amp;sni=cltkk.edlaghiye.com&amp;path=/&amp;encryption=none&amp;headerType=none
+vless://832d324d-2499-45a8-98f5-bb55d99c921f@162.251.82.18:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;alpn=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&amp;serviceName=%40%48p%562%72%61%79N%47,%40%48p%562%72%61%79N%47,%40%48p%562%72%61%79N%47,%40%48p%562%72%61%79N%47,%40%48p%562%72%61%79N%47&amp;sni=hp.XsV2ray.cfd
