@@ -1,2 +1,2 @@
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?type=tcp&allowInsecure=1
-trojan://61307e80-dd4c-41d1-bbed-9dc175376bb6@172.67.175.218:443?security=tls&sni=sarhadix23.secretvps.cam&type=grpc&serviceName=NMejjNslBZ2WYI6mHjZPuMLIQm3&fp=chrome&alpn=http/1.1
+trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls
+trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?security=tls&type=tcp&headerType=none
