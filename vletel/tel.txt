@@ -1,2 +1,2 @@
-vless://5571c0e6-261b-43a8-a730-61c402a67558@91.246.49.165:58718?security=none&amp;encryption=none&amp;host=telewebion.com&amp;headerType=http&amp;type=tcp
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.3:443?encryption=none&security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2f%3fed%3d2048
+vless://41ffb557-56ba-425a-9ac9-ca77982f9612@91.107.146.76:2052?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=sXYnm2FppSo6cT-Jtv4SJvJSlKXMKVXJ0ZZxDDm-vBw&sid=a3f75166
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@104.31.16.6:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&path=/?ed%3D2048&host=baipiao1.curly-train.pages.dev&encryption=none
