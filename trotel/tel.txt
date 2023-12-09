@@ -1,2 +1,2 @@
-trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls&sni=z-v1-zzzh.ashx.net
-trojan://BhYR8LBl3S@81.28.12.12:443?security=tls&sni=fun.kashan.fun&type=ws&path=%2F
+trojan://2469851f-c238-4c62-870e-7aa6f2d6313d@ahfuwfhhvvb2sfr.559xp5.cn:443?allowInsecure=0
+trojan://788ab87c-224d-4e85-8575-470567934d47@idt1.sshocean.net:443?sni=www.digitalocean.com
