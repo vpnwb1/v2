@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:808
-ss://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@128.140.123.69:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=vxm3itn6OWhaj6x_my1uyiJTt2nF69FCYFGjZ-jAVD8&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=dnschecker.org&amp;sid=f5361167
+ss://f553d0ca-701d-4f95-90e9-2851d055291e@13.51.254.127:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.makers.com&amp;fp=chrome&amp;security=reality&amp;pbk=qK2sZUaY7H_vv0YEkTPDtoV3kGJcCWfvr_GOwOtsoHE&amp;sid=3c
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@138.68.248.130:811
