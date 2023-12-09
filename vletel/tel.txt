@@ -1,2 +1,2 @@
-vless://7cf36bfd-c8f7-4689-973f-166094d47602@104.16.53.111:443?security=tls&sni=bia-to-channel2.unlimiteddev.shop&type=ws&path=%2F
-vless://3ba9539c-86c3-405c-af25-8dd53ff97efa@104.21.63.160:8443?security=tls&sni=f.kanal-tel-nufilter.site&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=firefox
+vless://b4fd38a4-d93b-4349-e3b4-d00adfe395b9@avalpardakht.com:80?path=/@v2rayng_vip&amp;security=none&amp;encryption=none&amp;host=3.arsalanv2.sbs&amp;type=ws
+vless://00201ffb-844f-495d-9ce5-0369a2060f0a@104.17.231.69:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
