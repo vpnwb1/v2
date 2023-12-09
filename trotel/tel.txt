@@ -1,2 +1,2 @@
-trojan://5447cc07-b5bc-4ec0-b3aa-6f70335ae292@us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp&headerType=none
-trojan://pHM6lQGOG7@chat.openai.com:443?security=tls&amp;sni=de.melov2ray.shop&amp;alpn=http%2F1.1%2Ch2&amp;fp=chrome&amp;type=grpc
+trojan://telegram-id-privatevpns@18.169.247.68:22222?security=tls&sni=trj.rollingnext.co.uk&allowInsecure=1&type=tcp
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.7:10850
