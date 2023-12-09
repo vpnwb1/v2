@@ -1,2 +1,2 @@
-vless://9789674e-6903-415a-ba07-1db4d207607c@116.203.126.111:6006?security=reality&amp;encryption=none&amp;pbk=xjsFF_ujrEnqVcR8pbV4aAnHHInbUJ9epkbT76d_7Fc&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=lit.dev&amp;sid=9e20a9863c3c8d7d
-vless://3edb7af1-744d-4615-92c1-c814aa12b1c4@tunel.speedbreak.xyz:8585?encryption=none&amp;security=none&amp;type=tcp&amp;headerType=http&amp;host=speed.cloudflare.com
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@vmessprotocol.join807.propae.sbs:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=cf-wkrs-pages-vless-aoy.pages.dev&amp;type=ws&amp;sni=cf-wkrs-pages-vless-aoy.pages.dev
+vless://4193f00c-a9fa-4fab-82d5-6db8e40725c6@190.93.247.155:2053?type=grpc&amp;serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&amp;security=tls&amp;fp=chrome&amp;alpn=h2&amp;sni=ads.zed-zoon.tech
