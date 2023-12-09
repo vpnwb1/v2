@@ -1,2 +1,2 @@
-trojan://5582a559-d68a-484b-bc33-4274bf63c71a@hk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:20202?security=tls&amp;sni=13-231-155-134.nhost.00cdn.com&amp;type=tcp&amp;headerType=none
-trojan://Telegram-id-DarkVPNpro@104.17.32.3:8443?security=tls&sni=snipergl0balr3sponselntelligence9team.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=h2
+trojan://afcd1be0-093e-4252-b8e5-b864479be290@hk.kunlun-ppg.com:10802
+trojan://e1c12e6f-a555-4ff8-b071-1e09dd5d91e6@188.165.25.135:443?security=tls&type=tcp&headerType=none
