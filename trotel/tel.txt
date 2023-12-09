@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@18.184.9.101:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://b640d791-ff83-4300-b509-c2a02f97f167@51.38.71.175:80?security=tls&sni=uk1.trojanvh.xyz
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@165.154.226.185:443?allowInsecure=1
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:27897?security=tls&sni=jp01.ckcloud.info
