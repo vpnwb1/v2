@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25241
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@162.19.138.148:443
+ss://02c8c11f-c150-4246-8b06-890c2664a465@v2rayzs.ddns.net:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=u3pF3I99iij1j8m5qeprde_miLLWpTBsKr4d1aePXhI&amp;fp=firefox&amp;type=grpc&amp;serviceName=&amp;sni=greenpepper.ir&amp;sid=80d440e7
+ss://b842320d-716c-4bd0-901f-d63a1297385f@all.vipxali.cfd:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=http/1.1,h2&amp;type=grpc&amp;serviceName=@V2rayNgMat,@V2rayNgMat,@V2rayNgMat&amp;sni=pe.XsV2ray.cfd
