@@ -1,2 +1,2 @@
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443/?type=tcp&security=tls&sni=aws-us-dallas-1.f1rocketnode.com
-trojan://7x42LetRa0@106.180.225.69:1443?security=tls
+trojan://5447cc07-b5bc-4ec0-b3aa-6f70335ae292@us2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp&headerType=none
+trojan://pHM6lQGOG7@chat.openai.com:443?security=tls&amp;sni=de.melov2ray.shop&amp;alpn=http%2F1.1%2Ch2&amp;fp=chrome&amp;type=grpc
