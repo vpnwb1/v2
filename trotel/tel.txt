@@ -1,2 +1,2 @@
-trojan://cf4295378e209e70d12c5bdd017144dfd1c772d3@43-153-30-20.ipv4.rush.ml:8443?security=tls
-trojan://40297165-0545-4f8f-abc4-3ee25e6cfb87@jp.stablize.top:443?security=tls&type=tcp&headerType=none
+trojan://6f0a9d0fa39d65fa@5.44.249.43:3389?type=tcp&headerType=none
+trojan://f85e2ad7-3e26-4589-b478-b0b15b9b5907@104.21.20.148:2087?security=tls&sni=us1.trojanvpn.de&type=grpc&serviceName=grpc
