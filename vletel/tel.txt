@@ -1,2 +1,2 @@
-vless://b4fd38a4-d93b-4349-e3b4-d00adfe395b9@avalpardakht.com:80?path=/@v2rayng_vip&amp;security=none&amp;encryption=none&amp;host=3.arsalanv2.sbs&amp;type=ws
-vless://00201ffb-844f-495d-9ce5-0369a2060f0a@104.17.231.69:80?security=none&type=ws&host=m232.marivan.buzz&path=%2Fv6145481573
+vless://3690be80-05e4-474c-9587-ba3393eebad2@172.67.147.234:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&amp;sni=vip1.alpha5.top
+vless://Telegram-Parsashonam-1@mtn1.tel-parsashonam.website:2083?security=tls&type=grpc&sni=cloud2.tel-Parsashonam.fun&encryption=none&headerType=none
