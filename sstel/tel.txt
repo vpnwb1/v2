@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.60:7307
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw@185.90.61.153:989
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:808
+ss://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@128.140.123.69:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=vxm3itn6OWhaj6x_my1uyiJTt2nF69FCYFGjZ-jAVD8&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=dnschecker.org&amp;sid=f5361167
