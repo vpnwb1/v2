@@ -1,2 +1,2 @@
-vless://b1b9ec26-7ff9-4a5b-d890-94d7d589090b@168.119.165.188:8080?security=reality&sni=www.speedtest.net&type=grpc&serviceName=%40LIGHTNING6&fp=chrome&pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&sid=356dc0
-vless://56733cf9-f08d-43d9-8157-8e8ddbd0c06f@188.114.96.45:80?path=Telgram
+vless://1e87c41e-f15d-4fa1-b11d-daa619db65e2@5.42.86.225:6272?encryption=none&flow=xtls-rprx-vision&fp=chrome&headerType=none&pbk=6_5ZMSz2jQ7AVokjr2ggOQ6d1qgYwisbDNykHmWO50A&security=reality&sid=8f76ccf5bc66820d&sni=magicbus.ca&type=tcp
+vless://2cb197c4-45b7-43ed-98db-62828923443e@198.41.202.5:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;alpn=@bored_vpn,@bored_vpn,@bored_vpn,@bored_vpn&amp;serviceName=%40L%49%47%48TN%49N%476&amp;sni=Liv2ray.p-l%69%67%68%74n%69n%676.cfd
