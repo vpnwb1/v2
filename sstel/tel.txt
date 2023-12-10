@@ -1,2 +1,2 @@
-ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M@212.102.53.81:443
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@54.36.174.181:3306
+ss://258b7d43-42ba-4e77-bd84-c8bebb38442d@193.227.99.66:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=sad.donaldvpn.sbs
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo0YjM3ZjdjNi1mMTRiLTRhNGEtOGIyYS05MDk4MzBiMzJjZGI@gdct001.theyydsnode.top:55718
