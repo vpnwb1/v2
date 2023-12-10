@@ -1,2 +1,2 @@
-vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.58.34:443?encryption=none&security=tls&sni=watashi.free.sppublic.moh539.link&type=ws&host=watashi.free.sppublic.moh539.link&path=%2f%3fed%3d2048
-vless://5d2333ed-5008-4395-af1a-b4d19613493a@128.140.84.193:22843?security=reality&sni=flutter.dev&fp=chrome&pbk=jeF2t1ZbkBDPflw5T91hEcJAs1teE7r8_8kaET1lJW4&sid=9468e4e1&type=tcp&flow=xtls-rprx-vision&encryption=none
+vless://285b4a50-5eb6-452b-8eb0-7b0cfd6cc3a7@51.75.169.142:2096?security=reality&sni=hrblock.com&type=grpc&serviceName=TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=firefox&pbk=WdKS07GMCQgBV22xo_GXN1yTXZiluhnAoZdGW1D1938&sid=56718720
+vless://03ce038e-bb20-4659-95dd-dba8681ce742@23.88.45.201:8080/?type=ws&encryption=none&host=internet.life.com.by&path=%2F
