@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@149.202.82.172:7307
-ss://953e6f85-3c98-41f4-bed8-461791f47437@jioin-severnett7.numal.site:8880?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.34.111:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODU0M2E0Yi0xZDNjLTRhNTItOTUwZi1hMzZhZDI0Y2EyOGU=@us07.network-cdn-gw.cc:43211
