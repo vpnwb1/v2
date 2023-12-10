@@ -1,2 +1,2 @@
-vless://fde24b93-c6a7-47da-8b9b-1114826691b2@77.91.84.45:18439?security=reality&flow=xtls-rprx-vision&sni=blogs.windows.com&type=tcp&fp=chrome&pbk=fWQ_YStDyzVh_5XXln3mrFHvbJzkXbiGAly-boSSZT0&sid=65eca2dcaae4c202
-vless://3cbaf436-93cc-4db1-be69-c5353076be15@zx-cov2ray.ddns.net:80?path=%2Fgraphql&amp;security=none&amp;encryption=none&amp;host=vr4RlSu.kallepache.store&amp;type=ws
+vless://d7f1be3a-7542-4178-81a9-dd6444a9ab5e@49.13.153.45:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=2uEIMiFhabdzWyUpGlNjK7EcfhpnO8EapYAAfcPXZWg&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@VPNwedbaz&amp;sni=greenpepper.ir&amp;sid=7060aa96
+vless://f553d0ca-701d-4f95-90e9-2851d055291e@13.51.254.127:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.makers.com&amp;fp=chrome&amp;security=reality&amp;pbk=qK2sZUaY7H_vv0YEkTPDtoV3kGJcCWfvr_GOwOtsoHE&amp;sid=3c
