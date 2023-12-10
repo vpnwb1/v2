@@ -1,2 +1,2 @@
-trojan://user@s22.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s22.mynameismahsa.info
-trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app
+trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@8u9a01.abzoones.xyz:36871?allowInsecure=0&peer=ua01.abpilot.xyz&sni=ua01.abpilot.xyz
+trojan://a70b39d1-62ea-4d9e-b681-9c5408352234@103.103.245.125:50418?security=tls
