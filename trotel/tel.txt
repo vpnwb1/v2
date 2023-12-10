@@ -1,2 +1,2 @@
-trojan://48cacdca-a254-4da9-b1b6-44ea262c5a72@5.104.107.143:443?sni=de1.xn--mes358a9urctx.com
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.7:10836
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@104.17.245.1:443?security=tls&sni=c2mt.ciscocdn1.live&type=tcp&allowInsecure=1
+trojan://5623be5f-c9da-4511-81a9-b4b39b16edae@103.195.236.24:443?security=tls
