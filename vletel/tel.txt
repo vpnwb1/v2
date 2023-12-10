@@ -1,2 +1,2 @@
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.13.192:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=%2F%3Fed
-vless://87743a0c-cddb-46c5-cf74-0dfe7fdf9681@190.93.245.241:8443?security=tls&sni=udp.HiV2ray.cfd&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&fp=chrome&alpn=@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran
+vless://42543610-e137-48d0-ae1c-e3490cc7b806@104.21.35.130:443?security=tls&sni=media.mycodes.top&type=grpc&serviceName=@VPNPacketBot
+vless://d7277cb7-a1c5-498d-9a86-19b5d8b0dd70@vmessorg.bia.to.mokhin.me:80?encryption=none&amp;security=none&amp;type=ws&amp;host=join.bede.vmessorg.mokhin.me&amp;path=%2F
