@@ -1,2 +1,2 @@
-vless://9729c073-ed6d-4392-a202-c207ef1abfd5@[::ffff:128.140.81.161]:36121?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=jPI33VVlQwusjrYcGyGvAP1O7lE7io2RpuY4aM_s5ho&sid=118ec04c
-vless://7c12e182-347f-42fc-8c34-e7355233f75a@104.17.45.23:80?security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F
+vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=vl26.rnd.biz.id&amp;type=ws&amp;sni=vl26.rnd.biz.id
+vless://6b7376dd-11d8-443c-804a-996072aefd81@13.49.231.93:8443?security=reality&amp;encryption=none&amp;pbk=jjDgtkP-crxZOINNRaoRAy_bNZX8XHiHTvqbFOoMgFk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=coinmarketcap.com&amp;sid=5e
