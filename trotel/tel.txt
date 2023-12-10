@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@3.121.183.50:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://3aa29b04-ad14-45bc-9226-d39a84918e5b@gdct003.theyydsnode.top:56102?allowInsecure=1&peer=us04.ckcloud.info&sni=us04.ckcloud.info
+trojan://user@s22.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s22.mynameismahsa.info
+trojan://shenmegui@185.49.33.47:8461?security=tls&sni=$jp.swiftfalcon.app
