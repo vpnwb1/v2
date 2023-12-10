@@ -1,2 +1,2 @@
-vless://5ec00ad4-61f7-4e4a-9c1e-6c1235908601@turkws.configforvpn.fun:2087?path=%2F&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=ws&amp;sni=turkws.configforvpn.fun
-vless://a5232c0f-b201-4464-f79d-4f7bb2c38161@LIGHTNING6-joinbede.mamd.sbs:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@LIGHTNING6&amp;sni=fm.z2-lightning6.sbs
+vless://9729c073-ed6d-4392-a202-c207ef1abfd5@[::ffff:128.140.81.161]:36121?security=reality&sni=ea.com&type=grpc&fp=chrome&pbk=jPI33VVlQwusjrYcGyGvAP1O7lE7io2RpuY4aM_s5ho&sid=118ec04c
+vless://7c12e182-347f-42fc-8c34-e7355233f75a@104.17.45.23:80?security=none&type=ws&host=join.bede.vmessorg.mokhin.me&path=%2F
