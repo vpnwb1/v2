@@ -1,2 +1,2 @@
-trojan://85db6652-a747-3a0a-a170-422736076410@tg_mfbpn_d4.52vpn.eu.org:11009?type=tcp&sni=alibaba-node.cn&allowInsecure=1
-trojan://b88edfd4-23eb-4544-9bbc-a68914952905@usajs.stablize.top:443?security=tls&type=tcp&headerType=none
+trojan://48cacdca-a254-4da9-b1b6-44ea262c5a72@5.104.107.143:443?sni=de1.xn--mes358a9urctx.com
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.7:10836
