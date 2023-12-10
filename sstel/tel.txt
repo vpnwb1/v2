@@ -1,2 +1,2 @@
-ss://f553d0ca-701d-4f95-90e9-2851d055291e@13.51.254.127:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=www.makers.com&amp;fp=chrome&amp;security=reality&amp;pbk=qK2sZUaY7H_vv0YEkTPDtoV3kGJcCWfvr_GOwOtsoHE&amp;sid=3c
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpVbHRyQHIwMHRfMjAxNw==@138.68.248.130:811
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@45.66.134.176:807
+ss://YWVzLTI1Ni1jZmI6Z1lDWVhma1VRRXMyVGFKUQ==@217.30.10.63:9038
