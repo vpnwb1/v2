@@ -1,2 +1,2 @@
-trojan://56075693-634d-322b-bea7-fb4c038c33cf@193.123.82.85:13596?security=tls&sni=freedb02.jd0001.top&type=grpc&serviceName=freedb02
-trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.19:443?type=ws&sni=jus1.jsjc.sbs&allowInsecure=1&path=/jsjc/us1
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?security=tls&sni=amin.karkas1.ir&type=grpc&serviceName=6vuNVgOFnqUEvj0rcXIcStL
+trojan://tgegXRzYrR@Net.1lagvpn13.cfd:8443?mode=gun&amp;security=tls&amp;type=grpc&amp;serviceName=@L_AGVPN13 @L_AGVPN13 @L_AGVPN13 @L_AGVPN13&amp;sni=C.1lagvpn13.cfd
