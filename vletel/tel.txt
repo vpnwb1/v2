@@ -1,2 +1,2 @@
-vless://42543610-e137-48d0-ae1c-e3490cc7b806@104.21.35.130:443?security=tls&sni=media.mycodes.top&type=grpc&serviceName=@VPNPacketBot
-vless://d7277cb7-a1c5-498d-9a86-19b5d8b0dd70@vmessorg.bia.to.mokhin.me:80?encryption=none&amp;security=none&amp;type=ws&amp;host=join.bede.vmessorg.mokhin.me&amp;path=%2F
+vless://121333c7-8351-4979-94f7-346e3c5195e2@162.159.138.232:8880?security=none&type=ws&host=confignginxV2rayng.VPNCUSTOMIZE.Website&path=%2F%3Fed%3D2048
+vless://d5e61cba-a003-497c-bb3c-6ce9e7bdc8f1@104.21.48.84:2096?security=tls&sni=cloud.barfak123.eu.org&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&fp=chrome
