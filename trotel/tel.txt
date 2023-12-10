@@ -1,2 +1,2 @@
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
-trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052
+trojan://89ce124f-42d1-4c90-b9d2-bde2861ae615@162.159.133.15:443?security=tls&sni=jp1.pqjc.buzz&type=tcp
+trojan://d2698cf9-c47e-455c-8384-12e642cbba15@89.116.180.179:443?security=tls&sni=p6us4.pqjc.buzz&type=ws&path=%2Fpq%2Fus4&host=p6us4.pqjc.buzz
