@@ -1,2 +1,2 @@
-vless://a5257afd-19e7-4d98-b344-f369aac45c16@146.19.233.202:80?security=none&type=tcp&host=speedtest.net&headerType=http
-vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=chh.cheetahmh45.shop
+vless://4525d5e6-4981-4fed-8268-a6f1c53aefc1@172.67.198.195:2087?security=tls&sni=a.kanal-tel-nufilter.store&type=grpc&serviceName=Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER-Telegram:@NUFiLTER&fp=chrome
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@162.159.128.233:8443?security=tls&sni=baipiao1.curly-train.pages.dev&type=ws&path=/?ed%3D2048&host=baipiao1.curly-train.pages.dev&encryption=none
