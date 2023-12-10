@@ -1,2 +1,2 @@
-vless://443dd82b-68b9-40a6-aefd-094ad8c63e53@all.digiv2ray.shop:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&amp;sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2.space
-vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.36.223.205:8088?security=tls&sni=www.providesupport.com&type=tcp&fp=chrome&alpn=h2
+vless://d8b26036-2d0e-4360-aa24-dda5983b5e9d@172.67.208.40:443?security=tls&sni=worker-old-lake-8479.kavega5466.workers.Dev&type=ws&host=worker-old-lake-8479.kavega5466.workers.Dev&path=%2F
+vless://VPNCUSTOMiZE@all.vpncustomize.cam:443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE,@VPNCUSTOMIZE&amp;sni=conflgforV2rayng.vpncustomize.Website
