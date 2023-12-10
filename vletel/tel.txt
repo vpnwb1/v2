@@ -1,2 +1,2 @@
-vless://3690be80-05e4-474c-9587-ba3393eebad2@172.67.147.234:2053?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@V2ray_Alpha @V2ray_Alpha @V2ray_Alpha&amp;sni=vip1.alpha5.top
-vless://Telegram-Parsashonam-1@mtn1.tel-parsashonam.website:2083?security=tls&type=grpc&sni=cloud2.tel-Parsashonam.fun&encryption=none&headerType=none
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.13.192:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=%2F%3Fed
+vless://87743a0c-cddb-46c5-cf74-0dfe7fdf9681@190.93.245.241:8443?security=tls&sni=udp.HiV2ray.cfd&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&fp=chrome&alpn=@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran
