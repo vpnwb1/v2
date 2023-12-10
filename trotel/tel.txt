@@ -1,2 +1,2 @@
-trojan://a0b94904-68f1-4e35-9509-0b188cf84505@213.202.216.14:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=downloadde.xn--mes358acgm99l.com
-trojan://1Telegram-id-DarkVPNpro@172.66.45.47:8443?security=tls&sni=plan6barber-jaanejaannory-th3retirement.arshaproplus.cf&type=ws&host=mi66ioon-deadreckoningpartone-lmpossibl3.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http/1.1
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@163.123.192.60:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
+trojan://3a2c0c6c-9ee5-c05f-c951-fcd73831983e@kr05.wangxd.life:3052
