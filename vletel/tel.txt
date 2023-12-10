@@ -1,2 +1,2 @@
-vless://b2c4ff72-602e-4726-af22-594a22530e6e@172.67.193.36:8880?security=none&type=ws&host=bia-to-channel2.unlimiteddev.shop&path=%2F
-vless://d7ed5257-5bb6-4412-b140-a62ca940202a@LIGHTNING6-joinbedee.mamd.sbs:8080?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=4OTfR6IQ_6Z-5EiAi08sSfUjZtC30c2x6jl9BE9KFwg&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@LIGHTNING6&amp;sni=www.speedtest.net&amp;sid=356dc0
+vless://ffffffff-17ad-45e7-aaa1-f2baaa08e930@173.245.58.34:443?encryption=none&security=tls&sni=watashi.free.sppublic.moh539.link&type=ws&host=watashi.free.sppublic.moh539.link&path=%2f%3fed%3d2048
+vless://5d2333ed-5008-4395-af1a-b4d19613493a@128.140.84.193:22843?security=reality&sni=flutter.dev&fp=chrome&pbk=jeF2t1ZbkBDPflw5T91hEcJAs1teE7r8_8kaET1lJW4&sid=9468e4e1&type=tcp&flow=xtls-rprx-vision&encryption=none
