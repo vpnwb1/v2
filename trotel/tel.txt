@@ -1,2 +1,2 @@
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.136:10839
-trojan://5de2dfab-28e4-4773-b0d3-8d43da0d9ac3@45.94.169.92:443?sni=c3mc.ciscocdn1.live&type=ws&host=c3mc.ciscocdn1.live&path=/ywQ9KSLI4ZBm9wOAXUaN&allowInsecure=1
+trojan://56075693-634d-322b-bea7-fb4c038c33cf@193.123.82.85:13596?security=tls&sni=freedb02.jd0001.top&type=grpc&serviceName=freedb02
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.19:443?type=ws&sni=jus1.jsjc.sbs&allowInsecure=1&path=/jsjc/us1
