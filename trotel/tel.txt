@@ -1,2 +1,2 @@
-trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@91.206.92.17:443?security=tls&sni=insaneguo2333.top
-trojan://71853f25-e0d6-4c6c-9fda-ed5947789cbf@nsafchjhtijntht.559xp5.cn:443?allowInsecure=0
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@203.198.16.115:443?security=tls&sni=glc-hkt2.windowsupdatea.com&type=tcp&allowInsecure=1
+trojan://ad003cb4-f642-4359-ae32-9b54d1b5beee@203.24.102.250:443?security=tls&sni=xp0.pardazesh.tech&type=ws&host=xp0.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=h2
