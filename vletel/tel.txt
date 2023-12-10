@@ -1,2 +1,2 @@
-vless://285b4a50-5eb6-452b-8eb0-7b0cfd6cc3a7@51.75.169.142:2096?security=reality&sni=hrblock.com&type=grpc&serviceName=TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON,TELEGRAM:@ZEDMODEON&fp=firefox&pbk=WdKS07GMCQgBV22xo_GXN1yTXZiluhnAoZdGW1D1938&sid=56718720
-vless://03ce038e-bb20-4659-95dd-dba8681ce742@23.88.45.201:8080/?type=ws&encryption=none&host=internet.life.com.by&path=%2F
+vless://443dd82b-68b9-40a6-aefd-094ad8c63e53@all.digiv2ray.shop:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;type=grpc&amp;serviceName=@Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray , @Digiv2ray, @Digiv2ray, @Digiv2ray&amp;sni=DigiV2ray-IrOnly-Mci-rG-mkH-mTn.digiv2.space
+vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.36.223.205:8088?security=tls&sni=www.providesupport.com&type=tcp&fp=chrome&alpn=h2
