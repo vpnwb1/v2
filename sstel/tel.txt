@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.102.30:8888
-ss://78e922f4-233f-45c0-ba02-f40effb18720@185.47.174.31:443?security=reality&amp;encryption=none&amp;pbk=Cq57i9t_qTAESLGje2c-xRVoBGxrRnHFUVMoLqftwH0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tuyacn.com
+ss://924c5211-2e9a-497c-f053-12c5b9e85640@mci.ahwazjob.ir:2096?mode=multi&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=ajcdn2096&amp;sni=az2cdncosenanatfilterchi987654321.ahwazjob.ir
+ss://YWVzLTI1Ni1jZmI6R2VyZWdldFI4Y3ZRSHpZcg@185.135.86.173:9030
