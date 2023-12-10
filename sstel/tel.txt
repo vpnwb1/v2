@@ -1,2 +1,2 @@
-ss://553bf6d7-25fb-45db-f5c9-6e4c7ef8e99d@All.Tlgram-Polproxy.space:2087?mode=multi&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&amp;sni=Polproxy.Bluemoien.space
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@162.251.61.47:810
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.91.102.30:8888
+ss://78e922f4-233f-45c0-ba02-f40effb18720@185.47.174.31:443?security=reality&amp;encryption=none&amp;pbk=Cq57i9t_qTAESLGje2c-xRVoBGxrRnHFUVMoLqftwH0&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;sni=tuyacn.com
