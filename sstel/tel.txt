@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@84.17.34.111:443
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphODU0M2E0Yi0xZDNjLTRhNTItOTUwZi1hMzZhZDI0Y2EyOGU=@us07.network-cdn-gw.cc:43211
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.107.226.49:3306
+ss://3c26cb82-77b5-423a-a1df-98d142d7985b@104.25.254.88:8443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=sad.donaldvpn.sbs&amp;fp=chrome&amp;alpn=h2,http/1.1
