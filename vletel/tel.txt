@@ -1,2 +1,2 @@
-vless://aa81e188-a979-411e-a10b-08287646cc43@172.67.221.199:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=vl26.rnd.biz.id&amp;type=ws&amp;sni=vl26.rnd.biz.id
-vless://6b7376dd-11d8-443c-804a-996072aefd81@13.49.231.93:8443?security=reality&amp;encryption=none&amp;pbk=jjDgtkP-crxZOINNRaoRAy_bNZX8XHiHTvqbFOoMgFk&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=coinmarketcap.com&amp;sid=5e
+vless://0e765685-f280-4907-d45f-9649115489a3@104.24.185.137:2087?security=tls&sni=ch.RxV2ray.space&type=grpc&serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray
+vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@45.133.247.237:2053?security=tls&sni=online.alphav.top&type=grpc&serviceName=%40V2ray_Alpha%20%40V2ray_Alpha%20%40V2ray_Alpha
