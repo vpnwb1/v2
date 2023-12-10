@@ -1,2 +1,2 @@
-vless://121333c7-8351-4979-94f7-346e3c5195e2@162.159.138.232:8880?security=none&type=ws&host=confignginxV2rayng.VPNCUSTOMIZE.Website&path=%2F%3Fed%3D2048
-vless://d5e61cba-a003-497c-bb3c-6ce9e7bdc8f1@104.21.48.84:2096?security=tls&sni=cloud.barfak123.eu.org&type=grpc&serviceName=%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN%40Private_Access_Guard_VPN&fp=chrome
+vless://a5257afd-19e7-4d98-b344-f369aac45c16@146.19.233.202:80?security=none&type=tcp&host=speedtest.net&headerType=http
+vless://0b9521d9-fb34-4b5e-b27c-d591f193bcf3@104.24.176.7:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=chh.cheetahmh45.shop
