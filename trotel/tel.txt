@@ -1,2 +1,2 @@
-trojan://e1be7c0c-69da-4699-a105-64e949da366c@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&type=ws&path=%2Fpq%2Fjp6&Host=2jp6.pqjc.buzz
-trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@7p3h01.abzoones.xyz:36801?allowInsecure=0&peer=ph01.abpilot.xyz&sni=ph01.abpilot.xyz
+trojan://58dcd460-65df-47b1-b062-517df30bef29@jp.liangyuandian.top:443?security=tls
+trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls&type=tcp&headerType=none
