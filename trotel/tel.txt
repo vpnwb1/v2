@@ -1,2 +1,2 @@
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10829?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443?type=tcp&headerType=none
+trojan://2469851f-c238-4c62-870e-7aa6f2d6313d@bacmlwrkoph.559xp5.cn:443?allowInsecure=0
+trojan://6504a551-673d-44d6-85a9-b05f67fdf971@5.104.108.109:443?sni=20-24-33-134.nhost.00cdn.com
