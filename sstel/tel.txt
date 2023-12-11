@@ -1,2 +1,2 @@
-ss://e28bb3f8-e64a-4419-9496-33c46220354b@work-cov2ray.ddns.net:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sdgf.bdfstt.sbs&amp;fp=chrome&amp;type=ws&amp;sni=sdgf.bdfstt.sbs
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:3389
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@195.154.200.150:443
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5WWlmVTJ2aDZORkVuNDRjbUFOeWtLOVJOUXZwb0w0RXJuUFhoYjlZWXdnRjRxbXQ=@146.185.198.44:51348
