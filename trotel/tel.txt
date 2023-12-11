@@ -1,2 +1,2 @@
-trojan://58dcd460-65df-47b1-b062-517df30bef29@jp.liangyuandian.top:443?security=tls
-trojan://8aab51da-6b67-4bd2-b6e6-5ab3008cf53e@jp.iamnotagoodman.com:443?security=tls&type=tcp&headerType=none
+trojan://0346cf80-8b9b-11ee-ac12-1239d0255272@162.159.128.233:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy
+trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@dejs.stablize.top:443?type=tcp&headerType=none
