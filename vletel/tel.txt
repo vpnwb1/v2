@@ -1,2 +1,2 @@
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@104.22.13.192:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&path=%2F%3Fed%3D2048&host=cf-wkrs-pages-vless-aoy.pages.dev&encryption=none
-vless://bffc34e1-da97-4481-b7da-232e751d1979@top.mimivpn.sbs:8443?security=tls&amp;encryption=none&amp;host=abc-escaliers.fr&amp;headerType=http&amp;fp=chrome&amp;type=tcp&amp;sni=top.mimivpn.sbs
+vless://315466a3-54b1-492d-cc5e-5c6d699ba07c@Pm.RxV2ray.space:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&amp;sni=ch.RxV2ray.space
+vless://c6dbc5be-7cbc-4b01-b239-bdc985f2c451@15.237.89.201:8088?encryption=none&security=tls&sni=cloudinary.com&type=tcp&headerType=none
