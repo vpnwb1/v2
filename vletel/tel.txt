@@ -1,2 +1,2 @@
-vless://57ded56a-daba-4a97-b8a1-f3b25ebed964@65.108.144.131:34667?security=reality&flow=xtls-rprx-vision&sni=sourceforge.net&type=tcp&fp=chrome&pbk=CnJJ9UHNl1vAN3zY41Wi3CVcMtHHErirgtWg7ztpZyQ&sid=9e4562bc
-vless://mahsa-azadi-az-inja-migzare@mahsang-2.dgi000.store:30757?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=l1t-0TqUc98jgUfaJ8SSJEucC35jbJOahQ2e-Z59BW4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.ghbi.ir&amp;sid=a4d76fb1
+vless://15ef4c93-3301-4c37-f3b3-b80a924cffce@135.181.193.91:443?security=reality&sni=grseven.AhV2ray.cfd&alpn=@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray,@icv2ray&fp=chrome&pbk=40Jh2pVw00v_QhqXFPPhpIIyPmsoeIyu2jxlyvfar38&type=grpc&serviceName=Tel:AntiFilterChV2&encryption=none
+vless://c6a2cc8e-3409-481e-af6c-94c7012f8ba3@vmesskhodam7.ddns.net:443?security=tls&amp;encryption=none&amp;type=grpc&amp;sni=ls.ZxV2ray.link&amp;fp=chrome&amp;serviceName=@vmesskhodam,@vmesskhodam
