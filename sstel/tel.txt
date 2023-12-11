@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.213:8091
-ss://eyJhZGQiOiIxMzUuMTI1LjEzNS4yNDEiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImludGVybmV0LmxpZmUuY29tLmJ5IiwiaWQiOiJiMjBiOTgzYy0zMjlkLTRmZTItYTc0OS1mOTc0OGQ1NDdjNWYiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI0NDMiLCJwcyI6IvCfk7YzQG9uZWNsaWNrdnBua2V5cyIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=<br/>ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpDVzNOZU5aZmtPTUVhMFpSUkc3QUpn@40.88.149.98:58844
+ss://e28bb3f8-e64a-4419-9496-33c46220354b@work-cov2ray.ddns.net:2053?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;host=sdgf.bdfstt.sbs&amp;fp=chrome&amp;type=ws&amp;sni=sdgf.bdfstt.sbs
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@145.239.1.100:3389
