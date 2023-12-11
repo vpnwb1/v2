@@ -1,2 +1,2 @@
-ss://c0114925-9a2e-4775-aaf3-d5245ca24ee3@www.speedtest.net:2087?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=us9.vlessx.xyz&amp;fp=randomized&amp;type=ws&amp;sni=us9.vlessx.xyz
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ@51.77.53.200:8080
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpyZWNoU2U2R0ZENGQza0s3RjZhZw@51.77.200.166:51348
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.86.135.27:9101
