@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@172.99.188.99:5000
-ss://8bbed548-55dd-4e1c-a52f-37020e1ba2ab@mtn.VPNPROSEC.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=V2ray.SvnBuy.Online
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@38.68.135.19:8118
+ss://cmM0LW1kNTpSZW56aGVDbG91ZFNT@bs3.jymzffbquawl.com:6601
