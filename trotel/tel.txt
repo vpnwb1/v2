@@ -1,2 +1,2 @@
-trojan://0346cf80-8b9b-11ee-ac12-1239d0255272@162.159.128.233:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy
-trojan://80151fd0-950a-4dda-a98a-6d24c6936dbc@dejs.stablize.top:443?type=tcp&headerType=none
+trojan://origin@176.31.83.90:443?security=tls
+trojan://telegram-id-privatevpns@18.171.40.240:22222?security=tls&sni=trj.rollingnext.co.uk
