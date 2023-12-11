@@ -1,2 +1,2 @@
-vless://4d7c9f6c-edfa-4ba9-91a9-3abb1c6b60e7@172.67.137.177:443?security=tls&sni=freedom9.vitej95783.workers.dev&type=ws&host=freedom9.vitej95783.workers.dev&fp=chrome
-vless://6b7376dd-11d8-443c-804a-996072aefd81@16.16.192.36:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;pbk=XksROkXEZ_Kq9irKUhYd5-AfxawOLEIieOQpsoJsJSc&amp;sid=5e&amp;spx=%2F&amp;type=tcp&amp;headerType=none
+vless://57ded56a-daba-4a97-b8a1-f3b25ebed964@65.108.144.131:34667?security=reality&flow=xtls-rprx-vision&sni=sourceforge.net&type=tcp&fp=chrome&pbk=CnJJ9UHNl1vAN3zY41Wi3CVcMtHHErirgtWg7ztpZyQ&sid=9e4562bc
+vless://mahsa-azadi-az-inja-migzare@mahsang-2.dgi000.store:30757?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=l1t-0TqUc98jgUfaJ8SSJEucC35jbJOahQ2e-Z59BW4&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.ghbi.ir&amp;sid=a4d76fb1
