@@ -1,2 +1,2 @@
-trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@t1.teslacdn1.live:443?security=tls&sni=t1.teslacdn1.live
-trojan://0c355515-b1e5-4c0a-b843-e1defbe7c0fa@trny.ballistics.top:443?security=tls
+trojan://6fca988d-0fa3-4411-8d9c-64f42971c0db@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info&type=tcp&headerType=none
+trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk
