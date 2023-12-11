@@ -1,2 +1,2 @@
-vless://be230dd4-5f4e-4711-9ae7-1870f54f597d@uk1.vpnvless.xyz:80?security=none&type=ws&path=/vless&encryption=none&headerType=none
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp467.qvqag.com:443?security=tls&type=ws&path=users?ed&encryption=none&headerType=none
+vless://c0cc7e9e-b1d0-4a49-8182-6919242fe5e8@104.21.50.177:443?encryption=none&security=tls&sni=s3.gem1.cfd&type=ws&host=s3.gem1.cfd&path=%2F
+vless://89f3d773-cf3c-4983-a9e3-434dca87db4a@172.67.213.63:2053?security=tls&sni=sweden.bolbolteam.shop&type=ws&host=sweden.bolbolteam.shop&path=%2F&alpn=http%2F1.1
