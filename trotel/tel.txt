@@ -1,2 +1,2 @@
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@203.198.16.115:443?security=tls&sni=glc-hkt2.windowsupdatea.com&type=tcp&allowInsecure=1
-trojan://ad003cb4-f642-4359-ae32-9b54d1b5beee@203.24.102.250:443?security=tls&sni=xp0.pardazesh.tech&type=ws&host=xp0.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=h2
+trojan://Telegram-id-DarkVPNpro@104.26.7.26:8443?security=tls&sni=miaanddrag0nprincessjigendaisuke.arshaproplus.cf&type=ws&host=theeightmo0untainsb3nandjody.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=chrome&alpn=http%2F1.1
+trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp
