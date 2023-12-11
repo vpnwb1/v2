@@ -1,2 +1,2 @@
-vless://xj4+G3Yk1DR/Rh3yOdeJEPlofgWcWBf+98ryKULI+zqYJEHoO2n3vko+2fwIAYUFzrYGt9TRqwg1629gcSMZfV0/+kGyktukLVjjUZfHlf6QVgARqIpI6okxSsbUisCv4xKJk20KtRvp6P/KSLYiMLVrG/q/XVdtFF8+MPvjCTzBlJ/CGbt7oBWNzB78uWxizUvKzvdUDX9IOtrLQLROr4cN3525VA9RyzHNSLCmKCS5+ffMmCWPigiIXw36kh43
-vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@104.17.106.106:2053?security=tls&sni=online.alphav.top&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha
+vless://1fbd7633-8800-4de0-87fb-c656017f4099@104.21.76.160:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=aurora.nextgentechnews.com&amp;type=ws&amp;sni=aurora.nextgentechnews.com
+vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2083?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev
