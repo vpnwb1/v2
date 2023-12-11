@@ -1,2 +1,2 @@
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@us.binguo.link:10824?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
-trojan://ca266d5a-88e1-4384-b0c2-c2a81de9a358@other.kunlun-ppg.com:10845?security=tls&sni=alibaba-node.cn
+trojan://e1be7c0c-69da-4699-a105-64e949da366c@188.42.145.39:443?security=tls&sni=2jp6.pqjc.buzz&type=ws&path=%2Fpq%2Fjp6&Host=2jp6.pqjc.buzz
+trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@7p3h01.abzoones.xyz:36801?allowInsecure=0&peer=ph01.abpilot.xyz&sni=ph01.abpilot.xyz
