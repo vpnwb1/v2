@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@85.208.108.20:7306
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@38.91.107.16:9101
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@52.16.6.22:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
+ss://YWVzLTI1Ni1jZmI6ZUlXMERuazY5NDU0ZTZuU3d1c3B2OURtUzIwMXRRMEQ@172.105.218.17:8099
