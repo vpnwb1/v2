@@ -1,2 +1,2 @@
-trojan://17bd8ea9-f1f4-4a9b-a318-99b62bd956ea@bphk3.mybestjj.com:49487
-trojan://telegram-id-privatevpns@3.72.66.105:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club
+trojan://TvBypqQJ9b@bdvasxmahl.injafarvpnwebelieve.gq:443?security=tls&type=tcp&headerType=none
