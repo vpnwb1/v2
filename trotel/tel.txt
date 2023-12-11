@@ -1,2 +1,2 @@
-trojan://origin@176.31.83.90:443?security=tls
-trojan://telegram-id-privatevpns@18.171.40.240:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10829?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://a3fa58b581353bb375d2ddad0f327938@184.168.127.50:443?type=tcp&headerType=none
