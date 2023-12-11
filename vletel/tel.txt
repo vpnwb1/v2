@@ -1,2 +1,2 @@
-vless://351a8fbe-a3e0-4fb5-db40-9c97a3d92587@47.88.89.145:80?security=&type=ws&path=@MTCSTORES&host=internet.life.com.by&encryption=none
-vless://ce4b8902-4abf-4dbb-b145-c3b8ad921bda@172.67.132.41:443?encryption=none&security=tls&sni=nl49.vlessx.us&type=ws&host=nl49.vlessx.us&path=archive_android%2c%40archive_android%2carchive_android%2c%40archive_android%2c%40archive_android%2carchive_android%2c%40archive_android%2c%40archive_android
+vless://b7a9102b-2036-45ad-a929-bd7af37e561c@104.31.16.250:443?security=tls&sni=ws.ArV2ray.fun&type=ws&host=ws.ArV2ray.fun&path=%2F
+vless://dd0475cc-d756-43a6-9fd8-fc58f0654fd2@svc.srv.rayvps.sbs:2096?encryption=none&security=reality&sni=www.ftp.debian.org&fp=chrome&pbk=WfV6xX_pevm0SLnDolnks8JWYTCH4gDrQnECLDrJ-FU&sid=05ad29a6&spx=%2F&type=grpc&serviceName=Telegram%3A%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS%2C%40RayVPS&mode=gun
