@@ -1,2 +1,2 @@
-trojan://Telegram-id-DarkVPNpro@104.26.7.26:8443?security=tls&sni=miaanddrag0nprincessjigendaisuke.arshaproplus.cf&type=ws&host=theeightmo0untainsb3nandjody.arshaproplus.cf&path=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=chrome&alpn=http%2F1.1
-trojan://faf42aa0a9ad4c1e@134.195.101.32:3306?security=tls&sni=n2.gladns.com&allowInsecure=1&type=tcp
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a017.zhuan99.men:10017?security=tls&sni=zhu.99ton.men
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.4:10835?security=tls
