@@ -1,2 +1,2 @@
-vless://315466a3-54b1-492d-cc5e-5c6d699ba07c@Pm.RxV2ray.space:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray,@RxV2ray&amp;sni=ch.RxV2ray.space
-vless://c6dbc5be-7cbc-4b01-b239-bdc985f2c451@15.237.89.201:8088?encryption=none&security=tls&sni=cloudinary.com&type=tcp&headerType=none
+vless://598d8835-b443-4112-8025-fcb00831d2d9@162.159.135.234:443?security=tls&sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech&type=grpc&serviceName=‌@VPNCUSTOMIZE‌&fp=chrome&alpn=h2
+vless://1aed6a7f-7165-43be-89b6-77800f3e38e3@77.91.84.45:6443?security=reality&sni=pantercon.net&fp=chrome&pbk=OQOsn-XNR-3aB83VBZGQkYqLU65bfzTeCeUpi1Pnb1E&sid=54f14851721f1259&type=tcp&flow=xtls-rprx-vision&encryption=none
