@@ -1,2 +1,2 @@
-vless://15b363e0-d6b7-44df-ba93-523dc1ded3d6@VPN-MIKEYmci011.ddns.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Vpn_Mikey،@Vpn_Mikey&amp;sni=V2ray.VPN-MIKEY.cfd
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.195.179:443?security=tls&type=ws&sni=sg05.wang66.homes&path=/blue&encryption=none&headerType=none
+vless://be230dd4-5f4e-4711-9ae7-1870f54f597d@uk1.vpnvless.xyz:80?security=none&type=ws&path=/vless&encryption=none&headerType=none
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@sp467.qvqag.com:443?security=tls&type=ws&path=users?ed&encryption=none&headerType=none
