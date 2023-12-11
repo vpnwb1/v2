@@ -1,2 +1,2 @@
-vless://1fbd7633-8800-4de0-87fb-c656017f4099@104.21.76.160:443?path=%2Fnimws&amp;security=tls&amp;encryption=none&amp;host=aurora.nextgentechnews.com&amp;type=ws&amp;sni=aurora.nextgentechnews.com
-vless://d342d11e-d424-4583-b36e-524ab1f0afa4@3254.outline-vpn.cloud:2083?path=%2F%3Fed&amp;security=tls&amp;encryption=none&amp;type=ws&amp;sni=baipiao1.curly-train.pages.dev
+vless://15b363e0-d6b7-44df-ba93-523dc1ded3d6@VPN-MIKEYmci011.ddns.net:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@Vpn_Mikey،@Vpn_Mikey&amp;sni=V2ray.VPN-MIKEY.cfd
+vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.195.179:443?security=tls&type=ws&sni=sg05.wang66.homes&path=/blue&encryption=none&headerType=none
