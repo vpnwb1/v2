@@ -1,2 +1,2 @@
-vless://7beffae7-482f-42d6-fd30-4e84be06cfd6@cpuvpn.hias.vbox778.info:50648?type=tcp&amp;path=%2F&amp;host=bmw.com&amp;headerType=http
-vless://03336d01-1790-3b78-abaf-990309f2ff04@104.21.24.8:443?security=tls&sni=trnsj.tzzhu.gq&type=ws&host=trnsj.tzzhu.gq&path=b9d5-281a52c6667c&allowInsecure=1
+vless://351a8fbe-a3e0-4fb5-db40-9c97a3d92587@47.88.89.145:80?security=&type=ws&path=@MTCSTORES&host=internet.life.com.by&encryption=none
+vless://ce4b8902-4abf-4dbb-b145-c3b8ad921bda@172.67.132.41:443?encryption=none&security=tls&sni=nl49.vlessx.us&type=ws&host=nl49.vlessx.us&path=archive_android%2c%40archive_android%2carchive_android%2c%40archive_android%2c%40archive_android%2carchive_android%2c%40archive_android%2c%40archive_android
