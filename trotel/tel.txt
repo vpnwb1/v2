@@ -1,2 +1,2 @@
-trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawsjp4.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
-trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security=tls
+trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@dir01.netorigins2u.site:36501?allowInsecure=0&peer=us01.abpilot.xyz&sni=us01.abpilot.xyz
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp
