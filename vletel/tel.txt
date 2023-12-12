@@ -1,2 +1,2 @@
-vless://9d2ce486-a6da-4cae-b1c8-f41bb319377e@jioin-severnett12.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=jioin-severnett12.numalla.top
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@108.162.192.48:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
+vless://d689f130-ef14-44ac-f887-169da9c4066f@104.21.82.102:2087?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=firefox&pbk=ADESzRAjAHUklyB7Y3dmyb0tpF8a9PS8vj3dxH3HTHg&sid=768c66ab
+vless://b2c4ff72-602e-4726-af22-594a22530e6e@172.67.135.195:8880?security=none&type=ws&host=bia-to-channel2.unlimiteddev.shop&path=/
