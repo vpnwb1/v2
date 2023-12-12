@@ -1,2 +1,2 @@
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.138:10823?security=tls&sni=alibaba-node.cn
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud45.jafiyun.world:22045?security=tls&sni=scloud45.jafiyun.world
+trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawsjp3.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
