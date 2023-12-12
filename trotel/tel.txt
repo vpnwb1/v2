@@ -1,2 +1,2 @@
-trojan://2b357b66-c345-499c-ae28-399112e9cabd@us202.zebrassr.com:50398?security=tls&sni=us202.zebrassr.com
-trojan://3aa29b04-ad14-45bc-9226-d39a84918e5b@gdct001.theyydsnode.top:17022?allowInsecure=1&peer=vn01.ckcloud.info&sni=vn01.ckcloud.info
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10820?security=tls
+trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none
