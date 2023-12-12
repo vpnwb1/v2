@@ -1,2 +1,2 @@
-trojan://cd39f62aed7b90f6@5.44.249.43:3389?security=tls
-trojan://2Telegram-id-DarkVPNpro@104.19.134.199:8443?security=tls&sni=nipeream6ioon-deadrengpartone-lmpossibl33.arshaproplus.cf&type=grpc&serviceName=Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
+trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54430?security=tls
+trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@9s5g02.abzoones.xyz:36206?allowInsecure=0&peer=sg02.abpilot.xyz&sni=sg02.abpilot.xyz
