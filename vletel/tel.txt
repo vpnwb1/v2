@@ -1,2 +1,2 @@
-vless://c255f68f-18f7-488a-b7fc-06a5676564f0@tel.icv2ray.top:2052?encryption=none&host=jp10.vlessx.xyz&path=tel.iCV2ray.space&security=none&type=ws
-vless://d0665007-fc77-462e-bcad-31bf4b204b44@mtn-shhproxy.ddns.net:2096?security=tls&type=grpc&sni=dl.SpV2ray.cfd&encryption=none&headerType=none
+vless://8a4af1cd-0684-4ff4-a037-3fb351ae6bee@mtn.VPNPROSEC.com:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnReallity.Online
+vless://c6dbc5be-7cbc-4b01-b239-bdc985f2c451@15.188.201.255:8088?security=tls&sni=cloudinary.com&type=tcp&fp=firefox&alpn=h2
