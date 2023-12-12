@@ -1,2 +1,2 @@
-ss://3fe1ec09-223a-442c-a4cc-192cbab538b6@jioin-severnett12.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=jioin-severnett12.numalla.top
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkaFhEU3JPM0hua2hPWld4Tk9ydklJ@62.113.114.116:42320
+ss://bm9uZTpiY2FhYmFjLWJhYWMtYWFiYy1hY2RiLWJjYmJiY2FhY2FjYQ==@127.0.0.1:8080
+ss://2eedf364-c223-4bb9-be22-8e0987bcbfb5@104.31.16.14:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=de2.vlessx.xyz&amp;type=ws
