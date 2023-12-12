@@ -1,2 +1,2 @@
-trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@dir01.netorigins2u.site:36501?allowInsecure=0&peer=us01.abpilot.xyz&sni=us01.abpilot.xyz
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.33:889?security=tls&sni=cdn.cjhh.lol&type=tcp
+trojan://telegram-id-directvpn@18.170.149.165:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls
