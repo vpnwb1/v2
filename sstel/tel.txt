@@ -1,2 +1,2 @@
-ss://bm9uZTpiY2FhYmFjLWJhYWMtYWFiYy1hY2RiLWJjYmJiY2FhY2FjYQ==@127.0.0.1:8080
-ss://2eedf364-c223-4bb9-be22-8e0987bcbfb5@104.31.16.14:8080?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=de2.vlessx.xyz&amp;type=ws
+ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@167.88.61.50:8091
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.159.221.228:443
