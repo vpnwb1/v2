@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo5MzkyMzY0OTM2@172.105.104.70:44148
-ss://87697e90-52d0-471b-ad87-078c4188cef2@138.68.137.73:48164?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=MKFvONPN3Y7RhWbOc6j8bFNutb_GyH2PMSALPOQ7yiQ&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@proxyforopeta&amp;sni=www.speedtest.net&amp;sid=ba0f3d77
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTBiYjQ3OC0wMjkyLTQwMDAtYTQyNS1kYjBkOTI2N2NjOGI=@hefei.chiguayun.shop:27134
+ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@51.77.53.200:9101
