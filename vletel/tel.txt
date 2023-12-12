@@ -1,2 +1,2 @@
-vless://d689f130-ef14-44ac-f887-169da9c4066f@104.21.82.102:2087?security=reality&flow=xtls-rprx-vision&sni=zula.ir&type=tcp&fp=firefox&pbk=ADESzRAjAHUklyB7Y3dmyb0tpF8a9PS8vj3dxH3HTHg&sid=768c66ab
-vless://b2c4ff72-602e-4726-af22-594a22530e6e@172.67.135.195:8880?security=none&type=ws&host=bia-to-channel2.unlimiteddev.shop&path=/
+vless://77ed384a-369f-49dd-b9d6-b323277c534b@104.21.37.6:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=1aIhJdms6Es31XxTV_VTEYrhqI1jlHhznTqM8J7YEw8&sid=ebf1d6fb
+vless://4651a2e8-aa1d-483f-8d91-b95c08896f25@162.159.135.232:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2
