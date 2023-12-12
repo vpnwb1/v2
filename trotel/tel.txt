@@ -1,2 +1,2 @@
-trojan://b5e4e360-5946-470b-aad0-db98f50faa57@frontend.yijianlian.app:54430?security=tls
-trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@9s5g02.abzoones.xyz:36206?allowInsecure=0&peer=sg02.abpilot.xyz&sni=sg02.abpilot.xyz
+trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@kaizen-hk-2.cn0.me:443?security=tls&type=tcp&headerType=none
+trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20034?security=tls&sni=hk-azure04.xiaohouzi.club
