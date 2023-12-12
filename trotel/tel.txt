@@ -1,2 +1,2 @@
-trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml
-trojan://telegram-id-directvpn@13.39.112.204:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawsjp4.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
+trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@js04.balala2016.xyz:20261?security=tls
