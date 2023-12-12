@@ -1,2 +1,2 @@
-vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@66.81.247.21:2053?security=tls&sni=online.alphav.top&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha
-vless://1eece044-ce02-484d-b3f2-609e78403690@45.88.24.94:55269?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=j6u7Lnap55eCAwN4m2is0Sn7udaxr_l7Dp3rfV6mkXE&amp;sni=Soft98.ir&amp;flow=xtls-rprx-vision&amp;sid=1de4d26b&amp;spx=%2F
+vless://889419fd-06d0-4a6a-d512-7c1b62bd8d51@172.67.186.42:2083?security=tls&sni=Liv2ray.p-lightning6.cfd&type=grpc&serviceName=@LIGHTNING6
+vless://1f67fa85-1472-464b-935b-f40e71fefb15@80.92.205.70:8080?path=%2F&amp;security=none&amp;encryption=none&amp;type=ws
