@@ -1,2 +1,2 @@
-vless://8700b89a-3e41-4090-8e42-db7b1a3e878c@hp.HqV2ray.cfd:443/?type=grpc&amp;serviceName=%40HpV2rayNG%2C%40HpV2rayNG%2C%40HpV2rayNG%2C%40HpV2rayNG%2C%40HpV2rayNG&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=hp.XsV2ray.cfd
-vless://ca314b11-7178-4650-b832-56330e630610@45.91.169.59:2083?security=reality&amp;type=tcp&amp;host=&amp;headerType=&amp;flow=xtls-rprx-vision&amp;path=&amp;sni=www.dioptima.nl&amp;fp=chrome&amp;pbk=QMAyRuDAvoaZ4Ri0hR6rFAUYi4H2au0a7N3ZCS29a2g&amp;sid=df26337c07733e89&amp;spx=
+vless://69ce1e21-8069-4ff7-a00d-bd28b57d5f27@172.232.148.91:2003?encryption=none&amp;security=tls&amp;sni=atrsun.com&amp;alpn=h2&amp;fp=firefox&amp;type=grpc&amp;serviceName=GRPC&amp;mode=gun
+vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.109:8443?security=none&type=tcp
