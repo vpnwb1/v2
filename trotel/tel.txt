@@ -1,2 +1,2 @@
-trojan://a1b16d10-4f43-4dd9-8c4f-52065b2b0910@45.88.148.237:28443?security=tls&sni=sbank.ir
-trojan://XVBc6A1IVg@185.146.173.189:2096?security=tls&sni=Mio0b6fs4A-Gsyc5r7vSdH-JedrYiUeQ43xDsJ.eiiim.online&type=ws&host=eiiim.eiiim.online&path=join.----------------Telegram-EiiiM----------------Telegram-EiiiM---------------.Telegram-EiiiM.
+trojan://IQqE5mZbTO@104.24.176.7:2096?security=tls&sni=amsc.carfin.tech&type=ws&host=amsb.carfin.tech&path=%2F%40DailyV2RY&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3
+trojan://2469851f-c238-4c62-870e-7aa6f2d6313d@lin2ivdd2vbghwk.559xp5.cn:443?allowInsecure=0
