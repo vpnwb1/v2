@@ -1,2 +1,2 @@
-trojan://IQqE5mZbTO@104.24.176.7:2096?security=tls&sni=amsc.carfin.tech&type=ws&host=amsb.carfin.tech&path=%2F%40DailyV2RY&fp=chrome&alpn=http%2F1.1%2Ch2%2Ch3
-trojan://2469851f-c238-4c62-870e-7aa6f2d6313d@lin2ivdd2vbghwk.559xp5.cn:443?allowInsecure=0
+trojan://f2117e99-9b6e-47fd-b0a9-634a0b15b998@45.64.22.41:443?security=tls&sni=jgw2.gaox.ml
+trojan://telegram-id-directvpn@13.39.112.204:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
