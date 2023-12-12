@@ -1,2 +1,2 @@
-trojan://18e513fe-f7f4-353d-84ca-bc9646fb2528mielink@kaizen-hk-2.cn0.me:443?security=tls&type=tcp&headerType=none
-trojan://263adbfb-49a8-3daf-8a79-2e1687b5dc28@iplc.xiaohouzi.club:20034?security=tls&sni=hk-azure04.xiaohouzi.club
+trojan://2b357b66-c345-499c-ae28-399112e9cabd@us202.zebrassr.com:50398?security=tls&sni=us202.zebrassr.com
+trojan://3aa29b04-ad14-45bc-9226-d39a84918e5b@gdct001.theyydsnode.top:17022?allowInsecure=1&peer=vn01.ckcloud.info&sni=vn01.ckcloud.info
