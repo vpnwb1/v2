@@ -1,2 +1,2 @@
-trojan://6fca988d-0fa3-4411-8d9c-64f42971c0db@gzyd02.jcnode.top:36403?security=tls&sni=uk01.ckcloud.info&type=tcp&headerType=none
-trojan://telegram-id-directvpn@3.129.217.93:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://ZFYOpKqD8uEClpZ2ya83cyCDalwSOYz3F3eCxnBD4eSXNSR5R0aAATj7I3x69g@18.163.249.175:443?security=tls&sni=golang.protocolbuffer.com&type=tcp
+trojan://a2c8194b-fcfd-4c39-a6bd-31ea9f4ea671@54.37.220.201:443?security=tls&sni=upload.soft98.download&type=tcp
