@@ -1,2 +1,2 @@
-vless://44827198-98fe-4882-89a3-fca75fcd36e5@us-v.sshmax.xyz:80?security=none&type=ws&path=/vless&encryption=none&headerType=none
-vless://Source-ipV2Ray@49.13.85.112:443/?type=grpc&amp;encryption=none&amp;serviceName=%40ipV2Ray&amp;sni=gsmarena.com&amp;fp=firefox&amp;security=reality&amp;pbk=G5wm1kFdfZUUnN18IzeQ1LohHI0wrL8-fZ4jn4NmhU8&amp;sid=a90ee22c
+vless://f1a7dd84-f216-4ad2-80ca-b7a6ae2c5d31@freev2rayyy.ddns.net:16345/?type=grpc&amp;serviceName=Join%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2FJoin%3A%40free_v2rayyy%2F&amp;security=reality&amp;fp=chrome&amp;pbk=GsZnYVnIv8KU2MAbF2Wrmt88zuqLbry3wwCh6p2VdR8&amp;sni=sourceforge.net&amp;sid=fbf5a30e&amp;spx=%2F
+vless://c19af270-ffe2-49ef-a5b0-eb31c6e854a2@mtn.VPNPROSEC.com:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnBuy.Online
