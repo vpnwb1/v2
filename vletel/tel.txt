@@ -1,2 +1,2 @@
-vless://77ed384a-369f-49dd-b9d6-b323277c534b@104.21.37.6:443?security=reality&sni=ftp.debian.org&type=grpc&fp=chrome&pbk=1aIhJdms6Es31XxTV_VTEYrhqI1jlHhznTqM8J7YEw8&sid=ebf1d6fb
-vless://4651a2e8-aa1d-483f-8d91-b95c08896f25@162.159.135.232:2096?security=tls&sni=Fast.zed-zoon.tech&type=grpc&serviceName=---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&fp=chrome&alpn=h2
+vless://fb1ed176-5fec-4e4c-98d4-9e9c3ac9fcde@190.93.246.241:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@proxy_kafee,@proxy_kafee,@proxy_kafee&amp;sni=tm.AnV2ray.site
+vless://3e22ddca-8fb2-4df4-9b6e-d1d9066a937b@Join.V2RayTz.sbs:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnReallity.Online
