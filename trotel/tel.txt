@@ -1,2 +1,2 @@
-trojan://pHM6lQGOG7@172.64.155.141:443?security=tls&sni=de.melov2ray.shop&type=grpc&fp=chrome&alpn=http%2F1.1%2Ch2
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.138:10838
+trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.138:10823?security=tls&sni=alibaba-node.cn
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud45.jafiyun.world:22045?security=tls&sni=scloud45.jafiyun.world
