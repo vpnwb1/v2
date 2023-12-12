@@ -1,2 +1,2 @@
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.7:10820?security=tls
-trojan://459d23f4-dcfd-4fef-9ba3-ef0ad10fc336@jp.mjt001.com:443?security=tls&sni=jp.mjt001.com&type=tcp&headerType=none
+trojan://user@s26.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s26.mynameismahsa.info
+trojan://telegram-id-directvpn@13.51.77.194:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
