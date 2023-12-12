@@ -1,2 +1,2 @@
-vless://69ce1e21-8069-4ff7-a00d-bd28b57d5f27@172.232.148.91:2003?encryption=none&amp;security=tls&amp;sni=atrsun.com&amp;alpn=h2&amp;fp=firefox&amp;type=grpc&amp;serviceName=GRPC&amp;mode=gun
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.96.109:8443?security=none&type=tcp
+vless://bb35f4b6-17f3-d76b-9a40-9da3e142a7eb@95.156.236.207:1110?security=none&amp;encryption=none&amp;host=blue.kodular.io&amp;headerType=http&amp;type=tcp
+vless://07b27f63-ed1a-48d8-a4e8-689c90829cf0@95.179.241.194:39882?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none
