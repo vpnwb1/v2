@@ -1,2 +1,2 @@
-vless://bb35f4b6-17f3-d76b-9a40-9da3e142a7eb@95.156.236.207:1110?security=none&amp;encryption=none&amp;host=blue.kodular.io&amp;headerType=http&amp;type=tcp
-vless://07b27f63-ed1a-48d8-a4e8-689c90829cf0@95.179.241.194:39882?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none
+vless://9d2ce486-a6da-4cae-b1c8-f41bb319377e@jioin-severnett12.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=jioin-severnett12.numalla.top
+vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@108.162.192.48:80?security=none&type=ws&sni=vNLu2Zx.kallepache.store&path=/graphql&encryption=none&headerType=none
