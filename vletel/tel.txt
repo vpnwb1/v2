@@ -1,2 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@198.41.212.133:443?security=tls&type=ws&sni=jp05.wang66.homes&path=/blue&encryption=none&headerType=none
-vless://39823e98-0a3a-453b-f20b-d015cedeba1e@All.Tlgram-Polproxy.space:2087?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1,h3&amp;fp=chrome&amp;type=grpc&amp;serviceName=@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,@Polproxy,&amp;sni=Kanal-Ma.Polproxy.sbs
+vless://57472176-b5f6-4cef-803e-66491cc0eb49@49.13.72.189:443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=edudip.com&amp;alpn=http%2F1.1&amp;fp=chrome&amp;pbk=kvq3JTPJ2_QEDCGf5l7mwLtxg-0QcfmDbJvlCVopNUg&amp;sid=63&amp;type=tcp&amp;headerType=None
+vless://b6748f2e-8108-49ed-8dbe-23cb5f9109bb@167.235.64.110:2087?security=reality&sni=www.speedtest.net&type=tcp&fp=firefox&pbk=LInXs3ajognpG2rwUTSVZervs0o8r2loRxes5KJ3vQg&sid=1b2650c2
