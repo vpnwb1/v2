@@ -1,2 +1,2 @@
-vless://9e2cc549-1bcd-4903-9ce4-3caece383390@128.140.78.224:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=jCP7nYwmtOn9N2bpFGhyVjn2kJwwdSoIDh59I7ydlDs&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=tuyacn.com&amp;sid=095fa193
-vless://b1e4fe2d-0513-5b9f-b8a8-91efc97db47a@51.75.90.211:51129?security=reality&sni=www.speedtest.net&fp=firefox&pbk=tHUQkJ8gpxjTgeOkCrswR_pXx39S45SnTUv_FUP8Fis&sid=7fe29733&type=grpc&encryption=none
+vless://60484f31-335a-4876-a7c7-c6e0094d3d94@mciproxystoore11.ddns.net:443?alpn=http%2F1.1&encryption=none&fp=chrome&mode=gun&security=tls&serviceName=2GbqHqibX8MrGWVN1ct9nq&sni=cdn.miladfaryad.cf&type=grpc
+vless://4a1cc2bf-cbaa-4792-d807-88c9fc13324b@Join.V2RayTz.sbs:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@LIGHTNING6&amp;sni=Liv2ray.p-lightning6.cfd
