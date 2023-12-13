@@ -1,2 +1,2 @@
-trojan://b17fe152-2615-4fe1-b80e-3c61b557481d@v02.gutingting.com:30051?security=tls&sni=v2vn01.fuqiangren.com&type=tcp&headerType=none
-trojan://ca266d5a-88e1-4384-b0c2-c2a81de9a358@other.kunlun-ppg.com:10841?security=tls&sni=alibaba-node.cn
+trojan://user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info
+trojan://awj41d4uyQ@speedtest.v3.jorgegames.ir:49852/?type=tcp&amp;security=tls&amp;allowInsecure=1
