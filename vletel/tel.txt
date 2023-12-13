@@ -1,2 +1,2 @@
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@172.67.71.176:2087?security=tls&sni=krsg29.wang66.homes&type=ws&host=krsg29.wang66.homes&path=%2Fblue
-vless://860a363e-2537-4186-b60a-bfe5b6b14ca3@104.21.11.104:2053?security=tls&sni=online.alphav.top&type=grpc&serviceName=@V2ray_Alpha@V2ray_Alpha@V2ray_Alpha
+vless://dc795d26-cd8b-490d-9a6d-a5af9b8d0f56@104.25.134.44:443?security=tls&sni=V2ray.SvnReallity.Online&type=grpc
+vless://a37866bb-3225-44fc-8af0-ab12ead63602@104.16.124.175:8443?encryption=none&security=tls&sni=ams.servervless.de&type=ws&host=ams.servervless.de&path=%2f%3fed%3d2048
