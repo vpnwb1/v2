@@ -1,2 +1,2 @@
-trojan://d2698cf9-c47e-455c-8384-12e642cbba15@167.68.5.183:443?security=tls&sni=6us3.pqjc.buzz&type=ws&path=/pq/us3&Host=6us3.pqjc.buzz
-trojan://ed83529e-1866-3d84-8722-c56ab1fda65c@scloud58.jafiyun.world:22058?security=tls&sni=scloud58.jafiyun.world&type=tcp&headerType=none
+trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.6:10850?security=tls
