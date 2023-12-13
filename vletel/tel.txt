@@ -1,2 +1,2 @@
-vless://4881da19-8d39-45b8-b243-d706631f0554@45.8.104.53:2083?security=tls&sni=ger.amirpronk.site&type=grpc&fp=chrome
-vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@16.16.104.235:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=ddragon.leagueoflegends.com&amp;fp=chrome&amp;security=reality&amp;pbk=jA77lfj6sLobBRmBUtHsWbviKnJKfSNTHSg1DQO9o2M&amp;sid=a0
+vless://eebada1f-f82b-4592-cb62-bdb4181c466b@104.19.54.50:2087?security=tls&sni=po.GrV2ray.cfd&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&alpn=@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran
+vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada3.qowch.com:443?path=users%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;type=ws
