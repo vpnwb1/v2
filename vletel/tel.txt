@@ -1,2 +1,2 @@
-vless://42543610-e137-48d0-ae1c-e3490cc7b806@172.67.222.144:443?security=tls&sni=media.mycodes.top&type=grpc&serviceName=%40VPNPacketBot
-vless://94b1d940-9f81-4276-95c6-ccf91ee393fc@31.129.22.98:2096?security=reality&flow=xtls-rprx-vision&sni=film2movie.asia&type=tcp&fp=chrome&pbk=lq7r-UhCDTO9sfRQAIpANVsS3xDxDmBVT8tb1gDdbwc
+vless://e28c22f7-ca40-4681-ace3-c1d6758d7b52@5.255.125.45:443?security=reality&amp;sni=debian.org&amp;fp=chrome&amp;pbk=MoMk-h_vjKU7nSGdNLsyZDXuo5pDPijbXGAcTjDU7lg&amp;sid=f5da43bb&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;encryption=none
+vless://83f56b82-5f8e-45e3-aa5a-a7a2e5a1e469@104.20.156.248:443?encryption=none&security=tls&sni=ws.ArV2ray.shop&type=ws&host=ws.ArV2ray.shop&path=%2F
