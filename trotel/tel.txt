@@ -1,2 +1,2 @@
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@203.198.16.115:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=glc-hkt2.windowsupdatea.com
-trojan://telegram-id-directvpn@3.10.41.121:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
+trojan://telegram-id-directvpn@44.211.71.82:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
+trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls
