@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.59:8009
-ss://257e8441-a1bf-49ed-917a-fc139a98deee@tel-xsv2ray.xalixv2ray.space:443?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=3izA2Tb7f-9coLYseNqtFSe3zL2a9Q4N7SJE3DhE9gk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=www.speedtest.net&amp;sid=a2789275
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@172.99.190.39:2376
+ss://a9964b0e-a18f-48c9-bcd1-8f34b5092879@webshecan.webredirect.org:2083?type=tcp&amp;security=reality&amp;fp=chrome&amp;pbk=TTyvgA7WXFTrzGfnc3n2thNNEcWc_GWReVsvs5Gd9D4&amp;sni=www.theverge.com&amp;flow=xtls-rprx-vision&amp;sid=7f321171&amp;spx=%2F
