@@ -1,2 +1,2 @@
-ss://6b7376dd-11d8-443c-804a-996072aefd81@ec51.kiava.fun:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;pbk=rqUo-8d-x_QuqNzAyjFMP-61rUyi_KlIAufPeqfyZW4&amp;sid=5e&amp;spx=%2F&amp;type=tcp&amp;headerType=none
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpzRjQzWHQyZ09OcWNnRlg1NjM=@92.38.169.196:826
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.68.134.191:7306
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo2ZTBiYjQ3OC0wMjkyLTQwMDAtYTQyNS1kYjBkOTI2N2NjOGI=@foshan.chiguayun.shop:27135
