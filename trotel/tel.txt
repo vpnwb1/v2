@@ -1,2 +1,2 @@
-trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawsjp3.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a003.zhuan99.men:10003?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
+trojan://telegram-id-directvpn@3.120.63.163:22222?security=tls&amp;sni=trj.rollingnext.co.uk&amp;type=tcp&amp;headerType=none
+trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.135:10836?security=tls
