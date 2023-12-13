@@ -1,2 +1,2 @@
-vless://eebada1f-f82b-4592-cb62-bdb4181c466b@104.19.54.50:2087?security=tls&sni=po.GrV2ray.cfd&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&alpn=@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran,@mehrosaboran
-vless://a61eb3a2-1adb-48cb-ab46-ce225769de16@ada3.qowch.com:443?path=users%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;type=ws
+vless://9e2cc549-1bcd-4903-9ce4-3caece383390@128.140.78.224:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=jCP7nYwmtOn9N2bpFGhyVjn2kJwwdSoIDh59I7ydlDs&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=tuyacn.com&amp;sid=095fa193
+vless://b1e4fe2d-0513-5b9f-b8a8-91efc97db47a@51.75.90.211:51129?security=reality&sni=www.speedtest.net&fp=firefox&pbk=tHUQkJ8gpxjTgeOkCrswR_pXx39S45SnTUv_FUP8Fis&sid=7fe29733&type=grpc&encryption=none
