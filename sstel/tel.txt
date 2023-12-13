@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1jZmI6ZjhmN2FDemNQS2JzRjhwMw==@92.38.163.53:989
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.114.114.143:2376
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ=@85.208.108.59:8009
+ss://257e8441-a1bf-49ed-917a-fc139a98deee@tel-xsv2ray.xalixv2ray.space:443?mode=multi&amp;security=reality&amp;encryption=none&amp;pbk=3izA2Tb7f-9coLYseNqtFSe3zL2a9Q4N7SJE3DhE9gk&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=@XsV2ray,@XsV2ray,@XsV2ray,@XsV2ray&amp;sni=www.speedtest.net&amp;sid=a2789275
