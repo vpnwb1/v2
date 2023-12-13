@@ -1,2 +1,2 @@
-vless://c6dbc5be-7cbc-4b01-b239-bdc985f2c451@13.38.213.195:8088?encryption=none&security=tls&sni=g2.com&type=tcp&headerType=none
-vless://27bcf249-bc5f-4f90-8358-3f34095ccdf5@v2rayngprivate.ddns.net:2087?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=Oy2u8O9CMxnfM46_ITuHw2SM3itzQJwcjUZsZBQGxSE&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@V2rayNGprivate&amp;sni=greenpepper.ir&amp;sid=15273896
+vless://48dfd765-74a6-492b-919e-988fca9d2bf8@92.223.97.97:443?security=tls&sni=speedtest.gcore.com&type=ws&host=akbaraghanazdaredosettahamghazdare.com&path=%2FYekoyekvpn%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1
+vless://738c5e99-7faa-4893-81a8-4d6655adde64@91.107.255.121:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Digiv2ray&amp;sni=www.speedtest.net&amp;sid=ab7b40b2
