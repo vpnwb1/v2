@@ -1,2 +1,2 @@
-vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@13.48.127.145:8443?security=reality&amp;encryption=none&amp;pbk=GnhdmWAwfFfad4nqp6QmFB9GB1I1EY3Zi1s3A0mjl3o&amp;headerType=none&amp;fp=chrome&amp;type=tcp&amp;flow=xtls-rprx-vision&amp;sni=ddragon.leagueoflegends.com&amp;sid=a0
-vless://2b7ef6d5-3128-45dd-d9d3-1c2456d4de9a@ak117.warzonmobile.xyz:31460/?type=grpc&amp;encryption=none&amp;sni=www.ups.com&amp;fp=chrome&amp;security=reality&amp;pbk=cDaDzPr3PlS3NM8lreHZbdo-Mhqz8vMBzMSkHXhGIUA&amp;sid=
+vless://4881da19-8d39-45b8-b243-d706631f0554@45.8.104.53:2083?security=tls&sni=ger.amirpronk.site&type=grpc&fp=chrome
+vless://c6d1260e-d2dd-4e52-a265-2d0c731aa607@16.16.104.235:8443/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=ddragon.leagueoflegends.com&amp;fp=chrome&amp;security=reality&amp;pbk=jA77lfj6sLobBRmBUtHsWbviKnJKfSNTHSg1DQO9o2M&amp;sid=a0
