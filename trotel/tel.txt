@@ -1,2 +1,2 @@
-trojan://3aa29b04-ad14-45bc-9226-d39a84918e5b@gdct003.theyydsnode.top:20707?allowInsecure=1&peer=sg03.ckcloud.info&sni=sg03.ckcloud.info
-trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@625tw.ljydw.top:80?security=tls&sni=625tw.ljydw.top&type=tcp&headerType=none
+trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@162.159.133.75:443?security=tls&sni=jp3.pqjc.buzz&type=tcp&allowInsecure=1
+trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemt.cdncisco.org:443?security=tls&sni=c5mt.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mt.cdncisco.org
