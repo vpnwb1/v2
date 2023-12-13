@@ -1,2 +1,2 @@
-trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud56.jafiyun.world:22056?type=tcp&sni=scloud56.jafiyun.world&allowInsecure=1
-trojan://7a57c3cd-2300-4867-9da2-9f8504b81af5@sg2.djjsvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com
+trojan://4b1639ec-e0d0-41d2-9563-03dbceae8d15@6w7j3p01.mcfront.xyz:31811?type=tcp&headerType=none
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp&headerType=none
