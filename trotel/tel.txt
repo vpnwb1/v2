@@ -1,2 +1,2 @@
-trojan://2a9abeb7-6f97-4d33-9069-f6e009d88455@162.159.133.75:443?security=tls&sni=jp3.pqjc.buzz&type=tcp&allowInsecure=1
-trojan://0ad5e311-7189-4124-ac8f-f828b681f10e@cnamemt.cdncisco.org:443?security=tls&sni=c5mt.cdncisco.org&type=ws&path=/5CSwsJSwLmxCxOCSBhOZubb&Host=c5mt.cdncisco.org
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@203.198.16.115:443?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=glc-hkt2.windowsupdatea.com
+trojan://telegram-id-directvpn@3.10.41.121:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
