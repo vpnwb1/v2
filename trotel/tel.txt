@@ -1,2 +1,2 @@
-trojan://telegram-id-directvpn@44.211.71.82:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://176196e4-7cf7-4561-87a9-21a1b4e344be@de.liangyuandian.top:443?security=tls
+trojan://194e456a-68d2-4f05-b554-c7282d32abae@163.123.192.153:443?security=tls&sni=download.xn--mes358a9urctx.com&type=tcp&headerType=none
+trojan://b3902e81-6260-4932-bcc9-708445fe40b4@frt2.sshocean.net:443?security=tls&sni=frt2.sshocean.net
