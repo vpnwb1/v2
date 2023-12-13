@@ -1,2 +1,2 @@
-trojan://5a035db3-34ea-48ca-9aa2-72c8229e1532@ru.mjt001.com:443?security=tls
-trojan://b649bab649ba93-7795-486e-872c-bae835de3b35@bauhinia01.allbluedns.xyz:36206?security=tls
+trojan://telegram-id-privatevpns@54.155.41.44:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http%2F1.1&type=tcp&headerType=none
+trojan://3aa29b04-ad14-45bc-9226-d39a84918e5b@shcm002.theyydsnode.top:64850?allowInsecure=1&peer=tw01.ckcloud.info&sni=tw01.ckcloud.info
