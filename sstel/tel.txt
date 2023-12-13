@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@172.99.188.99:6679
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.75.137.66:5004
+ss://---Telegram-Parsashonam---@116.203.217.38:18234?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=trAMz4EaIS6mhEghJbzvdpUMhQrZa9y-tm09E_mqzzs&amp;fp=chrome&amp;spx=%2F&amp;type=grpc&amp;serviceName=&amp;sni=www.speedtest.net&amp;sid=43e75a29
+ss://6b7376dd-11d8-443c-804a-996072aefd81@16.16.251.99:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;pbk=HtrlxdMBuoum5aY574OjEze2kuJYhcBHH3iTixp_dCw&amp;sid=5e&amp;spx=%2F&amp;type=tcp&amp;headerType=none
