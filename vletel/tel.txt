@@ -1,2 +1,2 @@
-vless://48dfd765-74a6-492b-919e-988fca9d2bf8@92.223.97.97:443?security=tls&sni=speedtest.gcore.com&type=ws&host=akbaraghanazdaredosettahamghazdare.com&path=%2FYekoyekvpn%3Fed%3D2048&fp=randomized&alpn=h2,http/1.1
-vless://738c5e99-7faa-4893-81a8-4d6655adde64@91.107.255.121:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=44pa79d1pgsXBDhuaoAorrir4k2OSTNdOuMEXFw9zXc&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@Digiv2ray&amp;sni=www.speedtest.net&amp;sid=ab7b40b2
+vless://ec7ea4ce-d67b-4fa4-f4f7-30388b7745bb@avalpardakht.com:80?path=/@v2rayng_vip&amp;security=none&amp;encryption=none&amp;host=2.arsalanv2.sbs&amp;type=ws
+vless://8c1091aa-9772-44d5-931e-4b977384fa40@cloud.configforvpn.fun:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@configforVPN&amp;sni=cloud.configforvpn.fun
