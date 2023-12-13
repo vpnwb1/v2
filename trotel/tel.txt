@@ -1,2 +1,2 @@
-trojan://e35026da-e985-49ca-b43b-276062a535a6@notdirect.howhealthyistoomajreally.homes:443?security=tls&sni=notdirect.howhealthyistoomajreally.homes&type=ws&path=/ilb9fuWfuqWDjlQrGCkIH66kMFPa&Host=notdirect.howhealthyistoomajreally.homes
-trojan://your_password@104.21.73.195:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws&host=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket
+trojan://ad003cb4-f642-4359-ae32-9b54d1b5beee@45.94.169.63:443?security=tls&sni=0px.pardazesh.tech&type=ws&host=0px.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=http/1.1
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10833?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
