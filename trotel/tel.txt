@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@3.8.123.26:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.6:10850?security=tls
+trojan://b977b966-2e65-3ee5-acde-ee3409ad3597@scloud56.jafiyun.world:22056?type=tcp&sni=scloud56.jafiyun.world&allowInsecure=1
+trojan://7a57c3cd-2300-4867-9da2-9f8504b81af5@sg2.djjsvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com
