@@ -1,2 +1,2 @@
-vless://3bfe2918-a07f-4f15-e8a5-cbb0cff7b049@104.16.219.215:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;alpn=@bored_vpn,@bored_vpn&amp;serviceName=%40L%49%47%48TN%49N%476&amp;sni=Liv2ray.p-l%69%67%68%74n%69n%676.cfd
-vless://884f9b2c-f0c5-44dd-a68e-3e39ce93bb39@188.114.97.0:443?security=tls&sni=cf-wkrs-pages-vless-aoy.pages.dev&type=ws&host=cf-wkrs-pages-vless-aoy.pages.dev&path=%2F%3Fed%3D2048
+vless://381868bf-421c-49fa-9bb6-0584cd597a01@95.179.241.194:36472?security=&type=tcp&headerType=http&host=internet.life.com.by&encryption=none
+vless://edf12778-fbeb-48d9-85e4-6530370b47cc@103.184.44.119:443?encryption=none&security=tls&sni=bv01.wang66.homes&type=ws&path=%2F%3Fed%3D2048
