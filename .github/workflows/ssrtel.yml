@@ -3,7 +3,7 @@ name: ssrtel
 on:
   workflow_dispatch:
   schedule:
-  - cron: "20 3-20 * * *"
+  - cron: "20 8 * * *"
 
 jobs:
   job1:
