@@ -1,2 +1,2 @@
-vless://b366a9a2-c257-40ea-a7bc-207e539e6f15@104.20.156.248:8443?security=tls&sni=po.GrV2ray.cfd&type=ws&host=po.GrV2ray.cfd&path=%40AntiFilterChV2%2C%40AntiFilterChV2%2C%40AntiFilterChV2%3Fed%3D2048
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@15.237.228.138:22222?path=%2Ftelegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
+vless://4288e140-0f64-4375-8755-4f7a0264498f@vmessorg.join.bede.mokhin.me:443?type=grpc&amp;security=reality&amp;mode=gun&amp;serviceName=%40vmessorg&amp;fp=chrome&amp;sni=ftp.debian.org&amp;pbk=wmmv8Pf8o8labJukaj6YUN9Xh2bZik8tXBP8dk_LenU&amp;sid=bec41140&amp;spx=%2F
+vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@54.201.158.185:22222?security=tls&type=ws&sni=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws&encryption=none&headerType=none
