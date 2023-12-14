@@ -1,2 +1,2 @@
-trojan://63179baf-e94a-4d88-8968-ffe9ae3f1e45@64.176.80.213:8443?security=tls&sni=a.b.c.d
-trojan://ed83529e-1866-3d84-8722-c56ab1fda65c@scloud52.jafiyun.world:22052?security=tls&sni=scloud52.jafiyun.world&type=tcp&headerType=none
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a005.zhuan99.men:10005?security=tls&sni=zhu.99ton.men
+trojan://iyinglong@18.141.8.87:443?type=tcp&headerType=none
