@@ -5,7 +5,7 @@ import os
 
 source_file = 'TrojanL.txt'
 destination_file = 'trotel/tel.txt'
-num_lines_to_move = 2
+num_lines_to_move = 10
 
 with open(source_file, 'r') as file1:
     lines = file1.readlines()
