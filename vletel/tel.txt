@@ -1,2 +1,2 @@
-vless://741d28ec-7361-4982-b71f-d6fe039ad27c@104.21.74.93:443?security=tls&sni=z1p.isecurity.site&type=ws&path=%2F7IaM5TNiNbD6jagy5GzWC
-vless://24691d23-5d8d-4635-9e34-b7f63b9edafe@104.31.16.178:2087/?type=grpc&encryption=none&security=tls&sni=oc7.fitpasta30.xyz&alpn=http%2F1.1%2Ch2
+vless://d7520de7-699d-47e3-a6af-9ddb1075ff61@13.38.213.201:8088?encryption=none&security=tls&sni=www.providesupport.com&type=tcp&headerType=none
+vless://---Telegram-Parsashonam--5-@zula.ir:2087?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=&amp;sni=Finland.Parsashonam.Tech
