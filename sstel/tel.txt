@@ -1,2 +1,2 @@
-ss://9f333654-7d59-47ed-8108-e38f8dd7739e@telegram.hopev2ray.link:2086?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl24.vlessx.us&amp;type=ws
-ss://e160af6e-3942-c47b-6288-afdb42ae9f66@l31.darklord.life:443?type=tcp&amp;security=none&amp;headerType=http&amp;host=divarcdn.com&amp;path=%2F
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpWQnhpNzZPZnhubVpkVFdCUXY3WXhVSUpxSXluMmk4ZFJnWnFKMXZ4aFQ0OHE0Tks@195.123.238.229:51348
+ss://YWVzLTI1Ni1nY206azVIY0xFeEdMQmdCaUVSbnA0QmJEdmZFcjltejUzSTlURUt6MHhqeWhwVT0=@172.67.172.115:2086
