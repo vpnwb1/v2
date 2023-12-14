@@ -1,2 +1,2 @@
-trojan://ff2df0a6-2cd2-4ba1-a635-aca03cc45718@vn2.microsoft-orgwly.vip:10019?security=tls&sni=lht.microsoft-orgwly.vip&type=tcp&headerType=none
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?type=tcp&headerType=none
+trojan://7b0fb627-d2cc-48cb-97fd-b1469afe3b61@18.176.134.145:36864?security=tls&sni=hu01.abpilot.xyz&type=tcp
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&amp;security=tls&amp;alpn=h2&amp;host=amin.karkas1.ir&amp;fp=safari&amp;type=ws&amp;sni=amin.karkas1.ir
