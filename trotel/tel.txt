@@ -1,2 +1,2 @@
-trojan://telegram-id-directvpn@13.51.140.218:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
-trojan://85db6652-a747-3a0a-a170-422736076410@tg_mfbpn_d5.52vpn.eu.org:11034?type=tcp&sni=alibaba-node.cn&allowInsecure=1
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao01.xingyunwu.top:50000?security=tls&sni=xingyunwu.top&type=tcp&headerType=none
+trojan://tune7jerky7HAYRICK@45.33.20.235:443?sni=ap-northeast-1.openssl3.com
