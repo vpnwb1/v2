@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.60:6697
-ss://f8d3ae5ee7fc435e8157447c605b5eddOg==@172.67.146.100:2053
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmN2UzZTk2ZS02NmM1LTQzMDYtOGY0OS1iNWE3NzgwYmZlMDg
+ss://c17ee8d1-c7a3-4666-83da-d923ae45c31d@ejoin-to.outline-vpn.cloud:443?path=%2Fuorpws&amp;security=tls&amp;encryption=none&amp;host=oniyx.fun&amp;type=ws&amp;sni=oniyx.fun
