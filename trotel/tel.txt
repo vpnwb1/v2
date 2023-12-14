@@ -1,2 +1,2 @@
-trojan://telegram-id-privatevpns@54.170.81.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls
+trojan://bcaabac-baac-aabc-acdb-bcbbbcaacaca@127.0.0.1:8080?security=tls&type=tcp
+trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com
