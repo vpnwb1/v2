@@ -1,2 +1,2 @@
-vless://a93eacd2-2852-4d84-9355-fd1e6477dccc@8.210.250.120:80?security=none&type=ws&host=datafransfer.tunn.free.hr&path=%2F%3Fed%3D2048
-vless://6d6c5916-be8b-4128-9cf9-d13d7c39cefd@77.91.84.45:10076?security=reality&flow=xtls-rprx-vision&sni=coinmarketcap.com&type=tcp&fp=chrome&pbk=fWQ_YStDyzVh_5XXln3mrFHvbJzkXbiGAly-boSSZT0&sid=65eca2dcaae4c202
+vless://741d28ec-7361-4982-b71f-d6fe039ad27c@104.21.74.93:443?security=tls&sni=z1p.isecurity.site&type=ws&path=%2F7IaM5TNiNbD6jagy5GzWC
+vless://24691d23-5d8d-4635-9e34-b7f63b9edafe@104.31.16.178:2087/?type=grpc&encryption=none&security=tls&sni=oc7.fitpasta30.xyz&alpn=http%2F1.1%2Ch2
