@@ -1,2 +1,2 @@
-vless://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@49.13.116.212:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=_HiBOC_nqXE_4J9aJDCcPprPypfLg-IiMIyjxPNfLjE&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=greenpepper.ir&amp;sid=f5361167
-vless://c5d77933-4306-4919-9a90-0cabc4d26c76@162.251.82.18:443?security=tls&sni=ws.ArV2ray.shop&type=ws&host=ws.ArV2ray.shop&path=/
+vless://0dd1347e-e342-456c-b802-779b859cca42@104.31.16.32:443?encryption=none&amp;security=tls&amp;sni=loolu.tech&amp;type=ws&amp;host=loolu.tech&amp;path=%2Fmhdshws
+vless://e7ac24bf-7386-47af-9a74-ca8963d4efa0@jioin-severnett12.numalla.top:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett,@ServerNett&amp;sni=jioin-severnett12.numalla.top
