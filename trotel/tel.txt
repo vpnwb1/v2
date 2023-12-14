@@ -1,2 +1,2 @@
-trojan://36606545-bc8b-4152-a751-3f0957318bd9@pqawsjp1.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
-trojan://0c40846c-4215-4ee6-93b0-2670ec1e6c8b@61.136.232.6:10826?security=tls&sni=alibaba-node.cn
+trojan://telegram-id-privatevpns@54.170.81.248:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp06a.roc-taiwan.org.ua:65016?security=tls
