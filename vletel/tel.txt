@@ -1,2 +1,2 @@
-vless://fa65902e-abb9-4dac-9e26-01f0564a8a64@173.245.59.31:2053?security=tls&sni=udp.HiV2ray.cfd&type=grpc&serviceName=%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32,%40%41%6e%74%69%46%69l%74%65%72%43%68%56%32&fp=chrome&alpn=@mehrosaboran,@mehrosaboran
-vless://65756824-435e-47c0-ff31-b24a5405e79d@195.201.250.231:2052?type=tcp&amp;security=none&amp;path=%2F&amp;host=bmi.ir&amp;headerType=http
+vless://9344b220-30ab-11ee-b438-205c6d5f5d78@45.76.92.26:443?security=tls&type=grpc&sni=asia.oceis.net&encryption=none&headerType=none
+vless://14c8b3b2-e91f-4549-975c-fa42e278a318@104.21.20.142:443?security=tls&type=ws&sni=armanibashfreeapp2.iranserver.askdhbasikjbas.shop&path=/&encryption=none&headerType=none
