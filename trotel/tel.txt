@@ -1,2 +1,2 @@
-trojan://telegram-id-directvpn@99.81.33.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.138:10844
+trojan://telegram-id-directvpn@13.51.140.218:22222/?type=tcp&amp;security=tls&amp;sni=trj.rollingnext.co.uk&amp;allowInsecure=1
+trojan://85db6652-a747-3a0a-a170-422736076410@tg_mfbpn_d5.52vpn.eu.org:11034?type=tcp&sni=alibaba-node.cn&allowInsecure=1
