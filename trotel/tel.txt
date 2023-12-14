@@ -1,2 +1,2 @@
-trojan://ad003cb4-f642-4359-ae32-9b54d1b5beee@45.94.169.63:443?security=tls&sni=0px.pardazesh.tech&type=ws&host=0px.pardazesh.tech&path=/UZQIPHPSLhOrWRYnp9ok&fp=chrome&alpn=http/1.1
-trojan://498e608a-7efa-4108-97f3-665c0f84f43b@sg.binguo.link:10833?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://d28c7d40-c438-4d12-a825-8e16e9fef960@61.136.232.4:10819?security=tls
+trojan://e498c261-cabb-4b2c-810b-995d0bd8d049@jp2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:20652?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=13-231-155-134.nhost.00cdn.com
