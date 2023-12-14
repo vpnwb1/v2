@@ -1,2 +1,2 @@
-vless://9344b220-30ab-11ee-b438-205c6d5f5d78@45.76.92.26:443?security=tls&type=grpc&sni=asia.oceis.net&encryption=none&headerType=none
-vless://14c8b3b2-e91f-4549-975c-fa42e278a318@104.21.20.142:443?security=tls&type=ws&sni=armanibashfreeapp2.iranserver.askdhbasikjbas.shop&path=/&encryption=none&headerType=none
+vless://9def9c06-4ebd-4219-b608-77388180572f@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌ %40VPNCUSTOMIZE ‌&amp;sni=FreeV2rayng.VPNCUSTOMIZE.tech
+vless://72b89683-d0cb-4aca-b365-b8b9c6b2b383@mtn.VPNPROSEC.com:443/?type=grpc&amp;serviceName=&amp;security=tls&amp;fp=&amp;alpn=http%2F1.1%2Ch2&amp;sni=V2ray.SvnBuy.Online
