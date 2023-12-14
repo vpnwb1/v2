@@ -1,2 +1,2 @@
-trojan://32a9c9dc-af81-4dc9-9851-317a1df5ea7b@61.136.232.5:10836
-trojan://47258c2d-6b4c-444c-9085-5131bf0aff64@74.217.179.35:443?sni=20-24-33-134.nhost.00cdn.com&type=tcp&headerType=none
+trojan://ff2df0a6-2cd2-4ba1-a635-aca03cc45718@vn2.microsoft-orgwly.vip:10019?security=tls&sni=lht.microsoft-orgwly.vip&type=tcp&headerType=none
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp08a.roc-taiwan.org.ua:65018?type=tcp&headerType=none
