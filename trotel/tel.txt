@@ -1,2 +1,2 @@
-trojan://7b0fb627-d2cc-48cb-97fd-b1469afe3b61@18.176.134.145:36864?security=tls&sni=hu01.abpilot.xyz&type=tcp
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?path=%2F6vuNVgOFnqUEvj0sNkGkxxW7&amp;security=tls&amp;alpn=h2&amp;host=amin.karkas1.ir&amp;fp=safari&amp;type=ws&amp;sni=amin.karkas1.ir
+trojan://b46a2da5-79eb-47d1-ad1e-30b988c0f93b@v01.gutingting.com:20224?security=tls&sni=v2usa01.fuqiangren.com
+trojan://IRnRhGfXmw@162.159.137.232:2087?security=tls&sni=trLtRLju26.pouriya.cf&type=grpc&serviceName=Amsterdam
