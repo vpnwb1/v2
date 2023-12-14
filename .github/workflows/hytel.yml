@@ -3,7 +3,7 @@ name: hytel
 on:
   workflow_dispatch:
   schedule:
-  - cron: "50 3-20 * * *"
+  - cron: "50 7 * * *"
 
 jobs:
   job1:
