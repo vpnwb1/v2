@@ -1,2 +1,2 @@
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@148.66.56.99:800
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@45.66.134.176:806
+ss://bc4151a2-fb20-47ea-a141-748c3a51868d@104.21.50.177:443/?type=ws&amp;encryption=none&amp;host=at3.gem1.cfd&amp;path=%2F&amp;security=tls&amp;sni=at3.gem1.cfd
+ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklkQDM4Ljc1LjEzNi4yMTo1MDAz
