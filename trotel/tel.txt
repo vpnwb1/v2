@@ -1,2 +1,2 @@
-trojan://9iiN39jgvc@104.25.187.64:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2,http/1.1
-trojan://4bacb8f1a089763b@60.249.3.126:3389?security=tls&type=tcp&headerType=none
+trojan://telegram-id-directvpn@99.81.33.197:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.138:10844
