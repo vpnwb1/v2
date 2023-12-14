@@ -1,2 +1,2 @@
-trojan://b8327e5f-ac60-4e2b-81cc-f930814b6333@2h4u01.abzoones.xyz:36864?allowInsecure=0&peer=hu01.abpilot.xyz&sni=hu01.abpilot.xyz
-trojan://a0087535-9c6f-42cd-9220-a7bb8eeae6cc@v02.gutingting.com:30057?security=tls&sni=v1kr02.fuqiangren.com&type=tcp&headerType=none
+trojan://DarkVPNpro-7wNaRzTjAy@205.233.181.19:8443?security=tls&sni=nootyrpo-ookdjhw-006ashadarkpro.arshaproplus.cf&type=grpc&serviceName=%2FTelegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro-Telegram-id-DarkVPNpro&fp=firefox&alpn=http%2F1.1
+trojan://b5fc9fa9-796d-4185-a316-395ecac04a85@150.230.249.20:443?security=tls&sni=www.gomacau.gq&type=tcp&headerType=none
