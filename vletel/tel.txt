@@ -1,2 +1,2 @@
-vless://-----v2ray_fark-----@v2ray-fark4.ddns.net:2087?type=grpc&amp;serviceName=@v2ray_fark@v2ray_fark&amp;security=tls&amp;fp=safari&amp;alpn=http%2F1.1%2Ch2%2Ch3&amp;sni=uy.foxnt-telegram-foxnt.shop
-vless://421868df-ee7f-4e65-dccb-c7828d61e37f@chanel.nilmmd.buzz:52122?type=tcp&amp;path=%2F&amp;host=fast.com&amp;headerType=http
+vless://edc4b803-eda7-4cfa-b845-d0a3301ce9b3@mci.alpha1.skin:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=channel.alpha1.skin
+vless://ee797f86-e248-40be-b8fc-200b977f4bfb@cltechip-mci.argha-v2pedia.monster:8443?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2,http/1.1&amp;fp=chrome&amp;type=grpc&amp;serviceName=Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia,Telegram:@v2pedia&amp;sni=footlo.argha-v2pedia.monster
