@@ -3,7 +3,7 @@ name: tuitel
 on:
   workflow_dispatch:
   schedule:
-  - cron: "30 3-20 * * *"
+  - cron: "30 11 * * *"
 jobs:
   job1:
     runs-on: ubuntu-latest
