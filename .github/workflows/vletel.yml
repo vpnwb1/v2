@@ -3,7 +3,7 @@ name: vletel
 on:
   workflow_dispatch:
   schedule:
-  - cron: "35 3-20 * * *"
+  - cron: "35 12 * * *"
 jobs:
   job1:
     runs-on: ubuntu-latest
