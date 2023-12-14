@@ -1,2 +1,2 @@
-vless://1d930527-050f-435b-a49f-45690e1af2fb@3bia-to3.unlimiteddev.shop:443?type=grpc&amp;serviceName=@UnlimitedDev&amp;security=reality&amp;fp=random&amp;pbk=7agqTpQ09hjVbD7mLKsTSLjfU0P3Y6p6Xk2vY3hYOho&amp;sni=ftp.debian.org&amp;sid=a7c09b23&amp;spx=%2F
-vless://d8f0ba26-51e5-4df7-b54d-d993c7ec320c@173.245.58.100:443?security=tls&sni=de1.ps4link.ru&type=grpc&serviceName=de1.ps4link.ru&fp=chrome&alpn=h2%2Ch3
+vless://2e86a45a-9515-409c-bf99-9ea12ad9e0ad@49.13.116.212:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=_HiBOC_nqXE_4J9aJDCcPprPypfLg-IiMIyjxPNfLjE&amp;fp=firefox&amp;spx=%2F&amp;type=grpc&amp;serviceName=@ipV2Ray&amp;sni=greenpepper.ir&amp;sid=f5361167
+vless://c5d77933-4306-4919-9a90-0cabc4d26c76@162.251.82.18:443?security=tls&sni=ws.ArV2ray.shop&type=ws&host=ws.ArV2ray.shop&path=/
