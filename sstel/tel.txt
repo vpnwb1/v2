@@ -1,2 +1,2 @@
-ss://YWVzLTI1Ni1nY206ZTRGQ1dyZ3BramkzUVk@172.99.190.87:9101
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1N2I2Mjg0MS02MjVlLTRmYzAtYTRiNy1jZjljNTlkNjk2NWU@zxpfgo.ssplane.cn:28038
+ss://be175ed8-d8c5-48d6-9f25-94c5b51a441d@tgju.org:2083?type=grpc&amp;serviceName=@melov2ray&amp;security=tls&amp;fp=chrome&amp;alpn=http%2F1.1%2Ch2&amp;sni=Pol.Melov2ray.Shop
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmODc3NWNmNy0zZjRlLTQxMTItYWJjZS05Yzc2MDcwOWJjMGQ=@service.ouluyun9803.com:20009
