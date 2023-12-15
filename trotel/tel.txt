@@ -1,2 +1,10 @@
-trojan://84e3f35e-216b-4827-950a-6749cab65ddf@61.136.232.138:10836
-trojan://e0d44ae7-cb7d-4acc-a8c0-9861a6f5eaad@51.91.11.29:80?type=tcp&sni=bama.ir&allowInsecure=1
+trojan://-40f9-475c-bf46-e3883ee7da5c2b60d6a-a2f5-40ff-b7f9-f7658abcbf26@67.21.93.242:443?security=tls&sni=upay.com&allowInsecure=1&type=tcp
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:39191?security=tls&sni=vn01.ckcloud.info
+trojan://your_password@172.67.165.204:443?security=tls&sni=aws-ge-frankfurt-1.f1cflinea.com&type=ws&host=aws-ge-frankfurt-1.f1cflinea.com&path=%2Ff1rocket
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@jp.binguo.link:10816?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://6369a486-488d-4316-8266-fe909ca4395b@104.25.89.4:443?security=tls&sni=shop.followerarzon.ir&type=grpc&serviceName=oing4QstB7yJv7ViA5wXIS&fp=chrome&alpn=h2
+trojan://b7bc6b1c-610d-4d39-ad29-18a0d6902348@usa.liangyuandian.top:443?security=tls&type=tcp&headerType=none
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.taipeicitygovernment.biz.ua:8443?security=tls
+trojan://user@s1.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s1.mynameismahsa.info
+trojan://283a4450-028d-4f8d-94fc-0a954ab4a96d@aws-hk03.aikun.online:443?sni=cdn-65135431546231.78321.xyz
+trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@141.193.68.81:443?security=tls&sni=glc-us3.windowsupdatea.com&type=tcp
