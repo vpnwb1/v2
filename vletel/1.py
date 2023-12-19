@@ -5,7 +5,7 @@ import os
 
 source_file = 'VlessL.txt'
 destination_file = 'vletel/tel.txt'
-num_lines_to_move = 10
+num_lines_to_move = 5
 
 with open(source_file, 'r') as file1:
     lines = file1.readlines()
