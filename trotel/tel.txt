@@ -1,10 +1,5 @@
-trojan://4dc67591-aec5-4dd9-80b2-4a8ffe658fa1@pqawsjp2.aiopen.cfd:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&type=tcp&headerType=none
-trojan://telegram-id-directvpn@18.196.127.24:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48462?security=tls&sni=$$hn.xiaohouzi.club
-trojan://telegram-id-privatevpns@3.66.113.17:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
-trojan://dc773e17-d94e-4f6e-a3cd-26c972a08b89@v02.gutingting.com:30049?security=tls&sni=v2sg02.fuqiangren.com
-trojan://29ea82cf-f956-42b2-a5dc-35feea39e7ff@download1hkt.windowsupdatea.com:443?security=tls&sni=glc-hkt1.windowsupdatea.com&type=tcp&headerType=none
-trojan://WpfQAbO2wg@45.9.10.103:443?security=tls
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20071?security=tls&sni=x71.flybar.work
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443?peer=hk01.trojanyyds.xyz&tfo=1
-trojan://3b31223a-960a-4166-b37f-edf0a23b884b@jp.liangyuandiancloud.com:443?security=tls
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw9-tg-data.amazonwebservicess.com:443?allowInsecure=1&amp;peer=data.amazonwebservicess.com
+trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?type=ws&sni=amin.karkas1.ir&allowInsecure=1&path=/6vuNVgOFnqUEvj0sNkGkxxW7&host=amin.karkas1.ir
+trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.113:443?allowInsecure=0&peer=p2jp1.pqjc.buzz&sni=p2jp1.pqjc.buzz&type=ws&host=p2jp1.pqjc.buzz&path=/pq/jp1
+trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@419tw.ljydw.top:443?security=tls&sni=419tw.ljydw.top
+trojan://telegram-id-directvpn@51.20.11.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
