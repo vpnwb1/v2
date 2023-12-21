@@ -1,4 +1,4 @@
-name: send
+name: sendss
 
 on:
   workflow_dispatch:
@@ -16,5 +16,6 @@ jobs:
       with:
         to: ${{ secrets.CHAT_ID_2 }}
         token: ${{ secrets.BOT_TOKEN }}
+        message: send photo message
         message_file: SsL.txt
     
