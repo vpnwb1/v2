@@ -1,21 +1,23 @@
-name: sendss
+name: send
 
 on:
   workflow_dispatch:
   schedule:
-  - cron: "0 3 * * *"
+  - cron: "20 8 * * *"
+
 jobs:
   job1:
     runs-on: ubuntu-latest
     permissions: write-all
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
+      CHAT_ID_4: ${{ secrets.CHAT_ID_4 }}      
     steps:
     - uses: actions/checkout@v3.5.2
-  
-    - name: te
-      uses: appleboy/telegram-action@v0.1.1
-      with:
-        to: ${{ secrets.CHAT_ID_4 }}
-        token: ${{ secrets.BOT_TOKEN }}
-        document: |
-          SsL.txt
-          SsrL.txt
+    
+    - name: Install Python
+      uses: actions/setup-python@v4.6.0
+          
+    - name: RunPython
+      run: python Send.py
+        
