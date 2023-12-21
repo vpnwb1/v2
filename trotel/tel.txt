@@ -1,5 +1,5 @@
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@stw9-tg-data.amazonwebservicess.com:443?allowInsecure=1&amp;peer=data.amazonwebservicess.com
-trojan://11ae0edd-2f63-4495-8683-037abbda9986@amin.karkas1.ir:443?type=ws&sni=amin.karkas1.ir&allowInsecure=1&path=/6vuNVgOFnqUEvj0sNkGkxxW7&host=amin.karkas1.ir
-trojan://45a8d20d-9a78-4be4-a74a-ab3b9e84e34e@188.42.145.113:443?allowInsecure=0&peer=p2jp1.pqjc.buzz&sni=p2jp1.pqjc.buzz&type=ws&host=p2jp1.pqjc.buzz&path=/pq/jp1
-trojan://6d9d7c53-3dcd-43bf-b60c-cac077817077@419tw.ljydw.top:443?security=tls&sni=419tw.ljydw.top
-trojan://telegram-id-directvpn@51.20.11.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://telegram-id-directvpn@3.75.146.110:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://b14547d0-97d6-11ee-934e-1239d0255272@us1.test3.net:443?security=tls
+trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud54.jafiyun.world:22054?security=tls&sni=scloud54.jafiyun.world
+trojan://Tech_Tube_ORG@104.26.11.144:2087?security=tls&sni=trogrpc.1alpha1.shop&type=grpc&serviceName=Tel:@Tech_Tube_ORG-@Tech_Tube_ORG-@Tech_Tube_ORG-@Tech_Tube_ORG&fp=chrome&alpn=h2&allowInsecure=1
