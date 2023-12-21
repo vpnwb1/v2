@@ -16,6 +16,6 @@ jobs:
       with:
         to: ${{ secrets.CHAT_ID_4 }}
         token: ${{ secrets.BOT_TOKEN }}
-        message: send photo message
-        document: SsL.txt
-    
+        document: |
+          SsL.txt
+          SsrL.txt
