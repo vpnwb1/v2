@@ -7,7 +7,7 @@ BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 
 CHAT_ID_4 = os.environ['CHAT_ID_4']
 
-file_paths = ['SsL.txt', 'SsrL.txt', 'VmessL.txt']  # List of file paths to send
+file_paths = ['SsL.txt', 'SsrL.txt', 'VmessL.txt', 'VlessL.txt', 'TuicL.txt', 'TrojanL.txt', 'HysteriaL.txt', 'Hy2L.txt']  # List of file paths to send
 
 for file_path in file_paths:
     with open(file_path, 'rb') as file:
