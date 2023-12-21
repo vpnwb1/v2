@@ -13,10 +13,13 @@ file_path = 'SsL.txt'
 with open(file_path, 'rb') as file:
     document_payload = {
         'chat_id': CHAT_ID_4,
-        'document': file.read(),  # Read the file contents
     }
 
-response = requests.post(BASE_URL + 'sendDocument', data=document_payload)
+    files = {
+        'document': file,
+    }
+
+    response = requests.post(BASE_URL + 'sendDocument', data=document_payload, files=files)
 
 if response.status_code == 200:
     print('File sent successfully to the channel!')
