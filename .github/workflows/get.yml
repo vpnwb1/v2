@@ -31,13 +31,3 @@ jobs:
         git add -A
         git commit -m "Automatic update"
         git push
-
-
-    - name: Telegram Message Notify
-      uses: appleboy/telegram-action@v0.1.1
-      with:
-        to: ${{ secrets.CHAT_ID_2 }}
-        token: ${{ secrets.BOT_TOKEN }}
-    
-        message_file: SsL.txt
-    
