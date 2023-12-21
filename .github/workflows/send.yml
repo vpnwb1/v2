@@ -3,7 +3,7 @@ name: send
 on:
   workflow_dispatch:
   schedule:
-  - cron: "20 8 * * *"
+  - cron: "0 4 * * *"
 
 jobs:
   job1:
