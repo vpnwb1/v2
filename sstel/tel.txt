@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@167.88.61.175:5600
-ss://mahsa-azadi-az-inja-migzaretcp@mahsang-1.dgi000.store:41660?security=reality&amp;encryption=none&amp;pbk=Kd06b6fZCjzbikkDG_OR4EKcpviBW0cZ_llpNHqD0TU&amp;headerType=none&amp;fp=firefox&amp;spx=%2F&amp;type=tcp&amp;sni=speed.cloudflare.com&amp;sid=f2c4
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@142.202.48.83:8080
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpaM1lTMEt4Qjh1NWpncDczNmU4MzR5M0RhWHdTT1l6eGxGREZxcE5DYWFsREE5Q0VJUmNlWk9DQW5SMnlUUw==@154.17.1.251:18334
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@141.95.125.48:443
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@85.208.108.59:8000
+ss://6b7376dd-11d8-443c-804a-996072aefd81@ec68.kiava.fun:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;pbk=Qh4rNNJSMU9mgJfFC9eLQFRpnUMjkjZzSydC9niMSxA&amp;sid=5e&amp;spx=%2F&amp;type=tcp&amp;headerType=none
+ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.60:8118
+ss://---Telegram-Parsashonam--3-@Ghbi.ir:2083?type=grpc&amp;serviceName=%40Parsashonam&amp;security=tls&amp;fp=firefox&amp;alpn=&amp;sni=NEW0.Parsashonam.TECH
