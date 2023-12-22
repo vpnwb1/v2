@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@3.75.146.110:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://b14547d0-97d6-11ee-934e-1239d0255272@us1.test3.net:443?security=tls
-trojan://cd41b9d7-df15-46ad-a778-257b0851525a@sg02.trojanyyds.xyz:443?security=tls
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud54.jafiyun.world:22054?security=tls&sni=scloud54.jafiyun.world
-trojan://Tech_Tube_ORG@104.26.11.144:2087?security=tls&sni=trogrpc.1alpha1.shop&type=grpc&serviceName=Tel:@Tech_Tube_ORG-@Tech_Tube_ORG-@Tech_Tube_ORG-@Tech_Tube_ORG&fp=chrome&alpn=h2&allowInsecure=1
+trojan://0346cf80-8b9b-11ee-ac12-1239d0255272@162.159.138.232:443?security=tls&sni=us1.test3.net&type=ws&host=us1.test3.net&path=%2Fhowdy
+trojan://your_password@aws-ca-central-1.f1cflineb.com:443?security=tls&sni=aws-ca-central-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflineb.com
+trojan://your_password@aws-ca-central-1.f1cflinea.com:443?security=tls&sni=aws-ca-central-1.f1cflinea.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflinea.com
+trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@jp2.twincloud.xyz:443?security=tls
+trojan://6ca647f5-91c2-4bf6-b444-762f171ad696@jp1.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?allowInsecure=1&peer=13-231-155-134.nhost.00cdn.com&sni=13-231-155-134.nhost.00cdn.com
