@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@85.208.108.59:8000
-ss://6b7376dd-11d8-443c-804a-996072aefd81@ec68.kiava.fun:8443?encryption=none&amp;flow=xtls-rprx-vision&amp;security=reality&amp;sni=coinmarketcap.com&amp;fp=chrome&amp;pbk=Qh4rNNJSMU9mgJfFC9eLQFRpnUMjkjZzSydC9niMSxA&amp;sid=5e&amp;spx=%2F&amp;type=tcp&amp;headerType=none
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@167.88.62.68:8080
-ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.61.60:8118
-ss://---Telegram-Parsashonam--3-@Ghbi.ir:2083?type=grpc&amp;serviceName=%40Parsashonam&amp;security=tls&amp;fp=firefox&amp;alpn=&amp;sni=NEW0.Parsashonam.TECH
+ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.204.15:443
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001
+ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.18:4444
+ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25245
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:812
