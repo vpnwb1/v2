@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E@51.158.204.15:443
-ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@38.68.134.9:7001
-ss://YWVzLTI1Ni1nY206cEtFVzhKUEJ5VFZUTHRN@38.68.135.18:4444
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25245
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@81.90.189.18:812
+ss://YWVzLTI1Ni1nY206ekROVmVkUkZQUWV4Rzl2@85.208.108.90:6379
+ss://YWVzLTI1Ni1jZmI6VE4yWXFnaHhlRkRLWmZMVQ@213.183.59.206:9037
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@148.66.56.99:812
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpmZE1McHNyZVNVdHdBT21B@bauhinia03.2apzhfa.xyz:30018
+ss://Tech_Tube_ORG@ip.1alpha1.shop:8443?path=%2FTel%3A%40Tech_Tube_ORG-%40Tech_Tube_ORG-%40Tech_Tube_ORG-%40Tech_Tube_ORG&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;host=cdn.1alpha1.shop&amp;fp=chrome&amp;type=ws&amp;sni=cdn.1alpha1.shop
