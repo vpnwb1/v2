@@ -1,5 +1,5 @@
-trojan://2e7d3f13-be1b-479c-94ff-0e95c2bd565d@156.238.19.152:443?security=tls&sni=4us3.pqjc.buzz&type=tcp&allowInsecure=1
-trojan://your_password@43.206.127.212:443?security=tls&sni=aws-jp-tokyo-1.f1rocketnode.com
-trojan://ff2df0a6-2cd2-4ba1-a635-aca03cc45718@vn2.microsoft-orgwly.vip:10019?security=tls&sni=lht.microsoft-orgwly.vip&type=tcp&headerType=none
-trojan://telegram-id-privatevpns@35.181.209.185:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://0c6a3341e8d5ab17@60.249.3.231:3306?security=tls&type=tcp&headerType=none
+trojan://telegram-id-directvpn@18.135.144.45:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?security=tls&sni=data.steamdownload.top
+trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=www.baidu.com
+trojan://_Mahanvpn_server_vip@172.66.47.74:443?security=tls&sni=mahanteam.mahanmrz.top&type=grpc&fp=chrome
+trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443?security=tls&sni=my02.trojanyyds.xyz
