@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg@45.89.52.66:9040
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@134.195.196.178:807
-ss://7463d929-d35c-4780-8a94-94c17d46c24c@Www.speedtest.net:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=firefox&amp;type=grpc&amp;serviceName=TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za-TelegramHosseinStore_Za&amp;sni=Txt.legions.sbs
-ss://5db250f6-d6a2-45e8-d460-90ce6c4a7f36@Www.speedtest.net:443?path=%2F%40HosseinStore_Za&amp;security=tls&amp;encryption=none&amp;host=Vip.hsza.site&amp;fp=firefox&amp;type=ws&amp;sni=Vip.hsza.site
-ss://YWVzLTI1Ni1nY206ZzVNZUQ2RnQzQ1dsSklk@38.121.43.71:5004
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNToxMDM2ZTQ4Ny05MTAyLTRlMDktODFmZC0wMWIwZjgzMmI5NzI@camy3aydjwpettcn.psuddd789.com:51132
+ss://YWVzLTI1Ni1nY206YWRtaW4=@45.82.167.133:28399
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpkY2JjMWM3Zi1jMzIzLTQzNjUtYmQ0OC1jZjc2N2Y5MDgxY2U@nc.cm.go002.xyz:19511
+ss://YWVzLTI1Ni1nY206MjAwNjgyNXhjag==@163.197.212.241:5555
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8=@196.247.59.156:803
