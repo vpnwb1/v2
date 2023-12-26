@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@18.135.144.45:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15006?security=tls&sni=data.steamdownload.top
-trojan://286d5fae-eb42-4cd2-96c5-c7dfaaae67ac@t5.583181.xyz:1258?security=tls&sni=www.baidu.com
-trojan://_Mahanvpn_server_vip@172.66.47.74:443?security=tls&sni=mahanteam.mahanmrz.top&type=grpc&fp=chrome
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@my02.trojanyyds.xyz:443?security=tls&sni=my02.trojanyyds.xyz
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp
+trojan://telegram-id-privatevpns@15.236.3.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@52.47.212.150:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
+trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=tk15.1coinvp.vip&allowInsecure=1&type=tcp
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club
