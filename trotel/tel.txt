@@ -1,5 +1,5 @@
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?security=tls&sni=aws-us-dallas-1.f1rocketnode.com&type=tcp
-trojan://telegram-id-privatevpns@15.236.3.198:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://telegram-id-privatevpns@52.47.212.150:22222?security=tls&sni=trj.rollingnext.co.uk&type=tcp&alpn=http/1.1
-trojan://df283334-6f6e-4efb-9a8a-b8ecf3040924@150.66.13.75:443?security=tls&sni=tk15.1coinvp.vip&allowInsecure=1&type=tcp
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:19362?security=tls&sni=aws-hk03.xiaohouzi.club
+trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.166.123:40003?allowInsecure=1
+trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp
+trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?allowInsecure=1&sni=aws-us-dallas-1.f1rocketnode.com
+trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk
