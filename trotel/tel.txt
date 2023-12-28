@@ -1,5 +1,5 @@
-trojan://telegram-id-directvpn@13.49.224.224:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://57edfecf-5694-4a34-8072-54a4f0636a62@146.56.166.123:40003?allowInsecure=1
-trojan://telegram-id-privatevpns@3.125.188.184:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp
-trojan://pjdnqv@aws-us-dallas-1.f1rocketnode.com:443?allowInsecure=1&sni=aws-us-dallas-1.f1rocketnode.com
-trojan://telegram-id-privatevpns@3.123.128.240:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@gz01.xiaohouzi.club:14705?security=tls&sni=$$$$$$$vusig01.xiaohouzi.club
+trojan://telegram-id-directvpn@18.222.168.7:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://92d3e5b6-6e8c-483b-a72b-000568d2e814@hk2.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:443?security=tls&sni=13-231-155-134.nhost.00cdn.com&type=tcp&headerType=none
+trojan://18eaf229-61d7-43ea-8140-a3e2bb1d4e6f@vpnhat.stablize.top:443?security=tls&type=tcp&headerType=none
+trojan://bcd5799a-5338-4dc4-844f-f5b98cc1aea9@185.18.250.164:443?security=tls&sni=vp1n3.vpweb.cfd&type=grpc&serviceName=v2qAAYBGDaSp7xbeLIZs&fp=chrome&alpn=h2
