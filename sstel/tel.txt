@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@38.107.226.48:7307
-ss://5801bce6-fc47-4978-841b-d8c4b0d158ce@kamyarservers.ddns.net:443/?type=grpc&amp;serviceName=%40configMs&amp;security=reality&amp;fp=firefox&amp;pbk=bl_WgZJU4-XnjnZ1HWu6tAWaz8rvdgy2pGmaFpOgcQ0&amp;sni=mihanyas.ir&amp;sid=0960546b&amp;spx=%2F
-ss://YWVzLTI1Ni1jZmI6TTN0MlpFUWNNR1JXQmpSYQ@217.30.10.68:9011
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@38.143.66.99:5600
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.188.71:7307
+ss://Vzc0WEZBTExMdXc2bTVJQTpjaGFjaGEyMC1wb2x5MTMwNQ==@series-a1.samanehha.co:443?type=tcp&amp;security=none
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.64.138.145:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHQ05HODJXTUtBb0hSelVzR1J2S0sy@164.92.151.208:59531
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQdWVxZDE2RXIyc0U0T1Nzb1ZJaE9pYkRUOHN1UzFlWjZkT0dZd0JzcGh3dllXMjE@185.39.204.69:51348
