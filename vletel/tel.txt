@@ -1,5 +1,5 @@
-vless://a2f69fb1-6090-4014-bbbd-5d233d717344@104.21.74.139:443?security=tls&type=ws&sni=patronage.aurorainiceland.com&path=/nimws&encryption=none&headerType=none
-vless://3bf24d93-d541-43cb-bfc4-67dfb47df198@64.176.166.202:26717/?encryption=none&host=internet.life.com.by&type=tcp&headerType=http
-vless://f68b1ea9-3c4e-405a-98b1-35ee3db36000@198.41.211.209:80?security=none&type=ws&host=vr4RlSu.kallepache.store&path=%2Fgraphql
-vless://2c5f22ea-ed92-45bc-8931-9023724bd20d@bia-to2.unlimiteddev.shop:80?path=%2F&amp;security=none&amp;encryption=none&amp;host=bia-to-channel4.unlimiteddev.shop&amp;type=ws
-vless://45b6d830-4862-42c8-86bd-bb595ba52b62@discord.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;type=grpc&amp;serviceName=15738154&amp;sni=9163794305.behmusic.store
+vless://962a733d-2614-0b9b-7ffe-9ac92ffea8eb@aliquran24.xyz:443?encryption=none&path=%2Fcurrent_time&security=tls&type=ws
+vless://070db194-d964-4229-a74b-582447f6a197@162.159.135.232:2053?security=tls&sni=Vip.hsza.site&type=ws&host=Vip.hsza.site&path=%2F%40HosseinStore_Za&fp=firefox
+vless://39b6b429-034b-4c3f-a811-e7c96fd2fec9@free.drehi.tk:58890?path=%2Ffree-not_for_sale&amp;security=none&amp;encryption=none&amp;host=imo.im&amp;type=ws
+vless://8f07dc3b-8a0f-430f-a0fc-25e07760502c@172.67.132.41:2095?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=nl54.vlessx.us&amp;type=ws
+vless://eefcf749-fcfc-4321-b974-2828d4acb15c@ger.r8volt.com:2096/?type=tcp&amp;encryption=none&amp;flow=xtls-rprx-vision&amp;sni=spiegel.de&amp;fp=chrome&amp;security=reality&amp;pbk=GWLTRxw3B1iy29ZW4SqQH113-Gjup6-4vkOMksfEHB0&amp;sid=0d8de1aa
