@@ -1,5 +1,5 @@
-ss://Vzc0WEZBTExMdXc2bTVJQTpjaGFjaGEyMC1wb2x5MTMwNQ==@series-a1.samanehha.co:443?type=tcp&amp;security=none
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@38.114.114.69:5001
-ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@38.64.138.145:6679
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHQ05HODJXTUtBb0hSelVzR1J2S0sy@164.92.151.208:59531
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpQdWVxZDE2RXIyc0U0T1Nzb1ZJaE9pYkRUOHN1UzFlWjZkT0dZd0JzcGh3dllXMjE@185.39.204.69:51348
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M=@149.202.82.172:5000
+ss://YWVzLTI1Ni1nY206WEtGS2wyclVMaklwNzQ@145.239.1.100:8009
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@38.91.102.30:2375
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@142.202.48.83:3306
+ss://f00e21f1-4aa7-4e21-b4ec-c25a53177b3e@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech
