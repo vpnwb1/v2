@@ -1,5 +1,5 @@
-trojan://9iiN39jgvc@104.20.155.148:443?security=tls&sni=Rev.EfnTen.top&type=ws&host=Rev.EfnTen.top&path=%2F9iiN39jgvc&fp=chrome&alpn=h2%2Chttp%2F1.1
-trojan://3c266fd3-5f9f-4132-90ac-c33a2a316cb5@6.letitbe.ink:443?allowInsecure=1&sni=6.letitbe.ink
-trojan://67e200f1-4ff5-42ca-8425-3f16f7986c29@51.89.22.228:443?security=tls&sni=t1.samsung.bforward2.uk
-trojan://f1bcc5e0-2955-4efe-bb84-c6155751aa1f@6i2r01.abzoones.xyz:36877?allowInsecure=0&peer=br01.abpilot.xyz&sni=br01.abpilot.xyz
-trojan://telegram-id-privatevpns@16.16.223.135:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://xl87654321@199.59.243.225:443?security=tls&sni=stonebreak.online&allowInsecure=1&type=tcp
+trojan://P1HaLPP9hz@188.166.208.64:16183?sni=android.googleapis.com
+trojan://98418cc3-2a5c-4e9a-b43c-d395e4561cd7@appu928304887687.api.steamgamepowered.net:18180?security=tls&sni=appU928304887687.api.steamgamepowered.net&type=tcp&headerType=none
+trojan://006e3baa-cacd-4530-ae52-d633c4e9056d@51.161.35.200:443?type=tcp&sni=speed.cloudflare.com&allowInsecure=1
+trojan://b341f309-7e2b-45c4-a316-9e23037e3711@sg.liangyuandian.top:443?security=tls
