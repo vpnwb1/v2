@@ -1,5 +1,5 @@
+hysteria://51.158.54.46:11926/?insecure=1&amp;peer=youku.com&amp;auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://104.234.70.6:16117/?insecure=1&amp;auth=dongtaiwang.com&amp;upmbps=50&amp;downmbps=80&amp;alpn=h3
 hysteria://eliv2.blogmmd.com:20164/?insecure=1&amp;peer=ELiV2.blogmmd.com&amp;auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&amp;upmbps=50&amp;downmbps=100&amp;alpn=h3
-hysteria://51.158.54.46:11926/?insecure=1&amp;peer=youku.com&amp;auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
-hysteria://167.160.90.251:48089/?insecure=1&amp;auth=dongtaiwang.com&amp;upmbps=50&amp;downmbps=80&amp;alpn=h3
-hysteria://5.182.86.167:43223/?insecure=1&amp;peer=www.bing.com&amp;auth=d6b09d56&amp;upmbps=20&amp;downmbps=20&amp;alpn=h3
+hysteria://173.234.25.52:20164/?insecure=1&amp;peer=www.microsoft.com&amp;auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&amp;upmbps=50&amp;downmbps=100&amp;alpn=h3
+hysteria://50.114.40.110:62839/?peer=hy.chushenyun.top&amp;auth=K6MWhE5PP8aKzSGIF1I4Zjb8tpLicSG3NzWckWLsRIGZ9CAOc9&amp;upmbps=1100&amp;downmbps=1100&amp;alpn=h3&amp;protocol=wechat-video
