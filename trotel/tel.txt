@@ -1,5 +1,5 @@
-trojan://bc58f81b-3f93-400c-aa88-893f5f52c29a@5m4h0k01.mcfront.xyz:31801?type=tcp&headerType=none
-trojan://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:443?type=tcp&headerType=none
-trojan://93ec7261-1c92-4149-848a-26b6fb9fc4ce@hk01.trojanyyds.xyz:443?security=tls&sni=hk01.trojanyyds.xyz
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:19023?security=tls&sni=hn.xiaohouzi.club
-trojan://mainssh-opoksjhh@172.67.73.39:443?security=tls&sni=sg3tws.mainssh.xyz&type=tcp&allowInsecure=1
+trojan://_Mahanvpn_server_vip@23.227.60.253:443?security=tls&sni=mahanteam.mahanmrz.top&type=grpc&fp=chrome
+trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@pqawsjp4.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:29482?security=tls&sni=sg03.ckcloud.info
+trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls
+trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a015.zhuan99.men:10015?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
