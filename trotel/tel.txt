@@ -1,5 +1,5 @@
-trojan://_Mahanvpn_server_vip@23.227.60.253:443?security=tls&sni=mahanteam.mahanmrz.top&type=grpc&fp=chrome
-trojan://3ddbffcb-bdbb-49c0-a7fe-5c3b0c58e9be@pqawsjp4.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzdx.jcnode.top:29482?security=tls&sni=sg03.ckcloud.info
-trojan://0b2d98a4-25bc-3d9f-9694-9d1e929de8dd@120.226.39.25:19243?security=tls
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a015.zhuan99.men:10015?security=tls&sni=zhu.99ton.men&type=tcp&headerType=none
+trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.45:443?security=tls&sni=jus3.jsjc.sbs&type=ws&path=/jsjc/us3&Host=jus3.jsjc.sbs
+trojan://telegram-id-directvpn@18.130.204.79:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud59.jafiyun.world:22059?security=tls&sni=scloud59.jafiyun.world
+trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:19023?security=tls&sni=hn.xiaohouzi.club
+trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls
