@@ -1,0 +1,7 @@
+hy2://
+
+hy2://dongtaiwang.com@108.181.22.155:27710?insecure=1&amp;sni=www.bing.com
+hy2://dongtaiwang.com@www.dtku46.xyz:55307?insecure=1&amp;sni=www.bing.com
+hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&amp;sni=www.bing.com
+hy2://sharecentrepro@
+hy2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&amp;sni=jpntt.sharecentre.online
