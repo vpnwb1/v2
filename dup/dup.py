@@ -27,13 +27,13 @@ import hashlib
 
 input_file_path = "Ssr.txt"
 output_file_path_1 = "SsrL.txt"
-output_file_path_1_2 = "SsrF.txt"
+output_file_path_2 = "SsrF.txt"
 
 completed_lines_hash = set()
 
 input_file = open(input_file_path, "r")
-output_file_1 = open(output_file_path_1_1, "w")
-output_file_2 = open(output_file_path_1_2, "w")
+output_file_1 = open(output_file_path_1, "w")
+output_file_2 = open(output_file_path_2, "w")
 
 for line in input_file:
     hashValue = hashlib.md5(line.rstrip().encode('utf-8')).hexdigest()
