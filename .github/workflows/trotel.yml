@@ -2,8 +2,8 @@ name: trotel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "25 10 * * *"
+  # schedule:
+  # - cron: "25 10 * * *"
 jobs:
   job1:
     runs-on: ubuntu-latest
@@ -11,8 +11,6 @@ jobs:
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
       CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
-      CHAT_ID_2: ${{ secrets.CHAT_ID_2 }}      
-      MESSAGE_TRO: ${{ secrets.MESSAGE_TRO }}      
     steps:
     - uses: actions/checkout@v3.5.2
     
@@ -21,8 +19,6 @@ jobs:
           
     - name: RunPython
       run: |
-        pip install qrcode
-        pip install python-telegram-bot
         python trotel/1.py
         python trotel/2.py
         

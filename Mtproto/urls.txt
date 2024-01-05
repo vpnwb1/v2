@@ -1,0 +1,5 @@
+tg://proxy?server=146.190.237.27&port=443&secret=ee4a5bc618f9ec539a83b1820e19ca4a7f73332e616d617a6f6e6177732e636f6d
+tg://proxy?server=sun-web.ir.azmoonehonar.ir.takset.ir.markazetour.co.anoshagasht.ir.saz_heh.c_om.mahtech.ir.san_ayebehrooz.ir.hadiko_rdan.ir.pardisiha.com.ahlolb_eyt-char_ity.com.salarkish.com.mohannaglass.ir.doobs.ir.super-man.ir.mahnegareh.com.chchoob.ir.denashop.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=psez.ir.abeen.ir.plantcitykerman.ir.fhammami.ir.alishahidian.com.1397.ir.egp24.com.hourtabmed.com.zirforoshi.com.hfarzandam.com.marketd.ir.tget24.ir.aftabmall.com.nahavandpci.ir.drhamidsalimi.com.procat.ir.imagoiran.ir.digibours.com.sanjeshmoein.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=23.88.37.205&port=8&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=167.99.224.199&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20

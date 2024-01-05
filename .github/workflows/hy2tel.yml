@@ -2,8 +2,8 @@ name: hy2tel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "15 6 * * *"
+  # schedule:
+  # - cron: "15 6 * * *"
 
 jobs:
   job1:
@@ -12,7 +12,6 @@ jobs:
     env:
       BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
       CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}      
-      CHAT_ID_2: ${{ secrets.CHAT_ID_2 }}      
       MESSAGE_HY2: ${{ secrets.MESSAGE_HY2 }}      
     steps:
     - uses: actions/checkout@v3.5.2
@@ -24,8 +23,8 @@ jobs:
       run: |
         pip install qrcode
         pip install python-telegram-bot
-        python hy2tel/1.py
-        python hy2tel/2.py
+        python V2/hy2tel/1.py
+        python V2/hy2tel/2.py
         
 
       
