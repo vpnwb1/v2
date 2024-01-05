@@ -1,5 +1,5 @@
-trojan://3f23c1eb-ace4-49ec-a7f0-f591b006b95a@23.227.38.45:443?security=tls&sni=jus3.jsjc.sbs&type=ws&path=/jsjc/us3&Host=jus3.jsjc.sbs
-trojan://telegram-id-directvpn@18.130.204.79:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud59.jafiyun.world:22059?security=tls&sni=scloud59.jafiyun.world
-trojan://21e10785-99c6-316e-a184-a03384ee06e5@hn.xiaohouzi.club:19023?security=tls&sni=hn.xiaohouzi.club
-trojan://05742120-ce23-4cc8-88f5-6d221ce45bf4@129.146.242.130:443?security=tls
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20141?security=tls&sni=z141.hongkongnode.top&type=tcp&headerType=none
+trojan://s0ugqZIzZL@104.21.45.151:443?security=tls&sni=c1.shoplandtr.xyz&type=ws&path=%2Ffoxrayiranchannel&fp=chrome&alpn=h2,http/1.1
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?allowInsecure=1
+trojan://mainssh-Jdjd6jd7@104.18.0.226:443?security=tls&sni=frtws.mainssh.xyz&type=ws&host=frtws.mainssh.xyz&path=%2Ftrojan
+trojan://2b69324d-5fe2-48c2-923f-049c3093cd56@extra.ht4gvpn.com:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com
