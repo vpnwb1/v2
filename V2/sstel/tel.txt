@@ -1,5 +1,5 @@
-ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@85.208.108.90:2376
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTo1NjYzMzY4Ny0zYzM1LTRiYWUtOWExNS1lZmZmOGViNjdmOTg@ad.cutecloud.link:33567
-ss://YWVzLTI1Ni1nY206eGxoaERLQ1FIZA==@157.230.241.216:21956
-ss://YWVzLTI1Ni1nY206S2l4THZLendqZWtHMDBybQ==@38.91.107.72:5500
-ss://31ee875d-63cf-4d85-839e-2def5ca4f794@master.bluesky1.monster:27900?security=none&amp;type=tcp&amp;host=kukala.ir&amp;headerType=http&amp;path=%2F
+ss://396ffb79-152c-4179-a916-bc3b4a6f0ed3@tel.hopev2ray.link:443?path=%2Fvless&amp;security=tls&amp;encryption=none&amp;host=fr2-vless.sshmax.xyz&amp;type=ws&amp;sni=fr2-vless.sshmax.xyz
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTphY2I3YzQwMy01Y2JiLTQ2NWEtYmU4OS05YzQ4NTEwNWMxNDQ=@36.137.169.70:30501
+ss://YWVzLTEyOC1jZmI6c2hhZG93c29ja3M@212.102.47.198:443
+ss://YWVzLTI1Ni1nY206VEV6amZBWXEySWp0dW9T@167.88.61.175:6679
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@51.161.118.38:811
