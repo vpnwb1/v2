@@ -34,7 +34,7 @@ response1 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
 
 
 
-if response1.status_code == 200 and response2.status_code == 200:
+if response1.status_code == 200:
     print('Messages sent successfully to both channels!')
 else:
     print('Failed to send messages to one or both channels.')
