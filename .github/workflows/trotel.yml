@@ -19,8 +19,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python trotel/1.py
-        python trotel/2.py
+        python V2/trotel/1.py
+        python V2/trotel/2.py
         
 
       

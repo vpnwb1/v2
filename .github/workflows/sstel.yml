@@ -21,8 +21,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python sstel/1.py
-        python sstel/2.py
+        python V2/sstel/1.py
+        python V2/sstel/2.py
         
 
       

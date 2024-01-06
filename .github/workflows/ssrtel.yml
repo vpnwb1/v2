@@ -20,8 +20,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python ssrtel/1.py
-        python ssrtel/2.py
+        python V2/ssrtel/1.py
+        python V2/ssrtel/2.py
         
 
       
