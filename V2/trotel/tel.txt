@@ -1,5 +1,5 @@
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20141?security=tls&sni=z141.hongkongnode.top&type=tcp&headerType=none
-trojan://s0ugqZIzZL@104.21.45.151:443?security=tls&sni=c1.shoplandtr.xyz&type=ws&path=%2Ffoxrayiranchannel&fp=chrome&alpn=h2,http/1.1
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.9:10825?allowInsecure=1
-trojan://mainssh-Jdjd6jd7@104.18.0.226:443?security=tls&sni=frtws.mainssh.xyz&type=ws&host=frtws.mainssh.xyz&path=%2Ftrojan
-trojan://2b69324d-5fe2-48c2-923f-049c3093cd56@extra.ht4gvpn.com:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com
+trojan://1d0a80ca-0f96-4016-ac51-c284dedd28a1@insaneguo2333.top:443?security=tls&type=tcp&headerType=none
+trojan://telegram-id-privatevpns@13.39.239.220:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp
+trojan://6dCf6Syv1FwpjcAoCB2vfQ@172.67.134.127:2083?security=tls&sni=cdn15.cdn2cdn.com&type=ws&host=cdn15.cdn2cdn.com&path=%2F&fp=chrome&alpn=h2,http/1.1
+trojan://telegram-id-directvpn@18.196.127.24:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://telegram-id-privatevpns@3.249.15.72:22222?security=tls&sni=trj.rollingnext.co.uk
