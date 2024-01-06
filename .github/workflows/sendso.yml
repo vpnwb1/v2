@@ -21,7 +21,7 @@ jobs:
           
     - name: RunPython
       run: |
-        python send.py
+        python Socks/send.py
         
 
       
