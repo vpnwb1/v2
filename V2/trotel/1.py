@@ -3,7 +3,7 @@ import os
 
 ###
 
-source_file = 'V2/TrojanL.txt'
+source_file = 'TrojanL.txt'
 destination_file = 'V2/trotel/tel.txt'
 num_lines_to_move = 5
 

@@ -3,7 +3,7 @@ import os
 
 ###
 
-source_file = 'V2/SsrL.txt'
+source_file = 'SsrL.txt'
 destination_file = 'V2/ssrtel/tel.txt'
 num_lines_to_move = 5
 

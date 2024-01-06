@@ -32,8 +32,7 @@ message_payload = {
 message_payload['chat_id'] = CHAT_ID_1
 response1 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
 
-message_payload['chat_id'] = CHAT_ID_2
-response2 = requests.post(BASE_URL + 'sendMessage', json=message_payload)
+
 
 if response1.status_code == 200:
     print('Messages sent successfully to both channels!')

@@ -3,7 +3,7 @@ import os
 
 ###
 
-source_file = 'V2/HysteriaL.txt'
+source_file = 'HysteriaL.txt'
 destination_file = 'V2/hytel/tel.txt'
 num_lines_to_move = 5
 

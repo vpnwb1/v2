@@ -3,7 +3,7 @@ import os
 
 ###
 
-source_file = 'V2/Hy2L.txt'
+source_file = 'Hy2L.txt'
 destination_file = 'V2/hy2tel/tel.txt'
 num_lines_to_move = 5
 

@@ -1,6 +1,6 @@
 import os
 
-files_to_remove = ['V2/ss.txt', 'V2/ssr.txt', 'V2/ssr1.txt', 'V2/ssr2.txt', 'V2/ssr3.txt', 'V2/vless.txt', 'V2/trojan.txt', 'V2/vmess.txt', 'V2/vmess1.txt', 'V2/vmess2.txt', 'V2/vmess3.txt', 'V2/vmess4.txt', 'V2/vmess5.txt', 'V2/vmess6.txt', 'V2/hy2.txt', 'V2/tuic.txt']
+files_to_remove = ['V2/ss.txt', 'V2/ssr.txt', 'V2/ssr1.txt', 'V2/ssr2.txt', 'V2/ssr3.txt', 'V2/vless.txt', 'V2/trojan.txt', 'V2/vmess.txt', 'V2/vmess1.txt', 'V2/vmess2.txt', 'V2/vmess3.txt', 'V2/vmess4.txt', 'V2/vmess5.txt', 'V2/vmess6.txt', 'V2/hy2.txt', 'V2/tuic.txt', 'V2/hysteria.txt', 'V2/merged.txt', 'V2/merged_file.txt']
 
 for file in files_to_remove:
     if os.path.exists(file):

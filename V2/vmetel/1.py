@@ -3,7 +3,7 @@ import os
 
 ###
 
-source_file = 'V2/VmessL.txt'
+source_file = 'VmessL.txt'
 destination_file = 'V2/vmetel/tel.txt'
 num_lines_to_move = 5
 

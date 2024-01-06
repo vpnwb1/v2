@@ -1,5 +1,5 @@
-vless://ab6edcdc-6689-49b5-a7ae-8c7e0a86816c@108.139.9.25:443?security=tls&sni=d2suuh8hp9tlaj.cloudfront.net&type=ws&path=%2Fcurrent_time
-vless://04eac2c9-047a-4ce0-a437-da801f467a49@fiberlike.aurorainiceland.com:443?security=tls&type=ws&sni=fiberlike.aurorainiceland.com&path=/nimws&encryption=none&headerType=none
-vless://51d22c42-5342-4715-a927-1b76226dd4cf@172.64.144.223:8443?security=tls&sni=join-telegram-channel-vipv2rey.mamare.ir&type=grpc&serviceName=@vipv2rey@vipv2rey@vipv2rey&encryption=none
-vless://4bc804ea-f0ec-4e90-b4ac-177028d5e6e9@104.21.65.133:2053?security=tls&sni=V2ray.vpnxheykh.shop&type=grpc&serviceName=@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec,@VpnProSec&alpn=http/1.1,h2,h3
-vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@172.64.32.100:443?security=tls&sni=pages.20230619.love&type=ws&path=%2F%3Fed
+vless://885b1815-0bcc-446f-a3f1-fbd3bf16278d@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=‌@VPNCUSTOMIZE&amp;sni=FreaV2rayng.VPNCUSTOMIZE.tech
+vless://2500bb8d-7f28-4158-984f-0ffde70fcf5e@mtn.vpnprosec.com:443?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=On2AgV2rayes.Dreamsvn.Site
+vless://b9ad895b-12ac-40fc-a5ac-a5b2a1285001@3k.pureboy.eu.org:443?path=%2F%3Fed%3D2048&amp;security=tls&amp;encryption=none&amp;host=3k.pureboy.eu.org&amp;type=ws&amp;sni=3k.pureboy.eu.org
+vless://c7c4d312-afb0-4b78-a8cb-45e2968f5cd0@all.vpncustomize.cam:443?mode=multi&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=KingSpeedV2rayng.VPNCUSTOMIZE.tech
+vless://fb622362-c252-4906-be3b-ed2f93372da6@ce5tiles9vitr.arqavani.cfd:56678?security=none&amp;encryption=none&amp;host=discord.com&amp;headerType=http&amp;type=tcp

@@ -1,6 +1,6 @@
 import hashlib
 
-input_file_path = "Ss.txt"
+input_file_path = "V2/Ss.txt"
 output_file_path_1 = "SsL.txt"
 output_file_path_2 = "SsF.txt"
 
@@ -25,7 +25,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Ssr.txt"
+input_file_path = "V2/Ssr.txt"
 output_file_path_1 = "SsrL.txt"
 output_file_path_2 = "SsrF.txt"
 
@@ -50,7 +50,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Trojan.txt"
+input_file_path = "V2/Trojan.txt"
 output_file_path_1 = "TrojanL.txt"
 output_file_path_2 = "TrojanF.txt"
 
@@ -75,7 +75,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Vmess.txt"
+input_file_path = "V2/Vmess.txt"
 output_file_path_1 = "VmessL.txt"
 output_file_path_2 = "VmessF.txt"
 
@@ -100,7 +100,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Vless.txt"
+input_file_path = "V2/Vless.txt"
 output_file_path_1 = "VlessL.txt"
 output_file_path_2 = "VlessF.txt"
 
@@ -132,7 +132,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Hy2.txt"
+input_file_path = "V2/Hy2.txt"
 output_file_path_1 = "Hy2L.txt"
 output_file_path_2 = "Hy2F.txt"
 
@@ -163,7 +163,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Tuic.txt"
+input_file_path = "V2/Tuic.txt"
 output_file_path_1 = "TuicL.txt"
 output_file_path_2 = "TuicF.txt"
 
@@ -191,7 +191,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "Hysteria.txt"
+input_file_path = "V2/Hysteria.txt"
 output_file_path_1 = "HysteriaL.txt"
 output_file_path_2 = "HysteriaF.txt"
 
@@ -221,7 +221,7 @@ input_file.close()
 
 import hashlib
 
-input_file_path = "juicity.txt"
+input_file_path = "V2/juicity.txt"
 output_file_path_1 = "juicityL.txt"
 output_file_path_2 = "juicityF.txt"
 
