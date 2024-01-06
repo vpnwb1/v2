@@ -1,2 +1,12 @@
+hysteria://www.dtku46.xyz:11223?auth=mqoE9qSoyMFa&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://108.181.22.239:39967?auth=dongtaiwang.com&peer=bing.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
+hysteria://108.181.22.213:52284?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
+hysteria://173.234.25.52:20164?auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&peer=www.microsoft.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
+hysteria://104.234.70.6:16117?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://167.160.90.251:48089?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://108.181.22.155:19721?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://104.234.70.41:57153?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps=80&alpn=h3&protocol=udp&fastopen=1
+hysteria://51.158.54.46:11926?auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&peer=youku.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
 hysteria://5.182.86.167:43223/?insecure=1&amp;peer=www.bing.com&amp;auth=d6b09d56&amp;upmbps=20&amp;downmbps=20&amp;alpn=h3
 hysteria://5.182.86.167:10146/?insecure=1&amp;peer=www.bing.com&amp;auth=024094df&amp;upmbps=20&amp;downmbps=20&amp;alpn=h3
