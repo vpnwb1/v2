@@ -1,4 +1,4 @@
-name: send
+name: send socks
 
 on:
   workflow_dispatch:
