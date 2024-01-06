@@ -23,7 +23,7 @@ jobs:
     - name: RunPython
       run: |
         # pip install python-telegram-bot
-        python send.py
+        python Mtproto/send.py
         
 
       
