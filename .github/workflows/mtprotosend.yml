@@ -1,15 +1,19 @@
-name: get socks
+name: mtprotosend
 
 on:
   workflow_dispatch:
   # schedule:
-  # - cron: "0 3 * * *"
-
+  # - cron: "0 10 * * *"
+  # - cron: "0 15 * * *"
   
 jobs:
   job1:
     runs-on: ubuntu-latest
     permissions: write-all
+    env:
+      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
+      CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}  
+      
     steps:
     - uses: actions/checkout@v3.5.2
     
@@ -18,7 +22,8 @@ jobs:
           
     - name: RunPython
       run: |
-        python Socks/get.py
+        # pip install python-telegram-bot
+        python send.py
         
 
       

@@ -1,9 +1,10 @@
-name: get mtproto
+name: v2get
 
 on:
   workflow_dispatch:
   # schedule:
   # - cron: "0 3 * * *"
+
   
 jobs:
   job1:
@@ -11,19 +12,20 @@ jobs:
     permissions: write-all
     steps:
     - uses: actions/checkout@v3.5.2
-    
+
     - name: Install Python
       uses: actions/setup-python@v4.6.0
           
     - name: RunPython
       run: |
-        python Mtproto/get.py
+        pip install bs4 beautifulsoup4 requests
+        python all.py
         
 
       
     - name: write
       run: |                 
-        git config --global user.email "you@example.com"
+        git config --global user.email "you@1.com"
         git config --global user.name "Your Name"
         git pull origin main
         git add -A

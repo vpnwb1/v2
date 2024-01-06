@@ -1,19 +1,15 @@
-name: send
+name: socksget
 
 on:
   workflow_dispatch:
   # schedule:
-  # - cron: "0 10 * * *"
-  # - cron: "0 15 * * *"
+  # - cron: "0 3 * * *"
+
   
 jobs:
   job1:
     runs-on: ubuntu-latest
     permissions: write-all
-    env:
-      BOT_TOKEN: ${{ secrets.BOT_TOKEN }}    
-      CHAT_ID_1: ${{ secrets.CHAT_ID_1 }}  
-      
     steps:
     - uses: actions/checkout@v3.5.2
     
@@ -22,8 +18,7 @@ jobs:
           
     - name: RunPython
       run: |
-        # pip install python-telegram-bot
-        python send.py
+        python Socks/get.py
         
 
       
