@@ -19,7 +19,7 @@ jobs:
     - name: RunPython
       run: |
         pip install bs4 beautifulsoup4 requests
-        python all.py
+        python V2/all.py
         
 
       
