@@ -1,6 +1,1 @@
 hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://167.160.91.115:41189?auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&peer=www.amazon.cn&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
