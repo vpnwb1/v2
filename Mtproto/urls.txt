@@ -1,5 +1,5 @@
-tg://proxy?server=23.224.117.26&port=40913&secret=eed85a1cac67fdde33118553f72db51193617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=amd.com.centos-images-co.co&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6b65746161626f6e6c696e652e636f6d
-tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.thisoldhouse.space&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=212.69.14.40&port=7980&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=23.88.99.246&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ=
+tg://proxy?server=95.216.59.185&port=8443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=c----l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll-l-l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.emofid.sbs&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=mahsagasht.ir.razeparvaz.com.turkmg.com.qomllc.com.e-coo.ir.tdsline.co.el-abdanan.ir.nettaz.ir.koumeshrunmotor.com.raved.ir.koohbod.com.orodco.ir.parhoon-tarh.com.tehranupvc.com.afzarbama.com.etima.ir.rastar-rdg.com.shahinorkideh.com.times-strait.co.in&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=176.32.35.202&port=443&secret=ee5b5e6241c12606cc5aa85586227f91f77777772e636c6f7564666c6172652e636f6d
+tg://proxy?server=shiklike.com.honarkadema.com.ceramshop.ir.frotel.biz.karyabishayanmehr.ir.mati_nruyan.com.veriamatak.com.xn----ymcb1a1iqam14brm.com.kbbm.ir.drdoostidrugs_tore.com.bookifa.com.azaliagroup.ir.touristvillagepoosh.ir.tjpc.ir.perfectcar.ir.momtazkala.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
