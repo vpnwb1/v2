@@ -1,5 +1,5 @@
-tg://proxy?server=i__--_b.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.ceoworld.sbs&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=e.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.10minutemail.rest&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=n.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.co.uk-charchter-google-digiakala-g-messanger-meaan.coffee-te-aas.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e696f
-tg://proxy?server=195.15.202.190&port=4443&secret=eeacc0dbd004a14f98b7051faf3611e7f676616e2e6e616a76612e636f6d580c04080004000400000000000000000000000000000000
-tg://proxy?server=cloudflare.coj.nokia.com.ir.co.uk.do_yo.want_to.with.this.www.microsoft.hbhb-h1hb.sbs&port=7443&secret=ee1603010200010001fc030386e24c3add63646e2e79656b74616e65742e636f6d
+tg://proxy?server=49.13.160.118&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
+tg://proxy?server=192.124.176.27&port=443&secret=ee6f06498006aa7adbfe04cbb9d9d43f27617a7572652e6d6963726f736f66742e636f6d
+tg://proxy?server=142.93.190.251&port=443&secret=eeda411655b684fe87abf58ec2235e281664697661722e6972
+tg://proxy?server=194.127.173.229&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
+tg://proxy?server=159.69.2.140&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564
