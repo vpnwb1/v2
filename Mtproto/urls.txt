@@ -1,5 +1,5 @@
-tg://proxy?server=49.13.160.118&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
-tg://proxy?server=192.124.176.27&port=443&secret=ee6f06498006aa7adbfe04cbb9d9d43f27617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=142.93.190.251&port=443&secret=eeda411655b684fe87abf58ec2235e281664697661722e6972
-tg://proxy?server=194.127.173.229&port=7443&secret=AAAAAAAAAAAAAAAAAAAAABQ=
-tg://proxy?server=159.69.2.140&port=80&secret=ee000000000000000000000000000000006170692e61736961746563682e636c6f7564
+tg://proxy?server=170.64.192.212&port=443&secret=7gAAAAAAAAAAAAAAAAAAAAB0aGVndWFyZGlhbi5jb20
+tg://proxy?server=95.164.22.129&port=8085&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d020001000100000000000000000000000000000000
+tg://proxy?server=formula.rush.derive.frustration.wheel.corner.column.be.i.particularly.testify.smart-child.shop&port=443&secret=eef4359a9b325ff1d1e5084df0e0f7537b6d736e2e636f6d
+tg://proxy?server=i.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.sphinx-solution.website&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=goloney.ir.chidar.ir.microsoftlab.ir.doranpadcast.ir.asrerayanesh.com.smartkade.com.ladanalavi.com.pmcm.ir.ryanvalve.org.doostanekhub.ir.inobebar.ir.rahekeramat.ir.novininsur.com.belkamoghadam.ir.zenix.ir.chapevaliasr.ir.negar3d.ir.jalanalorgood.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
