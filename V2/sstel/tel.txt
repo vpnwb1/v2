@@ -1,5 +1,5 @@
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.168:25279
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpXNzRYRkFMTEx1dzZtNUlB@series-a1.samanehha.co:443
-ss://YWVzLTI1Ni1nY206UENubkg2U1FTbmZvUzI3@38.68.134.202:8091
-ss://YWVzLTEyOC1jZmI6UWF6RWRjVGdiMTU5QCQq@14.29.124.174:11012
-ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.80:443
+ss://ac0d5ef2-0775-42f0-a51c-d8a71b70b586@discord.com:80?path=%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers&amp;security=none&amp;encryption=none&amp;host=field-aquarium-hack-pendant.trycloudflare.com&amp;type=ws
+ss://6a5d6847-3941-4b32-9073-525514b24442@dns.dev-ocean.fun:443?path=%2Fmahdiprog&amp;security=tls&amp;encryption=none&amp;host=dev-ocean.fun&amp;type=ws&amp;sni=dev-ocean.fun
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807
+ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.188.71:7307
+ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@167.88.63.82:5001
