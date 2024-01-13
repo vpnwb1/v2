@@ -1,5 +1,5 @@
-trojan://mainssh-ddoejfv14@95.179.254.136:443?security=tls&sni=frtgrpc.mainssh.xyz&type=tcp&allowInsecure=1
-trojan://telegram-id-privatevpns@3.11.181.13:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trj.rollingnext.co.uk&type=tcp
-trojan://2dbe179f-47b2-46e9-bf58-bd7f68c491a3@a002.zhuan99.men:10002?security=tls&sni=zhu.99ton.men
-trojan://caonima2022@ml.xxass.ml:443?sni=ml.xxass.ml
-trojan://telegram-id-privatevpns@3.255.64.85:22222/?type=tcp&security=tls&sni=trj.rollingnext.co.uk
+trojan://share.mjj-home.com@185.212.56.168:443?security=tls&sni=tw.softbank.mjj-home.com&type=tcp&headerType=none
+trojan://telegram-id-privatevpns@13.42.248.138:22222?security=tls&sni=trj.rollingnext.co.uk&alpn=http/1.1&type=tcp
+trojan://ED177480-E516-11EA-8B44-BBC4E882BA0B@tw01.balala2016.xyz:20261?security=tls
+trojan://db19fc68-c027-4641-a8eb-eed3e1065c8a@amin.karkas1.ir:443?type=grpc&sni=amin.karkas1.ir&allowInsecure=1&serviceName=6vuNVgOFnqUEvj0rcXIcStL
+trojan://af4dc66a-ec88-4057-9e46-777b584577f7@my.mjt001.com:443?security=tls&type=tcp&headerType=none
