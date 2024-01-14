@@ -1,5 +1,5 @@
-ss://ac0d5ef2-0775-42f0-a51c-d8a71b70b586@discord.com:80?path=%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers%2FTelegram-Channel%3DHELIX-Servers&amp;security=none&amp;encryption=none&amp;host=field-aquarium-hack-pendant.trycloudflare.com&amp;type=ws
-ss://6a5d6847-3941-4b32-9073-525514b24442@dns.dev-ocean.fun:443?path=%2Fmahdiprog&amp;security=tls&amp;encryption=none&amp;host=dev-ocean.fun&amp;type=ws&amp;sni=dev-ocean.fun
-ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpHIXlCd1BXSDNWYW8@134.195.196.178:807
-ss://YWVzLTI1Ni1nY206Rm9PaUdsa0FBOXlQRUdQ@172.99.188.71:7307
-ss://YWVzLTI1Ni1nY206WTZSOXBBdHZ4eHptR0M@167.88.63.82:5001
+ss://YWVzLTI1Ni1jZmI6cDl6NUJWQURIMllGczNNTg==@45.89.52.66:9040
+ss://YWVzLTEyOC1nY206NjYwMWZiOTBlOWIz@127.0.0.1:443
+ss://YWVzLTI1Ni1jZmI6VFBxWDhlZGdiQVVSY0FNYg==@217.30.10.68:9079
+ss://YWVzLTI1Ni1nY206Y2RCSURWNDJEQ3duZklO@167.88.63.79:8118
+ss://912530dc-8271-460f-86db-57c6f50179ee@45.67.215.7:80?path=%2F%3Fed%3D2048&amp;security=none&amp;encryption=none&amp;host=hk4.servervless.de&amp;type=ws
