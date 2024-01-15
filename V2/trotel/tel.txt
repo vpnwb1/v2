@@ -1,5 +1,5 @@
-trojan://b504c643-d081-4c90-8f50-9b0bf0b0902d@v02.gutingting.com:20223?security=tls&sni=v2sg01.fuqiangren.com
-trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls&type=tcp&headerType=none
-trojan://mnk8fd@104.21.51.9:443?security=tls&sni=aws-uae-1.f1cflined.com&alpn=http%2F1.1&fp=chrome&type=ws&path=%2Ff1rocket&host=aws-uae-1.f1cflined.com
-trojan://your_password@aws-ca-central-1.f1cflineb.com:443?security=tls&sni=aws-ca-central-1.f1cflineb.com&fp=chrome&type=ws&path=/f1rocket&host=aws-ca-central-1.f1cflineb.com
-trojan://16bcc187-a1a0-4b8a-8b69-627f38b7cc0d@15.235.197.4:80?type=tcp&sni=15.235.197.4&allowInsecure=1
+trojan://aba9389e-21b7-45f5-a82d-0c2b8b989bb4@jp-csjc.85413.xyz:443?security=tls&type=tcp&headerType=none
+trojan://fe5c139b-e3c2-4029-a783-b7f836557f6d@fschk.fscloud123456789.com:443?security=tls&type=tcp&headerType=none
+trojan://Dey28BjAsL@172.64.165.14:2087?security=tls&sni=tel.ArV2ray.tech&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&alpn=h2,http/1.1
+trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@ssl.tcpbbr.net:443?security=tls
+trojan://oQ7wjcnDxa@104.18.192.65:2053?security=tls&sni=mrarsha7totemsmugglers.sprotarsha.top&type=ws&host=mrarsha6sapthasagaradaacheell0side.sprotarsha.top&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro&fp=safari&alpn=h3
