@@ -1,5 +1,5 @@
-tg://socks?server=5.75.161.31&port=48237
-tg://socks?server=15.228.99.191&port=3128
-tg://socks?server=184.178.172.5&port=15303
-tg://socks?server=185.18.198.253&port=26393
-tg://socks?server=98.162.25.7&port=31653
+tg://socks?server=175.6.36.113&port=1080
+tg://socks?server=103.75.33.195&port=49509
+tg://socks?server=184.178.172.23&port=4145
+tg://socks?server=213.251.184.173&port=6817
+tg://socks?server=135.148.10.161&port=32516
