@@ -1,5 +1,5 @@
-trojan://aba9389e-21b7-45f5-a82d-0c2b8b989bb4@jp-csjc.85413.xyz:443?security=tls&type=tcp&headerType=none
-trojan://fe5c139b-e3c2-4029-a783-b7f836557f6d@fschk.fscloud123456789.com:443?security=tls&type=tcp&headerType=none
-trojan://Dey28BjAsL@172.64.165.14:2087?security=tls&sni=tel.ArV2ray.tech&type=grpc&serviceName=@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray,@ArV2ray&fp=chrome&alpn=h2,http/1.1
-trojan://7b4066ae-accc-11eb-a8bf-f23c91cfbbc9@ssl.tcpbbr.net:443?security=tls
-trojan://oQ7wjcnDxa@104.18.192.65:2053?security=tls&sni=mrarsha7totemsmugglers.sprotarsha.top&type=ws&host=mrarsha6sapthasagaradaacheell0side.sprotarsha.top&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro&fp=safari&alpn=h3
+trojan://b9f3ff1a-9c85-48e1-9809-7a6431c4329f@nl2-full.privateip.net:443
+trojan://M1lSAqTSTF@104.16.123.175:443?security=tls&sni=dl1.lgtvs.shop&type=grpc&fp=randomized&alpn=h2,http/1.1
+trojan://626351FA-3CA6-8118-FADF-CCDBCD620871@oss-cn-shanghai.westdatacloud.top:20048?type=tcp&amp;sni=oss-cn-shanghai.westdatacloud.top&amp;allowInsecure=1
+trojan://555034c8-6420-45d0-893c-905c02342150@51.83.186.142:80?type=tcp&allowInsecure=1
+trojan://b85db495-3d51-48b7-ad9a-d674f0e7c4a2@172.105.174.37:443
