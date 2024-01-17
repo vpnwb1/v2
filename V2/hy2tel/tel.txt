@@ -1,5 +1,5 @@
-hy2://9f73c619627d6a5d@hys2.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=bd7f765e
-hy2://d2e21fabfe6ddb83@hys1.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177
-hy2://937ec61715cd2782@192.227.138.22:17594/?insecure=1&amp;sni=bing.com
-hy2://dongtaiwang.com@167.160.90.252:63530?insecure=1&amp;sni=www.bing.com
-hy2://dongtaiwang.com@108.181.22.155:27710?insecure=1&amp;sni=www.bing.com
+hy2://4a52c165e81fa8fc@hys3.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=a16d0be0
+hy2://dongtaiwang.com@www.dtku46.xyz:55307?insecure=1&amp;sni=www.bing.com
+hy2://f3b54c12cc220879@192.227.138.22:47142/?insecure=1&amp;sni=bing.com
+hy2://d2e21fabfe6ddb83@hys4.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177
+hy2://d2e21fabfe6ddb83@hys2.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177
