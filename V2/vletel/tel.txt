@@ -1,5 +1,5 @@
-vless://05519058-d2ac-4f28-9e4a-2b2a1386749e@63.34.230.201:22222?security=tls&sni=telegram-channel-vlessconfig.sohala.uk&type=ws&host=telegram-channel-vlessconfig.sohala.uk&path=/telegram-channel-vlessconfig-ws
-vless://ab764a60-3651-411f-a688-6093ee213714@172.253.62.101:443?security=tls&sni=8732513038.yadakii.store&type=grpc&serviceName=36256054&alpn=http%2F1.1%2Ch2
-vless://6ad08747-42b9-4618-8f11-ac47de0da0f8@172.67.197.154:80?security=none&type=ws&host=proxiiraniii.fiseye5589.workers.dev&path=%2F
-vless://f3fdaee2-8350-40ab-bf7a-aa7bcf216ce7@LIGHTNING6-joinbede.liV2ray.xyz:2083?mode=gun&amp;security=tls&amp;encryption=none&amp;alpn=h2&amp;fp=chrome&amp;type=grpc&amp;serviceName=@LIGHTNING6&amp;sni=liV2hell.LIGHTNING6.IR
-vless://963b7882-29b4-43d0-b335-cc3d383359e2@104.17.225.142:80?security=none&type=ws&host=WzXQNM.SHoKR.DE&path=%2Fbackup
+vless://f9bf6e04-da12-4a6e-aff2-641efeb2b928@170.114.46.36:443?security=tls&sni=gogoli.nufilter.online&type=ws&path=%2FTelegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER-Telegram%3A%40NUFiLTER
+vless://56f9927e-06fc-4fcd-b325-5d655b59975d@198.41.202.5:2053?path=/&security=tls&encryption=none&host=sharab.boredhot.cloud&fp=chrome&type=ws&sni=sharab.boredhot.cloud
+vless://06c912d6-2727-40f5-8f26-f295dfaacf6e@206.238.236.36:8443?security=tls&sni=yalda20230103.freedns.site&type=grpc&serviceName=freevpn&fp=chrome
+vless://d919cd1a-5a55-49ee-8a5c-147f2bc62952@172.104.141.155:2003?security=tls&sni=de-full.privateip.net&type=grpc&serviceName=GRPC&path=%2f&allowInsecure=1
+vless://78c459e5-8ec7-4753-a014-3707fb66d1d7@tel.VPNCUSTOMIZE.cam:2096?mode=gun&amp;security=tls&amp;encryption=none&amp;fp=chrome&amp;type=grpc&amp;serviceName=@VPNCUSTOMIZE&amp;sni=irancell-key-file-V2ray.vpncustomize.com
