@@ -6,6 +6,7 @@ hysteria://51.158.54.46:55396?auth=dongtaiwang.com&peer=youku.com&insecure=1&upm
 hysteria://108.181.22.239:39967/?insecure=1&amp;peer=bing.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://108.181.22.213:33450/?insecure=1&amp;peer=bing.com&amp;auth=dongtaiwang.com&amp;upmbps=1000&amp;downmbps=1000&amp;alpn=h3
 hysteria://108.181.22.155:19721/?insecure=1&amp;peer=vpnproxy66.online&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
+hysteria://167.160.91.115:41189/?insecure=1&amp;peer=www.amazon.cn&amp;auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://51.158.54.46:11926/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=Trz2alKwzCImRAXI3nXfpo1ylpHfqOL8s1vageWKoyjjvWeMVs&amp;upmbps=80&amp;downmbps=100&amp;alpn=h3
 hysteria://173.234.25.52:20164/?insecure=1&amp;peer=telegramEUT-VPN.ddns.net&amp;auth=Ljg6NNEATDqP97hdAdHe1lJv7ggtKc0h7zmCCZKCX3qY0LR64F&amp;upmbps=50&amp;downmbps=100&amp;alpn=h3
 hysteria://167.160.90.251:48089/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
