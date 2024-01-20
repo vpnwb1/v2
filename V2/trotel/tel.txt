@@ -1,5 +1,5 @@
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@dejs.liangyuandiancloud.com:443?security=tls
-trojan://4d706727-996f-4427-930d-60f3bd414cf9@172.67.186.42:443?security=tls&sni=c2mt.ciscocdn1.live&allowInsecure=1&type=tcp
-trojan://KYAawE5EGp@45.63.106.86:39277?type=tcp&allowInsecure=1
-trojan://telegram-id-directvpn@35.182.28.167:22222?type=tcp&sni=trj.rollingnext.co.uk&allowInsecure=1
-trojan://6455f944-7c07-4ab0-b88f-440e581f41d9@kr2.twincloud.xyz:443?security=tls&type=tcp&headerType=none
+trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp
+trojan://4d5a676343abcf0@159.89.122.143:2096?security=tls&sni=canadax.v2raypanell.ir&type=grpc&serviceName=lol.aparat.lol
+trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp
+trojan://02b07e93-a9f1-47d4-ac6e-9b3affd524c3@172.233.83.6:443?
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls&type=tcp&headerType=none
