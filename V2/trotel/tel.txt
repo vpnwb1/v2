@@ -1,5 +1,5 @@
-trojan://a1718180-d616-4b71-9bb6-3e96ba20f921@140.238.12.83:443?security=tls&allowInsecure=1&type=tcp
-trojan://4d5a676343abcf0@159.89.122.143:2096?security=tls&sni=canadax.v2raypanell.ir&type=grpc&serviceName=lol.aparat.lol
-trojan://PJUKhmVpDDqtAvMHDvmMpoQYChiuwjgv@103.168.155.19:889?security=tls&sni=cdn.cjhh.lol&allowInsecure=1&type=tcp
-trojan://02b07e93-a9f1-47d4-ac6e-9b3affd524c3@172.233.83.6:443?
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@jp07a.roc-taiwan.org.ua:65017?security=tls&type=tcp&headerType=none
+trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp
+trojan://LibertasOne***D@ironone.libertasiran.cloud:443?type=ws&amp;sni=ironone.libertasiran.cloud&amp;allowInsecure=1&amp;path=/n890
+trojan://T-Me-DarkVPNpro@104.18.203.99:2053?security=tls&sni=mrarsha7totemsmugglers.sprotarsha.top&type=ws&host=mrarsha6sapthasagaradaacheell0side.sprotarsha.top&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro&fp=safari&alpn=h2
+trojan://telegram-id-privatevpns@34.245.73.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
+trojan://telegram-id-directvpn@3.78.74.193:22222?security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp&amp;alpn=http/1.1
