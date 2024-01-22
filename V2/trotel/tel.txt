@@ -1,5 +1,5 @@
-trojan://45a99be4-8cb4-4df2-b7a4-42f1a8dea5c1@usa.liangyuandiancloud.com:443?security=tls&allowInsecure=1&type=tcp
-trojan://LibertasOne***D@ironone.libertasiran.cloud:443?type=ws&amp;sni=ironone.libertasiran.cloud&amp;allowInsecure=1&amp;path=/n890
-trojan://T-Me-DarkVPNpro@104.18.203.99:2053?security=tls&sni=mrarsha7totemsmugglers.sprotarsha.top&type=ws&host=mrarsha6sapthasagaradaacheell0side.sprotarsha.top&path=%2Ft.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro-t.me-DarkVPNpro&fp=safari&alpn=h2
-trojan://telegram-id-privatevpns@34.245.73.192:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://telegram-id-directvpn@3.78.74.193:22222?security=tls&amp;sni=trojan.miwan.co.uk&amp;type=tcp&amp;alpn=http/1.1
+trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:20852?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&type=tcp
+trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club
+trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls&type=tcp&headerType=none
+trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls
+trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20076?security=tls&sni=x76.flybar.work
