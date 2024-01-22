@@ -1,5 +1,5 @@
-tg://proxy?server=198.50.156.3&port=443&secret=dd6ea63f16082c83dae885959594989704
-tg://proxy?server=172.105.249.189&port=443&secret=eec210ca2aa6d3d81670ed32899925445b626c6f672e636c6f7564666c6172652e636f6d
-tg://proxy?server=acicg.ir.andishehfarda.com.law-ir.ir.javadzarban.com.azadnewsagency.ir.pezhart.com.dokal.ir.ski_nkala.com.fasele_kootah.ir.d_elsagallery.ir.asrstore.ir.loomir.com.pars_ian_lotus-ib.org.dcadm_in.ir.a_zar-team.ir.rosehotel.ir.niniresalat.ir.bandargol.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=116.203.141.190&port=443&secret=ee0000000000000000000000000000000063646e2e79656b74616e65742e636f6d
-tg://proxy?server=b---------l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll----l---------l.l.l.l.l.l.l.l.l.l.l.l.dailymotion.lat&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=138.201.251.106&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=2z2.ir.cafehatef.com.cpeco.org.dinat_ech.ir.khodroparts.com.tunn_elfalatpars.com.nosrat3.ir.ajashohada.ir.fasaei.ir.azartire.ir.tebin.ir.hojjatigro_up.com.plusko.ir.pmocustomers.ir.visairaq.com.ntsac.ir.irashan.com.sinanews.ir.iproc.ir.bergueryosuf.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=kafi.ir.samtrading-co.com.naslenoor.ir.nooshinnaficy.com.opek-support.com.ihit.ir.sardkhoone.ir.par_disnoorclinic.ir.adpo_rtal.org.nazerchap.ir.mahabab.com.alacooking.ir.airpowerairsprings.com.atn.co.ir.adaka.ir.shamsanet.ir.mrpgroup.ir.charmbandar.shop&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=77.246.111.188&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616B61762E636F6D160301020001000100000000000000000000000000000000
+tg://proxy?server=148.251.224.179&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
