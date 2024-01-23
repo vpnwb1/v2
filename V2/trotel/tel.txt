@@ -1,5 +1,5 @@
-trojan://7b01f853-1c72-47db-8f57-151d491b3bf9@hk3.lvwf8n-hh8e-2300-nmoo-d2e9naobeacn.9d8f269f96b25232-759cbb36d6548597.kaufen:20852?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&type=tcp
-trojan://0f098bb2-9fad-3cc3-8acf-2a3268c1eb27@hn.xiaohouzi.club:14185?security=tls&sni=hn.xiaohouzi.club
-trojan://96983eb4-c8f1-316e-ab00-500014ed3d8b@official.tokyometropolis.kyiv.ua:2053?security=tls&type=tcp&headerType=none
-trojan://wkmY1R4EcP@64.176.162.24:443/?type=tcp&security=tls
-trojan://bd1f1b56-631b-308e-9f48-ec4a1d97aeaf@gg.xn--gmqa02ag57d.com:20076?security=tls&sni=x76.flybar.work
+trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@hanoi4.speed4g.click:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com
+trojan://e0571b1e-9686-4e54-be7a-eaefa0036e19@172.105.9.186:443?
+trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8302?security=tls&sni=hk-2-561.duuk.info&type=tcp&fp=safari&alpn=h2,http/1.1
+trojan://telegram-id-directvpn@3.11.60.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk
+trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@16.163.29.222:443?security=tls
