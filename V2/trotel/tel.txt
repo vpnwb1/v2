@@ -1,5 +1,5 @@
-trojan://b379fd8e-75c6-4bd6-8a5b-88f3e64bb3fa@hanoi4.speed4g.click:443/?type=tcp&security=tls&sni=dl.kgvn.garenanow.com
-trojan://e0571b1e-9686-4e54-be7a-eaefa0036e19@172.105.9.186:443?
-trojan://43fad462-cd67-5e80-a251-1145b94f9b0d@120.232.177.224:8302?security=tls&sni=hk-2-561.duuk.info&type=tcp&fp=safari&alpn=h2,http/1.1
-trojan://telegram-id-directvpn@3.11.60.100:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk
-trojan://ca7febc2-bb45-4e6d-810e-ab0af6009c4e@16.163.29.222:443?security=tls
+trojan://telegram-id-directvpn@51.21.59.154:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls
+trojan://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@192.65.217.183:443?allowInsecureHostname=1&allowInsecureCertificate=1&allowInsecure=1&sni=psg1.pqjc.buzz
+trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?type=tcp&sni=telewebion.com&allowInsecure=1
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.4:10824?security=tls
