@@ -10,7 +10,7 @@ BASE_URL = f'https://api.telegram.org/bot{BOT_TOKEN}/'
 CHAT_ID_1 = os.environ['CHAT_ID_1']
 
 
-message_text = f'MtprotoProxy | پروکسی تلگرام\n\n@UncensorX'
+message_text = f'MtprotoProxy | پروکسی تلگرام\n\n@VpnWb🔑'
 
 with open('Mtproto/names.txt', 'r') as file:
     names = [line.strip() for line in file]
