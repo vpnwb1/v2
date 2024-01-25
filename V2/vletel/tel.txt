@@ -1,5 +1,5 @@
-vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.16.229.153:80?path=/?ed=2048&security=none&encryption=none&host=mahi.kosnanatfilterchi.eu.org&type=ws
-vless://f7211c07-c37f-4cb1-932b-66a2d831214c@f1.bestvipserviceirr.xyz:443?mode=gun&amp;security=reality&amp;encryption=none&amp;pbk=BKrFelicMk7ZesuJkjcoXvYra6HTQj5LCVLfVifa-zE&amp;fp=chrome&amp;type=grpc&amp;serviceName=&amp;sni=discord.com&amp;sid=9d671316
-vless://baa80abc-eb48-49e8-9b95-5664916c5909@104.24.34.67:80?security=none&type=ws&host=unlimiteddev.xn--oor01rm8hfr4c.site&path=%2F
-vless://a13df940-020c-465f-bc89-ee5279b5cd6a@8.222.167.147:2087?security=tls&sni=ss22.wang66.homes&type=ws&host=ss22.wang66.homes&path=%2Fblue
-vless://edf12778-fbeb-48d9-85e4-6530370b47cc@154.92.9.20:443?encryption=none&security=tls&sni=bv01.wang66.homes&type=ws&path=%2F%3Fed%3D2048
+vless://b1d2f994-75af-40b8-9c1a-19ff852bdd0a@172.67.135.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=worker-hidden-snow-f6c1.fowoweg128.workers.Dev&amp;type=ws&amp;sni=worker-hidden-snow-f6c1.fowoweg128.workers.Dev
+vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?encryption=none&host=always-online1.lp-airdrop.top&path=%2F%3Fed%3D2048&security=tls&sni=always-online1.lp-airdrop.top&type=ws
+vless://563e4ed0-9473-4d66-aca8-e23c641042a6@62.60.204.16:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp
+vless://829863bd-8784-45af-81d1-b784fdefd8e0@010-join.outline-vpn.cloud:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=v2rayfree1.globalnetvpn.site
+vless://656e1dab-e34d-47b6-b3c1-67e53db5d347@104.22.11.81:80?encryption=none&host=dyMzmG.DL-oNLInedoCtoR.biO&path=%2Fbackup&type=ws
