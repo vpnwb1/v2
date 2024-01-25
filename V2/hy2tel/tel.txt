@@ -1,5 +1,5 @@
-hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b
-hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com
-hy2://sharecentrepro@
-hy2://d2e21fabfe6ddb83@hys1.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177
-hy2://f34ec9d8-3ae0-46ba-94e7-a03eaf2af651@208.87.243.155:443/?sni=20-24-33-134.nhost.00cdn.com
+hy2://04979c3cfe2a7945@92.246.139.15:443/?insecure=1&amp;sni=www.google.com&amp;obfs=salamander&amp;obfs-password=205ef172277d3292
+hy2://4a52c165e81fa8fc@hys3.cpionline.us:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=a16d0be0
+hy2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&amp;sni=jpntt.sharecentre.online
+hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com
+hy2://d2e21fabfe6ddb83@70.34.205.24:443?insecure=1&obfs=salamander&obfs-password=ca39a177&sni=www.apple.com
