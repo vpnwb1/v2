@@ -3,9 +3,9 @@ hysteria://64.110.25.10:44556?auth=dongtaiwang.com&insecure=1&upmbps=50&downmbps
 hysteria://108.181.22.239:39967?auth=dongtaiwang.com&peer=bing.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
 hysteria://173.234.25.52:30072?auth=dongtaiwang.com&peer=bing.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
 hysteria://51.158.54.46:55396?auth=dongtaiwang.com&peer=youku.com&insecure=1&upmbps=11&downmbps=55&alpn=h3&protocol=udp&fastopen=1
-hysteria://51.158.54.46:55396/?insecure=1&amp;peer=youku.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://108.181.22.239:39967/?insecure=1&amp;peer=bing.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://108.181.22.213:33450/?insecure=1&amp;peer=bing.com&amp;auth=dongtaiwang.com&amp;upmbps=1000&amp;downmbps=1000&amp;alpn=h3
 hysteria://167.160.91.115:41189/?insecure=1&amp;peer=www.amazon.cn&amp;auth=bWAwIqINo7XDm1fUlXQGBifVIXoYs1ylgVKqWFKzK1XyDKuwNF&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://173.234.25.52:30072/?insecure=1&amp;peer=bing.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
+hysteria://51.158.54.46:55396/?insecure=1&amp;peer=youku.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
 hysteria://167.160.90.251:48089/?insecure=1&amp;peer=cdn.discordapp.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
