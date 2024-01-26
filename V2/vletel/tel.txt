@@ -1,5 +1,5 @@
-vless://b1d2f994-75af-40b8-9c1a-19ff852bdd0a@172.67.135.149:443?path=%2F&amp;security=tls&amp;encryption=none&amp;host=worker-hidden-snow-f6c1.fowoweg128.workers.Dev&amp;type=ws&amp;sni=worker-hidden-snow-f6c1.fowoweg128.workers.Dev
-vless://b75b3034-36ab-4979-beae-3d02db1b11ec@172.67.71.160:443?encryption=none&host=always-online1.lp-airdrop.top&path=%2F%3Fed%3D2048&security=tls&sni=always-online1.lp-airdrop.top&type=ws
-vless://563e4ed0-9473-4d66-aca8-e23c641042a6@62.60.204.16:2002?security=none&amp;encryption=none&amp;headerType=http&amp;type=tcp
-vless://829863bd-8784-45af-81d1-b784fdefd8e0@010-join.outline-vpn.cloud:2053?mode=gun&security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=grpc&serviceName=&sni=v2rayfree1.globalnetvpn.site
-vless://656e1dab-e34d-47b6-b3c1-67e53db5d347@104.22.11.81:80?encryption=none&host=dyMzmG.DL-oNLInedoCtoR.biO&path=%2Fbackup&type=ws
+vless://e1a928be-e289-4aef-b92e-4106fabdf42f@104.21.59.125:80?encryption=none&amp;security=none&amp;type=ws&amp;host=mahi.kosnanatfilterchi.eu.org&amp;path=%2F%3Fed%3D2048
+vless://aabc3ef9-6968-4311-81b8-8cd0414c1904@104.21.42.206:80?encryption=none&security=tls&type=ws&sni=luact.zahedan.eu.org&host=luact.zahedan.eu.org&path=zahedan.eu.org%2f%3fed%3d2048
+vless://94a39fd6-8905-4972-b60a-fecb71359224@104.21.45.9:443?security=tls&sni=mlnp2.miox.sbs&type=grpc&serviceName=@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray,@frev2ray&alpn=http/1.1,h2
+vless://478649d0-f236-4a57-e9bd-d5148df45376@65.109.231.201:2053?encryption=none&security=none&type=tcp&headerType=http&host=bmi.ir
+vless://a91024dc-a538-4e2b-8cb3-eb75c0bd6692@151.232.64.46:4007?security=reality&flow=xtls-rprx-vision&sni=www.speedtest.net&type=tcp&fp=chrome&pbk=ui0fGumZiFhEhGU13KYIcR3coPPVHuGQMvK-_TThCVc&sid=e3631859
