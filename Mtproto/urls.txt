@@ -1,5 +1,5 @@
-tg://proxy?server=148.251.224.230&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=135.181.44.111&port=443&secret=dd92ddb1cdb7906c064861f6aaaf853484
-tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.do_yo.want_to.this.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddns.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz.d0nia.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=146.190.177.87&port=443&secret=ee8d8bae4a594dd151ccfec81f466680636b65746161626f6e6c696e652e636f6d
-tg://proxy?server=alonak.com.redgalaxystudio.com.rsi-group.ir.pasargad4092.ir.lakaad.ir.armnut.com.wwoof.ir.cafeclover.ir.olyaclinic.com.hosseinibrothers.com.perfectcar.ir.mnc.ir.tutorland.org.zagrossvethospital.com.moghim24.com.tehranbag.com.soles3.com.pishgaman4g.space&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
+tg://proxy?server=116.203.141.190&port=443&secret=ee0000000000000000000000000000000063646e2e79656b74616e65742e636f6d
+tg://proxy?server=tamadon-tasfie.com.gift_otak.ir.sisiboxes.com.mila_dcarpet.ir.brozweb.ir.goftegooacademy.com.mehr_agin.ir.filmforoshi.ir.azmoonehonar.ir.tivy.io.urica.ir.1399.in.addco.co.ir.sky5.ir.ardestangas.com.ketabland.ir.navidzoko.ir.fp-co.com.saipadiesel.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=49.13.170.199&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=88.99.145.17&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=manachem.ir.goldentrade1.ir.clinic_kash_tem_oo.com.omranzohd.com.pakshower.ir.khatamaraa.ir.omega-shop.ir.30sharj.net.dayalotus.com.dabinka_la.com.javabgoo.org.ma_rkashop.ir.osali.ir.toranjeabi.com.araspakhsh.com.2001travelagency.net.buffaloshop.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
