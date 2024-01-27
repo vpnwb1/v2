@@ -1,5 +1,5 @@
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.8:10825?security=tls
-trojan://telegram-id-directvpn@13.38.151.10:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trj.rollingnext.co.uk
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:51840?security=tls&sni=jp03.ckcloud.info
-trojan://db36ded7-0178-4a07-93ff-bf758a99547c@sg-full.privateip.net:443
-trojan://001a5927-bcf7-368a-8a4d-cb8c2fd6aab5@lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou:12341?type=tcp&amp;sni=lv2iwahxwawhooiixzawx.occwaszxjjhwx.cyou&amp;allowInsecure=1
+trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls
+trojan://telegram-id-privatevpns@18.195.57.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk
+trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud58.jafiyun.world:22058?security=tls&sni=scloud58.jafiyun.world
+trojan://telegram-id-directvpn@13.49.37.26:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls
