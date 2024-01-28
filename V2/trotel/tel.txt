@@ -1,5 +1,5 @@
-trojan://08964210-e7b8-11ec-95aa-1239d0255272@w12.udpgw.com:443?security=tls
-trojan://telegram-id-privatevpns@18.195.57.61:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk
-trojan://05bf7037-a3d0-3d4a-96ea-fc4787f798e0@scloud58.jafiyun.world:22058?security=tls&sni=scloud58.jafiyun.world
-trojan://telegram-id-directvpn@13.49.37.26:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1
-trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls
+trojan://79770a32-9607-4919-9483-0f1794559390@95.179.217.221:443?type=grpc&sni=nika2.hdfy2.foriran.trade&allowInsecure=1&serviceName=M9hnxw1wCQSfVHaiznU
+trojan://13561080-8b99-11ee-8d87-1239d0255272@162.159.137.232:443?security=tls&sni=de1.test3.net&type=ws&path=/howdy&host=de1.test3.net
+trojan://3febb05ea76a940f@60.249.3.125:3389?security=tls
+trojan://telegram-id-privatevpns@13.48.45.205:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls&type=tcp&headerType=none
