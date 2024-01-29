@@ -1,5 +1,5 @@
-tg://proxy?server=g----l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll----l---------l.l.l.l.l.l.l.l.l.l.l.l.application-mine.cfd&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=95.216.106.86&port=443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
-tg://proxy?server=128.140.56.94&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=b--l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l----llll-lllllll.llllll-----l.l.l.l.l.l.l.l.l.l.l.l.worlddata.cfd&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=37.48.116.200&port=443&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=95.216.59.170&port=443&secret=ee1603010200010001fc030386e24c3add7370656564746573742e6e6574
+tg://proxy?server=128.140.43.216&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ
+tg://proxy?server=hagh.aloblog.trickip.net&port=443&secret=ee1603010200010001fc030386e24c3add7777772e7370656564746573742e6e6574
+tg://proxy?server=aw----h-------yu-------lk-----------------------00_ii11ii1ii.book------------------------0.buzz&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=142.132.147.71&port=7443&secret=FgMBAgABAAH8AwOG4kw63Q==
