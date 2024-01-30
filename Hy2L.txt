@@ -1,10 +1,3 @@
-hy2://
-
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so
-hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com
-hy2://2f1b122607f533dc@51.222.12.75:443/?insecure=1&amp;sni=www.google.com&amp;obfs=salamander&amp;obfs-password=7925a5b3071cb35f
-hy2://dongtaiwang.com@62.210.101.0:52465/?insecure=1&amp;sni=www.bing.com
-hy2://04979c3cfe2a7945@92.246.139.15:443/?insecure=1&amp;sni=www.google.com&amp;obfs=salamander&amp;obfs-password=205ef172277d3292
 hy2://81d527fd-5bbf-40fc-b2b0-be1956133aa6@107.173.15.52:42855/?insecure=1&amp;sni=www.bing.com
-hy2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&amp;sni=jpntt.sharecentre.online
 hy2://sharecentrepro@
+hy2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&amp;sni=jpntt.sharecentre.online
