@@ -1,5 +1,5 @@
-tg://proxy?server=88.99.223.18&port=443&secret=ee1603010200010001fc030386e24c3add666172616b61762e636f6d
-tg://proxy?server=128.140.104.206&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=abnooos.ir.mikfava.ir.a_shoorloo.com.dedco.ir.samanads.c_om.imatrd.com.ezfix.ir.mrbehrad.com.maher-co.ir.dapsh.ir.adve_rtisingph_otogr__aphy.ir.yufile.ir.bornaonline.com.estonline.ir.sosh.ir.shilangmashhad.ir.tehranii.ir.artimantech.com.dokiplus.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=195.133.52.149&port=443&secret=ee33771c283c11a6e21626801dd20de5f77777772e636c6f7564666c6172652e636f6d
-tg://proxy?server=comwo.ir.adak-projectors.com.migat.ir.v_ajara.ir.tehrani1350.com.sabkhooneshow.ir.mobi_n-shop.ir.mehrpaia.com.youtic_shop.ir.taf98.ir.karyabikaravarann_gf.ir.papineh.com.niknami.ir.kp124.ir.takavar.net.persiangulfcarpet.ir.alacooking.ir.kalehcompany.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=davda.ir.angaji.ir.cm5.ir.ecompanypoll.com.sorc.ir.broker549.ir.kikx.ir.pl-ib.com.zhikmezon.ir.cartroubleshoot.com.mashhadsoghat.com.kouroshacademy.ir.satyarco.ir.atlasshimi.com.tarhsanat.com.saffaran.com.fardanmachine.ir.fa-machinery.com.almamobile.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=159.69.187.48&port=7543&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=212.69.14.214&port=7980&secret=ee1603010200010001fc030386e24c3add733130312e646976617263646e2e636f6d160301020001000100000000000000000000000000000000
+tg://proxy?server=49.12.209.100&port=443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=49.13.20.147&port=3443&secret=AAAAAAAAAAAAAAAAAAAAAGQ
