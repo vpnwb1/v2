@@ -1,5 +1,5 @@
-trojan://d22d2130-3602-40d5-aa72-41808b37f686@tiananmen.19890604.day:10802?sni=cloudflare.node-ssl.cdn-alibaba.com
-trojan://telegram-id-directvpn@3.145.14.67:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://wzZ-GniK9AYHUjn7LmoAmw@104.18.203.232:2095?security=none&type=ws&host=d.%E7%A7%91%E5%B0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%90%8C%E4%BC%B4.online&path=%2F%E7%A7%91%E5%B0%BC%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%90%8C%E4%BC%B4
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp
-trojan://telegram-id-privatevpns@13.50.26.181:22222/?type=tcp&amp;security=tls&amp;sni=trojan.miwan.co.uk&amp;allowInsecure=1
+trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.156:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none
+trojan://f54902aa-8984-41a5-a5f6-17459a4575dd@8h2k03.abzoones.xyz:36611?allowInsecure=0&peer=hk03.abpilot.xyz&sni=hk03.abpilot.xyz
+trojan://5a67bf67-5af7-4262-a5ec-cd2c03866acd@hinet1.downloadvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp&headerType=none
+trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp
+trojan://xxoo@146.19.230.241:443?type=tcp&sni=bmi.ir&allowInsecure=1
