@@ -1,5 +1,5 @@
-tg://proxy?server=xn--c6h.xn--t4c.1.1.1.1.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.w.xn--51h.1.w.w.w.w.w.w-w-w-w.w_w.knowledgehut.cfd&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=8.217.180.97&port=443&secret=eed3e2c44fc50b99e27562877ec0ed159c617a7572652e6d6963726f736f66742e636f6d
-tg://proxy?server=mcivip382873pans.i-v2rayng.cam&port=443&secret=eeab10e252984cd2e102f96caa487732c96d746e766970313039373570702e692d76327261796e672e63616d
-tg://proxy?server=davda.ir.pnuparastoo.com.yuvan.ir.mehremdad.com.b_eyhaghroshd.com.pssteam.ir.projectit.ir.dgco.ir.takderakhtshop.ir.vareshtajhiz.ir.nikalyaf.com.donyasim.ir.afad.ir.shirazi-mardom.ir.apadanaapply.ir.zirbana.org.mibrand1.ir.mehritc.ir.momtazsandwich.skin&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
-tg://proxy?server=65.109.113.32&port=6&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=159.69.194.193&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=iranroya.ir.royalkhab.c_om.axnab.ir.sinatebmg.com.sin_atadbir.ir.parnia_nmedia.ir.noorolaemeh.ir.jarchia.ir.agrimahya.com.avayerahaie.c_om.macro-puff.ir.damno_oshti_me.com.ftpsco.com.sipka.ir.vasnagroup.com.matinruyan.ir.72014.ir.coolergazigreen.website&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=bonchaagh.com.haila-sandwich.com.farsport_al.com.buyups.ir.bahmanyadak.com.postcod.ir.s_enfamooz.com.taxisaf.ir.butane-kala.com.gameboxes.ir.khonegishop.com.pishebazar.ir.draminmajd.com.r_azenegin.ir.digikhatereh.ir.jkmserv.ir.sep-sf.com.pitzajashar.sbs&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.greencycle.cfd&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
+tg://proxy?server=45.156.22.130&port=8085&secret=ee8888888888888888ffffffffffffffff373737372e323232322e616161612e373737372e323232322e61616161
