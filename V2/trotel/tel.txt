@@ -1,5 +1,5 @@
-trojan://6e55f0c0-c1d8-4cbb-b26d-5af41ecafe29@163.123.192.156:443?security=tls&sni=downloadus.xn--mes358a9urctx.com&type=tcp&headerType=none
-trojan://f54902aa-8984-41a5-a5f6-17459a4575dd@8h2k03.abzoones.xyz:36611?allowInsecure=0&peer=hk03.abpilot.xyz&sni=hk03.abpilot.xyz
-trojan://5a67bf67-5af7-4262-a5ec-cd2c03866acd@hinet1.downloadvip.cfd:443?security=tls&sni=download.xn--mes358acgm99l.com&type=tcp&headerType=none
-trojan://your_password@18.142.122.247:443?security=tls&sni=aws-sg-1.f1rocketnode.com&type=tcp
-trojan://xxoo@146.19.230.241:443?type=tcp&sni=bmi.ir&allowInsecure=1
+trojan://user@s5.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s5.mynameismahsa.info
+trojan://36606545-bc8b-4152-a751-3f0957318bd9@pqawsjp1.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
+trojan://fc710338-dc52-4c61-8f05-4dd280300739@xibaozi.19890604.day:10845?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://1330c4e0-27dc-41bd-9850-12d10f414582@gzyd.jcnode.top:54088?security=tls&sni=hk04.ckcloud.info&type=tcp&headerType=none
+trojan://fc710338-dc52-4c61-8f05-4dd280300739@xibaozi.19890604.day:10850?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
