@@ -1,5 +1,5 @@
-trojan://user@s5.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s5.mynameismahsa.info
-trojan://36606545-bc8b-4152-a751-3f0957318bd9@pqawsjp1.aiopen.cfd:443?type=tcp&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1
-trojan://fc710338-dc52-4c61-8f05-4dd280300739@xibaozi.19890604.day:10845?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
-trojan://1330c4e0-27dc-41bd-9850-12d10f414582@gzyd.jcnode.top:54088?security=tls&sni=hk04.ckcloud.info&type=tcp&headerType=none
-trojan://fc710338-dc52-4c61-8f05-4dd280300739@xibaozi.19890604.day:10850?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://KyiT6N1Wxo@104.21.69.44:80?security=none&type=ws&host=k05-r.cloudka.us.to&path=%2F
+trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp
+trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:36554?security=tls&sni=hk02.ckcloud.info
+trojan://telegram-id-directvpn@13.42.139.200:22222?security=tls&sni=trojan.miwan.co.uk
+trojan://telegram-id-privatevpns@3.9.116.251:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
