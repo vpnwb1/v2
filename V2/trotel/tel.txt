@@ -1,5 +1,5 @@
-trojan://KyiT6N1Wxo@104.21.69.44:80?security=none&type=ws&host=k05-r.cloudka.us.to&path=%2F
-trojan://21c6c7cb-332b-4a0c-9ad7-dff9c3111442@104.21.19.64:443?security=tls&sni=us02web.zoom.us&type=tcp
-trojan://f441a2b0-31ef-490d-bd91-9b1cd960f4ce@gzyd.jcnode.top:36554?security=tls&sni=hk02.ckcloud.info
-trojan://telegram-id-directvpn@13.42.139.200:22222?security=tls&sni=trojan.miwan.co.uk
-trojan://telegram-id-privatevpns@3.9.116.251:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
+trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@163.123.192.36:443?security=tls&sni=16-163-218-240.nhost.00cdn.com&type=tcp&headerType=none
+trojan://ed83529e-1866-3d84-8722-c56ab1fda65c@scloud53.jafiyun.world:22053?security=tls&sni=scloud53.jafiyun.world&type=tcp&headerType=none
+trojan://d3b39c42-a075-4e80-923e-d8ed7743bb43@8h2k02.abzoones.xyz:36606?allowInsecure=0&peer=hk02.abpilot.xyz&sni=hk02.abpilot.xyz
+trojan://telegram-id-privatevpns@63.33.162.68:22222?allowInsecure=0&sni=trojan.miwan.co.uk
+trojan://9215d689-a562-43e4-b6ae-7b0d08026794@1j8p01.abzoones.xyz:36841?type=tcp&headerType=none
