@@ -1,5 +1,5 @@
-hy2://sharecentrepro@
+hy2://sharecentrepro@us.scproxy.top:4433?insecure=1&amp;sni= us.scproxy.top
+hy2://dongtaiwang.com@51.158.54.46:44550/?insecure=1&amp;sni=bing.com
+hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com
 hy2://sharecentrepro@jpntt.sharecentre.online:4433?insecure=1&amp;sni=jpntt.sharecentre.online
-hy2://y0qochAspE+u-HLfrip-@45.32.234.211:443/?insecure=1&amp;sni=Google.com&amp;obfs=salamander&amp;obfs-password=2pU%21%26Brls%210exuP%2B%214so
-hy2://f6e4b19a3110d19d@hys4.cpionline.us:443/?insecure=1&amp;sni=www.apple.com%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b
 hy2://d2e21fabfe6ddb83@70.34.205.24:443/?insecure=1&amp;sni=www.apple.com&amp;obfs=salamander&amp;obfs-password=ca39a177
