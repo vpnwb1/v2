@@ -1,5 +1,5 @@
-trojan://be8b8f45-a290-4405-8699-ffeb07f3ee24@163.123.192.36:443?security=tls&sni=16-163-218-240.nhost.00cdn.com&type=tcp&headerType=none
-trojan://ed83529e-1866-3d84-8722-c56ab1fda65c@scloud53.jafiyun.world:22053?security=tls&sni=scloud53.jafiyun.world&type=tcp&headerType=none
-trojan://d3b39c42-a075-4e80-923e-d8ed7743bb43@8h2k02.abzoones.xyz:36606?allowInsecure=0&peer=hk02.abpilot.xyz&sni=hk02.abpilot.xyz
-trojan://telegram-id-privatevpns@63.33.162.68:22222?allowInsecure=0&sni=trojan.miwan.co.uk
-trojan://9215d689-a562-43e4-b6ae-7b0d08026794@1j8p01.abzoones.xyz:36841?type=tcp&headerType=none
+trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@sg8.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
+trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp
+trojan://ba3c95c9-c580-4893-84bc-b74dcd641def@xibaozi.19890604.day:10835?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://1381fa76-e460-3a03-a01b-b9ad00e01415@tone.zoozoo.co.za:443?type=tcp&headerType=none
+trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443?security=tls
