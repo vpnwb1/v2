@@ -1,5 +1,5 @@
-trojan://26af88d0-fc72-43b3-8108-521a7b12aa45@sg8.421421.xyz:20230?type=tcp&sni=421421.xyz&allowInsecure=1
-trojan://41bec492-cd79-4b57-9a15-7d2bb00fcfca@217.79.184.76:443?security=tls&sni=18-140-66-207.nhost.00cdn.com&allowInsecure=1&type=tcp
-trojan://ba3c95c9-c580-4893-84bc-b74dcd641def@xibaozi.19890604.day:10835?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
-trojan://1381fa76-e460-3a03-a01b-b9ad00e01415@tone.zoozoo.co.za:443?type=tcp&headerType=none
-trojan://272cd64a-9f71-4e08-8fbd-0988d7fa99c8@sg.liangyuandiancloud.com:443?security=tls
+trojan://f10d81d8-ad4b-300a-825b-f54f515bd06e@sg2.jjzgy.live:443?security=tls&sni=sg2.jjzgy.live&allowInsecure=1&type=tcp
+trojan://8e7a723b-3eb8-3c32-83cf-2148d5765de1@19236tj.matrixxx888.com:19236?type=tcp&sni=eplcgame.com&allowInsecure=1
+trojan://dc21bdbf-04c0-4a7e-8cb4-3d5af39ddf13@t1.teslacdn1.live:443?security=tls&sni=t1.teslacdn1.live
+trojan://telegram-id-privatevpns@18.168.52.159:22222?sni=trojan.miwan.co.uk
+trojan://2a85cc50-5f55-11ee-b3ab-1239d0255272@104.21.41.21:443?security=tls&sni=de1.test3.net&type=ws&path=%2Fhowdy&host=de1.test3.net
