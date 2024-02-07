@@ -1,54 +1,49 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-  <title>Read Text File and Create Table</title>
-  <style>
-    table {
-      border-collapse: collapse;
-    }
-    th, td {
-      border: 1px solid black;
-      padding: 8px;
-    }
-  </style>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Read Text File and Create Table</title>
 </head>
 <body>
-  <table>
+<h2>Lines from Text File</h2>
+<table border="1">
+  <thead>
     <tr>
       <th>Number</th>
       <th>Line</th>
     </tr>
-    <script>
-      // Function to read the text file and create the table
-      function readTextFile(file) {
-        var rawFile = new XMLHttpRequest();
-        rawFile.open("GET", file, false);
-        rawFile.onreadystatechange = function () {
-          if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status === 0)) {
-            var allText = rawFile.responseText;
-            var lines = allText.split('\n');
-            var tableBody = document.querySelector('table');
-            for (var i = 0; i < lines.length; i++) {
-              var line = lines[i].trim();
-              if (line !== '') {
-                var row = document.createElement('tr');
-                var numberCell = document.createElement('td');
-                var lineCell = document.createElement('td');
-                numberCell.textContent = i + 1;
-                lineCell.textContent = line;
-                row.appendChild(numberCell);
-                row.appendChild(lineCell);
-                tableBody.appendChild(row);
-              }
-            }
-          }
-        }
-        rawFile.send(null);
-      }
+  </thead>
+  <tbody id="table-body">
+    <!-- Table body will be populated dynamically -->
+  </tbody>
+</table>
 
-      // Call the function with the path to the text file
-      readTextFile('mtprotoF.txt');
-    </script>
-  </table>
+<script>
+  // Function to fetch and display lines from the text file
+  async function displayLines() {
+    const response = await fetch('mtprotoF.txt'); // Change 'your_text_file.txt' to the path of your text file
+    const text = await response.text();
+    const lines = text.split('\n');
+
+    const tableBody = document.getElementById('table-body');
+
+    lines.forEach((line, index) => {
+      const row = document.createElement('tr');
+      const numberCell = document.createElement('td');
+      const lineCell = document.createElement('td');
+
+      numberCell.textContent = index + 1;
+      lineCell.textContent = line;
+
+      row.appendChild(numberCell);
+      row.appendChild(lineCell);
+      tableBody.appendChild(row);
+    });
+  }
+
+  // Call the function when the page loads
+  displayLines();
+</script>
 </body>
 </html>
