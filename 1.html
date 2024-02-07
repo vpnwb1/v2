@@ -1,0 +1,43 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Read Text File and Create Table</title>
+</head>
+<body>
+  <table id="myTable">
+    <thead>
+      <tr>
+        <th>Line</th>
+      </tr>
+    </thead>
+    <tbody>
+    </tbody>
+  </table>
+
+  <script>
+    // Function to read the text file
+    function readTextFile(file) {
+      var rawFile = new XMLHttpRequest();
+      rawFile.open("GET", file, false);
+      rawFile.onreadystatechange = function () {
+        if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status === 0)) {
+          var allText = rawFile.responseText;
+          var lines = allText.split('\n');
+          var table = document.getElementById('myTable').getElementsByTagName('tbody')[0];
+
+          for (var i = 0; i < lines.length; i++) {
+            var row = table.insertRow();
+            var cell = row.insertCell();
+            cell.innerHTML = lines[i];
+          }
+        }
+      }
+      rawFile.send(null);
+    }
+
+    // Call the function with the path to your text file
+    readTextFile('VmessF.txt');
+  </script>
+</body>
+</html>
