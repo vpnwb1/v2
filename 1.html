@@ -18,7 +18,60 @@
                         var lineDiv = $('<div>').appendTo('#lines');
                         
                         // Create the copy button
-                        var copyButton = $('<button>').text('Copy').appendTo(lineDiv);
+                        var copyButton = $('<button>').text('Copy').appendTo(lineDiv);<!DOCTYPE html>
+<html>
+<head>
+  <title>Read Text File and Create Table</title>
+  <style>
+    table {
+      border-collapse: collapse;
+    }
+    th, td {
+      border: 1px solid black;
+      padding: 8px;
+    }
+  </style>
+</head>
+<body>
+  <table>
+    <tr>
+      <th>Number</th>
+      <th>Line</th>
+    </tr>
+    <script>
+      // Function to read the text file and create the table
+      function readTextFile(file) {
+        var rawFile = new XMLHttpRequest();
+        rawFile.open("GET", file, false);
+        rawFile.onreadystatechange = function () {
+          if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status === 0)) {
+            var allText = rawFile.responseText;
+            var lines = allText.split('\n');
+            var tableBody = document.querySelector('table');
+            for (var i = 0; i < lines.length; i++) {
+              var line = lines[i].trim();
+              if (line !== '') {
+                var row = document.createElement('tr');
+                var numberCell = document.createElement('td');
+                var lineCell = document.createElement('td');
+                numberCell.textContent = i + 1;
+                lineCell.textContent = line;
+                row.appendChild(numberCell);
+                row.appendChild(lineCell);
+                tableBody.appendChild(row);
+              }
+            }
+          }
+        }
+        rawFile.send(null);
+      }
+
+      // Call the function with the path to the text file
+      readTextFile('mtprotoF.txt');
+    </script>
+  </table>
+</body>
+</html>
                         copyButton.on('click', function() {
                             var textToCopy = $(this).next('.line-text').text();
                             copyToClipboard(textToCopy);
