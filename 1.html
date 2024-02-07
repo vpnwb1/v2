@@ -4,11 +4,6 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Read Text File and Create Table</title>
-<style>
-  .line-details {
-    display: none;
-  }
-</style>
 </head>
 <body>
 <h2>Lines from Text File</h2>
@@ -37,23 +32,21 @@
       const row = document.createElement('tr');
       const numberCell = document.createElement('td');
       const lineCell = document.createElement('td');
-      const lineDetailsCell = document.createElement('td');
+      const lineLink = document.createElement('a');
 
       numberCell.textContent = index + 1;
-      lineCell.textContent = line;
+      lineLink.textContent = line;
+      lineLink.href = '#'; // Set the href attribute to '#' or any other URL you want to open
+      lineLink.addEventListener('click', () => {
+        // Handle click event here, you can redirect to a new page or do any other action
+        alert('You clicked on: ' + line);
+      });
 
-      lineDetailsCell.classList.add('line-details');
-      lineDetailsCell.textContent = line;
+      lineCell.appendChild(lineLink);
 
       row.appendChild(numberCell);
       row.appendChild(lineCell);
-      row.appendChild(lineDetailsCell);
       tableBody.appendChild(row);
-
-      // Add click event listener to show/hide line details
-      row.addEventListener('click', () => {
-        lineDetailsCell.classList.toggle('line-details');
-      });
     });
   }
 
