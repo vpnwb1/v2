@@ -4,6 +4,11 @@
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Read Text File and Create Table</title>
+<style>
+  .line-details {
+    display: none;
+  }
+</style>
 </head>
 <body>
 <h2>Lines from Text File</h2>
@@ -32,13 +37,23 @@
       const row = document.createElement('tr');
       const numberCell = document.createElement('td');
       const lineCell = document.createElement('td');
+      const lineDetailsCell = document.createElement('td');
 
       numberCell.textContent = index + 1;
       lineCell.textContent = line;
 
+      lineDetailsCell.classList.add('line-details');
+      lineDetailsCell.textContent = line;
+
       row.appendChild(numberCell);
       row.appendChild(lineCell);
+      row.appendChild(lineDetailsCell);
       tableBody.appendChild(row);
+
+      // Add click event listener to show/hide line details
+      row.addEventListener('click', () => {
+        lineDetailsCell.classList.toggle('line-details');
+      });
     });
   }
 
