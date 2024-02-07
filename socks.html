@@ -3,10 +3,8 @@
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>Read Text File and Create Table</title>
 </head>
 <body>
-<h2>Lines from Text File</h2>
 <table border="1">
   <thead>
     <tr>
@@ -22,7 +20,7 @@
 <script>
   // Function to fetch and display lines from the text file
   async function displayLines() {
-    const response = await fetch('mtprotoF.txt'); // Change 'your_text_file.txt' to the path of your text file
+    const response = await fetch('socksF.txt'); // Change 'your_text_file.txt' to the path of your text file
     const text = await response.text();
     const lines = text.split('\n');
 

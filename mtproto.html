@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+</head>
+<body>
+<table border="1">
+  <thead>
+    <tr>
+      <th>Number</th>
+      <th>Line</th>
+    </tr>
+  </thead>
+  <tbody id="table-body">
+    <!-- Table body will be populated dynamically -->
+  </tbody>
+</table>
+
+<script>
+  // Function to fetch and display lines from the text file
+  async function displayLines() {
+    const response = await fetch('mtprotoF.txt'); // Change 'your_text_file.txt' to the path of your text file
+    const text = await response.text();
+    const lines = text.split('\n');
+
+    const tableBody = document.getElementById('table-body');
+
+    lines.forEach((line, index) => {
+      const row = document.createElement('tr');
+      const numberCell = document.createElement('td');
+      const lineCell = document.createElement('td');
+      const lineLink = document.createElement('a');
+
+      numberCell.textContent = index + 1;
+      lineLink.textContent = line;
+      lineLink.href = line; // Set the href attribute to the URL you want to open
+      lineLink.target = "_blank"; // Open the URL in a new tab
+
+      lineCell.appendChild(lineLink);
+
+      row.appendChild(numberCell);
+      row.appendChild(lineCell);
+      tableBody.appendChild(row);
+    });
+  }
+
+  // Call the function when the page loads
+  displayLines();
+</script>
+</body>
+</html>
