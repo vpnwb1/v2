@@ -1,26 +1,6 @@
 <!DOCTYPE html>
 <html>
 <head>
-    <title>Text File Reader</title>
-    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
-    <script>
-        $(document).ready(function() {
-            // Read the text file
-            $.get('mtprotoF.txt', function(data) {
-                // Split the text file into lines
-                var lines = data.split('\n');
-                
-                // Create buttons for each line
-                for (var i = 0; i < lines.length; i++) {
-                    var line = lines[i].trim();
-                    if (line !== '') {
-                        // Create a div to hold the buttons for each line
-                        var lineDiv = $('<div>').appendTo('#lines');
-                        
-                        // Create the copy button
-                        var copyButton = $('<button>').text('Copy').appendTo(lineDiv);<!DOCTYPE html>
-<html>
-<head>
   <title>Read Text File and Create Table</title>
   <style>
     table {
@@ -70,41 +50,5 @@
       readTextFile('mtprotoF.txt');
     </script>
   </table>
-</body>
-</html>
-                        copyButton.on('click', function() {
-                            var textToCopy = $(this).next('.line-text').text();
-                            copyToClipboard(textToCopy);
-                        });
-                        
-                        // Create the open button
-                        var openButton = $('<button>').text('Open').appendTo(lineDiv);
-                        openButton.on('click', function() {
-                            var lineToOpen = $(this).next('.line-text').text();
-                            // Perform the action to open the line (e.g., open a URL)
-                            // Replace the following line with your desired action
-                            alert('Opening line: ' + lineToOpen);
-                        });
-                        
-                        // Create the line text element
-                        $('<span>').addClass('line-text').text(line).appendTo(lineDiv);
-                    }
-                }
-            });
-            
-            // Function to copy text to clipboard
-            function copyToClipboard(text) {
-                var dummyElement = $('<textarea>').appendTo('body').val(text).select();
-                document.execCommand('copy');
-                dummyElement.remove();
-                alert('Copied to clipboard: ' + text);
-            }
-        });
-    </script>
-</head>
-<body>
-    <div id="lines">
-        <!-- The lines will be dynamically added here -->
-    </div>
 </body>
 </html>
