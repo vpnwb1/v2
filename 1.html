@@ -1,52 +1,57 @@
 <!DOCTYPE html>
 <html>
 <head>
-  <title>Read Text File and Create Table</title>
+    <title>Text File Reader</title>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    <script>
+        $(document).ready(function() {
+            // Read the text file
+            $.get('mtprotoF.txt', function(data) {
+                // Split the text file into lines
+                var lines = data.split('\n');
+                
+                // Create buttons for each line
+                for (var i = 0; i < lines.length; i++) {
+                    var line = lines[i].trim();
+                    if (line !== '') {
+                        // Create a div to hold the buttons for each line
+                        var lineDiv = $('<div>').appendTo('#lines');
+                        
+                        // Create the copy button
+                        var copyButton = $('<button>').text('Copy').appendTo(lineDiv);
+                        copyButton.on('click', function() {
+                            var textToCopy = $(this).next('.line-text').text();
+                            copyToClipboard(textToCopy);
+                        });
+                        
+                        // Create the open button
+                        var openButton = $('<button>').text('Open').appendTo(lineDiv);
+                        openButton.on('click', function() {
+                            var lineToOpen = $(this).next('.line-text').text();
+                            // Perform the action to open the line (e.g., open a URL)
+                            // Replace the following line with your desired action
+                            alert('Opening line: ' + lineToOpen);
+                        });
+                        
+                        // Create the line text element
+                        $('<span>').addClass('line-text').text(line).appendTo(lineDiv);
+                    }
+                }
+            });
+            
+            // Function to copy text to clipboard
+            function copyToClipboard(text) {
+                var dummyElement = $('<textarea>').appendTo('body').val(text).select();
+                document.execCommand('copy');
+                dummyElement.remove();
+                alert('Copied to clipboard: ' + text);
+            }
+        });
+    </script>
 </head>
 <body>
-  <table id="myTable">
-    <thead>
-      <tr>
-        <th>Column 1</th>
-        <th>Column 2</th>
-        <th>Column 3</th>
-        <!-- Add more th elements for additional columns -->
-      </tr>
-    </thead>
-    <tbody>
-    </tbody>
-  </table>
-
-  <script>
-    // Function to read the text file
-    function readTextFile(file) {
-      var rawFile = new XMLHttpRequest();
-      rawFile.open("GET", file, false);
-      rawFile.onreadystatechange = function () {
-        if (rawFile.readyState === 4 && (rawFile.status === 200 || rawFile.status === 0)) {
-          var allText = rawFile.responseText;
-          var lines = allText.split('\n');
-          var tableBody = document.getElementById('myTable').getElementsByTagName('tbody')[0];
-
-          for (var i = 0; i < lines.length; i++) {
-            var columns = lines[i].split('\t'); // Assuming columns are separated by a tab character
-            var row = document.createElement('tr');
-
-            for (var j = 0; j < columns.length; j++) {
-              var cell = document.createElement('td');
-              cell.textContent = columns[j];
-              row.appendChild(cell);
-            }
-
-            tableBody.appendChild(row);
-          }
-        }
-      }
-      rawFile.send(null);
-    }
-
-    // Call the function with the path to your text file
-    readTextFile('mtprotoF.txt');
-  </script>
+    <div id="lines">
+        <!-- The lines will be dynamically added here -->
+    </div>
 </body>
 </html>
