@@ -36,11 +36,8 @@
 
       numberCell.textContent = index + 1;
       lineLink.textContent = line;
-      lineLink.href = '#'; // Set the href attribute to '#' or any other URL you want to open
-      lineLink.addEventListener('click', () => {
-        // Handle click event here, you can redirect to a new page or do any other action
-        alert('You clicked on: ' + line);
-      });
+      lineLink.href = line; // Set the href attribute to the URL you want to open
+      lineLink.target = "_blank"; // Open the URL in a new tab
 
       lineCell.appendChild(lineLink);
 
