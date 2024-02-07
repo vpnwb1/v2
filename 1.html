@@ -7,7 +7,10 @@
   <table id="myTable">
     <thead>
       <tr>
-        <th>Line</th>
+        <th>Column 1</th>
+        <th>Column 2</th>
+        <th>Column 3</th>
+        <!-- Add more th elements for additional columns -->
       </tr>
     </thead>
     <tbody>
@@ -26,10 +29,15 @@
           var tableBody = document.getElementById('myTable').getElementsByTagName('tbody')[0];
 
           for (var i = 0; i < lines.length; i++) {
+            var columns = lines[i].split('\t'); // Assuming columns are separated by a tab character
             var row = document.createElement('tr');
-            var cell = document.createElement('td');
-            cell.textContent = lines[i];
-            row.appendChild(cell);
+
+            for (var j = 0; j < columns.length; j++) {
+              var cell = document.createElement('td');
+              cell.textContent = columns[j];
+              row.appendChild(cell);
+            }
+
             tableBody.appendChild(row);
           }
         }
