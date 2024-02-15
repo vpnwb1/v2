@@ -3,21 +3,27 @@ import requests
 import base64
 
 def decode_base64_from_url(url, output_file):
-    response = requests.get(url)
-    encoded_data = response.content
+    try:
+        response = requests.get(url)
+        response.raise_for_status()  # Raise an exception for 4xx and 5xx status codes
 
-    missing_padding = 4 - (len(encoded_data) % 4)
-    if missing_padding != 4:
-        encoded_data += b'=' * missing_padding
+        encoded_data = response.content
 
-    decoded_data = base64.b64decode(encoded_data)
+        missing_padding = 4 - (len(encoded_data) % 4)
+        if missing_padding != 4:
+            encoded_data += b'=' * missing_padding
 
-    if not os.path.exists('V2/temp'):
-        os.makedirs('V2/temp')
+        decoded_data = base64.b64decode(encoded_data)
 
-    output_path = os.path.join('V2/temp', output_file)
-    with open(output_path, 'wb') as f:
-        f.write(decoded_data)
+        if not os.path.exists('V2/temp'):
+            os.makedirs('V2/temp')
+
+        output_path = os.path.join('V2/temp', output_file)
+        with open(output_path, 'wb') as f:
+            f.write(decoded_data)
+    except Exception as e:
+        print(f"An error occurred while decoding {url}: {e}")
+        pass  # Skip to the next URL
 
 # Example usage
 input_file = 'V2/from64/sites.txt'
