@@ -33,10 +33,13 @@
                     const lines = text.split('\n').filter(line => line.trim() !== '');
                     const numLines = Math.min(50, lines.length);
                     const randomLines = [];
-                    for (let i = 0; i < numLines; i++) {
+                    const selectedIndices = new Set();
+                    while (randomLines.length < numLines) {
                         const randomIndex = Math.floor(Math.random() * lines.length);
-                        randomLines.push(lines[randomIndex]);
-                        lines.splice(randomIndex, 1);
+                        if (!selectedIndices.has(randomIndex)) {
+                            randomLines.push(lines[randomIndex]);
+                            selectedIndices.add(randomIndex);
+                        }
                     }
                     document.getElementById('randomLines').innerText = randomLines.join('\n');
                 })
