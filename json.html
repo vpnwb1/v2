@@ -1,25 +1,86 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
 <head>
-    <title>Read JSON Data</title>
-    <script>
-        function processData() {
-            const jsonData = document.getElementById('jsonData').value;
-            const data = JSON.parse(jsonData);
-            data.mtn.forEach(item => {
-                document.getElementById('configs').innerHTML += '<p>' + item.config + '</p>';
-            });
-        }
-    </script>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Read JSON Data (Dark Theme)</title>
+  <style>
+    /* Dark theme styles */
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 0;
+      background-color: #222;
+      color: #ddd;
+    }
+    #container {
+      max-width: 800px;
+      margin: 20px auto;
+      padding: 20px;
+      background-color: #333;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+    h1, h2 {
+      text-align: center;
+      color: #eee;
+    }
+    form {
+      text-align: center;
+    }
+    textarea {
+      width: 100%;
+      margin-bottom: 10px;
+      padding: 10px;
+      background-color: #444;
+      color: #eee;
+      border: 1px solid #555;
+      border-radius: 4px;
+      resize: vertical;
+    }
+    button {
+      padding: 10px 20px;
+      background-color: #4CAF50; /* Keep lighter green for contrast */
+      color: white;
+      border: none;
+      border-radius: 4px;
+      cursor: pointer;
+    }
+    button:hover {
+      background-color: #45a049;
+    }
+    #configs {
+      margin-top: 20px;
+      padding: 10px;
+      background-color: #444;
+      color: #eee;
+      border-radius: 4px;
+    }
+  </style>
+  <script>
+    function processData() {
+      const jsonData = document.getElementById('jsonData').value;
+      const data = JSON.parse(jsonData);
+      
+      let output = ""; // Initialize empty string for output
+
+      data.mtn.forEach(item => {
+        output += item.config + "\n"; // Add each configuration with newline
+      });
+
+      document.getElementById('outputTextarea').value = output; // Set output to textarea
+    }
+  </script>
 </head>
 <body>
+  <div id="container">
     <h1>Paste JSON Data</h1>
     <form>
-        <textarea id="jsonData" rows="10" cols="50" placeholder="Paste JSON data here"></textarea>
-        <br>
-        <button type="button" onclick="processData()">Process Data</button>
+      <textarea id="jsonData" rows="10" placeholder="Paste JSON data here"></textarea>
+      <br>
+      <button type="button" onclick="processData()">Process Data</button>
     </form>
     <h2>Config Sections:</h2>
-    <div id="configs"></div>
+    <textarea id="outputTextarea" rows="10" readonly></textarea> </div>
 </body>
 </html>
