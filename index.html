@@ -4,6 +4,51 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Random Lines</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 20px;
+            background-color: #222;
+            color: #fff;
+        }
+
+        h1 {
+            text-align: center;
+            color: #fff;
+        }
+
+        label {
+            display: block;
+            margin-bottom: 5px;
+        }
+
+        select, button {
+            padding: 10px;
+            margin-bottom: 10px;
+            border-radius: 5px;
+            border: 1px solid #333;
+            background-color: #444;
+            color: #fff;
+            cursor: pointer;
+        }
+
+        select {
+            width: 100%;
+        }
+
+        button:hover {
+            background-color: #007bff;
+        }
+
+        #randomLines {
+            padding: 10px;
+            border-radius: 5px;
+            border: 1px solid #333;
+            background-color: #444;
+            color: #fff;
+        }
+    </style>
 </head>
 <body>
     <h1>Random Lines</h1>
@@ -19,7 +64,6 @@
         <option value="TuicF.txt">Tuic</option>
         <option value="VlessF.txt">Vless</option>
         <option value="VmessF.txt">Vmess</option>
-
     </select>
     <button onclick="loadRandomLines()">Load Random Lines</button>
     <div id="randomLines"></div>
