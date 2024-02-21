@@ -60,42 +60,53 @@
   <script>
     async function decryptData() {
       var encryptedData;
-      var inputType = document.querySelector('input[name="inputType"]:checked').value;
+      var inputType = document.querySelector('input[name="inputType"]:checked');
 
-      if (inputType === "textInput") {
-        encryptedData = document.getElementById('encryptedInput').value;
-      } else if (inputType === "urlInput") {
-        var url = document.getElementById('urlInput').value;
-        try {
-          const response = await fetch(url);
-          encryptedData = await response.text();
-        } catch (error) {
-          alert("Error fetching data from the URL. Please check the URL and try again.");
-          return;
+      if (inputType) {
+        inputType = inputType.value;
+
+        if (inputType === "textInput") {
+          encryptedData = document.getElementById('encryptedInput').value;
+        } else if (inputType === "urlInput") {
+          var url = document.getElementById('urlInput').value;
+          try {
+            const response = await fetch(url);
+            encryptedData = await response.text();
+          } catch (error) {
+            alert("Error fetching data from the URL. Please check the URL and try again.");
+            return;
+          }
         }
-      }
 
-      var selectedOption = document.querySelector('input[name="keyOption"]:checked').value;
-      var key, iv;
+        var selectedOption = document.querySelector('input[name="keyOption"]:checked');
+        if (selectedOption) {
+          selectedOption = selectedOption.value;
+          var key, iv;
 
-      // Set key and IV based on selected option
-      if (selectedOption === "option1") {
-        key = CryptoJS.enc.Utf8.parse("ca815ecfdb1f153a");
-        iv = CryptoJS.enc.Utf8.parse("lvcas56410c97lpb");
-      } else if (selectedOption === "option2") {
-        key = CryptoJS.enc.Utf8.parse("f430480014825ddb");
-        iv = CryptoJS.enc.Utf8.parse("Xvc1wOrxs77Ilj0N");
-      }
+          // Set key and IV based on selected option
+          if (selectedOption === "option1") {
+            key = CryptoJS.enc.Utf8.parse("ca815ecfdb1f153a");
+            iv = CryptoJS.enc.Utf8.parse("lvcas56410c97lpb");
+          } else if (selectedOption === "option2") {
+            key = CryptoJS.enc.Utf8.parse("f430480014825ddb");
+            iv = CryptoJS.enc.Utf8.parse("Xvc1wOrxs77Ilj0N");
+          }
 
-      try {
-        var decryptedData = CryptoJS.AES.decrypt(encryptedData, key, { iv: iv });
-        if (decryptedData) {
-          document.getElementById('decryptedOutput').value = decryptedData.toString(CryptoJS.enc.Utf8);
+          try {
+            var decryptedData = CryptoJS.AES.decrypt(encryptedData, key, { iv: iv });
+            if (decryptedData) {
+              document.getElementById('decryptedOutput').value = decryptedData.toString(CryptoJS.enc.Utf8);
+            } else {
+              alert("Decryption failed. Please check your input.");
+            }
+          } catch (error) {
+            alert("Decryption failed. Please check your input.");
+          }
         } else {
-          alert("Decryption failed. Please check your input.");
+          alert("Please select a Key/IV option.");
         }
-      } catch (error) {
-        alert("Decryption failed. Please check your input.");
+      } else {
+        alert("Please select an input type.");
       }
     }
   </script>
@@ -109,7 +120,13 @@
     <label for="urlInput">Or Enter URL to Fetch Encrypted Data:</label>
     <input type="text" id="urlInput" placeholder="Enter URL...">
     <br>
-    <label for="option1">Select Key/IV Option:</label>
+    <label>Select Input Type:</label>
+    <input type="radio" id="textInput" name="inputType" value="textInput" checked>
+    <label for="textInput">Text Input</label>
+    <input type="radio" id="urlInput" name="inputType" value="urlInput">
+    <label for="urlInput">URL Input</label>
+    <br>
+    <label>Select Key/IV Option:</label>
     <input type="radio" id="option1" name="keyOption" value="option1" checked>
     <label for="option1">Option 1</label>
     <input type="radio" id="option2" name="keyOption" value="option2">
