@@ -3,43 +3,40 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Lines</title>
 </head>
 <body>
+    <h1>Random Lines</h1>
+    <label for="fileSelect">Select File:</label>
+    <select id="fileSelect">
+        <option value=".txt">VMess</option>
+        <option value=".txt">VLESS</option>
+        <option value=".txt">Shadowsocks</option>
+        <option value=".txt">ShadowsocksR</option>
+        <option value=".txt">Trojan</option>
+        <option value=".txt">Hy</option>
+        <option value=".txt">HY2</option>
+        <option value=".txt">TUIC</option>
+    </select>
+    <button onclick="loadRandomLines()">Load Random Lines</button>
     <div id="randomLines"></div>
 
     <script>
-        // Function to fetch random lines from a text file
-        function getRandomLinesFromFile(fileUrl, linesCount) {
-            fetch(fileUrl)
-            .then(response => response.text())
-            .then(text => {
-                // Split the text into lines
-                const lines = text.trim().split('\n');
-                const randomLines = [];
-
-                // Generate random line indexes
-                const lineIndexes = [];
-                while (lineIndexes.length < linesCount) {
-                    const randomIndex = Math.floor(Math.random() * lines.length);
-                    if (!lineIndexes.includes(randomIndex)) {
-                        lineIndexes.push(randomIndex);
+        function loadRandomLines() {
+            const selectedFile = document.getElementById('fileSelect').value;
+            fetch(selectedFile)
+                .then(response => response.text())
+                .then(text => {
+                    const lines = text.split('\n').filter(line => line.trim() !== '');
+                    const randomLines = [];
+                    for (let i = 0; i < 50; i++) {
+                        const randomIndex = Math.floor(Math.random() * lines.length);
+                        randomLines.push(lines[randomIndex]);
                     }
-                }
-
-                // Get the random lines
-                for (const index of lineIndexes) {
-                    randomLines.push(lines[index]);
-                }
-
-                // Display random lines
-                const randomLinesElement = document.getElementById('randomLines');
-                randomLinesElement.innerHTML = randomLines.join('<br>');
-            })
-            .catch(error => console.error('Error fetching file:', error));
+                    document.getElementById('randomLines').innerText = randomLines.join('\n');
+                })
+                .catch(error => console.error('Error fetching file:', error));
         }
-
-        // Call the function to get random lines from VmessF.txt
-        getRandomLinesFromFile('VmessF.txt', 50);
     </script>
 </body>
 </html>
