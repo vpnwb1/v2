@@ -6,6 +6,57 @@
   <title>Data Decryption</title>
   <!-- Upgrade to a more secure version of CryptoJS -->
   <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 0;
+      padding: 20px;
+      background-color: #222;
+      color: #fff;
+    }
+
+    h1 {
+      text-align: center;
+      color: #fff;
+    }
+
+    label {
+      display: block;
+      margin-bottom: 5px;
+    }
+
+    input[type="text"], textarea {
+      width: 100%;
+      padding: 10px;
+      margin-bottom: 10px;
+      border-radius: 5px;
+      border: 1px solid #333;
+      background-color: #444;
+      color: #fff;
+    }
+
+    button {
+      padding: 10px 20px;
+      background-color: #007bff;
+      color: #fff;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+    }
+
+    button:hover {
+      background-color: #0056b3;
+    }
+
+    .container {
+      max-width: 600px;
+      margin: 0 auto;
+      background-color: #333;
+      padding: 20px;
+      border-radius: 10px;
+      box-shadow: 0 0 10px rgba(255, 255, 255, 0.1);
+    }
+  </style>
   <script>
     async function decryptData() {
       var encryptedData;
@@ -50,24 +101,23 @@
   </script>
 </head>
 <body>
-  <input type="radio" id="textInput" name="inputType" value="textInput" checked>
-  <label for="textInput">Enter Encrypted Data</label>
-  <input type="text" id="encryptedInput">
-  <br>
-  <input type="radio" id="urlInput" name="inputType" value="urlInput">
-  <label for="urlInput">Enter URL to Fetch Encrypted Data</label>
-  <input type="text" id="urlInput">
-  <br>
-
-  <!-- Added radio buttons for key/IV options -->
-  <input type="radio" id="option1" name="keyOption" value="option1" checked>
-  <label for="option1">Option 1</label>
-  <input type="radio" id="option2" name="keyOption" value="option2">
-  <label for="option2">Option 2</label>
-  <br>
-
-  <button onclick="decryptData()">Decrypt</button>
-  <br>
-  <textarea id="decryptedOutput" rows="4" cols="50" placeholder="Decrypted Data"></textarea>
+  <div class="container">
+    <h1>Data Decryption</h1>
+    <label for="textInput">Enter Encrypted Data:</label>
+    <input type="text" id="encryptedInput" placeholder="Enter your encrypted data here...">
+    <br>
+    <label for="urlInput">Or Enter URL to Fetch Encrypted Data:</label>
+    <input type="text" id="urlInput" placeholder="Enter URL...">
+    <br>
+    <label for="option1">Select Key/IV Option:</label>
+    <input type="radio" id="option1" name="keyOption" value="option1" checked>
+    <label for="option1">Option 1</label>
+    <input type="radio" id="option2" name="keyOption" value="option2">
+    <label for="option2">Option 2</label>
+    <br>
+    <button onclick="decryptData()">Decrypt</button>
+    <br>
+    <textarea id="decryptedOutput" rows="4" cols="50" placeholder="Decrypted Data"></textarea>
+  </div>
 </body>
 </html>
