@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Read JSON Data</title>
+    <script>
+        function processData() {
+            const jsonData = document.getElementById('jsonData').value;
+            const data = JSON.parse(jsonData);
+            data.mtn.forEach(item => {
+                document.getElementById('configs').innerHTML += '<p>' + item.config + '</p>';
+            });
+        }
+    </script>
+</head>
+<body>
+    <h1>Paste JSON Data</h1>
+    <form>
+        <textarea id="jsonData" rows="10" cols="50" placeholder="Paste JSON data here"></textarea>
+        <br>
+        <button type="button" onclick="processData()">Process Data</button>
+    </form>
+    <h2>Config Sections:</h2>
+    <div id="configs"></div>
+</body>
+</html>

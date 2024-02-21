@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Data Decryption</title>
+  <!-- Upgrade to a more secure version of CryptoJS -->
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/4.1.1/crypto-js.min.js"></script>
+  <script>
+    async function decryptData() {
+      var encryptedData;
+      var inputType = document.querySelector('input[name="inputType"]:checked').value;
+
+      if (inputType === "textInput") {
+        encryptedData = document.getElementById('encryptedInput').value;
+      } else if (inputType === "urlInput") {
+        var url = document.getElementById('urlInput').value;
+        try {
+          const response = await fetch(url);
+          encryptedData = await response.text();
+        } catch (error) {
+          alert("Error fetching data from the URL. Please check the URL and try again.");
+          return;
+        }
+      }
+
+      var selectedOption = document.querySelector('input[name="keyOption"]:checked').value;
+      var key, iv;
+
+      // Set key and IV based on selected option
+      if (selectedOption === "option1") {
+        key = CryptoJS.enc.Utf8.parse("ca815ecfdb1f153a");
+        iv = CryptoJS.enc.Utf8.parse("lvcas56410c97lpb");
+      } else if (selectedOption === "option2") {
+        key = CryptoJS.enc.Utf8.parse("f430480014825ddb");
+        iv = CryptoJS.enc.Utf8.parse("Xvc1wOrxs77Ilj0N");
+      }
+
+      try {
+        var decryptedData = CryptoJS.AES.decrypt(encryptedData, key, { iv: iv });
+        if (decryptedData) {
+          document.getElementById('decryptedOutput').value = decryptedData.toString(CryptoJS.enc.Utf8);
+        } else {
+          alert("Decryption failed. Please check your input.");
+        }
+      } catch (error) {
+        alert("Decryption failed. Please check your input.");
+      }
+    }
+  </script>
+</head>
+<body>
+  <input type="radio" id="textInput" name="inputType" value="textInput" checked>
+  <label for="textInput">Enter Encrypted Data</label>
+  <input type="text" id="encryptedInput">
+  <br>
+  <input type="radio" id="urlInput" name="inputType" value="urlInput">
+  <label for="urlInput">Enter URL to Fetch Encrypted Data</label>
+  <input type="text" id="urlInput">
+  <br>
+
+  <!-- Added radio buttons for key/IV options -->
+  <input type="radio" id="option1" name="keyOption" value="option1" checked>
+  <label for="option1">Option 1</label>
+  <input type="radio" id="option2" name="keyOption" value="option2">
+  <label for="option2">Option 2</label>
+  <br>
+
+  <button onclick="decryptData()">Decrypt</button>
+  <br>
+  <textarea id="decryptedOutput" rows="4" cols="50" placeholder="Decrypted Data"></textarea>
+</body>
+</html>
