@@ -2,8 +2,8 @@ name: sstel
 
 on:
   workflow_dispatch:
-  # schedule:
-  # - cron: "10 9 * * *"
+  schedule:
+  - cron: "10 9 * * *"
   
 jobs:
   job1:
