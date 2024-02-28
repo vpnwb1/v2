@@ -21,11 +21,9 @@ jobs:
           
     - name: RunPython
       run: |
-        pip install qrcode
-        pip install python-telegram-bot
         python V2/hy2tel/1.py
         python V2/hy2tel/2.py
-        
+        python V2/hy2tel/db.py        
 
       
     - name: write

@@ -22,6 +22,7 @@ jobs:
         
         python V2/tuitel/1.py
         python V2/tuitel/2.py
+        python V2/tuitel/db.py
         
 
       

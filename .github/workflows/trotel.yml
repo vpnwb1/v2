@@ -21,6 +21,7 @@ jobs:
       run: |
         python V2/trotel/1.py
         python V2/trotel/2.py
+        python V2/trotel/db.py
         
 
       

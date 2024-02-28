@@ -23,6 +23,7 @@ jobs:
       run: |
         python V2/sstel/1.py
         python V2/sstel/2.py
+        python V2/sstel/db.py
         
 
       

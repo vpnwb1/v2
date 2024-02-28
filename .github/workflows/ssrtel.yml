@@ -22,6 +22,7 @@ jobs:
       run: |
         python V2/ssrtel/1.py
         python V2/ssrtel/2.py
+        python V2/ssrtel/db.py
         
 
       

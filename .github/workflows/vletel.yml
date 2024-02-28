@@ -22,6 +22,7 @@ jobs:
       run: |
         python V2/vletel/1.py
         python V2/vletel/2.py
+        python V2/vletel/db.py
         
 
       

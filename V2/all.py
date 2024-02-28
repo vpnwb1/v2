@@ -20,3 +20,4 @@ os.system('python V2/name/rem.py')
 
 os.system('python V2/dup/dup.py')
 os.system('python V2/dup/rem.py && python V2/dup/rem2.py')
+os.system('python V2/dup/lastdup.py')

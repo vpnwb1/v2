@@ -23,6 +23,7 @@ jobs:
       run: |
         python V2/hytel/1.py
         python V2/hytel/2.py
+        python V2/hytel/db.py
         
 
       
