@@ -1,6 +1,8 @@
 
-hy2://MIAOGE110@149.248.36.197:9692?insecure=1&amp;sni=www.bing.com
+hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&amp;sni=google.com&amp;obfs=salamander&amp;obfs-password=fokaS4id3bretay-7rit
 hy2://dongtaiwang.com@64.110.25.11:33337/?insecure=1&amp;sni=www.bing.com
 hy2://dongtaiwang.com@51.159.77.198:29277/?insecure=1&amp;sni=www.bing.com
 hy2://8c80cb0d-5ec1-48b5-bd6a-7bdc4d2e1d0a@hy2jp01.xqc.best:30002/?sni=hy2jp01.xqc.best
+hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&amp;sni=google.com&amp;obfs=salamander&amp;obfs-password=sTeki1%24re5%218swohopro
+hy2://MIAOGE110@149.248.36.197:9692?insecure=1&amp;sni=www.bing.com
 hy2://
