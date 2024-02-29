@@ -3,3 +3,8 @@ trojan://34cb3afb-5e8c-4225-ba4d-f8f09d079447@7p3h01.abzoones.xyz:36801?allowIns
 trojan://DosCdc1p1r@146.190.105.144:443/?type=tcp&security=tls&sni=m.instagram.com
 trojan://telegram-id-privatevpns@18.135.50.126:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
 trojan://qG9K8AGnn9XH5jUqeFu96g@104.16.123.175:2083/?type=ws&host=cdn13.cdn2cdn.com&path=%2F&security=tls&sni=cdn13.cdn2cdn.com
+trojan://telegram-id-directvpn@13.40.3.71:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.com:443?security=tls&sni=paydiu.com
+trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443?security=tls&sni=pus2.pqjc.buzz&allowInsecure=1&type=tcp
+trojan://27181131b8@62.210.188.19:443?type=tcp&sni=fra1.connecton.surf&allowInsecure=1
+trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp
