@@ -8,3 +8,8 @@ vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.64.26.199:8080?security=none&ty
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@104.22.2.160:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F
 vless://00ec5896-0a05-4508-9a09-02b06cd40bf8@172.67.221.22:8080?security=none&type=ws&host=dash.irpick.sbs&path=%2F
 vless://e29791a9-acd5-432f-ac8a-b8b1c2ca09eb@154.197.75.98:8080?host=chanet24da.amirali0013.monster&path=%40NIM_VPN_ir&security=none&type=ws
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@47.76.77.103:443?path=TG%40ZDYZ2&amp;security=tls&amp;encryption=none&amp;host=cfed.tgzdyz2.top&amp;fp=random&amp;type=ws&amp;sni=cfed.tgzdyz2.top
+vless://410f552d-cb4e-407c-811e-edbfd91a9bfc@190.93.247.155:2096?type=grpc&amp;serviceName=Channel---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN---Telegram---ZED_VPN---ZED_VPN&amp;security=tls&amp;fp=chrome&amp;alpn=h2&amp;sni=Cloud.zed-zoon.tech
+vless://09fe0413-09d4-44ae-9190-a12f02b9141a@198.41.223.24:2053?security=tls&type=ws&sni=mtnfinldefhdisjwidjsmperep0.amoozeshgah-com.com&path=/backup&encryption=none&headerType=none
+vless://bdbd774e-7aea-4525-bd21-1ec734e83b8d@amini1.ddns.net:2083?security=tls&sni=SlalKaal.MOoKoMeilz.homes&alpn=http/1.1&type=ws&path=/lalw&host=PANEl168.MOoKoMeilz.homes&encryption=none
+vless://2cd6ed0f-636e-4e6c-9449-5a263d7a0fa5@18.143.94.44:2053?path=TG%40ZDYZ2&amp;security=tls&amp;encryption=none&amp;host=cfed.tgzdyz2.top&amp;fp=random&amp;type=ws&amp;sni=cfed.tgzdyz2.top
