@@ -8,3 +8,8 @@ trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@kaizen-tw-2.mielink-dns2.co
 trojan://ae7214ed-f476-4407-befa-63b46ea2eb06@23.227.39.39:443?security=tls&sni=pus2.pqjc.buzz&allowInsecure=1&type=tcp
 trojan://27181131b8@62.210.188.19:443?type=tcp&sni=fra1.connecton.surf&allowInsecure=1
 trojan://36d48ba9-7445-4b41-b210-58f4e07a627a@104.31.16.120:443?security=tls&sni=in01.trojanyyds.xyz&type=tcp
+trojan://a8c6bd90-e346-406b-beba-8f9d78f61df0@tiananmen.19890604.day:10807?sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://telegram-id-directvpn@18.170.187.246:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp
+trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls
+trojan://a7819ea2-b833-4b70-a60c-39786109ae33@tank.19890604.day:10830?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140
