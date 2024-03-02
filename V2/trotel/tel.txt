@@ -1,5 +1,5 @@
-trojan://a8c6bd90-e346-406b-beba-8f9d78f61df0@tiananmen.19890604.day:10807?sni=cloudflare.node-ssl.cdn-alibaba.com
-trojan://telegram-id-directvpn@18.170.187.246:22222?alpn=http%2F1.1&headerType=none&security=tls&sni=trojan.miwan.co.uk&type=tcp
-trojan://7b06d22a8a7c764f@211.72.35.158:3389?security=tls
-trojan://a7819ea2-b833-4b70-a60c-39786109ae33@tank.19890604.day:10830?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
-trojan://Hu4CFM0wJ3@38.150.13.140:57063?security=tls&sni=38.150.13.140
+trojan://d56cb8dc-e932-4d57-bd90-1381a1245f90@UNLK2.LVWF8N-HH8E-2300-NMOO-D2E9NAOBEACN.9D8F269F96B25232-759CBB36D6548597.KAUFEN:20352?type=tcp&amp;sni=206.237.5.220&amp;allowInsecure=1
+trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@138.2.85.162:10001?security=tls&sni=sg1.fighting.win
+trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls
+trojan://498e608a-7efa-4108-97f3-665c0f84f43b@other.binguo.link:10837?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
+trojan://@103.239.30.130:9999?security=tls&type=tcp&headerType=none
