@@ -18,3 +18,8 @@ trojan://8861ad96-45d4-42f7-9703-7de363a39a0f@138.2.85.162:10001?security=tls&sn
 trojan://7d223bae-e183-4bf6-89c3-e327b15df490@183.236.51.7:10819?security=tls
 trojan://498e608a-7efa-4108-97f3-665c0f84f43b@other.binguo.link:10837?security=tls&headerType=none&fp=chrome&type=tcp&sni=alibaba-node.cn
 trojan://@103.239.30.130:9999?security=tls&type=tcp&headerType=none
+trojan://3f31817a-e29e-447a-84fa-3af85dd398e7@tank.19890604.day:10833?security=tls&sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=c2mk.ciscocdn1.live&allowInsecure=1&type=tcp
+trojan://140e6043-34e9-4384-82e3-fc7a80cf0eb9@cajs.stablize.top:443?type=tcp&headerType=none
+trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link
+trojan://user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info
