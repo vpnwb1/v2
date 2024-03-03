@@ -1,5 +1,3 @@
-hy2://b46cb204-5849-4b86-852d-8154fb8eb580@142.171.174.206:15090/?insecure=1&amp;sni=www.bing.com
-hy2://f6e4b19a3110d19d@66.135.28.59:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top%0A&amp;obfs=salamander&amp;obfs-password=8c3ce17b
-hy2://fokaS4id3bretay-7rit@78.141.216.41:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=fokaS4id3bretay-7rit
-hy2://sTeki1$re5!8swohopro@78.141.215.68:443/?insecure=1&amp;sni=ELiV2RAY.eliv2.top&amp;obfs=salamander&amp;obfs-password=sTeki1%24re5%218swohopro
-hy2://5f8fcf92-3682-45b2-a451-c62a70ee2de2@123.dcp.cloudns.biz:48935/?sni=123.dcp.cloudns.biz
+hy2://EUNQoJAv2R@158.178.242.37:30232/?insecure=1&amp;sni=www.bing.com
+hy2://2STdMFDwao@43.132.164.103:12721/?insecure=1&amp;sni=www.bing.com
+hy2://LzhkOe6StX@38.60.196.73:34611/?insecure=1&amp;sni=www.bing.com

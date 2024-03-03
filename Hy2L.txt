@@ -1,5 +1,0 @@
-
-hy2://
-hy2://LzhkOe6StX@38.60.196.73:34611/?insecure=1&amp;sni=www.bing.com
-hy2://2STdMFDwao@43.132.164.103:12721/?insecure=1&amp;sni=www.bing.com
-hy2://EUNQoJAv2R@158.178.242.37:30232/?insecure=1&amp;sni=www.bing.com
