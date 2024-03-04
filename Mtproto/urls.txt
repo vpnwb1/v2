@@ -1,5 +1,5 @@
-tg://proxy?server=91.107.238.69&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=195.2.75.205&port=443&secret=ee1603010200010001fc030386e24c3add646e2e79656b74616e65742e636f6d646c2e676f6f676c652e636f6d666172616b61762e636f6d160301020001000100000000000000000000000000000000
-tg://proxy?server=i__--_a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.l.l.l.l.l.l.l.l.l.l.l.l.l.owensind.sbs&port=443&secret=ee00000000000000000000000000000000746865677561726469616e2e636f6d
-tg://proxy?server=23.88.34.24&port=3443&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=185.222.28.246&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q
+tg://proxy?server=nexstar.ir.azinkala.ir.sibelstore.com.yekbarmasrafbazar.com.spardan.ir.microplant.ir.pezeshkna.ir.iproc.ir.tehranps.com.labnoor.ir.aabm.ir.mefa.ir.hodhodkala.com.way2paynetwork.ir.pershiankar.com.sorn_akhabar.ir.kahroba-jewellery.com.shahrasal.marketing&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e696f
+tg://proxy?server=128.140.26.15&port=443&secret=ee1603010200010001fc030386e24c3add33412e6d6574616c2d68616d6d65722e6466
+tg://proxy?server=188.213.0.120&port=443&secret=1603010200010001fc030386e24c3add
+tg://proxy?server=g-----l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l---ll----l---------l.l.l.l.l.l.l.l.l.l.l.l.ghanoononline.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
+tg://proxy?server=88.218.62.45&port=2024&secret=FgMBAgABAAH8AwOG4kw63Q==
