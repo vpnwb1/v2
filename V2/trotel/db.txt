@@ -23,3 +23,8 @@ trojan://4d706727-996f-4427-930d-60f3bd414cf9@203.28.8.28:443?security=tls&sni=c
 trojan://140e6043-34e9-4384-82e3-fc7a80cf0eb9@cajs.stablize.top:443?type=tcp&headerType=none
 trojan://xSYy8KOpEyOjgaNFCeC3a72DS6wBAcz90pDZRRSXnxquIFZlT5433ClYD38aeA@45.64.22.55:443?security=tls&sni=yokoha.freetrade.link
 trojan://user@s7.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s7.mynameismahsa.info
+trojan://LYaOvuNXdQGTZNonhlRUKqOJcKVihzKY@103.168.154.2:889?security=tls&sni=cdn.cjhh.lol&type=tcp
+trojan://faf42aa0a9ad4c1e@5.44.249.50:3306?security=tls
+trojan://7c252929-6ac0-4681-a835-e52af701f151@b22.ntbq.dynu.net:19489?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=b22.ntbq.dynu.net
+trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top&type=tcp&headerType=none
+trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp
