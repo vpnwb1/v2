@@ -28,3 +28,8 @@ trojan://faf42aa0a9ad4c1e@5.44.249.50:3306?security=tls
 trojan://7c252929-6ac0-4681-a835-e52af701f151@b22.ntbq.dynu.net:19489?security=tls&amp;headerType=none&amp;type=tcp&amp;sni=b22.ntbq.dynu.net
 trojan://0cb2cd1f-870b-485c-914a-60aba39eed39@37.48.65.144:443?security=tls&sni=tt6.tjvpn.top&type=tcp&headerType=none
 trojan://09833a6f-4d46-426e-87fe-7793a5489f84@144.24.87.186:46527?security=tls&sni=lovehjq.xyz&type=tcp
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15003?allowInsecure=1&sni=data.steamdownload.top
+trojan://8ddcc360-5223-11ee-bc2d-1239d0255272@104.31.16.14:443?security=tls&sni=fr1.test3.net&type=ws&path=/howdy&host=fr1.test3.net
+trojan://wkmY1R4EcP@45.63.110.20:443/?type=tcp&amp;security=tls&amp;sni=z-v2-003281.kailib.com
+trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47555?security=tls&sni=$$$au02.xiaohouzi.club
