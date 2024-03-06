@@ -1,5 +1,5 @@
-trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15003?allowInsecure=1&sni=data.steamdownload.top
-trojan://8ddcc360-5223-11ee-bc2d-1239d0255272@104.31.16.14:443?security=tls&sni=fr1.test3.net&type=ws&path=/howdy&host=fr1.test3.net
-trojan://wkmY1R4EcP@45.63.110.20:443/?type=tcp&amp;security=tls&amp;sni=z-v2-003281.kailib.com
-trojan://telegram-id-directvpn@34.219.52.119:22222?security=tls&sni=trj.rollingnext.co.uk
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hnm.xiaohouzi.club:47555?security=tls&sni=$$$au02.xiaohouzi.club
+trojan://2e660d96-f2d2-43c0-aa62-bf92edbac0cf@jp08.421421.xyz:20230?security=tls&sni=421421.xyz
+trojan://a8c6bd90-e346-406b-beba-8f9d78f61df0@tank.19890604.day:10828?sni=cloudflare.node-ssl.cdn-alibaba.com
+trojan://wkmY1R4EcP@45.76.228.197:443?security=tls&sni=z-v2-003263.kailib.com
+trojan://fad6dff0-9437-4ff1-ab9f-f96c48efc928@gonggao02.xingyunwu.top:50002?security=tls&sni=xingyunwu.top&type=tcp&headerType=none
+trojan://414dff55-922a-4dc8-b5d3-b6517942b25a@east.eeeeeef998.buzz:15003?security=tls&sni=data.steamdownload.top
