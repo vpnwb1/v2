@@ -53,3 +53,8 @@ ss://93fb79d5-b84f-44de-9588-ee4fd5e8bd1c@mci-iTV2RAY.ddns.net:2087?mode=gun&amp
 ss://YWVzLTI1Ni1jZmI6YXNkS2thc2tKS2Zuc2E=@162.19.204.79:443
 ss://YWVzLTI1Ni1nY206a0RXdlhZWm9UQmNHa0M0QDM4LjEyMS40My43MTo4ODgy
 ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@43.207.82.53:443
+ss://05519058-d2ac-4f28-9e4a-2b2a1386749e@18.170.123.38:22222?path=/telegram-channel-vlessconfig-ws&amp;security=tls&amp;encryption=none&amp;host=telegram-channel-vlessconfig.sohala.uk&amp;type=ws&amp;sni=telegram-channel-vlessconfig.sohala.uk
+ss://YWVzLTI1Ni1nY206UmV4bkJnVTdFVjVBRHhH@134.195.196.68:7002
+ss://YWVzLTI1Ni1nY206ZmFCQW9ENTRrODdVSkc3@142.202.48.83:2376
+ss://YWVzLTI1Ni1jZmI6VTZxbllSaGZ5RG1uOHNnbg@45.89.52.66:9041
+ss://YWVzLTI1Ni1jZmI6YW1hem9uc2tyMDU@54.180.139.224:443
