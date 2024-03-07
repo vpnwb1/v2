@@ -3,92 +3,23 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Random Lines</title>
-    <style>
-        body {
-            font-family: Arial, sans-serif;
-            margin: 0;
-            padding: 20px;
-            background-color: #222;
-            color: #fff;
-        }
-
-        h1 {
-            text-align: center;
-            color: #fff;
-        }
-
-        label {
-            display: block;
-            margin-bottom: 5px;
-        }
-
-        select, button {
-            padding: 10px;
-            margin-bottom: 10px;
-            border-radius: 5px;
-            border: 1px solid #333;
-            background-color: #444;
-            color: #fff;
-            cursor: pointer;
-        }
-
-        select {
-            width: 100%;
-        }
-
-        button:hover {
-            background-color: #007bff;
-        }
-
-        #randomLines {
-            padding: 10px;
-            border-radius: 5px;
-            border: 1px solid #333;
-            background-color: #444;
-            color: #fff;
-        }
-    </style>
+    <title>View Text File</title>
 </head>
 <body>
-    <h1>Random Lines</h1>
-    <label for="fileSelect">Select File:</label>
-    <select id="fileSelect">
-        <option value="Hy2F.txt">Hy2</option>
-        <option value="HysteriaF.txt">Hysteria</option>
-        <option value="mtprotoF.txt">Mtproto</option>
-        <option value="socksF.txt">Sopcks</option>
-        <option value="SsF.txt">Shadowsocks</option>
-        <option value="SsrF.txt">ShadowsocksR</option>
-        <option value="TrojanF.txt">Trojan</option>
-        <option value="TuicF.txt">Tuic</option>
-        <option value="VlessF.txt">Vless</option>
-        <option value="VmessF.txt">Vmess</option>
-    </select>
-    <button onclick="loadRandomLines()">Load Random Lines</button>
-    <div id="randomLines"></div>
+    <div id="fileContent"></div>
 
     <script>
-        function loadRandomLines() {
-            const selectedFile = document.getElementById('fileSelect').value;
-            fetch(selectedFile)
-                .then(response => response.text())
-                .then(text => {
-                    const lines = text.split('\n').filter(line => line.trim() !== '');
-                    const numLines = Math.min(50, lines.length);
-                    const randomLines = [];
-                    const selectedIndices = new Set();
-                    while (randomLines.length < numLines) {
-                        const randomIndex = Math.floor(Math.random() * lines.length);
-                        if (!selectedIndices.has(randomIndex)) {
-                            randomLines.push(lines[randomIndex]);
-                            selectedIndices.add(randomIndex);
-                        }
-                    }
-                    document.getElementById('randomLines').innerText = randomLines.join('\n');
-                })
-                .catch(error => console.error('Error fetching file:', error));
-        }
+        // Fetching the contents of the text file
+        fetch('VmessL.txt.txt')
+            .then(response => response.text())
+            .then(data => {
+                // Displaying the contents in the div
+                document.getElementById('fileContent').innerText = data;
+            })
+            .catch(error => {
+                console.error('Error fetching the file:', error);
+                document.getElementById('fileContent').innerText = 'Error fetching the file. Please try again later.';
+            });
     </script>
 </body>
 </html>
