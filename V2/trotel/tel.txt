@@ -1,5 +1,5 @@
-trojan://hKZkc2frUu@146.190.97.150:443?security=tls&sni=m.zoom.us&type=tcp
-trojan://mainssh-niwrhf87@108.61.171.167:443?security=tls&sni=getgrpc.mainssh.xyz&type=grpc&serviceName=trojangrpc
-trojan://265f092f-418b-30c9-a479-4800fd44dd19mielink@23.145.24.30:443?security=tls
-trojan://c0fde6ac-a07c-4f60-84ae-e7ed4da78a6f@15.204.210.176:80?security=tls&sni=telewebion.com
-trojan://user@s15.mynameismahsa.info:2053?type=ws&amp;security=tls&amp;path=%2F&amp;sni=s15.mynameismahsa.info
+trojan://578547e6-f06f-4a04-8283-4a13a56c9a82@sg08.421421.xyz:20230?security=tls&sni=421421.xyz
+trojan://telegram-id-privatevpns@3.77.100.137:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1
+trojan://66b2ed2e-564f-41af-b204-7e1bfa37453f@188.119.112.242:443
+trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48465?security=tls&sni=$$vuus05.xiaohouzi.club
+trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@pl.mjt001.com:443?security=tls
