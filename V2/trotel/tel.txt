@@ -1,5 +1,5 @@
-trojan://578547e6-f06f-4a04-8283-4a13a56c9a82@sg08.421421.xyz:20230?security=tls&sni=421421.xyz
-trojan://telegram-id-privatevpns@3.77.100.137:22222?security=tls&sni=trojan.miwan.co.uk&type=tcp&alpn=http/1.1
-trojan://66b2ed2e-564f-41af-b204-7e1bfa37453f@188.119.112.242:443
-trojan://64de1de7-e3bb-3dc4-ab04-d1e601e18ac5@hn.xiaohouzi.club:48465?security=tls&sni=$$vuus05.xiaohouzi.club
-trojan://9d3b1e0e-252a-4c67-9628-8b62e77197e7@pl.mjt001.com:443?security=tls
+trojan://d4e41ff772c7fd45@45.11.104.94:3389?security=tls&sni=sbank.ir
+trojan://55d463e81-42a1-492e-83aa-d7a54b7f00a6@bauhinia01.allbluedns.xyz:36206?security=tls
+trojan://telegram-id-directvpn@13.36.68.171:22222?security=tls&alpn=http/1.1&headerType=none&type=tcp&sni=trojan.miwan.co.uk
+trojan://e5f9c753-d401-487f-a77b-1004b7f0f439@64.110.68.224:20152?security=tls&sni=13-231-155-134.nhost.00cdn.com&allowInsecure=1&type=tcp
+trojan://telegram-id-privatevpns@18.192.0.87:22222?security=tls&amp;alpn=http/1.1&amp;headerType=none&amp;type=tcp&amp;sni=trojan.miwan.co.uk
