@@ -58,3 +58,8 @@ vless://82dd3c3c-c292-41f7-955e-e9cc998225f6@ir10hostdl.go-to-happy.click:44270?
 vless://60813b9d-aa0e-4a5c-88b8-ed231058e82a@smi.pp.ua:2096?encryption=none&security=tls&sni=pages.20230619.love&type=ws&path=free_vpn
 vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@141.11.138.114:8053?encryption=none&security=tls&sni=juzibaipiao.5112233.xyz&type=ws&host=juzibaipiao.5112233.xyz&path=%2f%3fed%3d2048
 vless://b9a1c4de-06f5-43cc-aee7-2033dd1921be@check-host.net:8080?path=/join--ServerNett--ServerNett?ed=1048&security=none&encryption=none&host=joinsevernettdd4.xn--78-pv2cvta065cac9302fea377a148g.xyz.&type=ws
+vless://875e0c54-2690-4bfb-a4e5-d44bcf9d2a31@198.41.212.239:2083?encryption=none&security=tls&sni=kyd.cloudns.org&type=ws&path=telegram%F0%9F%87%A8%F0%9F%87%B3%40wangcai_8%2F%3Fed%3D2048
+vless://8fbc8fb6-2c45-427b-9a19-cace42572c70@tanharahehalinekesabrkonimkhodashahdehazyatshodimazizamdelam.cfd:80?encryption=none&security=none&type=ws&host=F23-gBT_vsqC.thebestsangaki.fun&path=%2F
+vless://f775978b-6e22-41a8-ae5e-5f9779e6745f@104.17.47.24:443?security=tls&sni=juzibaipiao.5112233.xyz&type=ws&path=%2F%3Fed
+vless://ec2e8ff7-e794-4ac4-9585-7ad28f188269@216.205.52.85:2053?security=tls&sni=ec2e8ffV2ray7-e794-4ac4-9585-7ad28f188269btoche.pages.dev&type=ws&host=btoche.pages.dev&path=%2F%3Fed%3D2048
+vless://afd27cef-9d30-4250-92f2-9b77b1f7b7a7@104.16.123.175:2052?security=none&type=ws&host=ch3.trans05.fun&path=%2F%3Fed%3D2048
