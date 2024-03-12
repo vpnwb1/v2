@@ -1,5 +1,0 @@
-
-hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&amp;sni=www.bing.com
-hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&amp;sni=bing.com
-hy2://dongtaiwang.com@51.159.77.198:53967/?insecure=1&amp;sni=www.bing.com
-hy2://

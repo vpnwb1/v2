@@ -23,3 +23,6 @@ hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30101/
 hy2://f6e4b19a3110d19d@66.135.28.59:443?insecure=1&sni=www.apple.com
 hy2://205c88dc-b4e8-46e7-8dec-631f67da83d3@jpmiaosu.1234567890spcloud.com:30109/?insecure=1&amp;sni=123.1234567890spcloud.com
 hy2://miaoge110.@170.64.183.54:33939/?insecure=1&amp;sni=www.bing.com
+hy2://dongtaiwang.com@51.159.77.198:53967/?insecure=1&amp;sni=www.bing.com
+hy2://dongtaiwang.com@62.210.103.0:22483/?insecure=1&amp;sni=www.bing.com
+hy2://dongtaiwang.com@51.159.77.153:33390/?insecure=1&amp;sni=bing.com
