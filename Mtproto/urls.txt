@@ -1,5 +1,5 @@
-tg://proxy?server=188.34.180.229&port=7803&secret=FgMBAgABAAH8AwOG4kw63Q
-tg://proxy?server=i___---____a.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.l.ll.l.visitberlin.sbs&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
-tg://proxy?server=78.47.17.247&port=88&secret=FgMBAgABAAH8AwOG4kw63Q==
-tg://proxy?server=143.42.22.225&port=443&secret=eec210ca2aa6d3d81670ed32899925445b626c6f672e636c6f7564666c6172652e636f6d
-tg://proxy?server=89.35.131.34&port=8085&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=irantext.com.rmnp.ir.shopexir.ir.aliteb.ir.banatanama.ir.drbenito.ir.sarayketabqom.ir.huranteb.com.hatol.ir.pasargad4092.ir.holoo_idea.ir.aminjob.ir.sham_imgraphic.ir.karyabi-hesabansadr.ir.elyasalizadeh.ir.drroshanimplant.com.ishkafpw.ir.atrinkala.info&port=443&secret=eeda411655b684fe87abf58ec2235e28167765622e62616c652e6972
+tg://proxy?server=195.2.81.177&port=2026&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=37.27.36.33&port=4443&secret=FgMBAgABAAH8AwOG4kw63Q==
+tg://proxy?server=globalsever2.d.d.d.a.a.a.r.r.r.k.k.k.darkteam.foxsg.lol&port=443&secret=eea3ca965c683e1db2d880782a2698cf3e6b65746161626f6e6c696e652e636f6d
+tg://proxy?server=cloudaaflare.com.nokia.com.co.uk.www.microsoft.com.there_is_no.pldaace_like.locllhost.www.bing.com.count_with_me.cyou.com.now_sudo.rm_rf.ddnss.net.we_are_here.again_to_fight.everyone.i_am.the_inte-et.special_hsz---hsh.d_d_d222.new-dat.spac.o.n-p-n.space&port=443&secret=ee000000000000000000000000000000007765622e62616c652e6972
