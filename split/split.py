@@ -14,7 +14,7 @@ if __name__ == "__main__":
 
 #####
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -31,7 +31,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "SsL.txt"  # Change this to your input file
     output_prefix = "split/ss"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -39,7 +39,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -56,7 +56,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "TrojanL.txt"  # Change this to your input file
     output_prefix = "split/tro"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -64,7 +64,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -81,14 +81,14 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "TuicL.txt"  # Change this to your input file
     output_prefix = "split/tuic"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -105,7 +105,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "VlessL.txt"  # Change this to your input file
     output_prefix = "split/vle"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -113,7 +113,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -130,7 +130,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "VmessL.txt"  # Change this to your input file
     output_prefix = "split/vme"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -139,7 +139,7 @@ if __name__ == "__main__":
 
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -156,7 +156,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "HysteriaL.txt"  # Change this to your input file
     output_prefix = "split/hy"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 
@@ -164,7 +164,7 @@ if __name__ == "__main__":
 ###
 
 
-def split_file(input_file, output_prefix, lines_per_file=100):
+def split_file(input_file, output_prefix, lines_per_file=200):
     with open(input_file, 'r') as f:
         lines = f.readlines()
 
@@ -181,7 +181,7 @@ def split_file(input_file, output_prefix, lines_per_file=100):
 if __name__ == "__main__":
     input_file = "Hy2L.txt"  # Change this to your input file
     output_prefix = "split/hy2"  # Prefix for output files
-    lines_per_file = 100
+    lines_per_file = 200
 
     split_file(input_file, output_prefix, lines_per_file)
 ###
