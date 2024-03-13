@@ -2,9 +2,9 @@ name: sockssend
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "0 10 * * *"
-  - cron: "0 15 * * *"
+  # schedule:
+  # - cron: "0 10 * * *"
+  # - cron: "0 15 * * *"
   
 jobs:
   job1:

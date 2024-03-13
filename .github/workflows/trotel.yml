@@ -2,8 +2,8 @@ name: trotel
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "25 10 * * *"
+  # schedule:
+  # - cron: "25 10 * * *"
 jobs:
   job1:
     runs-on: ubuntu-latest
