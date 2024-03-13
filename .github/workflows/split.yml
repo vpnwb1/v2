@@ -1,4 +1,4 @@
-name: v2get
+name: split
 
 on:
   workflow_dispatch:
