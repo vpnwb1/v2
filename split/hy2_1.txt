@@ -1,0 +1,5 @@
+
+hy2://
+hy2://694cdfcd-1d3d-4dc2-989c-1eb39e851a05@tw.haitunyun.online:48522/
+hy2://3bffc5f5836e914a@91.107.206.98:6060/?insecure=1&amp;obfs=salamander&amp;obfs-password=ff181c1e
+hy2://3bffc5f5836e914a@[2a01:4f8:c17:aefb::1]:6060/?insecure=1&amp;obfs=salamander&amp;obfs-password=ff181c1e

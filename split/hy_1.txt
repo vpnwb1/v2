@@ -1,11 +1,1 @@
-hysteria://150.136.208.17:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://152.70.57.163:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://143.47.43.210:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://130.61.24.219:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://de1.chaoyuenode.sbs:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://fr1.chaoyuenode.sbs:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
 hysteria://51.158.54.46:55396/?insecure=1&amp;peer=youku.com&amp;auth=dongtaiwang.com&amp;upmbps=11&amp;downmbps=55&amp;alpn=h3
-hysteria://nl1.chaoyuenode.sbs:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://de2.chaoyuenode.sbs:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://132.145.22.68:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
-hysteria://141.145.194.153:443/?mport=6000-21000&amp;insecure=1&amp;auth=483f8ef7-8480-490d-92fb-1fc392fb34b6&amp;upmbps=30&amp;downmbps=70&amp;alpn=h3
