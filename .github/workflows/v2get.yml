@@ -2,8 +2,8 @@ name: v2get
 
 on:
   workflow_dispatch:
-  schedule:
-  - cron: "0 5 * * SAT"
+  # schedule:
+  # - cron: "0 5 * * SAT"
 
   
 jobs:
